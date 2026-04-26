@@ -1,0 +1,5 @@
+PROJECT UPDATE: DESCRIPTION + STRUCTURE EXPANSION
+
+This update removes version wording from the public title, improves the repository description, removes the one-command helper TXT from the package, and adds documentation files that explain how the Corrupted Files Project should be expanded safely.
+
+The project should be treated as a bilingual offline research database, not only as a folder of text files. Future records should preserve one-event-per-record structure, evidence labels, Greek/English parity, source trails, and clear separation between documented history and disputed claims.

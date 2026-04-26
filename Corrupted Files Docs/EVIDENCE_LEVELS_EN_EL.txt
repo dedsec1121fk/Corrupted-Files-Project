@@ -1,0 +1,25 @@
+EVIDENCE LEVELS / ΕΠΙΠΕΔΑ ΤΕΚΜΗΡΙΩΣΗΣ
+
+ENGLISH
+
+Documented / Strong: Court records, official government documents, parliamentary reports, declassified files, formal admissions, official statistics, or primary-source archives support the core claim.
+
+Well-reported / Medium: Multiple reliable public reports, investigations, or expert records support the case, but not every detail is proven by primary documents.
+
+Disputed / Mixed: Some facts are documented, but important claims remain contested, unclear, exaggerated, or politically interpreted.
+
+Rumor / Folklore / Psychological case: The story matters because people believed it, feared it, spread it, or used it politically, but the literal claim is not proven.
+
+Unverified: The case is kept only as a cultural or research lead and must not be presented as fact.
+
+ΕΛΛΗΝΙΚΑ
+
+Τεκμηριωμένο / Ισχυρό: Δικαστικά αρχεία, επίσημα κρατικά έγγραφα, κοινοβουλευτικές εκθέσεις, αποχαρακτηρισμένα αρχεία, επίσημες παραδοχές, στατιστικά ή πρωτογενείς πηγές στηρίζουν τον βασικό ισχυρισμό.
+
+Καλά καταγεγραμμένο / Μεσαίο: Πολλές αξιόπιστες δημόσιες αναφορές, έρευνες ή ειδικές πηγές στηρίζουν την υπόθεση, αλλά όχι κάθε λεπτομέρεια αποδεικνύεται από πρωτογενή έγγραφα.
+
+Αμφισβητούμενο / Μικτό: Μερικά γεγονότα είναι τεκμηριωμένα, αλλά σημαντικοί ισχυρισμοί παραμένουν αμφισβητούμενοι, ασαφείς, υπερβολικοί ή πολιτικά ερμηνευμένοι.
+
+Φήμη / Λαογραφία / Ψυχολογική υπόθεση: Η ιστορία έχει σημασία επειδή οι άνθρωποι την πίστεψαν, τη φοβήθηκαν, τη διέδωσαν ή τη χρησιμοποίησαν πολιτικά, αλλά ο κυριολεκτικός ισχυρισμός δεν έχει αποδειχθεί.
+
+Μη επαληθευμένο: Η υπόθεση κρατιέται μόνο ως πολιτισμικό ή ερευνητικό ίχνος και δεν πρέπει να παρουσιάζεται ως γεγονός.
