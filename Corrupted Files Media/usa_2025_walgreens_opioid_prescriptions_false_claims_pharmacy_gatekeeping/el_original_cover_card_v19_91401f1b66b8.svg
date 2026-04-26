@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#552e3b"/><stop offset="1" stop-color="#594673"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<g opacity="0.16"><path d="M0 150 H1200 M0 300 H1200 M0 450 H1200 M0 600 H1200" stroke="#fff" stroke-width="3"/><path d="M150 0 V800 M350 0 V800 M550 0 V800 M750 0 V800 M950 0 V800" stroke="#fff" stroke-width="2"/><circle cx="930" cy="210" r="125" fill="none" stroke="#fff" stroke-width="8"/></g>
+<rect x="45" y="55" width="1110" height="690" fill="#0b0b0f" opacity="0.70"/>
+<text x="60" y="120" fill="#e9e2ff" font-family="monospace" font-size="31" letter-spacing="3">ΠΡΩΤΟΤΥΠΗ ΕΙΚΟΝΑ ΦΑΚΕΛΟΥ</text>
+<text x="60" y="172" fill="#d8ffea" font-family="monospace" font-size="28">USA / 2025 / HEALTH</text>
+<text fill="#ffffff" font-family="monospace" font-size="44" font-weight="700"><tspan x="60" y="230">Walgreens, συνταγές οπιοειδών,</tspan><tspan x="60" y="284">ψευδείς αξιώσεις και φαρμακείο ως</tspan><tspan x="60" y="338">πύλη (2025)</tspan></text>
+<text x="60" y="705" fill="#b7b7c8" font-family="monospace" font-size="24">Not a documentary photo — safe original visual marker.</text>
+</svg>

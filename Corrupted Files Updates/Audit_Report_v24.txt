@@ -1,0 +1,73 @@
+Corrupted Files v24 audit — patched
+====================================
+
+Output type:
+- Offline-Survival-style JSON project with a Termux Python reader.
+- One bilingual JSON record per event.
+- JSON files split for low-end devices.
+- Images stored in Corrupted Files Media and referenced from each JSON record.
+
+Counts:
+- Final bilingual event records: 359
+- Database JSON files: 9
+- Image/media references: 707
+- Duplicate IDs found after rebuild: 0
+- Records missing English article: 0
+- Records missing Greek article: 0
+
+Duplicate cleanup:
+- Duplicate event folder variants were merged into one JSON record.
+- Repeated V20/V21/V22 generic reading text was removed from individual files.
+- The repeated method text exists once in Research_Method_Guide_EN_EL.txt.
+
+Translation cleanup:
+- Every JSON record contains English and Greek article fields.
+- A second Greek cleanup pass translated common case-specific English sentences, evidence labels and categories.
+- Proper names, acronyms, source titles, law names, archive names and URLs may remain English intentionally.
+- Remaining English-heavy Greek entries after URL/proper-source adjustment: 44
+
+Remaining review list:
+- greece_1893_bankruptcy_trikoupis_debt_crisis | ratio 0.32 | Greece bankruptcy and Trikoupis debt crisis
+- greece_1898_international_financial_control_after_war | ratio 0.32 | International Financial Control after the 1897 war
+- greece_1949_makronisos_exile_camp_anti_communist_re_education | ratio 0.31 | Makronisos exile camp and anti-communist re-education
+- greece_1963_lambr_kis_assassination_parastate_network | ratio 0.34 | Lambrakis assassination and parastate network
+- greece_1974_cyprus_coup_invasion_greek_junta_collapse | ratio 0.32 | Cyprus coup, invasion, and Greek junta collapse
+- greece_1999_athens_stock_market_bubble_loss | ratio 0.33 | Athens stock market bubble and public loss
+- greece_2004_vodafone_wiretapping_scandal_athens_olympics_context | ratio 0.31 | Vodafone wiretapping scandal and Athens Olympics context
+- greece_2010_marfin_bank_fire_protest_tragedy | ratio 0.31 | Marfin bank fire and protest tragedy
+- greece_2018_mati_wildfire_command_failures_anger | ratio 0.30 | Mati wildfire command failures and public anger
+- greece_2018_mati_wildfire_disaster_evacuation_failure | ratio 0.30 | Mati wildfire disaster and evacuation failure
+- greece_2020_pandemic_sms_permits_policing_normalization | ratio 0.33 | Greek pandemic SMS permits, policing, and normalization
+- greece_2021_dimitris_lignadis_cultural_power_networks | ratio 0.31 | Dimitris Lignadis case and cultural power networks
+- greece_2022_pispirigou_child_deaths_media_trial_problem | ratio 0.33 | Pispirigou child deaths media trial problem
+- greece_2025_echr_greece_pushback_rulings_border_accountability | ratio 0.31 | ECHR Greece pushback rulings and border accountability
+- usa_1882_chinese_exclusion_act_identity_surveillance | ratio 0.33 | Chinese Exclusion Act enforcement and identity surveillance
+- usa_1890_wounded_knee_massacre | ratio 0.35 | Wounded Knee Massacre
+- usa_1914_ludlow_massacre_company_state_violence | ratio 0.32 | Ludlow Massacre and company-state violence
+- usa_1919_palmer_raids_first_red_scare | ratio 0.32 | Palmer Raids and the first Red Scare
+- usa_1946_guatemala_syphilis_experiments_us_health | ratio 0.33 | Guatemala syphilis experiments by U.S. public-health researchers
+- usa_1951_project_artichoke_interrogation_research | ratio 0.32 | Project ARTICHOKE and interrogation research
+- usa_1954_guatemala_coup_united_fruit_interests | ratio 0.32 | Guatemala coup and United Fruit interests
+- usa_1964_fbi_mlk_blackmail_letter_surveillance | ratio 0.31 | FBI surveillance of Martin Luther King Jr. and blackmail letter
+- usa_1964_gulf_tonkin_incident_war_escalation | ratio 0.30 | Gulf of Tonkin incident and war escalation
+- usa_1967_uss_liberty_attack_unanswered_questions | ratio 0.34 | USS Liberty attack and unanswered trust questions
+- usa_1971_attica_prison_uprising_state_retaking | ratio 0.31 | Attica prison uprising and state retaking
+- usa_1971_pentagon_papers_secret_history_vietnam | ratio 0.31 | Pentagon Papers and the secret history of Vietnam
+- usa_1975_church_committee_domestic_spying_revelations | ratio 0.32 | Church Committee domestic spying revelations
+- usa_1975_church_committee_intelligence_oversight | ratio 0.31 | Church Committee intelligence oversight revelations
+- usa_1991_rodney_king_beating_lapd_accountability | ratio 0.31 | Rodney King beating and LAPD accountability
+- usa_1996_cia_dark_alliance_crack_cocaine_controversy | ratio 0.32 | CIA Dark Alliance και διαμάχη για crack κοκαΐνη
+- usa_2004_abu_ghraib_detainee_abuse_command_responsibility | ratio 0.32 | Abu Ghraib detainee abuse and command responsibility
+- usa_2010_citizens_united_dark_money_politics | ratio 0.30 | Citizens United and dark money politics
+- usa_2013_snowden_disclosures_prism_bulk_collection | ratio 0.32 | Snowden disclosures, PRISM, and bulk collection
+- usa_2014_ferguson_police_shooting_municipal_fines_system | ratio 0.31 | Ferguson police shooting and municipal fines system
+- usa_2016_cambridge_analytica_data_persuasion_panic | ratio 0.31 | Cambridge Analytica and data persuasion panic
+- usa_2019_boeing_737_max_crashes_certification_failures | ratio 0.31 | Boeing 737 MAX crashes and certification failures
+- usa_2020_covid_nursing_home_deaths_policy_accountability | ratio 0.32 | COVID nursing home deaths and policy accountability
+- usa_2021_january_6_capitol_attack_accountability_record | ratio 0.33 | January 6 Capitol attack accountability record
+- usa_2022_roe_v_wade_overturned_data_privacy_fears | ratio 0.31 | Roe v Wade overturned and data privacy fears
+- usa_2023_ohio_train_derailment_toxic_risk_communication | ratio 0.31 | Ohio train derailment and toxic-risk communication
+- usa_2024_baltimore_key_bridge_collapse_infrastructure_shock | ratio 0.30 | Baltimore Key Bridge collapse and infrastructure shock
+- usa_2024_change_healthcare_cyberattack_medical_infrastructure_fragility | ratio 0.32 | Change Healthcare cyberattack and medical infrastructure fragility
+- usa_2024_corporate_rent_algorithms_housing_manipulation_claims | ratio 0.33 | Corporate rent algorithms and housing manipulation claims
+- usa_2025_federal_anti_corruption_cases_in_local_government | ratio 0.34 | Federal anti-corruption cases and public trust in local government

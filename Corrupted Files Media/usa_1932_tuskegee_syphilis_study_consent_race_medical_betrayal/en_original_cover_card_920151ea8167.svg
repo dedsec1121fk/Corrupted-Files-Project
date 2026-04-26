@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#3b245e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <rect x="42" y="42" width="1116" height="591" fill="none" stroke="#ffffff" stroke-width="3" opacity="0.6"/>
+  <text x="600" y="250" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="44" fill="#ffffff">Tuskegee syphilis study, consent, race, and medical betrayal (1932–1972)</text>
+  <text x="600" y="340" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" fill="#f0f0f0">USA / expanded v17 case file</text>
+  <text x="600" y="455" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" fill="#cfcfcf">Original cover card - illustrative, not evidence</text>
+</svg>

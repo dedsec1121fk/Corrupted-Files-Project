@@ -1,0 +1,14 @@
+Corrupted Files — Research Method Guide / Οδηγός Έρευνας
+===========================================================
+
+English
+-------
+This project stores one event per JSON record. It separates confirmed public record, official findings, court records, serious allegations, contested interpretations and unsupported claims. A useful reader should ask: What is proven? Who benefited? Who was harmed? What records exist? What is still missing? Could the event be explained by corruption, incompetence, institutional self-protection, panic, or ordinary policy failure?
+
+Do not treat every file as the same evidence level. A declassified program, a court ruling, a parliamentary report, a government database leak, a disaster investigation and an internet conspiracy claim are different types of evidence. The project keeps them together for offline study, but the labels matter.
+
+Greek / Ελληνικά
+----------------
+Το project αποθηκεύει κάθε γεγονός ως ξεχωριστή εγγραφή JSON. Ξεχωρίζει το επιβεβαιωμένο δημόσιο αρχείο, τις επίσημες διαπιστώσεις, τις δικαστικές αποφάσεις, τις σοβαρές καταγγελίες, τις αμφισβητούμενες ερμηνείες και τους ατεκμηρίωτους ισχυρισμούς. Ο σωστός αναγνώστης ρωτά: Τι αποδεικνύεται; Ποιος ωφελήθηκε; Ποιος ζημιώθηκε; Ποια έγγραφα υπάρχουν; Τι λείπει ακόμη; Μπορεί το γεγονός να εξηγηθεί από διαφθορά, ανικανότητα, θεσμική αυτοπροστασία, πανικό ή απλή αποτυχία πολιτικής;
+
+Δεν έχουν όλα τα αρχεία το ίδιο επίπεδο τεκμηρίωσης. Ένα αποχαρακτηρισμένο πρόγραμμα, μια δικαστική απόφαση, μια κοινοβουλευτική έκθεση, μια διαρροή κρατικής βάσης, μια έρευνα δυστυχήματος και μια θεωρία του διαδικτύου είναι διαφορετικά είδη στοιχείων. Το project τα κρατά μαζί για offline μελέτη, αλλά οι ετικέτες τεκμηρίωσης έχουν σημασία.
