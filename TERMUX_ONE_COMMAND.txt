@@ -1,1 +1,0 @@
-mkdir -p ~/DedSec/Scripts && unzip -o "/storage/emulated/0/Download/Corrupted_Files_Project_v24_JSON_Reader.zip" -d ~/DedSec/Scripts && cd ~/DedSec/Scripts/Corrupted_Files_Project_v24_JSON_Reader && python "Corrupted Files.py"
