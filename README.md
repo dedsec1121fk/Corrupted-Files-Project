@@ -1,41 +1,150 @@
-# Corrupted Files Project
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dedsec1121fk/dedsec1121fk.github.io/47ad8e5cbaaee04af552ae6b90edc49cd75b324b/Assets/Images/Logos/Black%20Purple%20Butterfly%20Logo.jpeg" alt="DedSec Project Logo" width="150"/>
+  <h1>Corrupted Files Project</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Purpose-Offline%20Research-purple.svg" alt="Purpose: Offline Research">
+    <img src="https://img.shields.io/badge/Platform-Android%20(Termux)-brightgreen.svg" alt="Platform: Android (Termux)">
+    <img src="https://img.shields.io/badge/Language-Python-yellow.svg" alt="Language: Python">
+    <img src="https://img.shields.io/badge/Database-JSON-blue.svg" alt="Database: JSON">
+  </p>
+</div>
 
-Corrupted Files Project is an offline bilingual research database and reader for cases where public trust breaks: state corruption, intelligence operations, institutional failure, propaganda, surveillance, public scandals, disasters, cover-up allegations, social-control systems, unexplained public mysteries, and documented abuses of power.
+---
 
-The project is designed to work like the Offline Survival database style: everything important is stored locally, split into JSON files, and readable from a simple Termux Python launcher without root, pip, internet, or a server. The goal is not to force one conclusion on the reader. The goal is to collect each case in a structured way so someone can read the background, timeline, claims, evidence level, source trail, competing explanations, and impact before deciding what makes sense.
+Corrupted Files Project is an offline bilingual research database and Termux reader for cases where public trust breaks: corruption, intelligence operations, state failure, propaganda, surveillance, institutional negligence, public scandals, disasters, cover-up allegations, unexplained public mysteries, and documented abuse of power.
 
-## What this project contains
+The project follows the same idea as the Offline Survival database style: the important material is stored locally in split JSON files, loaded by a simple Python launcher, and readable without root, pip packages, internet, or a server. It is built for Android phones and low-end devices, while still keeping long dossiers, proof sections, source trails, reading reports, and local images/proof cards.
 
-- `Corrupted Files.py` — the offline Termux/no-root Python reader.
-- `Corrupted Files Database/` — split bilingual JSON database files with English and Greek fields.
-- `Corrupted Files Media/` — local images, original SVG cover cards, and proof-map cards referenced by database records.
-- `Corrupted Files Updates/` — audit reports, changelogs, and expansion notes.
-- `Corrupted Files Docs/` — explanation files for evidence levels, translation rules, structure, and future expansion.
-- `Corrupted Files Exports/` — created by the reader when you export cases into TXT files.
+## ▶️ How to Download and Open in Termux
 
-## How the reader works
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
 
-The launcher loads every JSON database file, combines the records in memory, and lets you search or browse by country and year. Each record is meant to be one event/case, not a random paragraph dump. A good record should include a clear title, country, year, category, evidence level, long article text, proof dossier, source trail, reading report, and local media references.
+Download the repository ZIP from GitHub, or place the project ZIP in your internal storage **Downloads** folder. The ZIP should contain the full project folder.
 
-## Evidence philosophy
+Open **Termux** and run:
 
-The database separates documented cases from disputed claims. Official documents, court records, parliamentary records, government archives, public investigations, and direct institutional admissions should be treated as stronger evidence. Rumors, folklore, supernatural claims, psychological panic, and conspiracy narratives should be labeled as weaker or disputed unless stronger records exist.
+```bash
+mkdir -p ~/DedSec/Scripts && unzip -o "/storage/emulated/0/Download/Corrupted_Files_Project.zip" -d ~/DedSec/Scripts
+```
 
-This matters because a database about corruption becomes useless if every story is treated the same. A proven court case, a declassified intelligence program, a documented public-health scandal, and an internet rumor are not equal. They can all be included, but they must be labeled honestly.
-
-## Translation philosophy
-
-English and Greek should stay fully parallel. Greek text should not be a broken machine-style copy of English. Proper names, agency names, archive names, acronyms, source titles, URLs, and legal case names may remain in English when translating them would reduce clarity.
-
-## Termux use
+Then open the project:
 
 ```bash
 cd ~/DedSec/Scripts/Corrupted_Files_Project
 python "Corrupted Files.py"
 ```
 
-No pip packages are required.
+### What the app can do
 
-## Repository purpose
+- Choose English or Greek.
+- Search all cases.
+- Browse by country and year.
+- Display all available case folders grouped by year.
+- Open available images/SVG cards with the Android gallery or a file app when Termux can launch them.
+- Read the full article, proof dossier, source trail, and reading report for every record.
+- Export all cases into TXT files for offline reading.
 
-This repository is meant to become the main public home of the Corrupted Files Project. Future updates should add more cases, improve existing records, add better media, clean duplicates, improve Greek parity, and keep the database usable offline on Android phones.
+### Important notes
+
+- No pip packages are required.
+- The database is local and offline.
+- The project includes original written dossiers and safe generated SVG media cards.
+- News photos or copyrighted articles are not copied into the project.
+- Evidence levels matter. A court record, an official archive, a declassified file, a parliamentary record, a regulator report, and a rumor are not equal.
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Κατέβασε το ZIP του repository από το GitHub ή βάλε το project ZIP στον φάκελο **Downloads** της εσωτερικής μνήμης. Το ZIP πρέπει να περιέχει ολόκληρο τον φάκελο του project.
+
+Άνοιξε το **Termux** και τρέξε:
+
+```bash
+mkdir -p ~/DedSec/Scripts && unzip -o "/storage/emulated/0/Download/Corrupted_Files_Project.zip" -d ~/DedSec/Scripts
+```
+
+Μετά άνοιξε το project:
+
+```bash
+cd ~/DedSec/Scripts/Corrupted_Files_Project
+python "Corrupted Files.py"
+```
+
+### Τι μπορεί να κάνει η εφαρμογή
+
+- Επιλογή Αγγλικών ή Ελληνικών.
+- Αναζήτηση σε όλες τις υποθέσεις.
+- Περιήγηση ανά χώρα και έτος.
+- Εμφάνιση όλων των διαθέσιμων φακέλων υποθέσεων ανά έτος.
+- Άνοιγμα διαθέσιμων εικόνων/SVG καρτών με gallery ή file app, όταν το Termux μπορεί να τις ανοίξει.
+- Ανάγνωση πλήρους άρθρου, φακέλου τεκμηρίωσης, πηγών και αναφοράς ανάγνωσης για κάθε εγγραφή.
+- Εξαγωγή όλων των υποθέσεων σε TXT για offline ανάγνωση.
+
+### Σημαντικές σημειώσεις
+
+- Δεν απαιτούνται pip packages.
+- Η βάση λειτουργεί τοπικά και offline.
+- Το project περιέχει πρωτότυπα γραμμένα dossiers και ασφαλείς generated SVG κάρτες.
+- Δεν αντιγράφονται copyrighted άρθρα ή φωτογραφίες ειδησεογραφικών πρακτορείων.
+- Τα επίπεδα τεκμηρίωσης έχουν σημασία. Δικαστικό αρχείο, επίσημο αρχείο, αποχαρακτηρισμένο έγγραφο, κοινοβουλευτικό υλικό, έκθεση αρχής και φήμη δεν είναι το ίδιο πράγμα.
+
+</details>
+
+---
+
+## 📁 Project Structure / Δομή Project
+
+```text
+Corrupted_Files_Project/
+├── Corrupted Files.py
+├── Corrupted Files Database/
+├── Corrupted Files Media/
+├── Corrupted Files Updates/
+├── Corrupted Files Docs/
+└── Corrupted Files Exports/   # created after export
+```
+
+## 🧠 Research Philosophy / Φιλοσοφία Έρευνας
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+The project is not designed to force one conclusion. It is designed to make each case readable enough that the user can decide what makes sense. Every case should separate:
+
+- confirmed facts
+- allegations
+- official explanations
+- disputed claims
+- public impact
+- source trails
+- unanswered questions
+
+The database includes both heavily documented cases and weaker/disputed public narratives, but they must be labeled honestly. This is important because a corruption database becomes useless if everything is treated with the same confidence.
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Το project δεν είναι φτιαγμένο για να επιβάλλει ένα συμπέρασμα. Είναι φτιαγμένο ώστε κάθε υπόθεση να είναι αρκετά ξεκάθαρη για να αποφασίζει ο αναγνώστης τι βγάζει νόημα. Κάθε υπόθεση πρέπει να ξεχωρίζει:
+
+- επιβεβαιωμένα γεγονότα
+- καταγγελίες
+- επίσημες εξηγήσεις
+- αμφισβητούμενους ισχυρισμούς
+- δημόσια επίδραση
+- πηγές
+- αναπάντητα ερωτήματα
+
+Η βάση περιέχει και πολύ τεκμηριωμένες υποθέσεις και πιο αδύναμες/αμφισβητούμενες δημόσιες αφηγήσεις, αλλά πρέπει να σημαίνονται με ειλικρίνεια. Αυτό είναι σημαντικό γιατί μια βάση για διαφθορά γίνεται άχρηστη αν όλα παρουσιάζονται με την ίδια βεβαιότητα.
+
+</details>
+
+## ✅ Current Expansion Focus
+
+This version adds more records and deeper detail around Greece and USA cases, including **Giorgos Karaivaz**, **Tempi**, surveillance, police failures, state violence, public disasters, intelligence files, financial scandals, and institutional accountability cases.
+
+Η παρούσα έκδοση προσθέτει περισσότερες εγγραφές και βαθύτερη λεπτομέρεια για υποθέσεις Ελλάδας και ΗΠΑ, συμπεριλαμβανομένων **Γιώργου Καραϊβάζ**, **Τεμπών**, παρακολουθήσεων, αστυνομικών αποτυχιών, κρατικής βίας, δημόσιων καταστροφών, αρχείων υπηρεσιών πληροφοριών, οικονομικών σκανδάλων και θεσμικής λογοδοσίας.

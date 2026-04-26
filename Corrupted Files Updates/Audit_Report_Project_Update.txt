@@ -1,0 +1,21 @@
+Corrupted Files Project — Project Update Audit
+
+Records: 390
+Database JSON files: 12
+Media references: 769
+Duplicate IDs: 0
+Missing English core fields: 0
+Missing Greek core fields: 0
+Exact repeated English article bodies: 0
+
+Changes:
+- Added reader option to display all folders grouped by year.
+- Added image opening from the case screen using Android/Termux open commands.
+- Rebuilt README as bilingual English/Greek documentation, inspired by the Sponsors-Only README layout.
+- Added new detailed case files/records, including Giorgos Karaivaz and Tempi.
+- Expanded existing records with continuity context.
+- Added safe generated SVG media/proof cards for new or missing cases.
+- Kept the project in Offline-Survival-style JSON reader format.
+
+Translation note:
+All core records now have English and Greek fields. Some agency names, acronyms, archive names, URLs, and legal case names intentionally remain in English where that is clearer.

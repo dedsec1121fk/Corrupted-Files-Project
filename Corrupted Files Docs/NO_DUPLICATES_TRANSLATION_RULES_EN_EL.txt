@@ -1,0 +1,13 @@
+EN:
+Rules used in this pass:
+1. Record IDs are scanned and duplicate IDs are removed.
+2. Each new record has English and Greek title, article, proof dossier, source trail, and reading report.
+3. Repeated boilerplate was avoided for new cases; common headings may repeat because they are the database format, but body text is case-specific.
+4. Proper names, agency names, archive names, URLs, and legal names may remain in English where translation would reduce clarity.
+
+EL:
+Κανόνες αυτής της έκδοσης:
+1. Τα record IDs ελέγχονται και τα διπλά IDs αφαιρούνται.
+2. Κάθε νέα εγγραφή έχει αγγλικό και ελληνικό τίτλο, άρθρο, φάκελο τεκμηρίωσης, πηγές και αναφορά ανάγνωσης.
+3. Αποφεύχθηκε επαναλαμβανόμενο boilerplate στα νέα cases· οι κοινές επικεφαλίδες μπορεί να επαναλαμβάνονται επειδή είναι η δομή της βάσης, αλλά το σώμα είναι ειδικό για κάθε υπόθεση.
+4. Ονόματα, υπηρεσίες, αρχεία, URLs και νομικοί όροι μπορούν να μείνουν στα Αγγλικά όταν η μετάφραση μειώνει την καθαρότητα.

@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # Corrupted Files.py — Offline JSON reader for Termux/no-root Python.
-# Uses only Python standard library.
+# Standard library only.
 
-import json, os, sys, textwrap, random, re
+import json, os, sys, textwrap, random, re, subprocess
 from pathlib import Path
 
 APP_DIR = Path(__file__).resolve().parent
 DB_DIR = APP_DIR / "Corrupted Files Database"
+MEDIA_DIR = APP_DIR / "Corrupted Files Media"
 EXPORT_DIR = APP_DIR / "Corrupted Files Exports"
 EXPORT_DIR.mkdir(exist_ok=True)
 
@@ -15,21 +16,33 @@ UI = {
         "title":"Corrupted Files Offline Reader",
         "loading":"Loading JSON database...",
         "loaded":"Loaded {n} cases.",
-        "menu":"\n[1] Search\n[2] Browse by country/year\n[3] Random case\n[4] Export all cases to TXT\n[5] Database stats\n[0] Exit\nChoice: ",
+        "menu":"\n[1] Search\n[2] Browse by country/year\n[3] Display all folders by year\n[4] Random case\n[5] Export all cases to TXT\n[6] Database stats\n[0] Exit\nChoice: ",
         "search":"Search text: ","none":"No results.","select":"Select number, Enter to go back: ",
         "country":"Country (USA/Greece/all): ","year":"Year or all: ","back":"Press Enter to continue...",
         "exported":"Exported to: {p}","lang":"Choose language / Διάλεξε γλώσσα: [1] English  [2] Ελληνικά : ",
-        "images":"Images:","sources":"Source trail / proof:","invalid":"Invalid choice.","stats":"Cases: {n}\nYears: {a}-{b}\nCountries: {c}\nDatabase files: {d}"
+        "images":"Images:","sources":"Source trail / proof:","invalid":"Invalid choice.",
+        "stats":"Cases: {n}\nYears: {a}-{b}\nCountries: {c}\nDatabase files: {d}\nMedia references: {m}",
+        "openimg":"Open image number with gallery/app, or Enter to skip: ",
+        "opening":"Opening: {p}",
+        "openfail":"Could not open automatically. Path is printed above. In Termux, install/open Termux:API or use a file manager.",
+        "folders":"Available folders by year",
+        "case_count":"{n} case(s)"
     },
     "el": {
         "title":"Corrupted Files Offline Reader",
         "loading":"Φόρτωση βάσης JSON...",
         "loaded":"Φορτώθηκαν {n} υποθέσεις.",
-        "menu":"\n[1] Αναζήτηση\n[2] Περιήγηση ανά χώρα/έτος\n[3] Τυχαία υπόθεση\n[4] Εξαγωγή όλων σε TXT\n[5] Στατιστικά βάσης\n[0] Έξοδος\nΕπιλογή: ",
+        "menu":"\n[1] Αναζήτηση\n[2] Περιήγηση ανά χώρα/έτος\n[3] Εμφάνιση όλων των φακέλων ανά έτος\n[4] Τυχαία υπόθεση\n[5] Εξαγωγή όλων σε TXT\n[6] Στατιστικά βάσης\n[0] Έξοδος\nΕπιλογή: ",
         "search":"Κείμενο αναζήτησης: ","none":"Δεν βρέθηκαν αποτελέσματα.","select":"Διάλεξε αριθμό, Enter για πίσω: ",
         "country":"Χώρα (ΗΠΑ/Ελλάδα/all): ","year":"Έτος ή all: ","back":"Πάτα Enter για συνέχεια...",
         "exported":"Έγινε εξαγωγή στο: {p}","lang":"Choose language / Διάλεξε γλώσσα: [1] English  [2] Ελληνικά : ",
-        "images":"Εικόνες:","sources":"Πηγές / τεκμηρίωση:","invalid":"Λάθος επιλογή.","stats":"Υποθέσεις: {n}\nΈτη: {a}-{b}\nΧώρες: {c}\nΑρχεία βάσης: {d}"
+        "images":"Εικόνες:","sources":"Πηγές / τεκμηρίωση:","invalid":"Λάθος επιλογή.",
+        "stats":"Υποθέσεις: {n}\nΈτη: {a}-{b}\nΧώρες: {c}\nΑρχεία βάσης: {d}\nΑναφορές media: {m}",
+        "openimg":"Άνοιγμα εικόνας με αριθμό σε gallery/app ή Enter για παράλειψη: ",
+        "opening":"Άνοιγμα: {p}",
+        "openfail":"Δεν άνοιξε αυτόματα. Το path φαίνεται παραπάνω. Στο Termux μπορείς να χρησιμοποιήσεις Termux:API ή file manager.",
+        "folders":"Διαθέσιμοι φάκελοι ανά έτος",
+        "case_count":"{n} υπόθεση/υποθέσεις"
     }
 }
 
@@ -46,7 +59,13 @@ def load_db():
             entries.extend(data.get('entries', []))
         except Exception as e:
             print("Failed to read", p, e)
-    return entries
+    # dedupe in memory, preserving first copy
+    out=[]; seen=set()
+    for e in entries:
+        eid=e.get('id')
+        if eid and eid not in seen:
+            seen.add(eid); out.append(e)
+    return out
 
 def get(e, field, lang):
     val=e.get(field, '')
@@ -63,6 +82,48 @@ def wrap(s, width=88):
         else:
             out.extend(textwrap.wrap(para, width=width, replace_whitespace=False, drop_whitespace=True))
     return '\n'.join(out)
+
+def media_path(path_text):
+    p=Path(str(path_text))
+    if p.is_absolute():
+        return p
+    # JSON paths are usually "Corrupted Files Media/..."
+    return APP_DIR / p
+
+def open_media(path_text):
+    p=media_path(path_text)
+    if not p.exists():
+        print("Missing:", p)
+        return False
+    cmds=[
+        ["termux-open", str(p)],
+        ["am", "start", "-a", "android.intent.action.VIEW", "-d", "file://"+str(p)],
+        ["xdg-open", str(p)]
+    ]
+    for cmd in cmds:
+        try:
+            subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=6)
+            return True
+        except Exception:
+            pass
+    return False
+
+def show_images(e, lang):
+    imgs=e.get('images') or []
+    if not imgs:
+        return
+    print('\n'+'-'*90)
+    print(UI[lang]['images'])
+    for i, im in enumerate(imgs, 1):
+        p=media_path(im)
+        status="OK" if p.exists() else "MISSING"
+        print(f"[{i}] {im} ({status})")
+    choice=input(UI[lang]['openimg']).strip()
+    if choice.isdigit() and 1 <= int(choice) <= len(imgs):
+        p=media_path(imgs[int(choice)-1])
+        print(UI[lang]['opening'].format(p=p))
+        if not open_media(imgs[int(choice)-1]):
+            print(UI[lang]['openfail'])
 
 def show_case(e, lang):
     clear()
@@ -86,11 +147,7 @@ def show_case(e, lang):
         if proof: print('\n[PROOF]\n'+wrap(proof))
         if sources: print('\n[SOURCES]\n'+wrap(sources))
         if report: print('\n[READING REPORT]\n'+wrap(report))
-    imgs=e.get('images') or []
-    if imgs:
-        print('\n'+'-'*90)
-        print(UI[lang]['images'])
-        for im in imgs: print(' -', im)
+    show_images(e, lang)
     input('\n'+UI[lang]['back'])
 
 def export_case(e, lang, folder=EXPORT_DIR):
@@ -107,7 +164,7 @@ def export_case(e, lang, folder=EXPORT_DIR):
     p.write_text('\n'.join(parts),encoding='utf-8')
     return p
 
-def list_results(results, lang, limit=30):
+def list_results(results, lang, limit=60):
     for i,e in enumerate(results[:limit],1):
         print(f"[{i}] {e.get('year')} | {get(e,'country',lang)} | {get(e,'title',lang)[:90]}")
     if len(results)>limit: print(f"... {len(results)-limit} more")
@@ -123,7 +180,7 @@ def search(entries, lang):
     if not res: print(UI[lang]['none']); input(UI[lang]['back']); return
     list_results(res,lang)
     s=input(UI[lang]['select']).strip()
-    if s.isdigit() and 1<=int(s)<=min(30,len(res)): show_case(res[int(s)-1],lang)
+    if s.isdigit() and 1<=int(s)<=min(60,len(res)): show_case(res[int(s)-1],lang)
 
 def browse(entries, lang):
     c=input(UI[lang]['country']).strip().lower()
@@ -131,19 +188,37 @@ def browse(entries, lang):
     res=[]
     for e in entries:
         ce=get(e,'country','en').lower(); cel=get(e,'country','el').lower()
-        okc=(not c or c=='all' or c in ce or c in cel or (c in ['ηπα','hpa'] and ce=='usa'))
+        okc=(not c or c=='all' or c in ce or c in cel or (c in ['ηπα','hpa','usa'] and ce=='usa') or (c in ['greece','ελλάδα','ελλαδα'] and ce=='greece'))
         oky=(not y or y=='all' or str(e.get('year'))==y)
         if okc and oky: res.append(e)
-    res.sort(key=lambda e:(e.get('year',0),get(e,'title',lang)))
+    res.sort(key=lambda e:(int(e.get('year',0)) if str(e.get('year','')).isdigit() else 0,get(e,'title',lang)))
     if not res: print(UI[lang]['none']); input(UI[lang]['back']); return
-    list_results(res,lang,50)
+    list_results(res,lang,80)
     s=input(UI[lang]['select']).strip()
-    if s.isdigit() and 1<=int(s)<=min(50,len(res)): show_case(res[int(s)-1],lang)
+    if s.isdigit() and 1<=int(s)<=min(80,len(res)): show_case(res[int(s)-1],lang)
+
+def display_folders_by_year(entries, lang):
+    clear()
+    print(UI[lang]['folders'])
+    print('='*90)
+    by={}
+    for e in entries:
+        by.setdefault(e.get('year','Unknown'),[]).append(e)
+    for year in sorted(by, key=lambda x: int(x) if str(x).isdigit() else 999999):
+        cases=sorted(by[year], key=lambda e:(get(e,'country',lang), get(e,'title',lang)))
+        print(f"\n{year} — {UI[lang]['case_count'].format(n=len(cases))}")
+        print('-'*90)
+        for e in cases:
+            folder=e.get('id','')
+            print(f"  [{get(e,'country',lang)}] {folder}")
+            print(f"      {get(e,'title',lang)}")
+    input('\n'+UI[lang]['back'])
 
 def stats(entries, lang, db_files):
     years=[int(e.get('year')) for e in entries if str(e.get('year')).isdigit()]
     countries=sorted(set(get(e,'country',lang) for e in entries))
-    print(UI[lang]['stats'].format(n=len(entries),a=min(years),b=max(years),c=', '.join(countries),d=db_files))
+    media=sum(len(e.get('images') or []) for e in entries)
+    print(UI[lang]['stats'].format(n=len(entries),a=min(years),b=max(years),c=', '.join(countries),d=db_files,m=media))
     input(UI[lang]['back'])
 
 def main():
@@ -158,13 +233,14 @@ def main():
         choice=input(UI[lang]['menu']).strip()
         if choice=='1': search(entries,lang)
         elif choice=='2': browse(entries,lang)
-        elif choice=='3': show_case(random.choice(entries),lang)
-        elif choice=='4':
+        elif choice=='3': display_folders_by_year(entries,lang)
+        elif choice=='4': show_case(random.choice(entries),lang)
+        elif choice=='5':
             folder=EXPORT_DIR / ('English' if lang=='en' else 'Greek')
             folder.mkdir(parents=True,exist_ok=True)
             for e in entries: export_case(e,lang,folder)
             print(UI[lang]['exported'].format(p=folder)); input(UI[lang]['back'])
-        elif choice=='5': stats(entries,lang,db_files)
+        elif choice=='6': stats(entries,lang,db_files)
         elif choice=='0': break
         else: print(UI[lang]['invalid'])
 

@@ -1,26 +1,12 @@
 {
-  "project": "Corrupted Files",
-  "version": "v24 JSON Reader rebuild",
-  "generated_from": [
-    "Corrupted_Files_EN_v23_mega_proof_expansion.zip",
-    "Corrupted_Files_EL_v23_mega_proof_expansion.zip"
-  ],
-  "entry_count": 359,
-  "media_file_count": 707,
-  "database_files": [
-    "Corrupted Files Database 1.json",
-    "Corrupted Files Database 2.json",
-    "Corrupted Files Database 3.json",
-    "Corrupted Files Database 4.json",
-    "Corrupted Files Database 5.json",
-    "Corrupted Files Database 6.json",
-    "Corrupted Files Database 7.json",
-    "Corrupted Files Database 8.json",
-    "Corrupted Files Database 9.json"
-  ],
+  "project": "Corrupted Files Project",
+  "database_files": 12,
+  "records": 390,
+  "media_references": 769,
   "languages": [
     "en",
     "el"
   ],
-  "notes": "One bilingual JSON record per event. Duplicate folders were merged. Globally repeated boilerplate paragraphs were removed from case bodies and moved into the research guide. Greek case-specific phrase cleanup pass applied after audit."
+  "root_folder": "Corrupted_Files_Project",
+  "notes": "No separate safe command TXT is included. Use README instructions."
 }
