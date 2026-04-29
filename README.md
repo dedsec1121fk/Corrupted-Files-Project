@@ -116,6 +116,12 @@ Corrupted_Files_Project/
 └── Corrupted Files Exports/   # created after export
 ```
 
+For the full maintenance map, naming rules, expansion workflow, and validation commands, read:
+
+Για πλήρη χάρτη συντήρησης, κανόνες ονοματοδοσίας, workflow επέκτασης και εντολές ελέγχου, διάβασε:
+
+- [`Corrupted Files Docs/PROJECT_STRUCTURE_AND_MAINTENANCE_EN_EL.md`](Corrupted%20Files%20Docs/PROJECT_STRUCTURE_AND_MAINTENANCE_EN_EL.md)
+
 ## 🧠 Research Philosophy / Φιλοσοφία Έρευνας
 
 <details>
