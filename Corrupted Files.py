@@ -26,7 +26,19 @@ UI = {
         "opening":"Opening: {p}",
         "openfail":"Could not open automatically. Path is printed above. In Termux, install/open Termux:API or use a file manager.",
         "folders":"Available folders by year",
-        "case_count":"{n} case(s)"
+        "case_count":"{n} case(s)",
+        "category_label":"Category",
+        "evidence_label":"Evidence",
+        "proof_label":"PROOF",
+        "source_trail_label":"SOURCES",
+        "reading_report_label":"READING REPORT",
+        "export_country":"Country",
+        "export_year":"Year",
+        "export_article":"Article",
+        "export_proof":"Proof dossier",
+        "export_sources":"Source trail",
+        "export_report":"Reading report",
+        "export_images":"Images"
     },
     "el": {
         "title":"Corrupted Files Offline Reader",
@@ -42,7 +54,19 @@ UI = {
         "opening":"Άνοιγμα: {p}",
         "openfail":"Δεν άνοιξε αυτόματα. Το path φαίνεται παραπάνω. Στο Termux μπορείς να χρησιμοποιήσεις Termux:API ή file manager.",
         "folders":"Διαθέσιμοι φάκελοι ανά έτος",
-        "case_count":"{n} υπόθεση/υποθέσεις"
+        "case_count":"{n} υπόθεση/υποθέσεις",
+        "category_label":"Κατηγορία",
+        "evidence_label":"Τεκμηρίωση",
+        "proof_label":"ΦΑΚΕΛΟΣ ΑΠΟΔΕΙΞΕΩΝ",
+        "source_trail_label":"ΠΗΓΕΣ",
+        "reading_report_label":"ΑΝΑΦΟΡΑ ΑΝΑΓΝΩΣΗΣ",
+        "export_country":"Χώρα",
+        "export_year":"Έτος",
+        "export_article":"Άρθρο",
+        "export_proof":"Φάκελος αποδείξεων",
+        "export_sources":"Πηγές",
+        "export_report":"Αναφορά ανάγνωσης",
+        "export_images":"Εικόνες"
     }
 }
 
@@ -133,8 +157,8 @@ def show_case(e, lang):
     print('='*90)
     print(f"{title}\n{country} / {year}")
     cat=get(e,'category',lang); ev=get(e,'evidence_level',lang)
-    if cat: print(f"Category: {cat}")
-    if ev: print(f"Evidence: {ev}")
+    if cat: print(f"{UI[lang]['category_label']}: {cat}")
+    if ev: print(f"{UI[lang]['evidence_label']}: {ev}")
     print('='*90)
     text=get(e,'article',lang)
     print(wrap(text))
@@ -144,9 +168,9 @@ def show_case(e, lang):
     if proof or sources or report:
         print('\n'+'-'*90)
         print(UI[lang]['sources'])
-        if proof: print('\n[PROOF]\n'+wrap(proof))
-        if sources: print('\n[SOURCES]\n'+wrap(sources))
-        if report: print('\n[READING REPORT]\n'+wrap(report))
+        if proof: print(f"\n[{UI[lang]['proof_label']}]\n"+wrap(proof))
+        if sources: print(f"\n[{UI[lang]['source_trail_label']}]\n"+wrap(sources))
+        if report: print(f"\n[{UI[lang]['reading_report_label']}]\n"+wrap(report))
     show_images(e, lang)
     input('\n'+UI[lang]['back'])
 
@@ -154,13 +178,13 @@ def export_case(e, lang, folder=EXPORT_DIR):
     title=get(e,'title',lang)
     slug=re.sub(r'[^A-Za-z0-9Α-Ωα-ωΆ-ώ]+','_',title).strip('_')[:80] or e.get('id','case')
     p=folder / f"{e.get('year','0000')}_{slug}.txt"
-    parts=[title, '='*len(title), f"Country: {get(e,'country',lang)}", f"Year: {e.get('year','')}", '']
-    for name,field in [('Article','article'),('Proof dossier','proof_dossier'),('Source trail','source_trail'),('Reading report','reading_report')]:
+    parts=[title, '='*len(title), f"{UI[lang]['export_country']}: {get(e,'country',lang)}", f"{UI[lang]['export_year']}: {e.get('year','')}", '']
+    for name,field in [(UI[lang]['export_article'],'article'),(UI[lang]['export_proof'],'proof_dossier'),(UI[lang]['export_sources'],'source_trail'),(UI[lang]['export_report'],'reading_report')]:
         val=get(e,field,lang)
         if val:
             parts += [name, '-'*len(name), val, '']
     if e.get('images'):
-        parts += ['Images','------'] + list(e['images'])
+        parts += [UI[lang]['export_images'],'------'] + list(e['images'])
     p.write_text('\n'.join(parts),encoding='utf-8')
     return p
 

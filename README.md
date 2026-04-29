@@ -15,7 +15,16 @@ Corrupted Files Project is an offline bilingual research database and Termux rea
 
 The project follows the same idea as the Offline Survival database style: the important material is stored locally in split JSON files, loaded by a simple Python launcher, and readable without root, pip packages, internet, or a server. It is built for Android phones and low-end devices, while still keeping long dossiers, proof sections, source trails, reading reports, and local images/proof cards.
 
-## ▶️ How to Download and Open in Termux
+## Quick overview / Γρήγορη εικόνα
+
+| English | Ελληνικά |
+| --- | --- |
+| Offline bilingual research reader for Greece and USA public-trust cases. | Offline δίγλωσσος αναγνώστης ερευνητικών φακέλων για υποθέσεις δημόσιας εμπιστοσύνης σε Ελλάδα και ΗΠΑ. |
+| Runs with Python only: no root, no pip packages, no server, no internet. | Τρέχει μόνο με Python: χωρίς root, χωρίς pip packages, χωρίς server, χωρίς internet. |
+| Each record can include article text, proof dossier, source trail, reading report, and local SVG media cards. | Κάθε εγγραφή μπορεί να έχει άρθρο, φάκελο τεκμηρίωσης, πηγές, αναφορά ανάγνωσης και τοπικές SVG κάρτες. |
+| Documented facts, disputed claims, and conspiracy theories must be separated clearly. | Τα τεκμηριωμένα γεγονότα, οι αμφισβητούμενοι ισχυρισμοί και οι θεωρίες συνωμοσίας πρέπει να χωρίζονται καθαρά. |
+
+## ▶️ How to Download and Open in Termux / Λήψη και άνοιγμα στο Termux
 
 <details>
 <summary><strong>🇬🇧 English</strong></summary>
@@ -143,8 +152,19 @@ The database includes both heavily documented cases and weaker/disputed public n
 
 </details>
 
-## ✅ Current Expansion Focus
+## ✅ Current Expansion Focus / Τρέχουσα επέκταση
 
-This version adds more records and deeper detail around Greece and USA cases, including **Giorgos Karaivaz**, **Tempi**, surveillance, police failures, state violence, public disasters, intelligence files, financial scandals, and institutional accountability cases.
+| English | Ελληνικά |
+| --- | --- |
+| The database now focuses on Greece and USA cases only. | Η βάση πλέον εστιάζει μόνο σε υποθέσεις Ελλάδας και ΗΠΑ. |
+| Recent expansion passes add deeper records around state violence, surveillance, police failures, public disasters, intelligence files, financial scandals, media pressure, labor abuse, medical/technology failures, and institutional accountability. | Οι πρόσφατες επεκτάσεις προσθέτουν βαθύτερους φακέλους για κρατική βία, παρακολουθήσεις, αστυνομικές αποτυχίες, δημόσιες καταστροφές, αρχεία υπηρεσιών πληροφοριών, οικονομικά σκάνδαλα, πίεση στα ΜΜΕ, εργασιακή κακοποίηση, ιατρικές/τεχνολογικές αποτυχίες και θεσμική λογοδοσία. |
+| The reader remains offline and standard-library only, so it stays usable in Termux without root. | Ο αναγνώστης παραμένει offline και βασισμένος μόνο στην standard library, ώστε να δουλεύει στο Termux χωρίς root. |
 
-Η παρούσα έκδοση προσθέτει περισσότερες εγγραφές και βαθύτερη λεπτομέρεια για υποθέσεις Ελλάδας και ΗΠΑ, συμπεριλαμβανομένων **Γιώργου Καραϊβάζ**, **Τεμπών**, παρακολουθήσεων, αστυνομικών αποτυχιών, κρατικής βίας, δημόσιων καταστροφών, αρχείων υπηρεσιών πληροφοριών, οικονομικών σκανδάλων και θεσμικής λογοδοσίας.
+## Bilingual data rules / Κανόνες δίγλωσσων δεδομένων
+
+| English | Ελληνικά |
+| --- | --- |
+| Every reader-facing field should contain both `en` and `el`: country, title, category, evidence level, article, proof dossier, source trail, and reading report. | Κάθε πεδίο που βλέπει ο αναγνώστης πρέπει να έχει και `en` και `el`: χώρα, τίτλο, κατηγορία, επίπεδο τεκμηρίωσης, άρθρο, φάκελο αποδείξεων, πηγές και αναφορά ανάγνωσης. |
+| Generated SVG cards are original reading aids, not documentary photos or copied news images. | Οι παραγόμενες SVG κάρτες είναι πρωτότυπα βοηθήματα ανάγνωσης, όχι φωτογραφίες-ντοκουμέντα ή αντιγραμμένες ειδησεογραφικές εικόνες. |
+| Conspiracy theories can be included only when labeled as theory/rumor and separated from documented anchors. | Οι θεωρίες συνωμοσίας μπορούν να περιλαμβάνονται μόνο όταν χαρακτηρίζονται ως θεωρία/φήμη και χωρίζονται από τα τεκμηριωμένα σημεία. |
+| Stronger evidence means court records, official archives, declassified files, parliamentary material, regulator reports, named investigations, and primary documents. | Ισχυρότερη τεκμηρίωση σημαίνει δικαστικά αρχεία, επίσημα αρχεία, αποχαρακτηρισμένα έγγραφα, κοινοβουλευτικό υλικό, πορίσματα αρχών, επώνυμες έρευνες και πρωτογενή έγγραφα. |
