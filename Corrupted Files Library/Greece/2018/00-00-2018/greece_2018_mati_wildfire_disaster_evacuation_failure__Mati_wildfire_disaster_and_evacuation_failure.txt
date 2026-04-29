@@ -1,0 +1,140 @@
+Mati wildfire disaster and evacuation failure
+=============================================
+
+ID: greece_2018_mati_wildfire_disaster_evacuation_failure
+Country: Greece
+Year: 2018
+Category: disaster governance / accountability
+Evidence: documented disaster
+
+Article
+-------
+Mati wildfire disaster and evacuation failure
+=============================================
+
+Country: Greece
+Year folder: 2018
+Category: disaster governance / accountability
+Evidence level: documented disaster
+
+Core story
+----------
+The Mati wildfire killed more than 100 people and exposed failures in warning, evacuation
+and emergency coordination.
+
+What happened, in full context
+------------------------------
+Mati is one of Greece’s most devastating modern disaster files. The fire moved fast, but the
+human questions focus on planning, alerts, road design, illegal construction, emergency
+coordination and political communication. Disasters become corruption files when preventable
+vulnerabilities are ignored for years.
+
+Timeline
+--------
+- 2018: wildfire strikes Mati.
+- Afterward: investigations and prosecutions.
+- Long-term: civil-protection reform debate.
+
+Key facts and evidence points
+-----------------------------
+- More than 100 people died.
+- Evacuation and communication failures were heavily criticized.
+- Trials and public anger followed.
+
+Why this case matters
+---------------------
+It shows that corruption can be a landscape: bad zoning, weak enforcement and confused
+command.
+
+Competing explanations and caution
+-----------------------------------
+Not every death can be attributed to one decision; the systemic failure is the central
+issue.
+
+Source trail / suggested verification
+-------------------------------------
+- European Parliament documents: https://www.europarl.europa.eu/
+
+V21 expansion note: This file was added in the mega expansion pass with extra context, evidence labeling, and a safe original cover card.
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: Mati wildfire disaster and evacuation failure
+Country folder: Greece
+Year folder: 2018
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For Mati wildfire disaster and evacuation failure, the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Mati-specific facts
+-------------------
+The Mati wildfire case is about evacuation failure, communication collapse, urban planning,
+illegal construction, emergency command and political optics after mass death. It cannot be
+reduced to weather; it is a governance and preparedness file.
+
+Long-form narrative
+-------------------
+In a full article, Mati wildfire disaster and evacuation failure should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of Mati wildfire disaster and evacuation failure should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: Mati wildfire disaster and evacuation failure matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = Greece, year = 2018, category = disaster governance / accountability, title = Mati wildfire disaster and evacuation failure. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.
+
+
+Proof dossier
+-------------
+Proof recovery note: read this case together with its article, source trail, year folder, and media references. Case ID: greece_2018_mati_wildfire_disaster_evacuation_failure.
+
+Source trail
+------------
+Source trail recovery note: use official records, court material, parliamentary records, declassified archives, regulator reports, and reliable reporting where available.
+
+Reading report
+--------------
+Reading report: compare this 2018 case with other records from the same decade and country to detect patterns of accountability, delay, institutional weakness, or public fear.
+
+Images
+------
+Corrupted Files Media/greece_2018_mati_wildfire_disaster_evacuation_failure/en_mati_wildfire_disaster_and_evacuation_failure_cove_a11e89a9ae82.svg

@@ -1,0 +1,186 @@
+Predatorgate spyware and state trust
+====================================
+
+ID: greece_2022_predatorgate_spyware_state
+Country: Greece
+Year: 2022
+Category: surveillance / spyware
+Evidence: mixed public record; read source trail
+
+Article
+-------
+Predatorgate spyware and state trust
+Year: 2022
+Country folder: Greece
+Category: surveillance / spyware
+Evidence label: DOCUMENTED public scandal; attribution details contested
+
+FULL ARTICLE / STORY
+Spyware allegations, phone targeting, intelligence-service issues, and European Parliament concern created a major trust crisis.
+
+It matters because spyware turns the phone into a state/private attack surface against journalists, politicians, and public figures.
+
+BACKGROUND
+A corruption, abuse, disaster, surveillance, intelligence, or public-trust case usually begins before the headline. The real beginning is a weakness inside the system: secrecy, emergency law, profit, war, debt, weak regulation, police culture, intelligence authority, classification, elite access, technical complexity, or public fear. For this case the main weak point is: surveillance / spyware. That category tells the reader what documents matter most: archives, contracts, court files, declassified records, regulator reports, technical investigations, parliamentary material, safety reports, or survivor testimony.
+
+WHAT HAPPENED
+The core event is this: Spyware allegations, phone targeting, intelligence-service issues, and European Parliament concern created a major trust crisis. The full case is bigger than the core event. It includes the warnings before it, the official explanation after it, the people who challenged that explanation, and the accountability that did or did not follow. A serious reader should ask who controlled the first narrative, who controlled the evidence, who had incentives to delay disclosure, and who was forced to prove harm from outside the institution.
+
+DETAILED REPORT
+1. Precondition: incentives, fear, secrecy, money, ideology, or weak oversight created the risk.
+2. Trigger: the event became visible through harm, leak, death, lawsuit, public report, whistleblower, declassification, or disaster.
+3. Official narrative: an institution or powerful actor gave the first explanation.
+4. Counter-record: victims, families, journalists, courts, auditors, inspectors, researchers, or international bodies challenged the explanation.
+5. Accountability: resignations, trials, settlements, reforms, compensation, or public memory battles followed.
+6. Open problem: Some attribution and chain-of-command claims remain contested.
+
+PROOF / SOURCE TRAIL
+European Parliament Predatorgate: https://www.europarl.europa.eu/doceo/document/TA-9-2023-0244_EN.html
+
+WHAT IS STRONGLY SUPPORTED
+The strongest supported core is: Spyware allegations, phone targeting, intelligence-service issues, and European Parliament concern created a major trust crisis.. This is the first thing to verify. If the core is verified, wider claims can be tested. If the core is not verified, the case should not be treated as fact.
+
+WHAT IS DISPUTED OR STILL OPEN
+Some attribution and chain-of-command claims remain contested. This database is stronger when it admits uncertainty. A file can be serious without pretending that every theory around it is proven.
+
+GREECE — PREDATORGATE: SPYWARE, STATE WIRETAPS, AND RULE OF LAW (2022–2026)
+
+EVIDENCE STATUS: [DOCUMENTED SCANDAL / LEGAL DISPUTES CONTINUE].
+
+ARTICLE
+
+Predatorgate is one of Greece’s central digital-era rule-of-law scandals. It involves spyware, journalists, politicians, civil society, intelligence-service wiretapping, political accountability, and the question of whether modern states can secretly turn phones into evidence machines against their own democratic environment.
+
+The scandal erupted in 2022 when targets discovered attempts or infections involving Predator spyware. The European Parliament later described the scandal as involving journalists, politicians, and civil society representatives, and noted that in many cases Predator targeting appeared in parallel with legitimate wiretapping by the state’s intelligence services. That parallel is what made the case explosive. If a person is both legally wiretapped and targeted by illegal spyware, the public naturally asks whether two systems were operating near each other: one official, one deniable.
+
+Spyware is different from ordinary phone tapping. A modern phone contains messages, photos, microphones, cameras, location histories, contacts, passwords, and the private life of everyone who communicates with the owner. Compromising a phone can expose sources, family, strategy, health, finance, and political plans. Against a journalist, it can reveal whistleblowers. Against an opposition politician, it can distort democracy. Against a businessperson, it can become economic intelligence.
+
+Digital surveillance hides behind technical complexity. Citizens cannot easily inspect their phones. Courts may lack access to classified material. Companies operate across borders. Spyware vendors sell through intermediaries. Governments deny direct use or blame private actors. By the time a public investigation begins, devices may be replaced, logs lost, and responsibility blurred.
+
+In 2026, the European Parliament’s agenda page said four individuals had been sentenced in Greece for violating the confidentiality of telephone communications and illegally accessing personal data and conversations, with sentences suspended pending appeal. It also said the broader debate concerned rule-of-law standards, judicial independence, fundamental rights, and safeguards against surveillance abuse. The same page recorded that the Greek Supreme Court cleared Greek intelligence services and political officials of wrongdoing in July 2024. Those facts show the split public reality: legal processes produced some convictions while major political questions remained disputed.
+
+Conclusion: Predatorgate is not only a spyware story. It is a state-capacity story. Democracies now need surveillance transparency strong enough for the smartphone age: notification of targets after investigations close, independent technical labs, strict procurement records, penalties for illegal spyware possession or use, parliamentary oversight with teeth, and protection for journalists and opposition figures. Without that, surveillance becomes a ghost institution — visible through fear, invisible through paperwork.
+
+SOURCE TRAIL:
+- https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-03-09/13/rule-of-law-in-greece-meps-discuss-predatorgate-convictions
+
+1. FULL NARRATIVE RECONSTRUCTION
+GREECE — PREDATORGATE: SPYWARE, STATE WIRETAPS, AND RULE OF LAW (2022–2026) belongs to the wider category of digital identity, platforms and behavioral control. That matters because the event is not only a single scandal or rumor; it is a window into a repeatable pattern. The pattern usually begins with a justification that sounds reasonable in isolation: security, efficiency, public health, modernization, anti-fraud control, national defense, child protection, budget discipline, or emergency management. The next stage is where the danger appears. A special exception becomes normal. Oversight is postponed. Records become hard to access. Technical language replaces moral language. People outside the institution are asked to trust conclusions without being allowed to inspect the full process.
+
+4. SPECIFIC READING NOTES FOR THIS CASE
+- Predatorgate is a rule-of-law case because spyware changes the meaning of political surveillance: a phone becomes a microphone, archive, location tracker, and private-life map.
+- The scandal is not only whether one person was targeted; it is whether democratic institutions can investigate surveillance when the surveillance touches power itself.
+
+V19 FULL READING REPORT
+
+This added report makes the existing file read like a complete case rather than a collection of facts.
+
+CASE TYPE: Public health, science and consent
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: GREECE — PREDATORGATE: SPYWARE, STATE WIRETAPS, AND RULE OF LAW (2022–2026)
+Country folder: Greece
+Year folder: 2022
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For GREECE — PREDATORGATE: SPYWARE, STATE WIRETAPS, AND RULE OF LAW (2022–2026), the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Spyware-specific facts
+----------------------
+Predatorgate grew from reports that journalists, politicians and civil-society actors were
+targeted with illegal spyware, in some cases while also being subject to lawful national-
+security wiretaps. This overlap is why the case is more serious than a normal privacy
+dispute: it raises the possibility that legal surveillance channels and illegal spyware
+ecosystems can appear side by side, creating deniability, intimidation and evidence gaps.
+The core reader question is whether the state merely failed to stop private spyware, or
+whether elements of state power benefited from it.
+
+Long-form narrative
+-------------------
+In a full article, GREECE — PREDATORGATE: SPYWARE, STATE WIRETAPS, AND RULE OF LAW (2022–2026) should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of GREECE — PREDATORGATE: SPYWARE, STATE WIRETAPS, AND RULE OF LAW (2022–2026) should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: GREECE — PREDATORGATE: SPYWARE, STATE WIRETAPS, AND RULE OF LAW (2022–2026) matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = Greece, year = 2022, category = surveillance / spyware, title = Predatorgate spyware and state trust. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.
+
+
+Proof dossier
+-------------
+Predatorgate spyware and state trust — PROOF DOSSIER
+
+Evidence: DOCUMENTED public scandal; attribution details contested
+
+Sources:
+European Parliament Predatorgate: https://www.europarl.europa.eu/doceo/document/TA-9-2023-0244_EN.html
+
+First fact to verify:
+Spyware allegations, phone targeting, intelligence-service issues, and European Parliament concern created a major trust crisis.
+
+Institutional question:
+It matters because spyware turns the phone into a state/private attack surface against journalists, politicians, and public figures.
+
+Open/disputed point:
+Some attribution and chain-of-command claims remain contested.
+
+Source trail
+------------
+Predatorgate spyware and state trust
+
+European Parliament Predatorgate: https://www.europarl.europa.eu/doceo/document/TA-9-2023-0244_EN.html
+
+Reading report
+--------------
+Read main file, proof dossier, source trail, then images.
+Core: Spyware allegations, phone targeting, intelligence-service issues, and European Parliament concern created a major trust crisis.
+
+Images
+------
+Corrupted Files Media/greece_2022_predatorgate_spyware_state/en_original_cover_card_v23_b338679e6e15.svg
+Corrupted Files Media/greece_2022_predatorgate_spyware_state/en_proof_map_v23_1381d0af19ec.svg
+Corrupted Files Media/greece_2022_predatorgate_spyware_state_wiretaps_rule_law/en_original_cover_card_10b9ccdf8dd0.png
+Corrupted Files Media/greece_2022_predatorgate_spyware_state_wiretaps_rule_law/en_original_cover_card_v18_edd684602f87.svg
+Corrupted Files Media/greece_2022_predatorgate_spyware_state_wiretaps_rule_law/el_prototypi_karta_exofylloy_44bda037c533.png
+Corrupted Files Media/greece_2022_predatorgate_spyware_state_wiretaps_rule_law/el_prototypi_karta_exofylloy_v18_a4d46080e223.svg

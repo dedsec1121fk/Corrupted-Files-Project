@@ -110,7 +110,9 @@ python "Corrupted Files.py"
 Corrupted_Files_Project/
 ├── Corrupted Files.py
 ├── Corrupted Files Database/
+├── Corrupted Files Library/
 ├── Corrupted Files Media/
+├── Corrupted Files Tools/
 ├── Corrupted Files Updates/
 ├── Corrupted Files Docs/
 └── Corrupted Files Exports/   # created after export
@@ -121,6 +123,15 @@ For the full maintenance map, naming rules, expansion workflow, and validation c
 Για πλήρη χάρτη συντήρησης, κανόνες ονοματοδοσίας, workflow επέκτασης και εντολές ελέγχου, διάβασε:
 
 - [`Corrupted Files Docs/PROJECT_STRUCTURE_AND_MAINTENANCE_EN_EL.md`](Corrupted%20Files%20Docs/PROJECT_STRUCTURE_AND_MAINTENANCE_EN_EL.md)
+
+Human-friendly country/date mirror:
+
+Ανθρώπινο mirror ανά χώρα/ημερομηνία:
+
+- `Corrupted Files Library/Greece/YYYY/00-00-YYYY/<record-id>__<title>.txt`
+- `Corrupted Files Library/USA/YYYY/00-00-YYYY/<record-id>__<title>.txt`
+- Current records usually only know the year, so `00-00-YYYY` means unknown day/month. If a future record has a full date, the mirror can use `DD-MM-YYYY`.
+- Οι σημερινές εγγραφές συνήθως ξέρουν μόνο το έτος, άρα `00-00-YYYY` σημαίνει άγνωστη ημέρα/μήνας. Αν μελλοντική εγγραφή έχει πλήρη ημερομηνία, το mirror μπορεί να χρησιμοποιεί `DD-MM-YYYY`.
 
 ## 🧠 Research Philosophy / Φιλοσοφία Έρευνας
 

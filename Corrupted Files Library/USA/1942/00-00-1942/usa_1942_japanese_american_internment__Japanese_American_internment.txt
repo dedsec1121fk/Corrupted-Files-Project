@@ -1,0 +1,194 @@
+Japanese American internment
+============================
+
+ID: usa_1942_japanese_american_internment
+Country: USA
+Year: 1942
+Category: wartime rights / mass detention
+Evidence: documented government injustice
+
+Article
+-------
+Japanese American internment
+============================
+
+Country: USA
+Year folder: 1942
+Category: wartime rights / mass detention
+Evidence level: documented government injustice
+
+Core story
+----------
+The US government forcibly removed and incarcerated Japanese Americans during World War II.
+
+What happened, in full context
+------------------------------
+Executive Order 9066 enabled mass removal from the West Coast. Families lost homes,
+businesses and freedom without individualized evidence. Later government review concluded
+the policy was driven by race prejudice, war hysteria and failure of political leadership
+rather than military necessity.
+
+Timeline
+--------
+- 1942: Executive Order 9066 signed.
+- 1942-1945: incarceration camps operate.
+- 1988: Civil Liberties Act apologizes and provides redress.
+
+Key facts and evidence points
+-----------------------------
+- Over 100,000 people of Japanese ancestry were incarcerated.
+- Many were US citizens.
+- The US later issued apology and reparations.
+
+Why this case matters
+---------------------
+This is one of the clearest US examples of lawful paperwork producing unlawful injustice.
+
+Competing explanations and caution
+-----------------------------------
+The wartime government claimed security necessity; later findings strongly rejected that
+blanket justification.
+
+Source trail / suggested verification
+-------------------------------------
+- US National Archives: https://www.archives.gov/
+
+V21 expansion note: This file was added in the mega expansion pass with extra context, evidence labeling, and a safe original cover card.
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: Japanese American internment
+Country folder: USA
+Year folder: 1942
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For Japanese American internment, the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Case-specific reading frame
+---------------------------
+For this file, the title itself points to a public-trust rupture in USA around 1942. The
+most useful way to read it is to identify the institutions involved, the people harmed, the
+official explanation, the counter-evidence, and the final accountability outcome. A detailed
+reader should ask whether the event was a one-time failure, a symptom of a wider system, or
+a case where later political mythology became stronger than the documented record.
+
+Long-form narrative
+-------------------
+In a full article, Japanese American internment should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of Japanese American internment should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: Japanese American internment matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+Japanese American internment as administrative machinery
+Year: 1942
+Country folder: USA
+Category: civil liberties / wartime policy
+Evidence label: DOCUMENTED: executive order, camp records, later reparations record
+
+FULL ARTICLE / STORY
+Fear, racism, military claims, and bureaucracy led to mass incarceration of Japanese Americans without individualized evidence.
+
+It matters because emergency powers can convert suspicion into mass administrative punishment.
+
+BACKGROUND
+A corruption, abuse, disaster, surveillance, intelligence, or public-trust case usually begins before the headline. The real beginning is a weakness inside the system: secrecy, emergency law, profit, war, debt, weak regulation, police culture, intelligence authority, classification, elite access, technical complexity, or public fear. For this case the main weak point is: civil liberties / wartime policy. That category tells the reader what documents matter most: archives, contracts, court files, declassified records, regulator reports, technical investigations, parliamentary material, safety reports, or survivor testimony.
+
+WHAT HAPPENED
+The core event is this: Fear, racism, military claims, and bureaucracy led to mass incarceration of Japanese Americans without individualized evidence. The full case is bigger than the core event. It includes the warnings before it, the official explanation after it, the people who challenged that explanation, and the accountability that did or did not follow. A serious reader should ask who controlled the first narrative, who controlled the evidence, who had incentives to delay disclosure, and who was forced to prove harm from outside the institution.
+
+DETAILED REPORT
+1. Precondition: incentives, fear, secrecy, money, ideology, or weak oversight created the risk.
+2. Trigger: the event became visible through harm, leak, death, lawsuit, public report, whistleblower, declassification, or disaster.
+3. Official narrative: an institution or powerful actor gave the first explanation.
+4. Counter-record: victims, families, journalists, courts, auditors, inspectors, researchers, or international bodies challenged the explanation.
+5. Accountability: resignations, trials, settlements, reforms, compensation, or public memory battles followed.
+6. Open problem: The government later acknowledged injustice through apology and reparations.
+
+PROOF / SOURCE TRAIL
+National Archives Japanese American incarceration records; Civil Liberties Act records.
+
+WHAT IS STRONGLY SUPPORTED
+The strongest supported core is: Fear, racism, military claims, and bureaucracy led to mass incarceration of Japanese Americans without individualized evidence.. This is the first thing to verify. If the core is verified, wider claims can be tested. If the core is not verified, the case should not be treated as fact.
+
+WHAT IS DISPUTED OR STILL OPEN
+The government later acknowledged injustice through apology and reparations. This database is stronger when it admits uncertainty. A file can be serious without pretending that every theory around it is proven.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = USA, year = 1942, category = wartime rights / mass detention, title = Japanese American internment. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.
+
+
+Proof dossier
+-------------
+Japanese American internment as administrative machinery — PROOF DOSSIER
+
+Evidence: DOCUMENTED: executive order, camp records, later reparations record
+
+Sources:
+National Archives Japanese American incarceration records; Civil Liberties Act records.
+
+First fact to verify:
+Fear, racism, military claims, and bureaucracy led to mass incarceration of Japanese Americans without individualized evidence.
+
+Institutional question:
+It matters because emergency powers can convert suspicion into mass administrative punishment.
+
+Open/disputed point:
+The government later acknowledged injustice through apology and reparations.
+
+Source trail
+------------
+Japanese American internment as administrative machinery
+
+National Archives Japanese American incarceration records; Civil Liberties Act records.
+
+Reading report
+--------------
+Read main file, proof dossier, source trail, then images.
+Core: Fear, racism, military claims, and bureaucracy led to mass incarceration of Japanese Americans without individualized evidence.
+
+Images
+------
+Corrupted Files Media/usa_1942_japanese_american_internment/en_japanese_american_internment_cover_5de9bfc5593e.svg
+Corrupted Files Media/usa_1942_japanese_american_internment_administrative_machine/en_original_cover_card_v23_feea9dbdb407.svg
+Corrupted Files Media/usa_1942_japanese_american_internment_administrative_machine/en_proof_map_v23_b14039ccb314.svg
+Corrupted Files Media/usa_1942_japanese_american_internment_expanded/en_japanese_american_internment_v21_expanded_cover_5de9bfc5593e.svg

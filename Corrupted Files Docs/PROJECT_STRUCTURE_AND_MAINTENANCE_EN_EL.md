@@ -15,6 +15,9 @@ Corrupted_Files_Project/
 ├── Corrupted Files Database/
 │   ├── manifest.json
 │   └── Corrupted Files Database N.json
+├── Corrupted Files Library/
+│   ├── Greece/
+│   └── USA/
 ├── Corrupted Files Media/
 │   ├── expansion_v26/
 │   ├── expansion_v27/
@@ -25,6 +28,8 @@ Corrupted_Files_Project/
 │   ├── EVIDENCE_LEVELS_EN_EL.txt
 │   ├── NO_DUPLICATES_TRANSLATION_RULES_EN_EL.txt
 │   └── GALLERY_AND_YEAR_BROWSER_EN_EL.txt
+├── Corrupted Files Tools/
+│   └── build_country_date_library.py
 └── Corrupted Files Exports/
     └── created by the app, not committed
 ```
@@ -34,8 +39,10 @@ Corrupted_Files_Project/
 | `Corrupted Files.py` | The only app launcher. Standard-library Python only. | Ο μοναδικός launcher. Μόνο Python standard library. |
 | `README.md` | User-facing install/open guide. | Οδηγός χρήσης, εγκατάστασης και ανοίγματος. |
 | `Corrupted Files Database/` | Split JSON database shards and manifest. | Χωρισμένα JSON shards και manifest. |
+| `Corrupted Files Library/` | Human-readable country/date mirror generated from JSON. | Ανθρώπινα αναγνώσιμο mirror ανά χώρα/ημερομηνία από τα JSON. |
 | `Corrupted Files Media/` | Local cards/images referenced by JSON entries. | Τοπικές κάρτες/εικόνες που δείχνουν οι JSON εγγραφές. |
 | `Corrupted Files Docs/` | Maintainer rules, evidence rules, validation notes. | Κανόνες συντήρησης, τεκμηρίωσης και ελέγχου. |
+| `Corrupted Files Tools/` | Maintenance scripts; no app dependency on them. | Scripts συντήρησης· η εφαρμογή δεν εξαρτάται από αυτά. |
 | `Corrupted Files Exports/` | Runtime TXT export output; delete after testing. | Έξοδος TXT από την εφαρμογή· σβήνεται μετά τα tests. |
 
 ---
@@ -150,7 +157,41 @@ Export filenames include both year and stable record id to avoid collisions:
 
 ---
 
-## 6. Required validation / Υποχρεωτικός έλεγχος
+## 6. Country/date library mirror / Mirror χώρας/ημερομηνίας
+
+The JSON shards remain the source of truth for the app, but maintainers can browse cases in the older human-friendly layout:
+
+```text
+Corrupted Files Library/
+├── Greece/
+│   └── 00-00-1973/
+│       └── greece_1973_.../
+│           ├── README.md
+│           ├── article_en.txt
+│           ├── article_el.txt
+│           ├── proof_en.txt
+│           ├── proof_el.txt
+│           ├── sources_en.txt
+│           ├── sources_el.txt
+│           └── media_references.txt
+└── USA/
+    └── 00-00-2023/
+        └── usa_2023_.../
+```
+
+Most existing records only have a year, not exact day/month. For those records the mirror uses `00-00-YYYY`. If a future record has a full date field such as `date`, `event_date`, or `date_iso`, the builder can use `DD-MM-YYYY`.
+
+Τα JSON shards παραμένουν η πηγή αλήθειας για την εφαρμογή, αλλά οι συντηρητές μπορούν να διαβάζουν τις υποθέσεις στην πιο παλιά ανθρώπινη διάταξη ανά χώρα και ημερομηνία. Όταν υπάρχει μόνο έτος, χρησιμοποιείται `00-00-YYYY` για να μη δημιουργούνται ψεύτικες ημερομηνίες.
+
+Regenerate the mirror after database edits:
+
+```bash
+python3 "Corrupted Files Tools/build_country_date_library.py"
+```
+
+---
+
+## 7. Required validation / Υποχρεωτικός έλεγχος
 
 Run these checks before pushing to `main`.
 

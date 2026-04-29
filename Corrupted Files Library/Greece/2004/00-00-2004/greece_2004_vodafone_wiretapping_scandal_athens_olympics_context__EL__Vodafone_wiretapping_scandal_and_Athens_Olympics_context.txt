@@ -1,0 +1,83 @@
+Vodafone wiretapping scandal and Athens Olympics context
+========================================================
+
+ID: greece_2004_vodafone_wiretapping_scandal_athens_olympics_context
+Country: Ελλάδα
+Year: 2004
+Category: surveillance / telecom security
+Evidence: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+Article
+-------
+Vodafone wiretapping scandal and Athens Olympics context
+Έτος: 2004
+Φάκελος χώρας: Ελλάδα
+Κατηγορία: surveillance / telecom security
+Ετικέτα αποδείξεων: DOCUMENTED: investigations and public reports
+
+ΠΛΗΡΕΣ ΑΡΘΡΟ / ΙΣΤΟΡΙΑ
+Η υπόθεση αφορά: Unlawful interception of phones of senior Greek officials and others through telecom infrastructure became a major surveillance scandal.
+
+Γιατί έχει σημασία: It matters because it predates Predatorgate and shows telecom-level surveillance risk before smartphone spyware.
+
+ΙΣΤΟΡΙΚΟ ΠΛΑΙΣΙΟ
+Μια υπόθεση διαφθοράς, κατάχρησης, καταστροφής, παρακολούθησης ή δημόσιας δυσπιστίας αρχίζει πριν από τον τίτλο. Αρχίζει από αδυναμία του συστήματος: μυστικότητα, έκτακτη νομοθεσία, κέρδος, πόλεμο, χρέος, αδύναμο έλεγχο, αστυνομική κουλτούρα, υπηρεσίες πληροφοριών, διαβάθμιση, τεχνική πολυπλοκότητα ή δημόσιο φόβο. Εδώ το βασικό αδύναμο σημείο είναι: surveillance / telecom security.
+
+ΤΙ ΣΥΝΕΒΗ
+Ο πυρήνας είναι: Unlawful interception of phones of senior Greek officials and others through telecom infrastructure became a major surveillance scandal. Η πλήρης υπόθεση είναι μεγαλύτερη από τον πυρήνα. Περιλαμβάνει τις προειδοποιήσεις πριν, την επίσημη εξήγηση μετά, τους ανθρώπους που την αμφισβήτησαν και τη λογοδοσία που ήρθε ή δεν ήρθε. Ο σοβαρός αναγνώστης πρέπει να ρωτά ποιος έλεγχε την πρώτη αφήγηση, ποιος είχε τα στοιχεία, ποιος είχε κίνητρο να καθυστερήσει και ποιος αναγκάστηκε να αποδείξει τη ζημιά απ’ έξω.
+
+ΑΝΑΛΥΤΙΚΗ ΑΝΑΦΟΡΑ
+1. Προϋπόθεση: κίνητρα, φόβος, μυστικότητα, χρήμα, ιδεολογία ή αδύναμος έλεγχος δημιούργησαν τον κίνδυνο.
+2. Έκρηξη: η υπόθεση έγινε ορατή μέσω ζημιάς, διαρροής, θανάτου, δίκης, δημόσιου πορίσματος, whistleblower, αποχαρακτηρισμού ή καταστροφής.
+3. Επίσημη αφήγηση: θεσμός ή ισχυρός παράγοντας έδωσε την πρώτη εξήγηση.
+4. Αντίλογος: θύματα, οικογένειες, δημοσιογράφοι, δικαστήρια, ελεγκτές, ερευνητές ή διεθνείς οργανισμοί αμφισβήτησαν την εξήγηση.
+5. Λογοδοσία: παραιτήσεις, δίκες, συμβιβασμοί, μεταρρυθμίσεις, αποζημιώσεις ή μάχες μνήμης ακολούθησαν.
+6. Ανοιχτό πρόβλημα: Attribution remained contested and incomplete.
+
+ΑΠΟΔΕΙΞΕΙΣ / ΠΗΓΕΣ
+Greek ADAE records; public prosecutor/inquiry records.
+
+ΤΙ ΣΤΗΡΙΖΕΤΑΙ ΔΥΝΑΤΑ
+Ο δυνατός πυρήνας είναι: Unlawful interception of phones of senior Greek officials and others through telecom infrastructure became a major surveillance scandal.. Αυτό πρέπει να ελεγχθεί πρώτο. Αν ο πυρήνας επιβεβαιώνεται, οι ευρύτεροι ισχυρισμοί μπορούν να δοκιμαστούν. Αν ο πυρήνας δεν επιβεβαιώνεται, η υπόθεση δεν πρέπει να παρουσιάζεται ως γεγονός.
+
+ΤΙ ΠΑΡΑΜΕΝΕΙ ΑΜΦΙΣΒΗΤΟΥΜΕΝΟ
+Attribution remained contested and incomplete. Η βάση γίνεται πιο δυνατή όταν παραδέχεται αβεβαιότητα. Ένας φάκελος μπορεί να είναι σοβαρός χωρίς να προσποιείται ότι κάθε θεωρία γύρω του είναι αποδεδειγμένη.
+
+Επέκταση συνέχειας V25
+---------------------
+Αυτή η εγγραφή επεκτάθηκε στη φάση μετατροπής του project ώστε να διαβάζεται ως μέρος δομημένης offline βάσης και όχι σαν απομονωμένο αρχείο κειμένου. Για τη συγκεκριμένη υπόθεση, η βασική διαδρομή ανάγνωσης είναι: χώρα = Ελλάδα, έτος = 2004, κατηγορία = surveillance / telecom security, τίτλος = Vodafone wiretapping scandal and Athens Olympics context. Ο αναγνώστης πρέπει να συγκρίνει την επίσημη εκδοχή, τα τεκμηριωμένα στοιχεία, τους ανθρώπους που επηρεάστηκαν, τα κίνητρα των θεσμών και τον χρόνο που χρειάστηκε για να εμφανιστεί λογοδοσία. Αν η υπόθεση περιέχει φήμες ή συνωμοσιολογικούς ισχυρισμούς, αυτοί πρέπει να θεωρούνται πιο αδύναμοι από δικαστικά αρχεία, δημόσια αρχεία, επίσημες εκθέσεις, αποχαρακτηρισμένα έγγραφα ή άμεσες παραδοχές. Σκοπός της επέκτασης είναι η εγγραφή να στέκεται μόνη της, ώστε κάποιος που διαβάζει offline να καταλαβαίνει γιατί ανήκει στην ίδια βάση με φακέλους διαφθοράς, παρακολούθησης, θεσμικής αποτυχίας, ανεξήγητων δημόσιων γεγονότων και κατάχρησης εξουσίας.
+
+
+Proof dossier
+-------------
+Vodafone wiretapping scandal and Athens Olympics context — ΦΑΚΕΛΟΣ ΑΠΟΔΕΙΞΕΩΝ
+
+Τεκμηρίωση: DOCUMENTED: investigations and public reports
+
+Πηγές:
+Greek ADAE records; public prosecutor/inquiry records.
+
+Πρώτο γεγονός προς επαλήθευση:
+Unlawful interception of phones of senior Greek officials and others through telecom infrastructure became a major surveillance scandal.
+
+Θεσμικό ερώτημα:
+It matters because it predates Predatorgate and shows telecom-level surveillance risk before smartphone spyware.
+
+Ανοιχτό/αμφισβητούμενο σημείο:
+Attribution remained contested and incomplete.
+
+Source trail
+------------
+Vodafone wiretapping scandal and Athens Olympics context
+
+Greek ADAE records; public prosecutor/inquiry records.
+
+Reading report
+--------------
+Διάβασε κύριο αρχείο, φάκελο αποδείξεων, πηγές και μετά εικόνες.
+Πυρήνας: Unlawful interception of phones of senior Greek officials and others through telecom infrastructure became a major surveillance scandal.
+
+Images
+------
+Corrupted Files Media/greece_2004_vodafone_wiretapping_scandal_athens_olympics_context/en_original_cover_card_v23_9c8186600892.svg
+Corrupted Files Media/greece_2004_vodafone_wiretapping_scandal_athens_olympics_context/en_proof_map_v23_cd3bed3b64d3.svg

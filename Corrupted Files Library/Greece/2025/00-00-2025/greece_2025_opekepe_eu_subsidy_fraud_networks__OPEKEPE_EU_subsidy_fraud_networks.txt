@@ -1,0 +1,83 @@
+OPEKEPE EU subsidy-fraud networks
+=================================
+
+ID: greece_2025_opekepe_eu_subsidy_fraud_networks
+Country: Greece
+Year: 2025
+Category: agricultural funds / corruption
+Evidence: mixed public record; read source trail
+
+Article
+-------
+OPEKEPE EU subsidy-fraud networks
+Year: 2025
+Country folder: Greece
+Category: agricultural funds / corruption
+Evidence label: DOCUMENTED: EPPO investigations and arrests
+
+FULL ARTICLE / STORY
+Alleged organized fraud involving agricultural funds, public officials, false declarations, and EU budget damage created a major rural-policy scandal.
+
+It matters because subsidy corruption steals from farmers, taxpayers, and public trust in rural policy.
+
+BACKGROUND
+A corruption, abuse, disaster, surveillance, intelligence, or public-trust case usually begins before the headline. The real beginning is a weakness inside the system: secrecy, emergency law, profit, war, debt, weak regulation, police culture, intelligence authority, classification, elite access, technical complexity, or public fear. For this case the main weak point is: agricultural funds / corruption. That category tells the reader what documents matter most: archives, contracts, court files, declassified records, regulator reports, technical investigations, parliamentary material, safety reports, or survivor testimony.
+
+WHAT HAPPENED
+The core event is this: Alleged organized fraud involving agricultural funds, public officials, false declarations, and EU budget damage created a major rural-policy scandal. The full case is bigger than the core event. It includes the warnings before it, the official explanation after it, the people who challenged that explanation, and the accountability that did or did not follow. A serious reader should ask who controlled the first narrative, who controlled the evidence, who had incentives to delay disclosure, and who was forced to prove harm from outside the institution.
+
+DETAILED REPORT
+1. Precondition: incentives, fear, secrecy, money, ideology, or weak oversight created the risk.
+2. Trigger: the event became visible through harm, leak, death, lawsuit, public report, whistleblower, declassification, or disaster.
+3. Official narrative: an institution or powerful actor gave the first explanation.
+4. Counter-record: victims, families, journalists, courts, auditors, inspectors, researchers, or international bodies challenged the explanation.
+5. Accountability: resignations, trials, settlements, reforms, compensation, or public memory battles followed.
+6. Open problem: Proceedings are ongoing; presumption of innocence applies.
+
+PROOF / SOURCE TRAIL
+EPPO OPEKEPE 2025: https://www.eppo.europa.eu/en/media/news/greece-eppo-probes-opekepe-officials-over-alleged-organised-agricultural-subsidy-fraud; EPPO 2026: https://www.eppo.europa.eu/en/media/news/greece-new-developments-eppos-probe-large-scale-agricultural-subsidy-fraud
+
+WHAT IS STRONGLY SUPPORTED
+The strongest supported core is: Alleged organized fraud involving agricultural funds, public officials, false declarations, and EU budget damage created a major rural-policy scandal.. This is the first thing to verify. If the core is verified, wider claims can be tested. If the core is not verified, the case should not be treated as fact.
+
+WHAT IS DISPUTED OR STILL OPEN
+Proceedings are ongoing; presumption of innocence applies. This database is stronger when it admits uncertainty. A file can be serious without pretending that every theory around it is proven.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = Greece, year = 2025, category = agricultural funds / corruption, title = OPEKEPE EU subsidy-fraud networks. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.
+
+
+Proof dossier
+-------------
+OPEKEPE EU subsidy-fraud networks — PROOF DOSSIER
+
+Evidence: DOCUMENTED: EPPO investigations and arrests
+
+Sources:
+EPPO OPEKEPE 2025: https://www.eppo.europa.eu/en/media/news/greece-eppo-probes-opekepe-officials-over-alleged-organised-agricultural-subsidy-fraud; EPPO 2026: https://www.eppo.europa.eu/en/media/news/greece-new-developments-eppos-probe-large-scale-agricultural-subsidy-fraud
+
+First fact to verify:
+Alleged organized fraud involving agricultural funds, public officials, false declarations, and EU budget damage created a major rural-policy scandal.
+
+Institutional question:
+It matters because subsidy corruption steals from farmers, taxpayers, and public trust in rural policy.
+
+Open/disputed point:
+Proceedings are ongoing; presumption of innocence applies.
+
+Source trail
+------------
+OPEKEPE EU subsidy-fraud networks
+
+EPPO OPEKEPE 2025: https://www.eppo.europa.eu/en/media/news/greece-eppo-probes-opekepe-officials-over-alleged-organised-agricultural-subsidy-fraud; EPPO 2026: https://www.eppo.europa.eu/en/media/news/greece-new-developments-eppos-probe-large-scale-agricultural-subsidy-fraud
+
+Reading report
+--------------
+Read main file, proof dossier, source trail, then images.
+Core: Alleged organized fraud involving agricultural funds, public officials, false declarations, and EU budget damage created a major rural-policy scandal.
+
+Images
+------
+Corrupted Files Media/greece_2025_opekepe_eu_subsidy_fraud_networks/en_original_cover_card_v23_59f32c9955c1.svg
+Corrupted Files Media/greece_2025_opekepe_eu_subsidy_fraud_networks/en_proof_map_v23_990c3ad6ca4e.svg

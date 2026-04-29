@@ -1,0 +1,183 @@
+USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)
+===================================================================================
+
+ID: usa_1919_palmer_raids_red_scare_deportations_political_policing
+Country: USA
+Year: 1919
+Category: public trust / accountability
+Evidence: High for raids/deportations and political repression; medium for broader claims about lasting intelligence-culture effects.
+
+Article
+-------
+USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)
+
+DATABASE VERSION: v17 expanded dossier
+TYPE: Full original article / story file
+COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion.
+EVIDENCE LEVEL: High for raids/deportations and political repression; medium for broader claims about lasting intelligence-culture effects.
+
+1. The story
+After bombings, labour unrest, anarchist violence, and fear of Bolshevism, the U.S. Department
+of Justice launched mass raids against radicals and immigrants. The story matters because the
+raids showed how panic can turn ordinary law enforcement into ideological policing. People were
+arrested in large numbers, often without clean warrants or fair process, and deportation became
+a political weapon rather than only an immigration procedure.
+
+2. Background
+The period after World War I was full of fear. The Russian Revolution had shocked governments,
+strikes were treated as possible revolution, and newspapers carried stories about anarchists,
+bombs, and foreign subversion. Attorney General A. Mitchell Palmer and a young J. Edgar Hoover
+built a machinery of files, informants, lists, and raids. The case is one of the early American
+templates for the later national-security state: first identify an internal enemy, then expand
+emergency powers, then normalize surveillance as protection.
+
+3. Chronology and turning points
+- 1917–1918: wartime laws and propaganda created a culture in which dissent could be painted as
+disloyalty.
+- 1919: bombings and attempted bombings against officials increased panic and made repression
+easier to sell to the public.
+- November 1919 and January 1920: coordinated raids targeted suspected radicals, immigrants, and
+members of left-wing organizations.
+- Thousands were detained; many had little connection to violence. Legal challenges and public
+criticism eventually exposed abusive procedures.
+- The raids helped build Hoover’s reputation as a keeper of political files, foreshadowing later
+domestic intelligence controversies.
+
+4. Psychological / social-control angle
+The psychological mechanism was simple: fear compressed the public’s tolerance for due process.
+When people believe a hidden enemy is everywhere, mass lists and secret files feel like safety.
+This is why the case is relevant to modern digital panic cycles: the technology changes, but the
+pattern of enemy naming, emergency framing, and bureaucratic expansion repeats.
+
+5. What is documented
+- Mass raids and deportations occurred.
+- Political ideology and immigrant status were central to who was targeted.
+- The raids generated legal and civil-liberties backlash.
+- J. Edgar Hoover’s role in gathering information on radicals is part of the historical record.
+
+6. What remains disputed, exaggerated, or unresolved
+- Not every person targeted was innocent of radical activism; the problem is that activism was
+often treated like criminal violence.
+- Some violence was real, but the scale of state reaction exceeded individualized evidence in many
+cases.
+- The case should not be reduced to “nothing happened” or “everyone was a terrorist”; both
+extremes hide the institutional lesson.
+
+7. Why this belongs in Corrupted Files
+The Palmer Raids belong here because they show a repeatable corruption pattern: a real security
+fear becomes a justification for broad ideological sorting, then agencies keep the tools after
+the emergency fades. For a reader, the core question is not whether danger existed; it is
+whether the response preserved law or trained the state to bypass it.
+
+8. Questions for the reader
+- Who had power, money, secrecy, or institutional protection in this case?
+- Which claims are documented by courts, inquiries, official records, or primary documents?
+- Which claims are only rumours, ideological narratives, or internet folklore?
+- Did the public receive a full explanation, or only a managed version of the story?
+- What reform would prevent the same pattern from repeating?
+
+9. Source trail to verify independently
+- U.S. historical records on the First Red Scare and Palmer Raids.
+- Civil-liberties histories of the early Department of Justice and Bureau of Investigation.
+- Congressional and legal commentary from the post-raid backlash.
+
+1. FULL NARRATIVE RECONSTRUCTION
+USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920) belongs to the wider category of digital identity, platforms and behavioral control. That matters because the event is not only a single scandal or rumor; it is a window into a repeatable pattern. The pattern usually begins with a justification that sounds reasonable in isolation: security, efficiency, public health, modernization, anti-fraud control, national defense, child protection, budget discipline, or emergency management. The next stage is where the danger appears. A special exception becomes normal. Oversight is postponed. Records become hard to access. Technical language replaces moral language. People outside the institution are asked to trust conclusions without being allowed to inspect the full process.
+
+4. SPECIFIC READING NOTES FOR THIS CASE
+- The central value of this file is that it treats USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920) as a chain of decisions rather than as a headline.
+- A reader should look for the point where ordinary procedure stopped being enough and an institution chose delay, secrecy, denial, or blame shifting.
+- The strongest conclusion is usually not that every rumor is true, but that unanswered gaps become politically powerful when official explanations arrive late or incomplete.
+
+V19 FULL READING REPORT
+
+This added report makes the existing file read like a complete case rather than a collection of facts.
+
+CASE TYPE: Public health, science and consent
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)
+Country folder: USA
+Year folder: 1919
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920), the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Case-specific reading frame
+---------------------------
+For this file, the title itself points to a public-trust rupture in USA around 1919. The
+most useful way to read it is to identify the institutions involved, the people harmed, the
+official explanation, the counter-evidence, and the final accountability outcome. A detailed
+reader should ask whether the event was a one-time failure, a symptom of a wider system, or
+a case where later political mythology became stronger than the documented record.
+
+Long-form narrative
+-------------------
+In a full article, USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920) should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920) should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920) matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = USA, year = 1919, category = , title = USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920). A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.
+
+
+Proof dossier
+-------------
+Proof recovery note: read this case together with its article, source trail, year folder, and media references. Case ID: usa_1919_palmer_raids_red_scare_deportations_political_policing.
+
+Source trail
+------------
+Source trail recovery note: use official records, court material, parliamentary records, declassified archives, regulator reports, and reliable reporting where available.
+
+Reading report
+--------------
+Reading report: compare this 1919 case with other records from the same decade and country to detect patterns of accountability, delay, institutional weakness, or public fear.
+
+Images
+------
+Corrupted Files Media/usa_1919_palmer_raids_red_scare_deportations_political_policing/en_original_cover_card_e132eaabd699.svg
+Corrupted Files Media/usa_1919_palmer_raids_red_scare_deportations_political_policing/en_original_cover_card_v18_b9c2d430e641.svg
+Corrupted Files Media/usa_1919_palmer_raids_red_scare_deportations_political_policing/el_original_cover_card_885684cdd734.svg
+Corrupted Files Media/usa_1919_palmer_raids_red_scare_deportations_political_policing/el_prototypi_karta_exofylloy_v18_97144a10eb96.svg

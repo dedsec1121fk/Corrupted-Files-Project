@@ -1,0 +1,98 @@
+Enron accounting fraud, energy trading, and auditor collapse
+============================================================
+
+ID: usa_2001_enron_accounting_fraud_energy_market_capture
+Country: USA
+Year: 2001
+Category: corporate fraud / energy markets / audit failure
+Evidence: documented corporate fraud with convictions and market fallout
+
+Article
+-------
+Enron accounting fraud, energy trading, and auditor collapse
+
+Country: USA
+Year: 2001
+Category: corporate fraud / energy markets / audit failure
+Evidence level: documented corporate fraud with convictions and market fallout
+
+Full story
+----------
+Enron collapsed after hidden debt, accounting tricks, energy-market manipulation claims, and auditor failure broke the company's image as an innovation miracle. It became a public-trust case about whether complexity can be used as camouflage for looting.
+
+Confirmed record
+----------------
+- Executives were prosecuted and convicted after the collapse.
+- Arthur Andersen's auditing role became a symbol of watchdog failure.
+- Employees and investors suffered large losses while insiders had better information.
+
+Disputed or unresolved points
+-----------------------------
+- The full boundary between aggressive accounting, deception, and regulatory failure differs by transaction.
+- California energy-market manipulation allegations add a separate but related layer.
+
+Conspiracy theory / rumor lane
+------------------------------
+- Some theories frame Enron as proof that all markets are scripted by insiders; the documented record proves a major fraud, not universal market fakery.
+- A stronger structural theory is that deregulation, political access, and audit conflicts let deception scale.
+
+Why it matters
+--------------
+It matters because technical finance can hide simple theft behind vocabulary that ordinary investors cannot audit.
+
+Source trail
+------------
+- SEC Enron litigation record
+- U.S. criminal trial record
+- Congressional hearings on Enron and Arthur Andersen
+
+Reader warning
+--------------
+This record deliberately separates documented facts from allegations and conspiracy theories. The theory lane is included because those claims shape public memory, not because every claim is proven.
+
+
+Proof dossier
+-------------
+Enron accounting fraud, energy trading, and auditor collapse — PROOF DOSSIER
+
+Verified anchors
+----------------
+- Executives were prosecuted and convicted after the collapse.
+- Arthur Andersen's auditing role became a symbol of watchdog failure.
+- Employees and investors suffered large losses while insiders had better information.
+
+Disputed / weaker evidence
+--------------------------
+- The full boundary between aggressive accounting, deception, and regulatory failure differs by transaction.
+- California energy-market manipulation allegations add a separate but related layer.
+
+Conspiracy theories to handle carefully
+---------------------------------------
+- Some theories frame Enron as proof that all markets are scripted by insiders; the documented record proves a major fraud, not universal market fakery.
+- A stronger structural theory is that deregulation, political access, and audit conflicts let deception scale.
+
+Source trail
+------------
+- SEC Enron litigation record
+- U.S. criminal trial record
+- Congressional hearings on Enron and Arthur Andersen
+
+Evidence discipline: court findings, official reports, regulatory records, parliamentary files, and named investigative reporting are stronger than rumor, anonymous posts, or claims that require a hidden master plan.
+
+
+Source trail
+------------
+Enron accounting fraud, energy trading, and auditor collapse
+
+- SEC Enron litigation record
+- U.S. criminal trial record
+- Congressional hearings on Enron and Arthur Andersen
+
+Reading report
+--------------
+Reading report: Start with the public record for Enron accounting fraud, energy trading, and auditor collapse (USA, 2001). Separate deaths, money flows, contracts, official decisions, technical evidence, and media framing. Then compare the official explanation with documented criticism and with theories that remain unproven.
+
+Images
+------
+Corrupted Files Media/expansion_v26/usa_2001_enron_accounting_fraud_energy_market_capture_cover.svg
+Corrupted Files Media/expansion_v26/usa_2001_enron_accounting_fraud_energy_market_capture_proof_map.svg

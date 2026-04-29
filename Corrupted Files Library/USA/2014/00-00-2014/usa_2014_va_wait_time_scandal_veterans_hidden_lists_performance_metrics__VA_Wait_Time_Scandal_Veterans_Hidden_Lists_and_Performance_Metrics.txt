@@ -1,0 +1,117 @@
+VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics
+====================================================================
+
+ID: usa_2014_va_wait_time_scandal_veterans_hidden_lists_performance_metrics
+Country: USA
+Year: 2014
+Category: healthcare bureaucracy / veterans
+Evidence: documented case with some disputed interpretation
+
+Article
+-------
+VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics
+====================================================================
+Country: United States
+Main year folder: 2014
+Category: healthcare bureaucracy / veterans
+Evidence level: documented case with some disputed interpretation
+File role: Original dossier-style article for the Corrupted Files database. This is written from scratch so it can be redistributed with the archive.
+
+1. Why this file exists
+VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics is included because it shows how institutional trust can collapse when warnings, oversight or accountability fail at the exact moment the public needs them most.
+
+2. Background and setting
+The background of VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics is not a simple good-versus-bad story. It involves a chain of incentives, professional cultures and institutional blind spots. The central question is not only what happened, but why the system did not stop it earlier and why the public learned the full picture late.
+
+3. Chronology
+- 2014: the core event enters the public record.
+- Investigations, reporting, litigation or official reviews create a fuller documentary trail.
+- Later reforms or public debates show that the case continued to matter after the first headline.
+
+11. Source trail
+- VA Inspector General reports and congressional material
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics
+Country folder: USA
+Year folder: 2014
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics, the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Case-specific reading frame
+---------------------------
+For this file, the title itself points to a public-trust rupture in USA around 2014. The
+most useful way to read it is to identify the institutions involved, the people harmed, the
+official explanation, the counter-evidence, and the final accountability outcome. A detailed
+reader should ask whether the event was a one-time failure, a symptom of a wider system, or
+a case where later political mythology became stronger than the documented record.
+
+Long-form narrative
+-------------------
+In a full article, VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = USA, year = 2014, category = healthcare bureaucracy / veterans, title = VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.
+
+
+Proof dossier
+-------------
+Proof recovery note: read this case together with its article, source trail, year folder, and media references. Case ID: usa_2014_va_wait_time_scandal_veterans_hidden_lists_performance_metrics.
+
+Source trail
+------------
+Source trail recovery note: use official records, court material, parliamentary records, declassified archives, regulator reports, and reliable reporting where available.
+
+Reading report
+--------------
+Reading report: compare this 2014 case with other records from the same decade and country to detect patterns of accountability, delay, institutional weakness, or public fear.
+
+Images
+------
+Corrupted Files Media/usa_2014_va_wait_time_scandal_veterans_hidden_lists_performance_metrics/en_original_cover_card_v20_7fe4839bb34a.svg
+Corrupted Files Media/usa_2014_va_wait_time_scandal_veterans_hidden_lists_performance_metrics/el_original_cover_card_v20_fe944be082bf.svg

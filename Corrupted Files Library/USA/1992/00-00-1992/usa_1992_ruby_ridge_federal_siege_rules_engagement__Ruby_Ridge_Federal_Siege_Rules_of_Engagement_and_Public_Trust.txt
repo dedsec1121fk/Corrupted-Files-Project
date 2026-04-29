@@ -1,0 +1,146 @@
+Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust
+===============================================================
+
+ID: usa_1992_ruby_ridge_federal_siege_rules_engagement
+Country: USA
+Year: 1992
+Category: federal force / siege / civil liberties
+Evidence: documented deadly operation with official reviews
+
+Article
+-------
+Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust
+===============================================================
+Country: United States
+Main year folder: 1992
+Category: federal force / siege / civil liberties
+Evidence level: documented deadly operation with official reviews
+File role: Original dossier-style article for the Corrupted Files database. This is written from scratch so it can be redistributed with the archive.
+
+1. Why this file exists
+Ruby Ridge remains one of the cases that shaped modern distrust of federal law enforcement, especially around militarized tactics and rules of engagement.
+
+2. Background and setting
+The 1992 siege at the Weaver family property in Idaho led to deaths and later investigations into how federal agents planned, communicated and used force. The case became a symbolic reference point for anti-government movements and for civil-liberties critiques of federal power.
+
+3. Chronology
+- 1992: standoff begins after prior weapons case and failure to appear.
+- August 1992: U.S. Marshal William Degan, Sammy Weaver and Vicki Weaver die in related events.
+- Afterward: reviews, settlement and public hearings examine federal conduct.
+
+4. What happened in practical terms
+The mechanism was escalation: a criminal case became a siege, tactical assumptions hardened, and rules of engagement were criticized as too permissive for deadly force.
+
+5. Evidence map
+Documented elements:
+- Deaths occurred during the operation.
+- Official reviews criticized aspects of the rules and conduct.
+- A settlement was reached with the family.
+
+Alleged or disputed elements:
+- Different accounts exist about threat perception during key moments.
+- The wider ideological meaning of the case remains contested.
+
+Unsupported or overextended claims to treat carefully:
+- Claims that Ruby Ridge proves all federal law enforcement is illegitimate are political conclusions, not evidence.
+
+6. Human impact
+The immediate human cost was death and trauma; the broader cost was a new mythos of federal overreach that influenced later events.
+
+7. Why the case created suspicion
+Suspicion persisted because the government investigated its own use of force after lives were already lost.
+
+8. Counterpoints and caution
+The case should not be used to sanitize extremist ideology, but it must be studied as a real example of force escalation and accountability failure.
+
+9. What a reader should conclude
+Ruby Ridge shows how law enforcement legitimacy can be lost when tactics appear disproportionate to the underlying case.
+
+11. Source trail
+- U.S. Senate Ruby Ridge hearings and DOJ reviews
+- FBI historical and public records on Ruby Ridge
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust
+Country folder: USA
+Year folder: 1992
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust, the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Case-specific reading frame
+---------------------------
+For this file, the title itself points to a public-trust rupture in USA around 1992. The
+most useful way to read it is to identify the institutions involved, the people harmed, the
+official explanation, the counter-evidence, and the final accountability outcome. A detailed
+reader should ask whether the event was a one-time failure, a symptom of a wider system, or
+a case where later political mythology became stronger than the documented record.
+
+Long-form narrative
+-------------------
+In a full article, Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = USA, year = 1992, category = federal force / siege / civil liberties, title = Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.
+
+
+Proof dossier
+-------------
+Proof recovery note: read this case together with its article, source trail, year folder, and media references. Case ID: usa_1992_ruby_ridge_federal_siege_rules_engagement.
+
+Source trail
+------------
+Source trail recovery note: use official records, court material, parliamentary records, declassified archives, regulator reports, and reliable reporting where available.
+
+Reading report
+--------------
+Reading report: compare this 1992 case with other records from the same decade and country to detect patterns of accountability, delay, institutional weakness, or public fear.
+
+Images
+------
+Corrupted Files Media/usa_1992_ruby_ridge_federal_siege_rules_engagement/en_original_cover_card_v20_d50b9a6ad0f6.svg
+Corrupted Files Media/usa_1992_ruby_ridge_federal_siege_rules_engagement/el_original_cover_card_v20_28a3f6c2b659.svg
