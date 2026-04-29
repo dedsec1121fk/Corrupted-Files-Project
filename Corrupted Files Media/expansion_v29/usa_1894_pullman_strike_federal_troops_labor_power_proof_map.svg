@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0b0b12"/><stop offset="1" stop-color="#123c69"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000" flood-opacity=".45"/></filter></defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1116" height="616" rx="28" fill="none" stroke="#7cc7ff" stroke-width="4"/>
+  <rect x="70" y="76" width="1060" height="548" rx="22" fill="#111827" opacity=".70" filter="url(#shadow)"/>
+  <text x="80" y="115" class="kicker">PROOF MAP · CORRUPTED FILES V29</text>
+  <text x="80" y="150" class="title">Pullman Strike, federal troops,</text>
+<text x="80" y="202" class="title">and corporate labor power</text>
+  <text x="80" y="315" class="meta">USA · 1894 · documented labor conflict and federal intervention</text>
+  <text x="120" y="360" class="body">• Confirmed record</text>
+<text x="120" y="408" class="body">• Disputed points</text>
+<text x="120" y="456" class="body">• Theory lane labeled</text>
+  <text x="80" y="590" class="footer">Generated SVG. Not a news photo. Built for offline Termux reading.</text>
+  <style>.kicker{fill:#7cc7ff;font:700 26px monospace;letter-spacing:2px}.title{fill:#fff;font:800 42px monospace}.meta{fill:#d7d7e8;font:22px monospace}.body{fill:#f4f4ff;font:26px monospace}.footer{fill:#b8b8c8;font:20px monospace}</style>
+</svg>
