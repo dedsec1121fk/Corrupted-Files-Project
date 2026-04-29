@@ -1,12 +1,12 @@
 {
   "project": "Corrupted Files Project",
-  "database_files": 13,
-  "records": 402,
-  "media_references": 793,
+  "database_files": 14,
+  "records": 417,
+  "media_references": 823,
   "languages": [
     "en",
     "el"
   ],
   "root_folder": "Corrupted_Files_Project",
-  "notes": "No separate safe command TXT is included. Use README instructions. V26 adds Greece/USA expansion records with generated SVG cards."
+  "notes": "No separate safe command TXT is included. Use README instructions. V26 and V27 add Greece/USA expansion records with generated SVG cards."
 }
