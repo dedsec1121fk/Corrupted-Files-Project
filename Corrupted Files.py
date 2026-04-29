@@ -177,7 +177,8 @@ def show_case(e, lang):
 def export_case(e, lang, folder=EXPORT_DIR):
     title=get(e,'title',lang)
     slug=re.sub(r'[^A-Za-z0-9Α-Ωα-ωΆ-ώ]+','_',title).strip('_')[:80] or e.get('id','case')
-    p=folder / f"{e.get('year','0000')}_{slug}.txt"
+    case_id=re.sub(r'[^A-Za-z0-9_]+','_',str(e.get('id','case'))).strip('_') or 'case'
+    p=folder / f"{e.get('year','0000')}_{case_id}_{slug}.txt"
     parts=[title, '='*len(title), f"{UI[lang]['export_country']}: {get(e,'country',lang)}", f"{UI[lang]['export_year']}: {e.get('year','')}", '']
     for name,field in [(UI[lang]['export_article'],'article'),(UI[lang]['export_proof'],'proof_dossier'),(UI[lang]['export_sources'],'source_trail'),(UI[lang]['export_report'],'reading_report')]:
         val=get(e,field,lang)
