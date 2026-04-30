@@ -1,0 +1,16 @@
+Incident ID: greece_2002_17_november_trial_security_state_transition
+Country: Greece
+Date Folder: 00-00-2002
+Year: 2002
+
+Title EN: 17 November trial and security-state transition
+Title EL: 17 November trial and security-state transition
+
+Category EN: terrorism / justice
+Category EL: terrorism / justice
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

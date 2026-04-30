@@ -1,0 +1,16 @@
+Incident ID: greece_1996_imia_crisis_sovereignty_media_military_pressure
+Country: Greece
+Date Folder: 00-00-1996
+Year: 1996
+
+Title EN: Imia crisis, sovereignty panic, and media-military pressure
+Title EL: Κρίση Ιμίων, πανικός κυριαρχίας και πίεση ΜΜΕ-στρατού
+
+Category EN: foreign policy crisis / media escalation
+Category EL: κρίση εξωτερικής πολιτικής / κλιμάκωση ΜΜΕ
+
+Evidence EN: documented crisis with disputed diplomatic handling
+Evidence EL: τεκμηριωμένη κρίση με αμφισβητούμενο διπλωματικό χειρισμό
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

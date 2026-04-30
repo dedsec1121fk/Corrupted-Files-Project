@@ -1,0 +1,26 @@
+{
+  "id": "greece_1947_makronisos_camps_reeducation_state_violence",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Makronisos camps, re-education, and state violence",
+    "el": "Μακρόνησος, αναμόρφωση και κρατική βία"
+  },
+  "year": 1947,
+  "date_folder": "00-00-1947",
+  "incident_folder": "Greece/00-00-1947/Makronisos camps, re-education, and state violence",
+  "category": {
+    "en": "civil-war aftermath / detention / coercion",
+    "el": "μετεμφυλιακή περίοδος / κράτηση / καταναγκασμός"
+  },
+  "evidence_level": {
+    "en": "documented camp system with contested full responsibility",
+    "el": "τεκμηριωμένο σύστημα στρατοπέδων με αμφισβητούμενη πλήρη ευθύνη"
+  },
+  "images": [
+    "Greece/00-00-1947/Makronisos camps, re-education, and state violence/Media/01 - Cover Card.svg",
+    "Greece/00-00-1947/Makronisos camps, re-education, and state violence/Media/02 - Proof Map.svg"
+  ]
+}

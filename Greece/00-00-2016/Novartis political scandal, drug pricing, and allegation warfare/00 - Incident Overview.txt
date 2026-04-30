@@ -1,0 +1,16 @@
+Incident ID: greece_2016_novartis_political_scandal_drug_pricing
+Country: Greece
+Date Folder: 00-00-2016
+Year: 2016
+
+Title EN: Novartis political scandal, drug pricing, and allegation warfare
+Title EL: Novartis: πολιτικό σκάνδαλο, τιμές φαρμάκων και πόλεμος καταγγελιών
+
+Category EN: pharma / bribery allegations / political conflict
+Category EL: φάρμακο / καταγγελίες δωροδοκίας / πολιτική σύγκρουση
+
+Evidence EN: documented corporate settlement abroad; Greek political allegations contested
+Evidence EL: τεκμηριωμένος εταιρικός διακανονισμός στο εξωτερικό· αμφισβητούμενες ελληνικές πολιτικές καταγγελίες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

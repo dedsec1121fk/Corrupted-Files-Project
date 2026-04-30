@@ -1,0 +1,26 @@
+{
+  "id": "greece_1965_aspida_affair_army_politics_palace_pressure",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "ASPIDA affair, army politics, and palace pressure",
+    "el": "Υπόθεση ΑΣΠΙΔΑ, στρατός, πολιτική και πίεση παλατιού"
+  },
+  "year": 1965,
+  "date_folder": "00-00-1965",
+  "incident_folder": "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure",
+  "category": {
+    "en": "army politics / constitutional crisis / intelligence claims",
+    "el": "στρατός και πολιτική / συνταγματική κρίση / ισχυρισμοί υπηρεσιών"
+  },
+  "evidence_level": {
+    "en": "documented political-military scandal with disputed plot claims",
+    "el": "τεκμηριωμένο πολιτικοστρατιωτικό σκάνδαλο με αμφισβητούμενους ισχυρισμούς συνωμοσίας"
+  },
+  "images": [
+    "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/Media/01 - Cover Card.svg",
+    "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/Media/02 - Proof Map.svg"
+  ]
+}

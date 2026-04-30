@@ -1,0 +1,16 @@
+Incident ID: greece_2017_noor_one_heroin_allegations_impunity
+Country: Greece
+Date Folder: 00-00-2017
+Year: 2017
+
+Title EN: Noor One heroin case and allegations of impunity
+Title EL: Noor One heroin case and allegations of impunity
+
+Category EN: organized crime / public trust
+Category EL: organized crime / public trust
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_2023_pylos_shipwreck_accountability
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: Greece: Pylos Shipwreck, Coast Guard Accountability, and the Investigation Fight (2023-2026)
+Title EL: Ελλάδα: Ναυάγιο της Πύλου, Ευθύνες Λιμενικού και Μάχη για τη Λογοδοσία (2023-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

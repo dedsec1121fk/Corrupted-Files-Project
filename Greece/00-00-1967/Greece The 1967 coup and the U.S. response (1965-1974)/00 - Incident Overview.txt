@@ -1,0 +1,16 @@
+Incident ID: greece_1967_coup_us_response
+Country: Greece
+Date Folder: 00-00-1967
+Year: 1967
+
+Title EN: Greece: The 1967 coup and the U.S. response (1965-1974)
+Title EL: Ελλάδα: Το πραξικόπημα του 1967 και η αμερικανική ανταπόκριση (1965-1974)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

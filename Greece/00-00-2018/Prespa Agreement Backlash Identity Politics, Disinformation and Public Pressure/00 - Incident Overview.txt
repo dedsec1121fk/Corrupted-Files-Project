@@ -1,0 +1,16 @@
+Incident ID: greece_2018_prespa_agreement_backlash_identity_politics_disinformation_pressure
+Country: Greece
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Prespa Agreement Backlash: Identity Politics, Disinformation and Public Pressure
+Title EL: Πρέσπες: Ταυτότητα, Παραπληροφόρηση και Δημόσια Πίεση
+
+Category EN: identity politics / disinformation
+Category EL: πολιτική ταυτότητας / παραπληροφόρηση
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

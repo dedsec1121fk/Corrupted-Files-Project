@@ -1,0 +1,25 @@
+{
+  "id": "usa_2007_mortgage_crisis_foreclosure_machine",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Mortgage crisis and foreclosure machine",
+    "el": "Mortgage crisis and foreclosure machine"
+  },
+  "year": 2007,
+  "date_folder": "00-00-2007",
+  "incident_folder": "USA/00-00-2007/Mortgage crisis and foreclosure machine",
+  "category": {
+    "en": "financial corruption / systemic failure",
+    "el": "financial corruption / systemic failure"
+  },
+  "evidence_level": {
+    "en": "documented systemic failure",
+    "el": "documented systemic failure"
+  },
+  "images": [
+    "USA/00-00-2007/Mortgage crisis and foreclosure machine/Media/01 - EN Cover Card.svg"
+  ]
+}

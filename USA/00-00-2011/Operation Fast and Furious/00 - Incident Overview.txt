@@ -1,0 +1,16 @@
+Incident ID: usa_2011_operation_fast_furious
+Country: USA
+Date Folder: 00-00-2011
+Year: 2011
+
+Title EN: Operation Fast and Furious
+Title EL: Operation Fast and Furious
+
+Category EN: law enforcement failure
+Category EL: law enforcement failure
+
+Evidence EN: documented oversight scandal
+Evidence EL: documented oversight scandal
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

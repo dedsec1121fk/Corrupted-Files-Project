@@ -1,0 +1,16 @@
+Incident ID: greece_1985_kaltezas_killing_exarchia_police_distrust
+Country: Greece
+Date Folder: 00-00-1985
+Year: 1985
+
+Title EN: Kaltezas killing and Exarchia police distrust
+Title EL: Kaltezas killing and Exarchia police distrust
+
+Category EN: policing / youth unrest
+Category EL: policing / youth unrest
+
+Evidence EN: documented killing and social rupture
+Evidence EL: documented killing and social rupture
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

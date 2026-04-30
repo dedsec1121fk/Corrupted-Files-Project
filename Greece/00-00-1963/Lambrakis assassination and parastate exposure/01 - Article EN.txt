@@ -1,0 +1,42 @@
+Lambrakis assassination and parastate exposure
+
+Country: Greece
+Year: 1963
+Category: political violence / parastate
+Evidence level: documented historical assassination
+
+Full story
+----------
+This dossier records the case as a public-trust event rather than as a short headline. The point is to make the reader understand what happened, why people still discuss it, what can be proven, what remains disputed, and how the case fits into a wider pattern of corruption, state failure, institutional secrecy, organized influence, or public fear.
+
+Background
+----------
+Grigoris Lambrakis was attacked in Thessaloniki in 1963 and died after a political event.
+
+Chronology and public record
+----------------------------
+The investigation exposed links between far-right violence, police tolerance, and parastate networks.
+
+Main conflict
+-------------
+The central conflict is whether the state merely failed to protect him or tolerated forces around the attack.
+
+Why it matters
+--------------
+The case matters because it became a symbol of hidden power structures inside a formal democracy.
+
+Impact on public trust
+----------------------
+It changed Greek political memory and remains a reference point for parastate violence.
+
+Open questions
+--------------
+Questions remain about how deep the network reached and how much was officially known.
+
+Reader conclusion
+-----------------
+A careful reader should separate confirmed facts from interpretation. The strongest parts of this case are the documented events, public records, court or institutional material, and direct consequences. The weaker parts are claims that require inference or depend on political interpretation. The case belongs in this database because it shows how a public event can become a larger question about accountability, power, and memory.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = Greece, year = 1963, category = political violence / parastate, title = Lambrakis assassination and parastate exposure. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.

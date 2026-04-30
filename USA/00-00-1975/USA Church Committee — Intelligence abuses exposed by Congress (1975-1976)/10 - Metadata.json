@@ -1,0 +1,26 @@
+{
+  "id": "usa_1975_church_committee_intelligence_abuses",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA: Church Committee — Intelligence abuses exposed by Congress (1975-1976)",
+    "el": "ΗΠΑ: Church Committee — οι καταχρήσεις των υπηρεσιών πληροφοριών που αποκαλύφθηκαν από τη Γερουσία (1975-1976)"
+  },
+  "year": 1975,
+  "date_folder": "00-00-1975",
+  "incident_folder": "USA/00-00-1975/USA Church Committee — Intelligence abuses exposed by Congress (1975-1976)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1975/USA Church Committee — Intelligence abuses exposed by Congress (1975-1976)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1975/USA Church Committee — Intelligence abuses exposed by Congress (1975-1976)/Media/02 - EL Cover Card.svg"
+  ]
+}

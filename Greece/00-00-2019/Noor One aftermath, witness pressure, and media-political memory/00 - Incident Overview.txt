@@ -1,0 +1,16 @@
+Incident ID: greece_2019_piraeus_noor_one_political_pressure_media_memory
+Country: Greece
+Date Folder: 00-00-2019
+Year: 2019
+
+Title EN: Noor One aftermath, witness pressure, and media-political memory
+Title EL: Μετασεισμοί Noor One, πίεση μαρτύρων και μιντιακοπολιτική μνήμη
+
+Category EN: organized crime / media pressure / disputed influence
+Category EL: οργανωμένο έγκλημα / πίεση ΜΜΕ / αμφισβητούμενη επιρροή
+
+Evidence EN: documented heroin case with disputed higher-level influence claims
+Evidence EL: τεκμηριωμένη υπόθεση ηρωίνης με αμφισβητούμενους ισχυρισμούς ανώτερης επιρροής
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

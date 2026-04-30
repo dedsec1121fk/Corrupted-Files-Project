@@ -1,0 +1,16 @@
+Incident ID: usa_1995_oklahoma_city_bombing_backlash_extremism_informants_federal_security_p
+Country: USA
+Date Folder: 00-00-1995
+Year: 1995
+
+Title EN: Oklahoma City Bombing Backlash: Extremism, Informants and Federal Security Panic
+Title EL: Oklahoma City: Εξτρεμισμός, Πληροφοριοδότες και Ομοσπονδιακός Πανικός Ασφάλειας
+
+Category EN: terrorism / security response / conspiracy ecosystem
+Category EL: τρομοκρατία / απάντηση ασφάλειας / οικοσύστημα θεωριών
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

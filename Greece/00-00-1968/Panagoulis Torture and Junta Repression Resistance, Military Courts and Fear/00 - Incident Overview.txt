@@ -1,0 +1,16 @@
+Incident ID: greece_1968_panagoulis_torture_junta_repression_resistance_military_courts_fear
+Country: Greece
+Date Folder: 00-00-1968
+Year: 1968
+
+Title EN: Panagoulis Torture and Junta Repression: Resistance, Military Courts and Fear
+Title EL: Βασανιστήρια Παναγούλη και Καταστολή Χούντας: Αντίσταση, Στρατοδικεία και Φόβος
+
+Category EN: dictatorship / torture / resistance
+Category EL: δικτατορία / βασανιστήρια / αντίσταση
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

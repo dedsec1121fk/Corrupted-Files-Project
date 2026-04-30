@@ -1,0 +1,16 @@
+Incident ID: usa_2025_federal_anti_corruption_cases_in_local_government
+Country: USA
+Date Folder: 00-00-2025
+Year: 2025
+
+Title EN: Federal anti-corruption cases and public trust in local government
+Title EL: Federal anti-corruption cases and public trust in local government
+
+Category EN: public corruption / bribery
+Category EL: public corruption / bribery
+
+Evidence EN: documented prosecutions
+Evidence EL: documented prosecutions
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

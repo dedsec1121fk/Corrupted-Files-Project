@@ -1,0 +1,16 @@
+Incident ID: usa_2026_former_nyc_housing_liaison_bribery_charges_housing_pay_play_city_hall
+Country: USA
+Date Folder: 00-00-2026
+Year: 2026
+
+Title EN: Former NYC Housing Liaison Bribery Charges: Public Housing, Pay-to-Play and City Hall Access
+Title EL: Πρώην Σύνδεσμος Δημόσιας Στέγασης NYC: Κατηγορίες Δωροδοκίας και Pay-to-Play
+
+Category EN: municipal corruption / public housing
+Category EL: δημοτική διαφθορά / δημόσια στέγαση
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

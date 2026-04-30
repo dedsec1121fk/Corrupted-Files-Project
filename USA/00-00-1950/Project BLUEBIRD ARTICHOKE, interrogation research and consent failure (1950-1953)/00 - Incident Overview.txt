@@ -1,0 +1,16 @@
+Incident ID: usa_1950_project_bluebird_artichoke_interrogation_research_secret_consent_failu
+Country: USA
+Date Folder: 00-00-1950
+Year: 1950
+
+Title EN: Project BLUEBIRD/ARTICHOKE, interrogation research and consent failure (1950-1953)
+Title EL: Project BLUEBIRD/ARTICHOKE, έρευνα ανάκρισης και αποτυχία συναίνεσης (1950-1953)
+
+Category EN: Public health, science and consent
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

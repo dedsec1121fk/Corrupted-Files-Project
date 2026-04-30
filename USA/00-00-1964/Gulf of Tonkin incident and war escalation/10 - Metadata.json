@@ -1,0 +1,26 @@
+{
+  "id": "usa_1964_gulf_tonkin_incident_war_escalation",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Gulf of Tonkin incident and war escalation",
+    "el": "Gulf of Tonkin incident and war escalation"
+  },
+  "year": 1964,
+  "date_folder": "00-00-1964",
+  "incident_folder": "USA/00-00-1964/Gulf of Tonkin incident and war escalation",
+  "category": {
+    "en": "war powers / intelligence",
+    "el": "war powers / intelligence"
+  },
+  "evidence_level": {
+    "en": "documented controversy",
+    "el": "documented controversy"
+  },
+  "images": [
+    "USA/00-00-1964/Gulf of Tonkin incident and war escalation/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1964/Gulf of Tonkin incident and war escalation/Media/02 - EN Gulf Of Tonkin Incident And War Escalation V21 Exp 2F5B912B231A.svg"
+  ]
+}

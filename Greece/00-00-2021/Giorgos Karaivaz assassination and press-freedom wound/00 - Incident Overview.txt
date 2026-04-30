@@ -1,0 +1,16 @@
+Incident ID: greece_2021_giorgos_karaivaz_assassination_and_press_freedom_wound
+Country: Greece
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: Giorgos Karaivaz assassination and press-freedom wound
+Title EL: Δολοφονία Γιώργου Καραϊβάζ και πληγή στην ελευθερία του Τύπου
+
+Category EN: journalist killing / organized crime / impunity
+Category EL: δολοφονία δημοσιογράφου / οργανωμένο έγκλημα / ατιμωρησία
+
+Evidence EN: documented murder; accountability disputed
+Evidence EL: τεκμηριωμένη δολοφονία· η λογοδοσία αμφισβητείται
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

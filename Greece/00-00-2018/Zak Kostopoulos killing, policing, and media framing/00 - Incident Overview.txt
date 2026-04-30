@@ -1,0 +1,16 @@
+Incident ID: greece_2018_zak_kostopoulos_killing_policing_media_frame
+Country: Greece
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Zak Kostopoulos killing, policing, and media framing
+Title EL: Θάνατος Ζακ Κωστόπουλου, αστυνόμευση και μιντιακή πλαισίωση
+
+Category EN: policing / vigilante violence / media narrative
+Category EL: αστυνόμευση / αυτοδικία / μιντιακή αφήγηση
+
+Evidence EN: documented death and court proceedings with disputed public narratives
+Evidence EL: τεκμηριωμένος θάνατος και δίκες με αμφισβητούμενες δημόσιες αφηγήσεις
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

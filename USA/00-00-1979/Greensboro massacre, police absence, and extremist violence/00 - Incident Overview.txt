@@ -1,0 +1,16 @@
+Incident ID: usa_1979_greensboro_massacre_police_klan_nazi_failure
+Country: USA
+Date Folder: 00-00-1979
+Year: 1979
+
+Title EN: Greensboro massacre, police absence, and extremist violence
+Title EL: Σφαγή Greensboro, απουσία αστυνομίας και εξτρεμιστική βία
+
+Category EN: political violence / policing / extremist networks
+Category EL: πολιτική βία / αστυνόμευση / εξτρεμιστικά δίκτυα
+
+Evidence EN: documented killings with disputed state responsibility
+Evidence EL: τεκμηριωμένες δολοφονίες με αμφισβητούμενη κρατική ευθύνη
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

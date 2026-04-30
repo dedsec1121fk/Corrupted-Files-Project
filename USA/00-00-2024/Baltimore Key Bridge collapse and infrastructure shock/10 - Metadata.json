@@ -1,0 +1,25 @@
+{
+  "id": "usa_2024_baltimore_key_bridge_collapse_infrastructure_shock",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Baltimore Key Bridge collapse and infrastructure shock",
+    "el": "Baltimore Key Bridge collapse and infrastructure shock"
+  },
+  "year": 2024,
+  "date_folder": "00-00-2024",
+  "incident_folder": "USA/00-00-2024/Baltimore Key Bridge collapse and infrastructure shock",
+  "category": {
+    "en": "infrastructure / emergency response",
+    "el": "infrastructure / emergency response"
+  },
+  "evidence_level": {
+    "en": "documented disaster",
+    "el": "documented disaster"
+  },
+  "images": [
+    "USA/00-00-2024/Baltimore Key Bridge collapse and infrastructure shock/Media/01 - EN Baltimore Key Bridge Collapse And Infrastructure S 184B40317861.svg"
+  ]
+}

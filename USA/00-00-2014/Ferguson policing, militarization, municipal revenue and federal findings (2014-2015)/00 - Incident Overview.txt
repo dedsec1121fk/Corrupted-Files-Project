@@ -1,0 +1,16 @@
+Incident ID: usa_2014_ferguson_policing_militarization_municipal_revenue_federal_findings
+Country: USA
+Date Folder: 00-00-2014
+Year: 2014
+
+Title EN: Ferguson policing, militarization, municipal revenue and federal findings (2014-2015)
+Title EL: Ferguson, αστυνόμευση, στρατιωτικοποίηση, δημοτικά έσοδα και ομοσπονδιακά πορίσματα (2014-2015)
+
+Category EN: Policing, force and institutional accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

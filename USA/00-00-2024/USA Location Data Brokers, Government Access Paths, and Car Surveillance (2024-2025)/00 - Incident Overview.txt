@@ -1,0 +1,16 @@
+Incident ID: usa_2024_location_data_brokers_car_surveillance
+Country: USA
+Date Folder: 00-00-2024
+Year: 2024
+
+Title EN: USA: Location Data Brokers, Government Access Paths, and Car Surveillance (2024-2025)
+Title EL: ΗΠΑ: Μεσίτες Δεδομένων Τοποθεσίας, Διαδρομές Κυβερνητικής Πρόσβασης και Επιτήρηση Αυτοκινήτων (2024-2025)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

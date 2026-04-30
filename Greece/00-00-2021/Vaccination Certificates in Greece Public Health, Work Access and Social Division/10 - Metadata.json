@@ -1,0 +1,26 @@
+{
+  "id": "greece_2021_vaccination_certificates_in_greece_health_work_access_social_division",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Vaccination Certificates in Greece: Public Health, Work Access and Social Division",
+    "el": "Πιστοποιητικά Εμβολιασμού στην Ελλάδα: Υγεία, Εργασία και Κοινωνικός Διχασμός"
+  },
+  "year": 2021,
+  "date_folder": "00-00-2021",
+  "incident_folder": "Greece/00-00-2021/Vaccination Certificates in Greece Public Health, Work Access and Social Division",
+  "category": {
+    "en": "public health policy / civil liberties",
+    "el": "πολιτική υγείας / πολιτικές ελευθερίες"
+  },
+  "evidence_level": {
+    "en": "documented case or documented public controversy with unresolved interpretation",
+    "el": "τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία"
+  },
+  "images": [
+    "Greece/00-00-2021/Vaccination Certificates in Greece Public Health, Work Access and Social Division/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2021/Vaccination Certificates in Greece Public Health, Work Access and Social Division/Media/02 - EL Cover Card.svg"
+  ]
+}

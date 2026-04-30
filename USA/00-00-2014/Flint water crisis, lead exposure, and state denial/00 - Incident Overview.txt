@@ -1,0 +1,16 @@
+Incident ID: usa_2014_flint_water_crisis_lead_and_state_denial
+Country: USA
+Date Folder: 00-00-2014
+Year: 2014
+
+Title EN: Flint water crisis, lead exposure, and state denial
+Title EL: Κρίση νερού Flint, μόλυβδος και κρατική άρνηση
+
+Category EN: public health / environmental racism / state failure
+Category EL: δημόσια υγεία / περιβαλλοντικός ρατσισμός / κρατική αποτυχία
+
+Evidence EN: documented public-health disaster with litigation and official findings
+Evidence EL: τεκμηριωμένη υγειονομική καταστροφή με δίκες και θεσμικά ευρήματα
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

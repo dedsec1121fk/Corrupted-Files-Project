@@ -1,0 +1,16 @@
+Incident ID: usa_2009_h1n1_pandemic_response_rehearsal
+Country: USA
+Date Folder: 00-00-2009
+Year: 2009
+
+Title EN: H1N1 pandemic response and trust rehearsal
+Title EL: H1N1 pandemic response and trust rehearsal
+
+Category EN: public health / risk communication
+Category EL: public health / risk communication
+
+Evidence EN: mixed: documented event with disputed interpretations
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

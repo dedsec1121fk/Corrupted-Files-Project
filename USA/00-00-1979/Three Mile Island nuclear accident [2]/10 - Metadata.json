@@ -1,0 +1,27 @@
+{
+  "id": "usa_1979_three_mile_island_nuclear_accident",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Three Mile Island nuclear accident",
+    "el": "Three Mile Island nuclear accident"
+  },
+  "year": 1979,
+  "date_folder": "00-00-1979",
+  "incident_folder": "USA/00-00-1979/Three Mile Island nuclear accident [2]",
+  "category": {
+    "en": "industrial risk / regulation",
+    "el": "industrial risk / regulation"
+  },
+  "evidence_level": {
+    "en": "documented accident",
+    "el": "documented accident"
+  },
+  "images": [
+    "USA/00-00-1979/Three Mile Island nuclear accident [2]/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1979/Three Mile Island nuclear accident [2]/Media/02 - EN Cover Card.svg",
+    "USA/00-00-1979/Three Mile Island nuclear accident [2]/Media/03 - EL Cover Card.svg"
+  ]
+}

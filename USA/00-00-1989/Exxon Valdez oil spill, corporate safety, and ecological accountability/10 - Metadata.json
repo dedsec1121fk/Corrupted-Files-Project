@@ -1,0 +1,26 @@
+{
+  "id": "usa_1989_exxon_valdez_oil_spill_corporate_safety_ecology",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Exxon Valdez oil spill, corporate safety, and ecological accountability",
+    "el": "Exxon Valdez, πετρελαιοκηλίδα, εταιρική ασφάλεια και οικολογική λογοδοσία"
+  },
+  "year": 1989,
+  "date_folder": "00-00-1989",
+  "incident_folder": "USA/00-00-1989/Exxon Valdez oil spill, corporate safety, and ecological accountability",
+  "category": {
+    "en": "environmental disaster / corporate accountability",
+    "el": "περιβαλλοντική καταστροφή / εταιρική λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "documented oil spill with long litigation and ecological impact",
+    "el": "τεκμηριωμένη πετρελαιοκηλίδα με μακρά δικαστική και οικολογική επίδραση"
+  },
+  "images": [
+    "USA/00-00-1989/Exxon Valdez oil spill, corporate safety, and ecological accountability/Media/01 - Cover Card.svg",
+    "USA/00-00-1989/Exxon Valdez oil spill, corporate safety, and ecological accountability/Media/02 - Proof Map.svg"
+  ]
+}

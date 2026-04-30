@@ -1,0 +1,16 @@
+Incident ID: usa_1971_pentagon_papers_vietnam_deception_public_record
+Country: USA
+Date Folder: 00-00-1971
+Year: 1971
+
+Title EN: Pentagon Papers, Vietnam deception, and the public record
+Title EL: Pentagon Papers, παραπλάνηση για Βιετνάμ και δημόσιο αρχείο
+
+Category EN: war secrecy / press freedom / public deception
+Category EL: πολεμική μυστικότητα / ελευθερία Τύπου / δημόσια παραπλάνηση
+
+Evidence EN: documented leaked study and Supreme Court press-freedom case
+Evidence EL: τεκμηριωμένη διαρροή μελέτης και υπόθεση ελευθερίας Τύπου
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

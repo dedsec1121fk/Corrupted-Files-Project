@@ -1,0 +1,16 @@
+Incident ID: greece_2025_opekepe_farmer_protests_subsidy_hole
+Country: Greece
+Date Folder: 00-00-2025
+Year: 2025
+
+Title EN: OPEKEPE farmer protests and subsidy hole
+Title EL: OPEKEPE farmer protests and subsidy hole
+
+Category EN: EU funds / corruption fallout
+Category EL: EU funds / corruption fallout
+
+Evidence EN: documented current scandal
+Evidence EL: documented current scandal
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

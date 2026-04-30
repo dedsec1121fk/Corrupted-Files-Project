@@ -1,0 +1,16 @@
+Incident ID: greece_2018_folli_follie_market_fraud_regulator_failure
+Country: Greece
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Folli Follie market fraud and regulator confidence collapse
+Title EL: Folli Follie: χρηματιστηριακή απάτη και κατάρρευση εμπιστοσύνης στους ελέγχους
+
+Category EN: corporate fraud / market oversight
+Category EL: εταιρική απάτη / εποπτεία αγοράς
+
+Evidence EN: documented corporate fraud allegations and prosecutions
+Evidence EL: τεκμηριωμένες κατηγορίες εταιρικής απάτης και διώξεις
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_1944_port_chicago_disaster_black_sailors_mutiny_trial
+Country: USA
+Date Folder: 00-00-1944
+Year: 1944
+
+Title EN: Port Chicago disaster, Black sailors, and mutiny trials
+Title EL: Καταστροφή Port Chicago, μαύροι ναύτες και δίκες ανταρσίας
+
+Category EN: military disaster / racism / labor safety
+Category EL: στρατιωτική καταστροφή / ρατσισμός / ασφάλεια εργασίας
+
+Evidence EN: documented naval disaster and contested military justice
+Evidence EL: τεκμηριωμένη ναυτική καταστροφή και αμφισβητούμενη στρατιωτική δικαιοσύνη
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,25 @@
+{
+  "id": "usa_2018_parkland_shooting_institutional_warning_failures",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Parkland shooting and institutional warning failures",
+    "el": "Parkland shooting and institutional warning failures"
+  },
+  "year": 2018,
+  "date_folder": "00-00-2018",
+  "incident_folder": "USA/00-00-2018/Parkland shooting and institutional warning failures",
+  "category": {
+    "en": "school violence / public safety",
+    "el": "school violence / public safety"
+  },
+  "evidence_level": {
+    "en": "mixed: documented event with disputed interpretations",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2018/Parkland shooting and institutional warning failures/Media/01 - EN Parkland Shooting And Institutional Warning Failur 00A5Fb187E82.svg"
+  ]
+}

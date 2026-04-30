@@ -1,0 +1,16 @@
+Incident ID: greece_1965_aspida_affair_army_politics_palace_pressure
+Country: Greece
+Date Folder: 00-00-1965
+Year: 1965
+
+Title EN: ASPIDA affair, army politics, and palace pressure
+Title EL: Υπόθεση ΑΣΠΙΔΑ, στρατός, πολιτική και πίεση παλατιού
+
+Category EN: army politics / constitutional crisis / intelligence claims
+Category EL: στρατός και πολιτική / συνταγματική κρίση / ισχυρισμοί υπηρεσιών
+
+Evidence EN: documented political-military scandal with disputed plot claims
+Evidence EL: τεκμηριωμένο πολιτικοστρατιωτικό σκάνδαλο με αμφισβητούμενους ισχυρισμούς συνωμοσίας
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

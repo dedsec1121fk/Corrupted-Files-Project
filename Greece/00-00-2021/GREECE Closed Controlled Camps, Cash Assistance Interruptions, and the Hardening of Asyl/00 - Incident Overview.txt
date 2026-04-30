@@ -1,0 +1,16 @@
+Incident ID: greece_2021_closed_controlled_camps_asylum_control
+Country: Greece
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: GREECE: Closed Controlled Camps, Cash Assistance Interruptions, and the Hardening of Asylum Control (2021-2026)
+Title EL: ΕΛΛΑΔΑ: Κλειστές ελεγχόμενες δομές, διακοπές οικονομικής ενίσχυσης και σκλήρυνση του ελέγχου ασύλου (2021-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

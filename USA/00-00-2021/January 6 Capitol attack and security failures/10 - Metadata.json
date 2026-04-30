@@ -1,0 +1,25 @@
+{
+  "id": "usa_2021_january_6_capitol_attack_security_failures",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "January 6 Capitol attack and security failures",
+    "el": "January 6 Capitol attack and security failures"
+  },
+  "year": 2021,
+  "date_folder": "00-00-2021",
+  "incident_folder": "USA/00-00-2021/January 6 Capitol attack and security failures",
+  "category": {
+    "en": "political violence / institutions",
+    "el": "political violence / institutions"
+  },
+  "evidence_level": {
+    "en": "documented attack",
+    "el": "documented attack"
+  },
+  "images": [
+    "USA/00-00-2021/January 6 Capitol attack and security failures/Media/01 - EN January 6 Capitol Attack And Security Failures Cov 3E97Cf0Cc536.svg"
+  ]
+}

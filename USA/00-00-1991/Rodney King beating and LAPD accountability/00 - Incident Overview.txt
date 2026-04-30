@@ -1,0 +1,16 @@
+Incident ID: usa_1991_rodney_king_beating_lapd_accountability
+Country: USA
+Date Folder: 00-00-1991
+Year: 1991
+
+Title EN: Rodney King beating and LAPD accountability
+Title EL: Rodney King beating and LAPD accountability
+
+Category EN: police violence / media evidence
+Category EL: police violence / media evidence
+
+Evidence EN: documented police abuse
+Evidence EL: documented police abuse
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

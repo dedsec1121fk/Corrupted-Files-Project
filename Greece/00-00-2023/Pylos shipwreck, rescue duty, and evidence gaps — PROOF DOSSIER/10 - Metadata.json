@@ -1,0 +1,26 @@
+{
+  "id": "greece_2023_pylos_shipwreck_rescue_duty_evidence_gaps",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Pylos shipwreck, rescue duty, and evidence gaps — PROOF DOSSIER",
+    "el": "Ναυάγιο της Πύλου, υποχρέωση διάσωσης και κενά τεκμηρίωσης — ΦΑΚΕΛΟΣ ΑΠΟΔΕΙΞΕΩΝ"
+  },
+  "year": 2023,
+  "date_folder": "00-00-2023",
+  "incident_folder": "Greece/00-00-2023/Pylos shipwreck, rescue duty, and evidence gaps — PROOF DOSSIER",
+  "category": {
+    "en": "migration / maritime disaster",
+    "el": "μετανάστευση / ναυτική καταστροφή"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-2023/Pylos shipwreck, rescue duty, and evidence gaps — PROOF DOSSIER/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2023/Pylos shipwreck, rescue duty, and evidence gaps — PROOF DOSSIER/Media/02 - EN Proof Map.svg"
+  ]
+}

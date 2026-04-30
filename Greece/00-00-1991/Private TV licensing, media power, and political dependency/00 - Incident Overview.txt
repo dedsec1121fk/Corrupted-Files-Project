@@ -1,0 +1,16 @@
+Incident ID: greece_1991_koskoletas_media_licensing_private_tv_power
+Country: Greece
+Date Folder: 00-00-1991
+Year: 1991
+
+Title EN: Private TV licensing, media power, and political dependency
+Title EL: Ιδιωτική τηλεόραση, άδειες, μιντιακή ισχύς και πολιτική εξάρτηση
+
+Category EN: media ownership / licensing / political influence
+Category EL: ιδιοκτησία ΜΜΕ / αδειοδότηση / πολιτική επιρροή
+
+Evidence EN: documented media-system controversy with long-term structural effects
+Evidence EL: τεκμηριωμένη διαμάχη συστήματος ΜΜΕ με μακροχρόνιες δομικές συνέπειες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

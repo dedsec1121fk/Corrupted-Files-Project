@@ -1,0 +1,16 @@
+Incident ID: usa_1998_tobacco_master_settlement_addiction_science_political_money
+Country: USA
+Date Folder: 00-00-1998
+Year: 1998
+
+Title EN: Tobacco Master Settlement, addiction science, and political money
+Title EL: Tobacco Master Settlement, επιστήμη εθισμού και πολιτικό χρήμα
+
+Category EN: public health / corporate deception / settlement politics
+Category EL: δημόσια υγεία / εταιρική παραπλάνηση / πολιτική διακανονισμών
+
+Evidence EN: documented settlement and corporate public-health record
+Evidence EL: τεκμηριωμένος διακανονισμός και εταιρικό αρχείο δημόσιας υγείας
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

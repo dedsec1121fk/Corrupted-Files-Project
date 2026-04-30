@@ -1,0 +1,26 @@
+{
+  "id": "usa_2021_january_6_capitol_attack_accountability_record",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "January 6 Capitol attack accountability record",
+    "el": "January 6 Capitol attack accountability record"
+  },
+  "year": 2021,
+  "date_folder": "00-00-2021",
+  "incident_folder": "USA/00-00-2021/January 6 Capitol attack accountability record",
+  "category": {
+    "en": "democracy / political violence",
+    "el": "democracy / political violence"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-2021/January 6 Capitol attack accountability record/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2021/January 6 Capitol attack accountability record/Media/02 - EN Proof Map.svg"
+  ]
+}

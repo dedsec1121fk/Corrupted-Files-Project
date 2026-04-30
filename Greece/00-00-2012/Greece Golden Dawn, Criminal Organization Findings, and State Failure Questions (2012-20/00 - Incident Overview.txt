@@ -1,0 +1,16 @@
+Incident ID: greece_2012_golden_dawn_criminal_org_state_failure
+Country: Greece
+Date Folder: 00-00-2012
+Year: 2012
+
+Title EN: Greece: Golden Dawn, Criminal Organization Findings, and State Failure Questions (2012-2026)
+Title EL: Ελλάδα: Χρυσή Αυγή, χαρακτηρισμός ως εγκληματική οργάνωση και ερωτήματα κρατικής αποτυχίας (2012-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

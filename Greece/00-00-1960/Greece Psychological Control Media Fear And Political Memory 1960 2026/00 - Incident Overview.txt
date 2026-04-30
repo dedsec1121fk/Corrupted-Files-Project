@@ -1,0 +1,16 @@
+Incident ID: greece_1960_psychological_control_media_fear_political_memory
+Country: Greece
+Date Folder: 00-00-1960
+Year: 1960
+
+Title EN: Greece Psychological Control Media Fear And Political Memory 1960 2026
+Title EL: Ελλαδα Ψυχολογικος Ελεγχος Media Φοβος Και Πολιτικη Μνημη 1960 2026
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

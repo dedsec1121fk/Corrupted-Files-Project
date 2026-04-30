@@ -1,0 +1,26 @@
+{
+  "id": "greece_2018_folli_follie_market_fraud_regulator_failure",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Folli Follie market fraud and regulator confidence collapse",
+    "el": "Folli Follie: χρηματιστηριακή απάτη και κατάρρευση εμπιστοσύνης στους ελέγχους"
+  },
+  "year": 2018,
+  "date_folder": "00-00-2018",
+  "incident_folder": "Greece/00-00-2018/Folli Follie market fraud and regulator confidence collapse",
+  "category": {
+    "en": "corporate fraud / market oversight",
+    "el": "εταιρική απάτη / εποπτεία αγοράς"
+  },
+  "evidence_level": {
+    "en": "documented corporate fraud allegations and prosecutions",
+    "el": "τεκμηριωμένες κατηγορίες εταιρικής απάτης και διώξεις"
+  },
+  "images": [
+    "Greece/00-00-2018/Folli Follie market fraud and regulator confidence collapse/Media/01 - Cover Card.svg",
+    "Greece/00-00-2018/Folli Follie market fraud and regulator confidence collapse/Media/02 - Proof Map.svg"
+  ]
+}

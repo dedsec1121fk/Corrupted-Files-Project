@@ -1,0 +1,16 @@
+Incident ID: usa_2008_financial_crisis_rating_agencies_bailouts_regulatory_capture
+Country: USA
+Date Folder: 00-00-2008
+Year: 2008
+
+Title EN: Financial crisis, rating agencies, bailouts and regulatory capture (2008)
+Title EL: Χρηματοπιστωτική κρίση, οίκοι αξιολόγησης, διασώσεις και ρυθμιστική αιχμαλωσία (2008)
+
+Category EN: Corruption, capture and public money
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

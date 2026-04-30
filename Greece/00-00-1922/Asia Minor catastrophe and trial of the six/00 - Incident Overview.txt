@@ -1,0 +1,16 @@
+Incident ID: greece_1922_asia_minor_catastrophe_trial_six
+Country: Greece
+Date Folder: 00-00-1922
+Year: 1922
+
+Title EN: Asia Minor catastrophe and trial of the six
+Title EL: Asia Minor catastrophe and trial of the six
+
+Category EN: war disaster / accountability
+Category EL: war disaster / accountability
+
+Evidence EN: documented national trauma
+Evidence EL: documented national trauma
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

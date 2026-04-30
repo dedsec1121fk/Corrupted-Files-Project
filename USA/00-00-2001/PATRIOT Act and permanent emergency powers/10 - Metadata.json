@@ -1,0 +1,25 @@
+{
+  "id": "usa_2001_patriot_act_permanent_emergency_powers",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "PATRIOT Act and permanent emergency powers",
+    "el": "PATRIOT Act and permanent emergency powers"
+  },
+  "year": 2001,
+  "date_folder": "00-00-2001",
+  "incident_folder": "USA/00-00-2001/PATRIOT Act and permanent emergency powers",
+  "category": {
+    "en": "surveillance / counterterrorism",
+    "el": "surveillance / counterterrorism"
+  },
+  "evidence_level": {
+    "en": "documented law and policy shift",
+    "el": "documented law and policy shift"
+  },
+  "images": [
+    "USA/00-00-2001/PATRIOT Act and permanent emergency powers/Media/01 - EN Cover Card.svg"
+  ]
+}

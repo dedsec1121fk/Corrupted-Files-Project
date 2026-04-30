@@ -1,0 +1,16 @@
+Incident ID: greece_2005_vodafone_greece_wiretapping_scandal
+Country: Greece
+Date Folder: 00-00-2005
+Year: 2005
+
+Title EN: Vodafone Greece wiretapping scandal
+Title EL: Vodafone Greece wiretapping scandal
+
+Category EN: surveillance / telecoms
+Category EL: surveillance / telecoms
+
+Evidence EN: documented wiretapping scandal
+Evidence EL: documented wiretapping scandal
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_2008_financial_crisis_bailouts_and_moral_hazard
+Country: USA
+Date Folder: 00-00-2008
+Year: 2008
+
+Title EN: 2008 financial crisis, bailouts, and moral hazard
+Title EL: Κρίση 2008, διασώσεις τραπεζών και ηθικός κίνδυνος
+
+Category EN: financial crisis / regulatory failure
+Category EL: χρηματοπιστωτική κρίση / αποτυχία εποπτείας
+
+Evidence EN: documented crisis with contested blame and accountability
+Evidence EL: τεκμηριωμένη κρίση με αμφισβητούμενη ευθύνη και λογοδοσία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

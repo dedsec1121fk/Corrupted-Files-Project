@@ -1,0 +1,26 @@
+{
+  "id": "usa_2021_january_6_capitol_attack_security_failure_conspiracy_ecosystem",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "January 6 Capitol attack, security failure, and conspiracy ecosystem",
+    "el": "6 Ιανουαρίου: επίθεση στο Καπιτώλιο, αποτυχία ασφάλειας και οικοσύστημα συνωμοσιών"
+  },
+  "year": 2021,
+  "date_folder": "00-00-2021",
+  "incident_folder": "USA/00-00-2021/January 6 Capitol attack, security failure, and conspiracy ecosystem",
+  "category": {
+    "en": "election legitimacy / political violence / security failure",
+    "el": "νομιμοποίηση εκλογών / πολιτική βία / αποτυχία ασφάλειας"
+  },
+  "evidence_level": {
+    "en": "documented attack with prosecutions and disputed responsibility narratives",
+    "el": "τεκμηριωμένη επίθεση με διώξεις και αμφισβητούμενες αφηγήσεις ευθύνης"
+  },
+  "images": [
+    "USA/00-00-2021/January 6 Capitol attack, security failure, and conspiracy ecosystem/Media/01 - Cover Card.svg",
+    "USA/00-00-2021/January 6 Capitol attack, security failure, and conspiracy ecosystem/Media/02 - Proof Map.svg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa_1971_citizens_commission_fbi_files_and_cointelpro_exposure",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Citizens Commission FBI files and COINTELPRO exposure",
+    "el": "Αρχεία Citizens Commission και αποκάλυψη COINTELPRO"
+  },
+  "year": 1971,
+  "date_folder": "00-00-1971",
+  "incident_folder": "USA/00-00-1971/Citizens Commission FBI files and COINTELPRO exposure",
+  "category": {
+    "en": "surveillance / civil liberties",
+    "el": "παρακολούθηση / ατομικές ελευθερίες"
+  },
+  "evidence_level": {
+    "en": "documented declassified program",
+    "el": "τεκμηριωμένο αποχαρακτηρισμένο πρόγραμμα"
+  },
+  "images": [
+    "USA/00-00-1971/Citizens Commission FBI files and COINTELPRO exposure/Media/01 - Cover Card.svg",
+    "USA/00-00-1971/Citizens Commission FBI files and COINTELPRO exposure/Media/02 - Proof Map.svg"
+  ]
+}

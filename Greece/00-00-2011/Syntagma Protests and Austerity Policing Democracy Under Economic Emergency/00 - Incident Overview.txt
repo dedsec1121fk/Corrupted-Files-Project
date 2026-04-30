@@ -1,0 +1,16 @@
+Incident ID: greece_2011_syntagma_protests_austerity_policing_democracy_under_economic_emergenc
+Country: Greece
+Date Folder: 00-00-2011
+Year: 2011
+
+Title EN: Syntagma Protests and Austerity Policing: Democracy Under Economic Emergency
+Title EL: Σύνταγμα και Αστυνόμευση Λιτότητας: Δημοκρατία σε Οικονομική Έκτακτη Ανάγκη
+
+Category EN: protest policing / austerity
+Category EL: αστυνόμευση διαδηλώσεων / λιτότητα
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

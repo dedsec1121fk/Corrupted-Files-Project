@@ -1,0 +1,26 @@
+{
+  "id": "usa_2014_flint_water_crisis_lead_and_state_denial",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Flint water crisis, lead exposure, and state denial",
+    "el": "Κρίση νερού Flint, μόλυβδος και κρατική άρνηση"
+  },
+  "year": 2014,
+  "date_folder": "00-00-2014",
+  "incident_folder": "USA/00-00-2014/Flint water crisis, lead exposure, and state denial",
+  "category": {
+    "en": "public health / environmental racism / state failure",
+    "el": "δημόσια υγεία / περιβαλλοντικός ρατσισμός / κρατική αποτυχία"
+  },
+  "evidence_level": {
+    "en": "documented public-health disaster with litigation and official findings",
+    "el": "τεκμηριωμένη υγειονομική καταστροφή με δίκες και θεσμικά ευρήματα"
+  },
+  "images": [
+    "USA/00-00-2014/Flint water crisis, lead exposure, and state denial/Media/01 - Cover Card.svg",
+    "USA/00-00-2014/Flint water crisis, lead exposure, and state denial/Media/02 - Proof Map.svg"
+  ]
+}

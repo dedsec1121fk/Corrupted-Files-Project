@@ -1,0 +1,16 @@
+Incident ID: usa_1979_jfk_hsca_probable_conspiracy
+Country: USA
+Date Folder: 00-00-1979
+Year: 1979
+
+Title EN: USA: JFK Assassination — What the House Select Committee Actually Found (1979 / archival record)
+Title EL: ΗΠΑ: Δολοφονία JFK — Τι ακριβώς βρήκε η House Select Committee (1979 / αρχειακό αρχείο)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

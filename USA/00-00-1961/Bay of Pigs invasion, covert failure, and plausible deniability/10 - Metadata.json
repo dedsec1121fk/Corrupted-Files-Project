@@ -1,0 +1,26 @@
+{
+  "id": "usa_1961_bay_of_pigs_covert_failure_plausible_denial",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Bay of Pigs invasion, covert failure, and plausible deniability",
+    "el": "Εισβολή Bay of Pigs, μυστική αποτυχία και εύλογη άρνηση"
+  },
+  "year": 1961,
+  "date_folder": "00-00-1961",
+  "incident_folder": "USA/00-00-1961/Bay of Pigs invasion, covert failure, and plausible deniability",
+  "category": {
+    "en": "covert action / foreign policy failure / secrecy",
+    "el": "μυστική δράση / αποτυχία εξωτερικής πολιτικής / μυστικότητα"
+  },
+  "evidence_level": {
+    "en": "documented failed covert operation with declassified record",
+    "el": "τεκμηριωμένη αποτυχημένη μυστική επιχείρηση με αποχαρακτηρισμένο αρχείο"
+  },
+  "images": [
+    "USA/00-00-1961/Bay of Pigs invasion, covert failure, and plausible deniability/Media/01 - Cover Card.svg",
+    "USA/00-00-1961/Bay of Pigs invasion, covert failure, and plausible deniability/Media/02 - Proof Map.svg"
+  ]
+}

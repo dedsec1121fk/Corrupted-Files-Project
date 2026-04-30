@@ -1,0 +1,16 @@
+Incident ID: usa_1975_church_committee_intelligence_oversight
+Country: USA
+Date Folder: 00-00-1975
+Year: 1975
+
+Title EN: Church Committee intelligence oversight revelations
+Title EL: Church Committee intelligence oversight revelations
+
+Category EN: intelligence oversight / civil liberties
+Category EL: intelligence oversight / civil liberties
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

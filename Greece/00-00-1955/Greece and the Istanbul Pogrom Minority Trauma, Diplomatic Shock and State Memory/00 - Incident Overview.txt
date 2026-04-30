@@ -1,0 +1,16 @@
+Incident ID: greece_1955_istanbul_pogrom_minority_trauma_diplomatic_shock_state_memory
+Country: Greece
+Date Folder: 00-00-1955
+Year: 1955
+
+Title EN: Greece and the Istanbul Pogrom: Minority Trauma, Diplomatic Shock and State Memory
+Title EL: Ελλάδα και Σεπτεμβριανά Κωνσταντινούπολης: Μειονοτικό Τραύμα, Διπλωματικό Σοκ και Μνήμη
+
+Category EN: minority rights / foreign-state violence / memory
+Category EL: μειονοτικά δικαιώματα / κρατική βία τρίτης χώρας / μνήμη
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

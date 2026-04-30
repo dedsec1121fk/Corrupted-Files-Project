@@ -1,0 +1,16 @@
+Incident ID: usa_2013_cambridge_analytica_psychographic_targeting
+Country: USA
+Date Folder: 00-00-2013
+Year: 2013
+
+Title EN: USA: Cambridge Analytica, Mass Data Harvesting, and Psychographic Election Targeting (2013-2025)
+Title EL: ΗΠΑ: Cambridge Analytica, μαζική συλλογή δεδομένων και ψυχογραφική πολιτική στόχευση (2013-2025)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

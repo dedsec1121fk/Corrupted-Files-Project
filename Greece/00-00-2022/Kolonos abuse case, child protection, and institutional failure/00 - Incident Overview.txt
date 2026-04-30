@@ -1,0 +1,16 @@
+Incident ID: greece_2022_kolonos_abuse_case_child_protection_institutional_failure
+Country: Greece
+Date Folder: 00-00-2022
+Year: 2022
+
+Title EN: Kolonos abuse case, child protection, and institutional failure
+Title EL: Υπόθεση Κολωνού, προστασία παιδιού και θεσμική αποτυχία
+
+Category EN: child protection / abuse / justice process
+Category EL: προστασία παιδιού / κακοποίηση / δικαστική διαδικασία
+
+Evidence EN: documented criminal case with due-process limits and public controversy
+Evidence EL: τεκμηριωμένη ποινική υπόθεση με όρια δίκαιης διαδικασίας και δημόσια διαμάχη
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

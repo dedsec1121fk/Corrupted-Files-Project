@@ -1,0 +1,26 @@
+{
+  "id": "greece_2012_mass_id_tax_vehicle_data_leak",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "GREECE: Massive Leak of Identity, Tax, and Vehicle Data (2012-2013)",
+    "el": "ΕΛΛΑΔΑ: Μαζική διαρροή στοιχείων ταυτότητας, ΑΦΜ και οχημάτων (2012-2013)"
+  },
+  "year": 2012,
+  "date_folder": "00-00-2012",
+  "incident_folder": "Greece/00-00-2012/GREECE Massive Leak of Identity, Tax, and Vehicle Data (2012-2013)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-2012/GREECE Massive Leak of Identity, Tax, and Vehicle Data (2012-2013)/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2012/GREECE Massive Leak of Identity, Tax, and Vehicle Data (2012-2013)/Media/02 - EL Cover Card.svg"
+  ]
+}

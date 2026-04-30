@@ -1,130 +1,110 @@
 #!/usr/bin/env python3
-# Corrupted Files.py — Offline JSON reader for Termux/no-root Python.
-# Standard library only.
-
-import json, os, sys, textwrap, random, re, subprocess
+import json, os, random, re, subprocess, textwrap
 from pathlib import Path
 
 APP_DIR = Path(__file__).resolve().parent
 DB_DIR = APP_DIR / "Corrupted Files Database"
-MEDIA_DIR = APP_DIR / "Corrupted Files Media"
 EXPORT_DIR = APP_DIR / "Corrupted Files Exports"
 EXPORT_DIR.mkdir(exist_ok=True)
 
 UI = {
     "en": {
         "title":"Corrupted Files Offline Reader",
-        "loading":"Loading JSON database...",
-        "loaded":"Loaded {n} cases.",
-        "menu":"\n[1] Search\n[2] Browse by country/year\n[3] Display all folders by year\n[4] Random case\n[5] Export all cases to TXT\n[6] Database stats\n[0] Exit\nChoice: ",
-        "search":"Search text: ","none":"No results.","select":"Select number, Enter to go back: ",
-        "country":"Country (USA/Greece/all): ","year":"Year or all: ","back":"Press Enter to continue...",
-        "exported":"Exported to: {p}","lang":"Choose language / Διάλεξε γλώσσα: [1] English  [2] Ελληνικά : ",
-        "images":"Images:","sources":"Source trail / proof:","invalid":"Invalid choice.",
-        "stats":"Cases: {n}\nYears: {a}-{b}\nCountries: {c}\nDatabase files: {d}\nMedia references: {m}",
-        "openimg":"Open image number with gallery/app, or Enter to skip: ",
+        "loading":"Loading database...",
+        "loaded":"Loaded {n} incidents.",
+        "menu":"\n[1] Search\n[2] Browse by country/date\n[3] Browse by year\n[4] Display all date folders\n[5] Random incident\n[6] Export all to TXT\n[7] Stats\n[0] Exit\nChoice: ",
+        "search":"Search text: ",
+        "country":"Country (Greece/USA/all): ",
+        "date":"Date folder (DD-MM-YYYY or all): ",
+        "year":"Year or all: ",
+        "none":"No results.",
+        "select":"Select number, Enter to go back: ",
+        "back":"Press Enter to continue...",
+        "invalid":"Invalid choice.",
+        "images":"Images:",
+        "openimg":"Open image number or Enter to skip: ",
         "opening":"Opening: {p}",
-        "openfail":"Could not open automatically. Path is printed above. In Termux, install/open Termux:API or use a file manager.",
-        "folders":"Available folders by year",
-        "case_count":"{n} case(s)",
-        "category_label":"Category",
-        "evidence_label":"Evidence",
-        "proof_label":"PROOF",
-        "source_trail_label":"SOURCES",
-        "reading_report_label":"READING REPORT",
-        "export_country":"Country",
-        "export_year":"Year",
-        "export_article":"Article",
-        "export_proof":"Proof dossier",
-        "export_sources":"Source trail",
-        "export_report":"Reading report",
-        "export_images":"Images"
+        "openfail":"Could not open automatically. Path is shown above.",
+        "folders":"Available date folders",
+        "exported":"Exported to: {p}",
+        "stats":"Incidents: {n}\nCountries: {c}\nYears: {y}\nDate folders: {d}\nDatabase files: {f}\nMedia references: {m}",
     },
     "el": {
         "title":"Corrupted Files Offline Reader",
-        "loading":"Φόρτωση βάσης JSON...",
+        "loading":"Φόρτωση βάσης...",
         "loaded":"Φορτώθηκαν {n} υποθέσεις.",
-        "menu":"\n[1] Αναζήτηση\n[2] Περιήγηση ανά χώρα/έτος\n[3] Εμφάνιση όλων των φακέλων ανά έτος\n[4] Τυχαία υπόθεση\n[5] Εξαγωγή όλων σε TXT\n[6] Στατιστικά βάσης\n[0] Έξοδος\nΕπιλογή: ",
-        "search":"Κείμενο αναζήτησης: ","none":"Δεν βρέθηκαν αποτελέσματα.","select":"Διάλεξε αριθμό, Enter για πίσω: ",
-        "country":"Χώρα (ΗΠΑ/Ελλάδα/all): ","year":"Έτος ή all: ","back":"Πάτα Enter για συνέχεια...",
-        "exported":"Έγινε εξαγωγή στο: {p}","lang":"Choose language / Διάλεξε γλώσσα: [1] English  [2] Ελληνικά : ",
-        "images":"Εικόνες:","sources":"Πηγές / τεκμηρίωση:","invalid":"Λάθος επιλογή.",
-        "stats":"Υποθέσεις: {n}\nΈτη: {a}-{b}\nΧώρες: {c}\nΑρχεία βάσης: {d}\nΑναφορές media: {m}",
-        "openimg":"Άνοιγμα εικόνας με αριθμό σε gallery/app ή Enter για παράλειψη: ",
+        "menu":"\n[1] Αναζήτηση\n[2] Περιήγηση ανά χώρα/ημερομηνία\n[3] Περιήγηση ανά έτος\n[4] Εμφάνιση όλων των φακέλων ημερομηνίας\n[5] Τυχαία υπόθεση\n[6] Εξαγωγή όλων σε TXT\n[7] Στατιστικά\n[0] Έξοδος\nΕπιλογή: ",
+        "search":"Κείμενο αναζήτησης: ",
+        "country":"Χώρα (Ελλάδα/ΗΠΑ/all): ",
+        "date":"Φάκελος ημερομηνίας (DD-MM-YYYY ή all): ",
+        "year":"Έτος ή all: ",
+        "none":"Δεν βρέθηκαν αποτελέσματα.",
+        "select":"Διάλεξε αριθμό, Enter για πίσω: ",
+        "back":"Πάτα Enter για συνέχεια...",
+        "invalid":"Λάθος επιλογή.",
+        "images":"Εικόνες:",
+        "openimg":"Άνοιγμα εικόνας με αριθμό ή Enter για παράλειψη: ",
         "opening":"Άνοιγμα: {p}",
-        "openfail":"Δεν άνοιξε αυτόματα. Το path φαίνεται παραπάνω. Στο Termux μπορείς να χρησιμοποιήσεις Termux:API ή file manager.",
-        "folders":"Διαθέσιμοι φάκελοι ανά έτος",
-        "case_count":"{n} υπόθεση/υποθέσεις",
-        "category_label":"Κατηγορία",
-        "evidence_label":"Τεκμηρίωση",
-        "proof_label":"ΦΑΚΕΛΟΣ ΑΠΟΔΕΙΞΕΩΝ",
-        "source_trail_label":"ΠΗΓΕΣ",
-        "reading_report_label":"ΑΝΑΦΟΡΑ ΑΝΑΓΝΩΣΗΣ",
-        "export_country":"Χώρα",
-        "export_year":"Έτος",
-        "export_article":"Άρθρο",
-        "export_proof":"Φάκελος αποδείξεων",
-        "export_sources":"Πηγές",
-        "export_report":"Αναφορά ανάγνωσης",
-        "export_images":"Εικόνες"
+        "openfail":"Δεν άνοιξε αυτόματα. Το path φαίνεται παραπάνω.",
+        "folders":"Διαθέσιμοι φάκελοι ημερομηνίας",
+        "exported":"Έγινε εξαγωγή στο: {p}",
+        "stats":"Υποθέσεις: {n}\nΧώρες: {c}\nΈτη: {y}\nΦάκελοι ημερομηνίας: {d}\nΑρχεία βάσης: {f}\nΑναφορές media: {m}",
     }
 }
 
 def clear():
-    os.system('clear' if os.name != 'nt' else 'cls')
+    if os.name == "nt":
+        os.system("cls")
+    elif os.environ.get("TERM"):
+        os.system("clear")
 
-def load_db():
-    entries=[]
-    if not DB_DIR.exists():
-        print("Database folder not found:", DB_DIR); sys.exit(1)
-    for p in sorted(DB_DIR.glob("Corrupted Files Database *.json")):
-        try:
-            data=json.loads(p.read_text(encoding='utf-8'))
-            entries.extend(data.get('entries', []))
-        except Exception as e:
-            print("Failed to read", p, e)
-    # dedupe in memory, preserving first copy
-    out=[]; seen=set()
-    for e in entries:
-        eid=e.get('id')
-        if eid and eid not in seen:
-            seen.add(eid); out.append(e)
-    return out
 
-def get(e, field, lang):
-    val=e.get(field, '')
-    if isinstance(val, dict):
-        return val.get(lang) or val.get('en') or val.get('el') or ''
-    return str(val or '')
+def localize(entry, field, lang):
+    value = entry.get(field, "")
+    if isinstance(value, dict):
+        return str(value.get(lang) or value.get("en") or value.get("el") or "")
+    return str(value or "")
 
-def wrap(s, width=88):
-    out=[]
-    for para in str(s).split('\n'):
-        if not para.strip(): out.append(''); continue
-        if len(para) < width or para.startswith('- ') or re.match(r'^\s*\d+[.)]', para):
-            out.append(para)
-        else:
-            out.extend(textwrap.wrap(para, width=width, replace_whitespace=False, drop_whitespace=True))
-    return '\n'.join(out)
+def detect_country(entry):
+    en = localize(entry, "country", "en").lower()
+    el = localize(entry, "country", "el").lower()
+    if "greece" in en or "ελλά" in el or "ελλα" in el:
+        return "Greece"
+    return "USA"
+
+def parse_date_folder(entry):
+    year = str(entry.get("year") or "0000")
+    for key in ("date", "event_date", "date_iso"):
+        raw = entry.get(key)
+        if isinstance(raw, str):
+            s = raw.strip()
+            m = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", s)
+            if m:
+                y, mo, d = m.groups(); return f"{d}-{mo}-{y}"
+            m = re.fullmatch(r"(\d{1,2})[/-](\d{1,2})[/-](\d{4})", s)
+            if m:
+                d, mo, y = m.groups(); return f"{int(d):02d}-{int(mo):02d}-{y}"
+        elif isinstance(raw, dict):
+            d, mo, y = raw.get("day"), raw.get("month"), raw.get("year") or year
+            if str(d).isdigit() and str(mo).isdigit() and str(y).isdigit():
+                return f"{int(d):02d}-{int(mo):02d}-{int(y):04d}"
+    return f"00-00-{year}"
 
 def media_path(path_text):
-    p=Path(str(path_text))
-    if p.is_absolute():
-        return p
-    # JSON paths are usually "Corrupted Files Media/..."
-    return APP_DIR / p
+    p = Path(str(path_text))
+    return p if p.is_absolute() else APP_DIR / p
 
 def open_media(path_text):
-    p=media_path(path_text)
+    p = media_path(path_text)
     if not p.exists():
         print("Missing:", p)
         return False
-    cmds=[
+    commands = [
         ["termux-open", str(p)],
-        ["am", "start", "-a", "android.intent.action.VIEW", "-d", "file://"+str(p)],
-        ["xdg-open", str(p)]
+        ["am", "start", "-a", "android.intent.action.VIEW", "-d", "file://" + str(p)],
+        ["xdg-open", str(p)],
     ]
-    for cmd in cmds:
+    for cmd in commands:
         try:
             subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=6)
             return True
@@ -132,142 +112,215 @@ def open_media(path_text):
             pass
     return False
 
-def show_images(e, lang):
-    imgs=e.get('images') or []
+def wrap(text, width=88):
+    out = []
+    for para in str(text).split("\n"):
+        if not para.strip():
+            out.append("")
+            continue
+        lines = textwrap.wrap(para, width=width, replace_whitespace=False, drop_whitespace=True)
+        out.extend(lines or [""])
+    return "\n".join(out)
+
+def load_db():
+    entries = []
+    seen = set()
+    db_files = sorted(p for p in DB_DIR.glob("Database Shard *.json"))
+    for p in db_files:
+        data = json.loads(p.read_text(encoding="utf-8"))
+        for entry in data.get("entries", []):
+            entry_id = entry.get("id")
+            if entry_id and entry_id not in seen:
+                seen.add(entry_id)
+                entries.append(entry)
+    return entries, len(db_files)
+
+def list_results(results, lang, limit=80):
+    for i, e in enumerate(results[:limit], 1):
+        print(f"[{i}] {parse_date_folder(e)} | {detect_country(e)} | {e.get('year','')} | {localize(e,'title',lang)[:90]}")
+    if len(results) > limit:
+        print(f"... {len(results)-limit} more")
+
+def show_images(entry, lang):
+    imgs = entry.get("images") or []
     if not imgs:
         return
-    print('\n'+'-'*90)
-    print(UI[lang]['images'])
-    for i, im in enumerate(imgs, 1):
-        p=media_path(im)
-        status="OK" if p.exists() else "MISSING"
-        print(f"[{i}] {im} ({status})")
-    choice=input(UI[lang]['openimg']).strip()
+    print("\n" + "-" * 90)
+    print(UI[lang]["images"])
+    for i, img in enumerate(imgs, 1):
+        p = media_path(img)
+        status = "OK" if p.exists() else "MISSING"
+        print(f"[{i}] {img} ({status})")
+    choice = input(UI[lang]["openimg"]).strip()
     if choice.isdigit() and 1 <= int(choice) <= len(imgs):
-        p=media_path(imgs[int(choice)-1])
-        print(UI[lang]['opening'].format(p=p))
+        p = media_path(imgs[int(choice)-1])
+        print(UI[lang]["opening"].format(p=p))
         if not open_media(imgs[int(choice)-1]):
-            print(UI[lang]['openfail'])
+            print(UI[lang]["openfail"])
 
-def show_case(e, lang):
+def show_case(entry, lang):
     clear()
-    title=get(e,'title',lang)
-    country=get(e,'country',lang)
-    year=e.get('year','')
-    print('='*90)
-    print(f"{title}\n{country} / {year}")
-    cat=get(e,'category',lang); ev=get(e,'evidence_level',lang)
-    if cat: print(f"{UI[lang]['category_label']}: {cat}")
-    if ev: print(f"{UI[lang]['evidence_label']}: {ev}")
-    print('='*90)
-    text=get(e,'article',lang)
-    print(wrap(text))
-    proof=get(e,'proof_dossier',lang)
-    sources=get(e,'source_trail',lang)
-    report=get(e,'reading_report',lang)
-    if proof or sources or report:
-        print('\n'+'-'*90)
-        print(UI[lang]['sources'])
-        if proof: print(f"\n[{UI[lang]['proof_label']}]\n"+wrap(proof))
-        if sources: print(f"\n[{UI[lang]['source_trail_label']}]\n"+wrap(sources))
-        if report: print(f"\n[{UI[lang]['reading_report_label']}]\n"+wrap(report))
-    show_images(e, lang)
-    input('\n'+UI[lang]['back'])
-
-def export_case(e, lang, folder=EXPORT_DIR):
-    title=get(e,'title',lang)
-    slug=re.sub(r'[^A-Za-z0-9Α-Ωα-ωΆ-ώ]+','_',title).strip('_')[:80] or e.get('id','case')
-    case_id=re.sub(r'[^A-Za-z0-9_]+','_',str(e.get('id','case'))).strip('_') or 'case'
-    p=folder / f"{e.get('year','0000')}_{case_id}_{slug}.txt"
-    parts=[title, '='*len(title), f"{UI[lang]['export_country']}: {get(e,'country',lang)}", f"{UI[lang]['export_year']}: {e.get('year','')}", '']
-    for name,field in [(UI[lang]['export_article'],'article'),(UI[lang]['export_proof'],'proof_dossier'),(UI[lang]['export_sources'],'source_trail'),(UI[lang]['export_report'],'reading_report')]:
-        val=get(e,field,lang)
-        if val:
-            parts += [name, '-'*len(name), val, '']
-    if e.get('images'):
-        parts += [UI[lang]['export_images'],'------'] + list(e['images'])
-    p.write_text('\n'.join(parts),encoding='utf-8')
-    return p
-
-def list_results(results, lang, limit=60):
-    for i,e in enumerate(results[:limit],1):
-        print(f"[{i}] {e.get('year')} | {get(e,'country',lang)} | {get(e,'title',lang)[:90]}")
-    if len(results)>limit: print(f"... {len(results)-limit} more")
+    print("=" * 90)
+    print(localize(entry, "title", lang))
+    print(f"{detect_country(entry)} / {parse_date_folder(entry)} / {entry.get('year','')}")
+    print("=" * 90)
+    print(wrap(localize(entry, "article", lang)))
+    proof = localize(entry, "proof_dossier", lang).strip()
+    sources = localize(entry, "source_trail", lang).strip()
+    report = localize(entry, "reading_report", lang).strip()
+    if proof:
+        print("\n" + "-" * 90 + "\nPROOF\n")
+        print(wrap(proof))
+    if sources:
+        print("\n" + "-" * 90 + "\nSOURCES\n")
+        print(wrap(sources))
+    if report:
+        print("\n" + "-" * 90 + "\nREADING REPORT\n")
+        print(wrap(report))
+    show_images(entry, lang)
+    input("\n" + UI[lang]["back"])
 
 def search(entries, lang):
-    q=input(UI[lang]['search']).strip().lower()
-    if not q: return
-    terms=[t for t in q.split() if t]
-    res=[]
+    q = input(UI[lang]["search"]).strip().lower()
+    if not q:
+        return
+    terms = [t for t in q.split() if t]
+    results = []
     for e in entries:
-        hay=' '.join([get(e,'title',lang), get(e,'category',lang), get(e,'evidence_level',lang), get(e,'article',lang), get(e,'source_trail',lang)]).lower()
-        if all(t in hay for t in terms): res.append(e)
-    if not res: print(UI[lang]['none']); input(UI[lang]['back']); return
-    list_results(res,lang)
-    s=input(UI[lang]['select']).strip()
-    if s.isdigit() and 1<=int(s)<=min(60,len(res)): show_case(res[int(s)-1],lang)
+        hay = " ".join([
+            e.get("id",""),
+            localize(e, "title", "en"),
+            localize(e, "title", "el"),
+            localize(e, "category", "en"),
+            localize(e, "category", "el"),
+            localize(e, "article", "en"),
+            localize(e, "article", "el"),
+            localize(e, "source_trail", "en"),
+            localize(e, "source_trail", "el"),
+            str(e.get("year","")),
+            parse_date_folder(e),
+            detect_country(e),
+        ]).lower()
+        if all(t in hay for t in terms):
+            results.append(e)
+    if not results:
+        print(UI[lang]["none"])
+        input(UI[lang]["back"])
+        return
+    list_results(results, lang)
+    s = input(UI[lang]["select"]).strip()
+    if s.isdigit() and 1 <= int(s) <= min(80, len(results)):
+        show_case(results[int(s)-1], lang)
 
-def browse(entries, lang):
-    c=input(UI[lang]['country']).strip().lower()
-    y=input(UI[lang]['year']).strip().lower()
-    res=[]
+def browse_country_date(entries, lang):
+    c = input(UI[lang]["country"]).strip().lower()
+    d = input(UI[lang]["date"]).strip().lower()
+    results = []
     for e in entries:
-        ce=get(e,'country','en').lower(); cel=get(e,'country','el').lower()
-        okc=(not c or c=='all' or c in ce or c in cel or (c in ['ηπα','hpa','usa'] and ce=='usa') or (c in ['greece','ελλάδα','ελλαδα'] and ce=='greece'))
-        oky=(not y or y=='all' or str(e.get('year'))==y)
-        if okc and oky: res.append(e)
-    res.sort(key=lambda e:(int(e.get('year',0)) if str(e.get('year','')).isdigit() else 0,get(e,'title',lang)))
-    if not res: print(UI[lang]['none']); input(UI[lang]['back']); return
-    list_results(res,lang,80)
-    s=input(UI[lang]['select']).strip()
-    if s.isdigit() and 1<=int(s)<=min(80,len(res)): show_case(res[int(s)-1],lang)
+        country = detect_country(e).lower()
+        date_folder = parse_date_folder(e).lower()
+        okc = (not c or c == "all" or c in country or (c in ("ελλάδα","ελλαδα") and country == "greece") or (c in ("ηπα","hpa") and country == "usa"))
+        okd = (not d or d == "all" or d == date_folder)
+        if okc and okd:
+            results.append(e)
+    if not results:
+        print(UI[lang]["none"])
+        input(UI[lang]["back"])
+        return
+    results.sort(key=lambda e: (detect_country(e), parse_date_folder(e), localize(e, "title", lang)))
+    list_results(results, lang)
+    s = input(UI[lang]["select"]).strip()
+    if s.isdigit() and 1 <= int(s) <= min(80, len(results)):
+        show_case(results[int(s)-1], lang)
 
-def display_folders_by_year(entries, lang):
+def browse_year(entries, lang):
+    y = input(UI[lang]["year"]).strip().lower()
+    results = []
+    for e in entries:
+        ey = str(e.get("year","")).lower()
+        if not y or y == "all" or y == ey:
+            results.append(e)
+    if not results:
+        print(UI[lang]["none"])
+        input(UI[lang]["back"])
+        return
+    results.sort(key=lambda e: (str(e.get("year","")), detect_country(e), parse_date_folder(e), localize(e, "title", lang)))
+    list_results(results, lang)
+    s = input(UI[lang]["select"]).strip()
+    if s.isdigit() and 1 <= int(s) <= min(80, len(results)):
+        show_case(results[int(s)-1], lang)
+
+def display_date_folders(entries, lang):
     clear()
-    print(UI[lang]['folders'])
-    print('='*90)
-    by={}
+    print(UI[lang]["folders"])
+    print("=" * 90)
+    mapping = {}
     for e in entries:
-        by.setdefault(e.get('year','Unknown'),[]).append(e)
-    for year in sorted(by, key=lambda x: int(x) if str(x).isdigit() else 999999):
-        cases=sorted(by[year], key=lambda e:(get(e,'country',lang), get(e,'title',lang)))
-        print(f"\n{year} — {UI[lang]['case_count'].format(n=len(cases))}")
-        print('-'*90)
-        for e in cases:
-            folder=e.get('id','')
-            print(f"  [{get(e,'country',lang)}] {folder}")
-            print(f"      {get(e,'title',lang)}")
-    input('\n'+UI[lang]['back'])
+        mapping.setdefault(detect_country(e), {}).setdefault(parse_date_folder(e), 0)
+        mapping[detect_country(e)][parse_date_folder(e)] += 1
+    for country in ("Greece", "USA"):
+        print(f"\n{country}")
+        print("-" * 90)
+        for date_folder, count in sorted(mapping.get(country, {}).items()):
+            print(f"{date_folder} — {count} incident(s)")
+    input("\n" + UI[lang]["back"])
 
-def stats(entries, lang, db_files):
-    years=[int(e.get('year')) for e in entries if str(e.get('year')).isdigit()]
-    countries=sorted(set(get(e,'country',lang) for e in entries))
-    media=sum(len(e.get('images') or []) for e in entries)
-    print(UI[lang]['stats'].format(n=len(entries),a=min(years),b=max(years),c=', '.join(countries),d=db_files,m=media))
-    input(UI[lang]['back'])
+def export_all(entries, lang):
+    folder = EXPORT_DIR / ("English" if lang == "en" else "Greek")
+    folder.mkdir(parents=True, exist_ok=True)
+    for e in entries:
+        title = re.sub(r"[^A-Za-z0-9Α-Ωα-ωΆ-ώ ]+", " ", localize(e, "title", lang)).strip()
+        title = re.sub(r"\s+", " ", title)[:80] or e.get("id","incident")
+        path = folder / f"{parse_date_folder(e)} - {title}.txt"
+        content = [
+            localize(e, "title", lang),
+            "=" * len(localize(e, "title", lang)),
+            "",
+            wrap(localize(e, "article", lang)),
+            "",
+            "PROOF",
+            "-----",
+            wrap(localize(e, "proof_dossier", lang)),
+            "",
+            "SOURCES",
+            "-------",
+            wrap(localize(e, "source_trail", lang)),
+            "",
+            "READING REPORT",
+            "--------------",
+            wrap(localize(e, "reading_report", lang)),
+        ]
+        path.write_text("\n".join(content), encoding="utf-8")
+    print(UI[lang]["exported"].format(p=folder))
+    input(UI[lang]["back"])
+
+def stats(entries, db_files, lang):
+    countries = sorted(set(detect_country(e) for e in entries))
+    years = sorted({str(e.get("year","")) for e in entries if str(e.get("year","")).strip()})
+    dates = sorted(set(parse_date_folder(e) for e in entries))
+    media_refs = sum(len(e.get("images") or []) for e in entries)
+    print(UI[lang]["stats"].format(n=len(entries), c=", ".join(countries), y=(", ".join(years[:10]) + (" ..." if len(years) > 10 else "")), d=len(dates), f=db_files, m=media_refs))
+    input(UI[lang]["back"])
 
 def main():
-    print(UI['en']['lang'], end='')
-    ch=input().strip()
-    lang='el' if ch=='2' else 'en'
-    clear(); print(UI[lang]['title']); print(UI[lang]['loading'])
-    entries=load_db()
-    db_files=len(list(DB_DIR.glob('Corrupted Files Database *.json')))
-    print(UI[lang]['loaded'].format(n=len(entries)))
+    lang_choice = input("Choose language / Διάλεξε γλώσσα: [1] English  [2] Ελληνικά : ").strip()
+    lang = "el" if lang_choice == "2" else "en"
+    clear()
+    print(UI[lang]["title"])
+    print(UI[lang]["loading"])
+    entries, db_files = load_db()
+    print(UI[lang]["loaded"].format(n=len(entries)))
     while True:
-        choice=input(UI[lang]['menu']).strip()
-        if choice=='1': search(entries,lang)
-        elif choice=='2': browse(entries,lang)
-        elif choice=='3': display_folders_by_year(entries,lang)
-        elif choice=='4': show_case(random.choice(entries),lang)
-        elif choice=='5':
-            folder=EXPORT_DIR / ('English' if lang=='en' else 'Greek')
-            folder.mkdir(parents=True,exist_ok=True)
-            for e in entries: export_case(e,lang,folder)
-            print(UI[lang]['exported'].format(p=folder)); input(UI[lang]['back'])
-        elif choice=='6': stats(entries,lang,db_files)
-        elif choice=='0': break
-        else: print(UI[lang]['invalid'])
+        choice = input(UI[lang]["menu"]).strip()
+        if choice == "1": search(entries, lang)
+        elif choice == "2": browse_country_date(entries, lang)
+        elif choice == "3": browse_year(entries, lang)
+        elif choice == "4": display_date_folders(entries, lang)
+        elif choice == "5": show_case(random.choice(entries), lang)
+        elif choice == "6": export_all(entries, lang)
+        elif choice == "7": stats(entries, db_files, lang)
+        elif choice == "0": break
+        else: print(UI[lang]["invalid"])
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

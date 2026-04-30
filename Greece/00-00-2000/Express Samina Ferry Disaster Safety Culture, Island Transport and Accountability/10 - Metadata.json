@@ -1,0 +1,26 @@
+{
+  "id": "greece_2000_express_samina_ferry_disaster_safety_culture_island_transport_accounta",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Express Samina Ferry Disaster: Safety Culture, Island Transport and Accountability",
+    "el": "Ναυάγιο Express Samina: Κουλτούρα Ασφάλειας, Ακτοπλοΐα και Λογοδοσία"
+  },
+  "year": 2000,
+  "date_folder": "00-00-2000",
+  "incident_folder": "Greece/00-00-2000/Express Samina Ferry Disaster Safety Culture, Island Transport and Accountability",
+  "category": {
+    "en": "transport disaster / regulatory failure",
+    "el": "ναυτικό δυστύχημα / ρυθμιστική αποτυχία"
+  },
+  "evidence_level": {
+    "en": "documented case or documented public controversy with unresolved interpretation",
+    "el": "τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία"
+  },
+  "images": [
+    "Greece/00-00-2000/Express Samina Ferry Disaster Safety Culture, Island Transport and Accountability/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2000/Express Samina Ferry Disaster Safety Culture, Island Transport and Accountability/Media/02 - EL Cover Card.svg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa_2001_enron_accounting_fraud_energy_market_capture",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Enron accounting fraud, energy trading, and auditor collapse",
+    "el": "Enron: λογιστική απάτη, αγορά ενέργειας και κατάρρευση ελεγκτή"
+  },
+  "year": 2001,
+  "date_folder": "00-00-2001",
+  "incident_folder": "USA/00-00-2001/Enron accounting fraud, energy trading, and auditor collapse",
+  "category": {
+    "en": "corporate fraud / energy markets / audit failure",
+    "el": "εταιρική απάτη / αγορές ενέργειας / αποτυχία ελέγχου"
+  },
+  "evidence_level": {
+    "en": "documented corporate fraud with convictions and market fallout",
+    "el": "τεκμηριωμένη εταιρική απάτη με καταδίκες και συνέπειες αγοράς"
+  },
+  "images": [
+    "USA/00-00-2001/Enron accounting fraud, energy trading, and auditor collapse/Media/01 - Cover Card.svg",
+    "USA/00-00-2001/Enron accounting fraud, energy trading, and auditor collapse/Media/02 - Proof Map.svg"
+  ]
+}

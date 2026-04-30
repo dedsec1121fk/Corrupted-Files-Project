@@ -1,0 +1,26 @@
+{
+  "id": "greece_2023_nea_anchialos_ammunition_blasts_wildfires_military_storage_civil_prote",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Nea Anchialos Ammunition Blasts: Wildfires, Military Storage and Civil Protection Failure",
+    "el": "Εκρήξεις Νέας Αγχιάλου: Πυρκαγιές, Πυρομαχικά και Πολιτική Προστασία"
+  },
+  "year": 2023,
+  "date_folder": "00-00-2023",
+  "incident_folder": "Greece/00-00-2023/Nea Anchialos Ammunition Blasts Wildfires, Military Storage and Civil Protection Failure",
+  "category": {
+    "en": "military safety / wildfires",
+    "el": "στρατιωτική ασφάλεια / πυρκαγιές"
+  },
+  "evidence_level": {
+    "en": "documented case or documented public controversy with unresolved interpretation",
+    "el": "τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία"
+  },
+  "images": [
+    "Greece/00-00-2023/Nea Anchialos Ammunition Blasts Wildfires, Military Storage and Civil Protection Failure/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2023/Nea Anchialos Ammunition Blasts Wildfires, Military Storage and Civil Protection Failure/Media/02 - EL Cover Card.svg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa_2014_va_wait_time_scandal_veterans_hidden_lists_performance_metrics",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "VA Wait-Time Scandal: Veterans, Hidden Lists and Performance Metrics",
+    "el": "VA Wait-Time: Βετεράνοι, Κρυφές Λίστες και Μετρήσεις Απόδοσης"
+  },
+  "year": 2014,
+  "date_folder": "00-00-2014",
+  "incident_folder": "USA/00-00-2014/VA Wait-Time Scandal Veterans, Hidden Lists and Performance Metrics",
+  "category": {
+    "en": "healthcare bureaucracy / veterans",
+    "el": "γραφειοκρατία υγείας / βετεράνοι"
+  },
+  "evidence_level": {
+    "en": "documented case with some disputed interpretation",
+    "el": "τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2014/VA Wait-Time Scandal Veterans, Hidden Lists and Performance Metrics/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2014/VA Wait-Time Scandal Veterans, Hidden Lists and Performance Metrics/Media/02 - EL Cover Card.svg"
+  ]
+}

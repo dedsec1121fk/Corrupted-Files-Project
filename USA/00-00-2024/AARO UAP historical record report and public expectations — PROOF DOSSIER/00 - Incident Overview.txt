@@ -1,0 +1,16 @@
+Incident ID: usa_2024_aaro_uap_historical_record_expectations
+Country: USA
+Date Folder: 00-00-2024
+Year: 2024
+
+Title EN: AARO UAP historical record report and public expectations — PROOF DOSSIER
+Title EL: Έκθεση ιστορικού αρχείου AARO για UAP και δημόσιες προσδοκίες — ΦΑΚΕΛΟΣ ΑΠΟΔΕΙΞΕΩΝ
+
+Category EN: UAP / public trust
+Category EL: UAP / δημόσια εμπιστοσύνη
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

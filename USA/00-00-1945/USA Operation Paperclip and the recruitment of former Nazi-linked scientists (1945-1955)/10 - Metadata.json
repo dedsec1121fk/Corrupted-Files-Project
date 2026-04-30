@@ -1,0 +1,28 @@
+{
+  "id": "usa_1945_operation_paperclip",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA: Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)",
+    "el": "ΗΠΑ: Operation Paperclip και στρατολόγηση επιστημόνων με ναζιστικό παρελθόν ή σύνδεση (1945-1955)"
+  },
+  "year": 1945,
+  "date_folder": "00-00-1945",
+  "incident_folder": "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/02 - EL Cover Card.svg",
+    "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/03 - EN Operation Paperclip And Imported Nazi Expertise Co 407Df440F069.svg",
+    "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/04 - EN Operation Paperclip And Imported Nazi Expertise V2 407Df440F069.svg"
+  ]
+}

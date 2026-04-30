@@ -1,0 +1,26 @@
+{
+  "id": "greece_1989_koskotas_scandal_and_media_bank_political_triangle",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Koskotas scandal and media-bank-political triangle",
+    "el": "Σκάνδαλο Κοσκωτά και τρίγωνο ΜΜΕ-τράπεζας-πολιτικής"
+  },
+  "year": 1989,
+  "date_folder": "00-00-1989",
+  "incident_folder": "Greece/00-00-1989/Koskotas scandal and media-bank-political triangle",
+  "category": {
+    "en": "corruption / media / finance",
+    "el": "διαφθορά / ΜΜΕ / οικονομία"
+  },
+  "evidence_level": {
+    "en": "documented political-financial scandal",
+    "el": "τεκμηριωμένο πολιτικοοικονομικό σκάνδαλο"
+  },
+  "images": [
+    "Greece/00-00-1989/Koskotas scandal and media-bank-political triangle/Media/01 - Cover Card.svg",
+    "Greece/00-00-1989/Koskotas scandal and media-bank-political triangle/Media/02 - Proof Map.svg"
+  ]
+}

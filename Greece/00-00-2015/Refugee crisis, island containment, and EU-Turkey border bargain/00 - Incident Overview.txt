@@ -1,0 +1,16 @@
+Incident ID: greece_2015_refugee_crisis_islands_eu_turkey_containment
+Country: Greece
+Date Folder: 00-00-2015
+Year: 2015
+
+Title EN: Refugee crisis, island containment, and EU-Turkey border bargain
+Title EL: Προσφυγική κρίση, εγκλωβισμός νησιών και παζάρι συνόρων ΕΕ-Τουρκίας
+
+Category EN: migration / EU policy / humanitarian governance
+Category EL: μετανάστευση / πολιτική ΕΕ / ανθρωπιστική διακυβέρνηση
+
+Evidence EN: documented humanitarian crisis with disputed policy responsibility
+Evidence EL: τεκμηριωμένη ανθρωπιστική κρίση με αμφισβητούμενη πολιτική ευθύνη
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

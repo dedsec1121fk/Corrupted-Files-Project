@@ -1,0 +1,16 @@
+Incident ID: greece_2013_pavlos_fyssas_murder_golden_dawn_exposure
+Country: Greece
+Date Folder: 00-00-2013
+Year: 2013
+
+Title EN: Pavlos Fyssas murder and Golden Dawn exposure
+Title EL: Pavlos Fyssas murder and Golden Dawn exposure
+
+Category EN: political violence / extremism
+Category EL: political violence / extremism
+
+Evidence EN: documented murder and criminal organization case
+Evidence EL: documented murder and criminal organization case
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

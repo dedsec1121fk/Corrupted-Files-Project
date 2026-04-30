@@ -1,12 +1,15 @@
 {
   "project": "Corrupted Files Project",
-  "database_files": 18,
+  "database_files": 19,
   "records": 456,
   "media_references": 901,
   "languages": [
     "en",
     "el"
   ],
-  "root_folder": "Corrupted_Files_Project",
-  "notes": "No separate safe command TXT is included. Use README instructions. V26-V31 add Greece/USA expansion records with generated SVG cards, bilingual fields, and selected existing-record detail improvements."
+  "root_folders": [
+    "Greece",
+    "USA"
+  ],
+  "notes": "Rebuilt into Greece/USA -> DD-MM-YYYY -> incident folders. No separate Corrupted Files Media, Library, Docs, or Updates folders remain."
 }

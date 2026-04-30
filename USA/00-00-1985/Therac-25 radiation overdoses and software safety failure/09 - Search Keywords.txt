@@ -1,0 +1,10 @@
+usa_1985_therac25_radiation_overdose_software_safety
+USA
+00-00-1985
+1985
+Therac-25 radiation overdoses and software safety failure
+Therac-25, υπερδοσολογίες ακτινοβολίας και αποτυχία ασφάλειας λογισμικού
+medical technology / software safety / regulation
+ιατρική τεχνολογία / ασφάλεια λογισμικού / εποπτεία
+documented medical-device accidents and safety analysis
+τεκμηριωμένα ατυχήματα ιατρικής συσκευής και ανάλυση ασφάλειας

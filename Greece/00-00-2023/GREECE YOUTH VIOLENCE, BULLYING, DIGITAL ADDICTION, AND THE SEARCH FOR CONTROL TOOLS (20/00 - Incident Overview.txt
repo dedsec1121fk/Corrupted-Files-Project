@@ -1,0 +1,16 @@
+Incident ID: greece_2023_youth_violence_bullying_stabbings
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: GREECE: YOUTH VIOLENCE, BULLYING, DIGITAL ADDICTION, AND THE SEARCH FOR CONTROL TOOLS (2023-2026)
+Title EL: ΕΛΛΑΔΑ: ΝΕΑΝΙΚΗ ΒΙΑ, BULLYING, ΨΗΦΙΑΚΟΣ ΕΘΙΣΜΟΣ ΚΑΙ Η ΑΝΑΖΗΤΗΣΗ ΕΡΓΑΛΕΙΩΝ ΕΛΕΓΧΟΥ (2023-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_1965_apostasia_royal_crisis_defectors_institutional_breakdown
+Country: Greece
+Date Folder: 00-00-1965
+Year: 1965
+
+Title EN: Apostasia, royal crisis, defectors and institutional breakdown (1965)
+Title EL: Αποστασία, βασιλική κρίση, αποστάτες και θεσμική κατάρρευση (1965)
+
+Category EN: Corruption, capture and public money
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

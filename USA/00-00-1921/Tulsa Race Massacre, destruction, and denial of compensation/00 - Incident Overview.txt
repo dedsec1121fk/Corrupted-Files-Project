@@ -1,0 +1,16 @@
+Incident ID: usa_1921_tulsa_race_massacre_destruction_insurance_denial
+Country: USA
+Date Folder: 00-00-1921
+Year: 1921
+
+Title EN: Tulsa Race Massacre, destruction, and denial of compensation
+Title EL: Σφαγή της Tulsa, καταστροφή και άρνηση αποζημίωσης
+
+Category EN: racial violence / public accountability
+Category EL: ρατσιστική βία / δημόσια λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

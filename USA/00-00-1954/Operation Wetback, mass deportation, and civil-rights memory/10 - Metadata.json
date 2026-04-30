@@ -1,0 +1,26 @@
+{
+  "id": "usa_1954_operation_wetback_deportation_campaign_civil_rights",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Operation Wetback, mass deportation, and civil-rights memory",
+    "el": "Operation Wetback, μαζικές απελάσεις και μνήμη δικαιωμάτων"
+  },
+  "year": 1954,
+  "date_folder": "00-00-1954",
+  "incident_folder": "USA/00-00-1954/Operation Wetback, mass deportation, and civil-rights memory",
+  "category": {
+    "en": "immigration enforcement / civil rights / labor",
+    "el": "μεταναστευτική επιβολή / δικαιώματα / εργασία"
+  },
+  "evidence_level": {
+    "en": "documented federal deportation campaign with contested numbers and abuses",
+    "el": "τεκμηριωμένη ομοσπονδιακή εκστρατεία απελάσεων με αμφισβητούμενους αριθμούς και καταχρήσεις"
+  },
+  "images": [
+    "USA/00-00-1954/Operation Wetback, mass deportation, and civil-rights memory/Media/01 - Cover Card.svg",
+    "USA/00-00-1954/Operation Wetback, mass deportation, and civil-rights memory/Media/02 - Proof Map.svg"
+  ]
+}

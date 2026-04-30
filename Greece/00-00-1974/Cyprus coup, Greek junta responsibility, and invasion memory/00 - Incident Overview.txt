@@ -1,0 +1,16 @@
+Incident ID: greece_1974_cyprus_coup_junta_responsibility_invasion_memory
+Country: Greece
+Date Folder: 00-00-1974
+Year: 1974
+
+Title EN: Cyprus coup, Greek junta responsibility, and invasion memory
+Title EL: Κυπριακό πραξικόπημα, ευθύνη χούντας και μνήμη εισβολής
+
+Category EN: military regime / foreign policy disaster
+Category EL: στρατιωτικό καθεστώς / καταστροφή εξωτερικής πολιτικής
+
+Evidence EN: documented coup and invasion with contested accountability
+Evidence EL: τεκμηριωμένο πραξικόπημα και εισβολή με αμφισβητούμενη λογοδοσία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

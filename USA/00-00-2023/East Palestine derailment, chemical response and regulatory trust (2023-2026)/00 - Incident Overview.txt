@@ -1,0 +1,16 @@
+Incident ID: usa_2023_east_palestine_derailment_chemical_response_regulatory
+Country: USA
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: East Palestine derailment, chemical response and regulatory trust (2023-2026)
+Title EL: Εκτροχιασμός East Palestine, χημική αντίδραση και ρυθμιστική εμπιστοσύνη (2023-2026)
+
+Category EN: Public health, science and consent
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

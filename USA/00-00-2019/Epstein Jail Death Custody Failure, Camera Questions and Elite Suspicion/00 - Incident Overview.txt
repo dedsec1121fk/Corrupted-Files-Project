@@ -1,0 +1,16 @@
+Incident ID: usa_2019_epstein_jail_death_custody_failure_camera_questions_elite_suspicion
+Country: USA
+Date Folder: 00-00-2019
+Year: 2019
+
+Title EN: Epstein Jail Death: Custody Failure, Camera Questions and Elite Suspicion
+Title EL: Θάνατος Epstein στη Φυλακή: Αποτυχία Κράτησης, Κάμερες και Υποψία Ελίτ
+
+Category EN: custody death / elite networks
+Category EL: θάνατος υπό κράτηση / δίκτυα ελίτ
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

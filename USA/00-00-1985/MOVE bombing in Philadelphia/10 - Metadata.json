@@ -1,0 +1,26 @@
+{
+  "id": "usa_1985_move_bombing_in_philadelphia_2",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "MOVE bombing in Philadelphia",
+    "el": "Βομβαρδισμός MOVE στη Φιλαδέλφεια"
+  },
+  "year": 1985,
+  "date_folder": "00-00-1985",
+  "incident_folder": "USA/00-00-1985/MOVE bombing in Philadelphia",
+  "category": {
+    "en": "police violence / urban disaster",
+    "el": "αστυνομική βία / αστική καταστροφή"
+  },
+  "evidence_level": {
+    "en": "documented municipal disaster",
+    "el": "τεκμηριωμένη δημοτική καταστροφή"
+  },
+  "images": [
+    "USA/00-00-1985/MOVE bombing in Philadelphia/Media/01 - Cover Card.svg",
+    "USA/00-00-1985/MOVE bombing in Philadelphia/Media/02 - Proof Map.svg"
+  ]
+}

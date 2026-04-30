@@ -1,0 +1,26 @@
+{
+  "id": "usa_2008_bernie_madoff_ponzi_finance_sec_warnings_elite_collapse",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Bernie Madoff: Ponzi Finance, SEC Warnings and Elite Trust Collapse",
+    "el": "Bernie Madoff: Πυραμίδα, Προειδοποιήσεις SEC και Κατάρρευση Εμπιστοσύνης Ελίτ"
+  },
+  "year": 2008,
+  "date_folder": "00-00-2008",
+  "incident_folder": "USA/00-00-2008/Bernie Madoff Ponzi Finance, SEC Warnings and Elite Trust Collapse",
+  "category": {
+    "en": "financial fraud / regulatory failure",
+    "el": "οικονομική απάτη / ρυθμιστική αποτυχία"
+  },
+  "evidence_level": {
+    "en": "documented case with some disputed interpretation",
+    "el": "τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2008/Bernie Madoff Ponzi Finance, SEC Warnings and Elite Trust Collapse/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2008/Bernie Madoff Ponzi Finance, SEC Warnings and Elite Trust Collapse/Media/02 - EL Cover Card.svg"
+  ]
+}

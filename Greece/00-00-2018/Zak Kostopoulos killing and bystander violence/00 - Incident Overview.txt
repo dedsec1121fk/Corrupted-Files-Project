@@ -1,0 +1,16 @@
+Incident ID: greece_2018_zak_kostopoulos_killing_bystander_violence
+Country: Greece
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Zak Kostopoulos killing and bystander violence
+Title EL: Zak Kostopoulos killing and bystander violence
+
+Category EN: policing / social violence
+Category EL: policing / social violence
+
+Evidence EN: documented killing and trial
+Evidence EL: documented killing and trial
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

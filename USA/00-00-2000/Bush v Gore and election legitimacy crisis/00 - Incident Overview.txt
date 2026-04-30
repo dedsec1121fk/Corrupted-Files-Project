@@ -1,0 +1,16 @@
+Incident ID: usa_2000_bush_v_gore_election_legitimacy_crisis
+Country: USA
+Date Folder: 00-00-2000
+Year: 2000
+
+Title EN: Bush v Gore and election legitimacy crisis
+Title EL: Bush v Gore and election legitimacy crisis
+
+Category EN: elections / judiciary
+Category EL: elections / judiciary
+
+Evidence EN: documented constitutional crisis
+Evidence EL: documented constitutional crisis
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

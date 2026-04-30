@@ -1,0 +1,16 @@
+Incident ID: greece_2015_capital_controls_referendum_shock
+Country: Greece
+Date Folder: 00-00-2015
+Year: 2015
+
+Title EN: Capital controls and referendum shock
+Title EL: Capital controls and referendum shock
+
+Category EN: austerity / sovereignty
+Category EL: austerity / sovereignty
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

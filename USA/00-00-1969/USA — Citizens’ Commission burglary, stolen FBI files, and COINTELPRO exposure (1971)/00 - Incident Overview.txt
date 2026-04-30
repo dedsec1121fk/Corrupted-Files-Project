@@ -1,0 +1,16 @@
+Incident ID: usa_1969_citizens_commission_fbi_burglary_files_cointelpro_exposure
+Country: USA
+Date Folder: 00-00-1969
+Year: 1969
+
+Title EN: USA — Citizens’ Commission burglary, stolen FBI files, and COINTELPRO exposure (1971)
+Title EL: ΗΠΑ — Διάρρηξη αρχείων FBI, διαρροές και αποκάλυψη COINTELPRO (1971)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: High for the burglary, document leak, and exposure of domestic intelligence abuses.
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

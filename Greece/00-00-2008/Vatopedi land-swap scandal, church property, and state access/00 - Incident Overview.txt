@@ -1,0 +1,16 @@
+Incident ID: greece_2008_vatopedi_land_swap_scandal_church_state_power
+Country: Greece
+Date Folder: 00-00-2008
+Year: 2008
+
+Title EN: Vatopedi land-swap scandal, church property, and state access
+Title EL: Βατοπέδι: ανταλλαγές γης, εκκλησιαστική περιουσία και κρατική πρόσβαση
+
+Category EN: land swaps / church-state influence
+Category EL: ανταλλαγές γης / επιρροή εκκλησίας-κράτους
+
+Evidence EN: documented scandal with contested criminal liability
+Evidence EL: τεκμηριωμένο σκάνδαλο με αμφισβητούμενη ποινική ευθύνη
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

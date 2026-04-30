@@ -1,0 +1,26 @@
+{
+  "id": "greece_2025_hellenic_train_office_bombing_rage_rail_trauma_security_spiral",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Hellenic Train Office Bombing: Public Rage, Rail Trauma and Security Spiral",
+    "el": "Βόμβα στα Γραφεία Hellenic Train: Οργή, Τραύμα Σιδηροδρόμων και Σπείρα Ασφάλειας"
+  },
+  "year": 2025,
+  "date_folder": "00-00-2025",
+  "incident_folder": "Greece/00-00-2025/Hellenic Train Office Bombing Public Rage, Rail Trauma and Security Spiral",
+  "category": {
+    "en": "political violence / rail disaster aftermath",
+    "el": "πολιτική βία / μετά το σιδηροδρομικό τραύμα"
+  },
+  "evidence_level": {
+    "en": "documented case or documented public controversy with unresolved interpretation",
+    "el": "τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία"
+  },
+  "images": [
+    "Greece/00-00-2025/Hellenic Train Office Bombing Public Rage, Rail Trauma and Security Spiral/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2025/Hellenic Train Office Bombing Public Rage, Rail Trauma and Security Spiral/Media/02 - EL Cover Card.svg"
+  ]
+}

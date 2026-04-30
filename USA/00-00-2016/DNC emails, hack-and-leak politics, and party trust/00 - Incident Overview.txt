@@ -1,0 +1,16 @@
+Incident ID: usa_2016_dnc_emails_hack_leaks_party_trust
+Country: USA
+Date Folder: 00-00-2016
+Year: 2016
+
+Title EN: DNC emails, hack-and-leak politics, and party trust
+Title EL: Emails DNC, πολιτική hack-and-leak και εμπιστοσύνη κόμματος
+
+Category EN: cyber operation / election trust / party politics
+Category EL: κυβερνοεπιχείρηση / εκλογική εμπιστοσύνη / κομματική πολιτική
+
+Evidence EN: documented hack-and-leak episode with disputed political effects
+Evidence EL: τεκμηριωμένο επεισόδιο hack-and-leak με αμφισβητούμενες πολιτικές επιδράσεις
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

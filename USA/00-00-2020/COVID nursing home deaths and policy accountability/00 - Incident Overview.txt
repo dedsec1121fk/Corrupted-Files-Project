@@ -1,0 +1,16 @@
+Incident ID: usa_2020_covid_nursing_home_deaths_policy_accountability
+Country: USA
+Date Folder: 00-00-2020
+Year: 2020
+
+Title EN: COVID nursing home deaths and policy accountability
+Title EL: COVID nursing home deaths and policy accountability
+
+Category EN: public health / governance
+Category EL: public health / governance
+
+Evidence EN: documented controversy
+Evidence EL: documented controversy
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

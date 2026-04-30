@@ -1,0 +1,36 @@
+WorldCom accounting fraud and telecom-bubble trust collapse
+
+Country: USA
+Year: 2001
+Category: corporate fraud / accounting / telecom bubble
+Evidence level: documented corporate fraud with criminal convictions
+
+Full story
+----------
+WorldCom collapsed after accounting fraud turned ordinary expenses into capital assets to preserve the illusion of growth. The case sits beside Enron as proof that market euphoria, audit weakness, and executive pressure can manufacture financial reality.
+
+Confirmed record
+----------------
+- WorldCom disclosed a massive accounting fraud and filed for bankruptcy.
+- Executives were prosecuted and convicted.
+- The scandal helped drive Sarbanes-Oxley-era corporate governance reform.
+
+Disputed or unresolved points
+-----------------------------
+- The responsibility of auditors, analysts, and boards must be read separately from executive criminal acts.
+- Telecom-bubble optimism made fraud easier to hide but did not cause every false entry.
+
+Conspiracy theory / rumor lane
+------------------------------
+- The conspiracy lane says Wall Street knowingly sold fake growth; the record supports incentives and warning failures, but each actor needs documents.
+- A structural reading is that capital markets reward narratives until accounting reality breaks them.
+
+Source trail
+------------
+- SEC WorldCom enforcement record
+- U.S. criminal trial reporting
+- Sarbanes-Oxley reform history
+
+Reader warning
+--------------
+This record includes theory and rumor handling because those claims shape public memory. They are separated from documented anchors and should not be treated as proven without primary or court-tested evidence.

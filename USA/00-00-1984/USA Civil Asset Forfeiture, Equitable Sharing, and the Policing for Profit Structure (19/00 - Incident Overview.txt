@@ -1,0 +1,16 @@
+Incident ID: usa_1984_civil_asset_forfeiture_policing_for_profit
+Country: USA
+Date Folder: 00-00-1984
+Year: 1984
+
+Title EN: USA: Civil Asset Forfeiture, Equitable Sharing, and the "Policing for Profit" Structure (1984-2026)
+Title EL: ΗΠΑ: Πολιτικές δημεύσεις περιουσίας, equitable sharing και η δομή του «policing for profit» (1984-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

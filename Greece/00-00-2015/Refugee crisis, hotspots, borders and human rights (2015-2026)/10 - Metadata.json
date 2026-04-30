@@ -1,0 +1,26 @@
+{
+  "id": "greece_2015_refugee_crisis_hotspots_borders_human_rights",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Refugee crisis, hotspots, borders and human rights (2015-2026)",
+    "el": "Προσφυγική κρίση, hotspots, σύνορα και ανθρώπινα δικαιώματα (2015-2026)"
+  },
+  "year": 2015,
+  "date_folder": "00-00-2015",
+  "incident_folder": "Greece/00-00-2015/Refugee crisis, hotspots, borders and human rights (2015-2026)",
+  "category": {
+    "en": "Policing, force and institutional accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "documented/partly documented public record; disputed parts are labelled as disputed",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-2015/Refugee crisis, hotspots, borders and human rights (2015-2026)/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2015/Refugee crisis, hotspots, borders and human rights (2015-2026)/Media/02 - EL Cover Card.svg"
+  ]
+}

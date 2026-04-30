@@ -1,0 +1,25 @@
+{
+  "id": "usa_2008_aig_bailout_too_big_fail_culture",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "AIG bailout and too big to fail culture",
+    "el": "AIG bailout and too big to fail culture"
+  },
+  "year": 2008,
+  "date_folder": "00-00-2008",
+  "incident_folder": "USA/00-00-2008/AIG bailout and too big to fail culture",
+  "category": {
+    "en": "financial crisis / moral hazard",
+    "el": "financial crisis / moral hazard"
+  },
+  "evidence_level": {
+    "en": "mixed: documented event with disputed interpretations",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2008/AIG bailout and too big to fail culture/Media/01 - EN Cover Card.svg"
+  ]
+}

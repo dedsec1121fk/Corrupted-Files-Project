@@ -1,0 +1,16 @@
+Incident ID: usa_1882_chinese_exclusion_act_identity_surveillance
+Country: USA
+Date Folder: 00-00-1882
+Year: 1882
+
+Title EN: Chinese Exclusion Act enforcement and identity surveillance
+Title EL: Chinese Exclusion Act enforcement and identity surveillance
+
+Category EN: immigration / racial law
+Category EL: immigration / racial law
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

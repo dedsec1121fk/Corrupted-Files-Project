@@ -1,0 +1,16 @@
+Incident ID: greece_2025_opekepe_resignations_eu_fine_subsidies_parliament_political_cost
+Country: Greece
+Date Folder: 00-00-2025
+Year: 2025
+
+Title EN: OPEKEPE Resignations and EU Fine: Subsidies, Parliament and Political Cost
+Title EL: ΟΠΕΚΕΠΕ Παραιτήσεις και Πρόστιμο ΕΕ: Επιδοτήσεις, Βουλή και Πολιτικό Κόστος
+
+Category EN: EU funds / political corruption
+Category EL: ευρωπαϊκά κονδύλια / πολιτική διαφθορά
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

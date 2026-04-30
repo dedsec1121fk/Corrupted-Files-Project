@@ -1,0 +1,16 @@
+Incident ID: usa_1919_palmer_raids_first_red_scare
+Country: USA
+Date Folder: 00-00-1919
+Year: 1919
+
+Title EN: Palmer Raids and the first Red Scare
+Title EL: Palmer Raids and the first Red Scare
+
+Category EN: civil liberties / surveillance
+Category EL: civil liberties / surveillance
+
+Evidence EN: documented government repression
+Evidence EL: documented government repression
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

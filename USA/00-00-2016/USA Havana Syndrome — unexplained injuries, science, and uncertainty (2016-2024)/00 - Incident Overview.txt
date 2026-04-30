@@ -1,0 +1,16 @@
+Incident ID: usa_2016_havana_syndrome
+Country: USA
+Date Folder: 00-00-2016
+Year: 2016
+
+Title EN: USA: Havana Syndrome — unexplained injuries, science, and uncertainty (2016-2024)
+Title EL: ΗΠΑ: Σύνδρομο Αβάνας — ανεξήγητες βλάβες, επιστήμη και αβεβαιότητα (2016-2024)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

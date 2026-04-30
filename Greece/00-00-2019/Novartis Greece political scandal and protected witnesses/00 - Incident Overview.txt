@@ -1,0 +1,16 @@
+Incident ID: greece_2019_novartis_greece_political_scandal_protected_witnesses
+Country: Greece
+Date Folder: 00-00-2019
+Year: 2019
+
+Title EN: Novartis Greece political scandal and protected witnesses
+Title EL: Πολιτικό σκάνδαλο Novartis στην Ελλάδα και προστατευόμενοι μάρτυρες
+
+Category EN: pharmaceutical corruption / politics
+Category EL: φαρμακευτική διαφθορά / πολιτική
+
+Evidence EN: documented investigation with disputed political claims
+Evidence EL: documented investigation with disputed political claims
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

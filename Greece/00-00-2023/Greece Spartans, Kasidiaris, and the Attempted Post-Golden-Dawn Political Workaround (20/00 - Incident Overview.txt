@@ -1,0 +1,16 @@
+Incident ID: greece_2023_spartans_golden_dawn_bypass
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: Greece: Spartans, Kasidiaris, and the Attempted Post-Golden-Dawn Political Workaround (2023-2025)
+Title EL: Ελλάδα: Spartans, Κασιδιάρης και η Απόπειρα Παράκαμψης της Απαγόρευσης της Golden Dawn (2023-2025)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_1879_indian_boarding_schools_assimilation_system
+Country: USA
+Date Folder: 00-00-1879
+Year: 1879
+
+Title EN: Indian boarding schools and forced assimilation
+Title EL: Ινδιάνικα οικοτροφεία και αναγκαστική αφομοίωση
+
+Category EN: education / cultural destruction
+Category EL: εκπαίδευση / πολιτισμική καταστροφή
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

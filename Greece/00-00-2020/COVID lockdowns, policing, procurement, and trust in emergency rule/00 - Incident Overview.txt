@@ -1,0 +1,16 @@
+Incident ID: greece_2020_covid_lockdowns_policing_procurement_trust
+Country: Greece
+Date Folder: 00-00-2020
+Year: 2020
+
+Title EN: COVID lockdowns, policing, procurement, and trust in emergency rule
+Title EL: COVID lockdown, αστυνόμευση, προμήθειες και εμπιστοσύνη στην έκτακτη διακυβέρνηση
+
+Category EN: pandemic governance / emergency powers / procurement
+Category EL: διακυβέρνηση πανδημίας / έκτακτες εξουσίες / προμήθειες
+
+Evidence EN: documented emergency policy with contested proportionality and procurement questions
+Evidence EL: τεκμηριωμένη έκτακτη πολιτική με αμφισβητούμενη αναλογικότητα και ερωτήματα προμηθειών
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

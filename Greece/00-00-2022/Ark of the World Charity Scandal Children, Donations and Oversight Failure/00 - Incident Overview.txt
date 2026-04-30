@@ -1,0 +1,16 @@
+Incident ID: greece_2022_ark_world_charity_scandal_children_donations_oversight_failure
+Country: Greece
+Date Folder: 00-00-2022
+Year: 2022
+
+Title EN: Ark of the World Charity Scandal: Children, Donations and Oversight Failure
+Title EL: Κιβωτός του Κόσμου: Παιδιά, Δωρεές και Αποτυχία Ελέγχου
+
+Category EN: child protection / charity oversight
+Category EL: προστασία παιδιών / έλεγχος ΜΚΟ
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

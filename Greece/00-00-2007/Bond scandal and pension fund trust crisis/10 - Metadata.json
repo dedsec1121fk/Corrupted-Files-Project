@@ -1,0 +1,26 @@
+{
+  "id": "greece_2007_bond_scandal_and_pension_fund_trust_crisis",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Bond scandal and pension fund trust crisis",
+    "el": "Σκάνδαλο ομολόγων και κρίση εμπιστοσύνης ταμείων"
+  },
+  "year": 2007,
+  "date_folder": "00-00-2007",
+  "incident_folder": "Greece/00-00-2007/Bond scandal and pension fund trust crisis",
+  "category": {
+    "en": "finance / pensions / corruption",
+    "el": "οικονομία / συντάξεις / διαφθορά"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "Greece/00-00-2007/Bond scandal and pension fund trust crisis/Media/01 - Cover Card.svg",
+    "Greece/00-00-2007/Bond scandal and pension fund trust crisis/Media/02 - Proof Map.svg"
+  ]
+}

@@ -1,0 +1,16 @@
+Incident ID: greece_2011_bailout_privatization_fund_asset_sales
+Country: Greece
+Date Folder: 00-00-2011
+Year: 2011
+
+Title EN: GREECE: Bailout Privatisation Fund, Public Asset Sales, and Post-Crisis State Restructuring (2011-2026)
+Title EL: ΕΛΛΑΔΑ: Ταμείο αποκρατικοποιήσεων, πωλήσεις δημόσιας περιουσίας και μεταμνημονιακή αναδιάρθρωση του κράτους (2011-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_1947_project_blue_book_uap_archives_aliens
+Country: USA
+Date Folder: 00-00-1947
+Year: 1947
+
+Title EN: USA — PROJECT BLUE BOOK AND UAP: ARCHIVES, ALIENS, AND PUBLIC TRUST (1947–2026)
+Title EL: ΗΠΑ — PROJECT BLUE BOOK ΚΑΙ UAP: ΑΡΧΕΊΑ, ΕΞΩΓΉΙΝΟΙ ΚΑΙ ΔΗΜΌΣΙΑ ΕΜΠΙΣΤΟΣΎΝΗ (1947–2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,25 @@
+{
+  "id": "greece_2019_greek_mafia_killings_state_crime_fear",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Greek Mafia killings and state-crime fear",
+    "el": "Greek Mafia killings and state-crime fear"
+  },
+  "year": 2019,
+  "date_folder": "00-00-2019",
+  "incident_folder": "Greece/00-00-2019/Greek Mafia killings and state-crime fear",
+  "category": {
+    "en": "organized crime / policing",
+    "el": "organized crime / policing"
+  },
+  "evidence_level": {
+    "en": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες"
+  },
+  "images": [
+    "Greece/00-00-2019/Greek Mafia killings and state-crime fear/Media/01 - EN Cover Card.svg"
+  ]
+}

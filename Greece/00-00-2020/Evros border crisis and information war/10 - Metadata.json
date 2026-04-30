@@ -1,0 +1,26 @@
+{
+  "id": "greece_2020_evros_border_crisis_and_information_war",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Evros border crisis and information war",
+    "el": "Κρίση Έβρου και πληροφοριακός πόλεμος"
+  },
+  "year": 2020,
+  "date_folder": "00-00-2020",
+  "incident_folder": "Greece/00-00-2020/Evros border crisis and information war",
+  "category": {
+    "en": "border crisis / propaganda",
+    "el": "κρίση συνόρων / προπαγάνδα"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "Greece/00-00-2020/Evros border crisis and information war/Media/01 - Cover Card.svg",
+    "Greece/00-00-2020/Evros border crisis and information war/Media/02 - Proof Map.svg"
+  ]
+}

@@ -1,0 +1,16 @@
+Incident ID: usa_1943_zoot_suit_riots_policing_media_panic_racialized_youth_violence
+Country: USA
+Date Folder: 00-00-1943
+Year: 1943
+
+Title EN: Zoot Suit Riots: Policing, Media Panic and Racialized Youth Violence
+Title EL: Zoot Suit Riots: Αστυνόμευση, Μιντιακός Πανικός και Ρατσιστική Βία Νεολαίας
+
+Category EN: police failure / racial violence / media panic
+Category EL: αστυνομική αποτυχία / ρατσιστική βία / πανικός ΜΜΕ
+
+Evidence EN: documented violence and official failure
+Evidence EL: τεκμηριωμένη βία και θεσμική αποτυχία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_2003_c4i_olympic_security_system_surveillance_scandal
+Country: Greece
+Date Folder: 00-00-2003
+Year: 2003
+
+Title EN: GREECE: C4I Olympic Security System, Siemens Overlap, and the Security-State Procurement Problem (2003-2018)
+Title EL: ΕΛΛΑΔΑ: C4I, ολυμπιακό σύστημα ασφάλειας και το πρόβλημα των προμηθειών του security state (2003-2018)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

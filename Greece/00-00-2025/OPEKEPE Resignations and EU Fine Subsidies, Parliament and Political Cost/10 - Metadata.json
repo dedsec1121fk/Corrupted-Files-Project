@@ -1,0 +1,26 @@
+{
+  "id": "greece_2025_opekepe_resignations_eu_fine_subsidies_parliament_political_cost",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "OPEKEPE Resignations and EU Fine: Subsidies, Parliament and Political Cost",
+    "el": "ΟΠΕΚΕΠΕ Παραιτήσεις και Πρόστιμο ΕΕ: Επιδοτήσεις, Βουλή και Πολιτικό Κόστος"
+  },
+  "year": 2025,
+  "date_folder": "00-00-2025",
+  "incident_folder": "Greece/00-00-2025/OPEKEPE Resignations and EU Fine Subsidies, Parliament and Political Cost",
+  "category": {
+    "en": "EU funds / political corruption",
+    "el": "ευρωπαϊκά κονδύλια / πολιτική διαφθορά"
+  },
+  "evidence_level": {
+    "en": "documented case or documented public controversy with unresolved interpretation",
+    "el": "τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία"
+  },
+  "images": [
+    "Greece/00-00-2025/OPEKEPE Resignations and EU Fine Subsidies, Parliament and Political Cost/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2025/OPEKEPE Resignations and EU Fine Subsidies, Parliament and Political Cost/Media/02 - EL Cover Card.svg"
+  ]
+}

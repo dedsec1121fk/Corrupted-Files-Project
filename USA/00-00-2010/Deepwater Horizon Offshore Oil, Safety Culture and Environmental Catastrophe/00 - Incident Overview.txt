@@ -1,0 +1,16 @@
+Incident ID: usa_2010_deepwater_horizon_offshore_oil_safety_culture_environmental_catastroph
+Country: USA
+Date Folder: 00-00-2010
+Year: 2010
+
+Title EN: Deepwater Horizon: Offshore Oil, Safety Culture and Environmental Catastrophe
+Title EL: Deepwater Horizon: Πετρέλαιο, Κουλτούρα Ασφάλειας και Περιβαλλοντική Καταστροφή
+
+Category EN: industrial disaster / environmental harm
+Category EL: βιομηχανική καταστροφή / περιβαλλοντική ζημιά
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

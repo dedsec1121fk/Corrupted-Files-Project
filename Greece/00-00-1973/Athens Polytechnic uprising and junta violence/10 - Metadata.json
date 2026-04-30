@@ -1,0 +1,26 @@
+{
+  "id": "greece_1973_athens_polytechnic_uprising_and_junta_violence",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Athens Polytechnic uprising and junta violence",
+    "el": "Εξέγερση Πολυτεχνείου και βία χούντας"
+  },
+  "year": 1973,
+  "date_folder": "00-00-1973",
+  "incident_folder": "Greece/00-00-1973/Athens Polytechnic uprising and junta violence",
+  "category": {
+    "en": "dictatorship / repression",
+    "el": "δικτατορία / καταστολή"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "Greece/00-00-1973/Athens Polytechnic uprising and junta violence/Media/01 - Cover Card.svg",
+    "Greece/00-00-1973/Athens Polytechnic uprising and junta violence/Media/02 - Proof Map.svg"
+  ]
+}

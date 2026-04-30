@@ -1,0 +1,16 @@
+Incident ID: usa_1996_cia_dark_alliance_crack_cocaine_controversy
+Country: USA
+Date Folder: 00-00-1996
+Year: 1996
+
+Title EN: CIA Dark Alliance crack cocaine controversy
+Title EL: CIA Dark Alliance και διαμάχη για crack κοκαΐνη
+
+Category EN: media / intelligence controversy
+Category EL: μέσα ενημέρωσης / διαμάχη υπηρεσιών πληροφοριών
+
+Evidence EN: contested but historically significant
+Evidence EL: contested but historically significant
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

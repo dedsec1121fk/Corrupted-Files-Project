@@ -1,0 +1,16 @@
+Incident ID: usa_1933_business_plot_allegations_veterans_wall_street_panic_fragility_democra
+Country: USA
+Date Folder: 00-00-1933
+Year: 1933
+
+Title EN: Business Plot Allegations: Veterans, Wall Street Panic and the Fragility of Democracy
+Title EL: Ισχυρισμοί Business Plot: Βετεράνοι, Οικονομικός Πανικός και Ευθραυστότητα της Δημοκρατίας
+
+Category EN: political conspiracy allegation / democratic stress
+Category EL: πολιτική συνωμοσία ως ισχυρισμός / πίεση στη δημοκρατία
+
+Evidence EN: partly documented allegations, disputed scope
+Evidence EL: μερικώς τεκμηριωμένοι ισχυρισμοί, αμφισβητούμενη έκταση
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

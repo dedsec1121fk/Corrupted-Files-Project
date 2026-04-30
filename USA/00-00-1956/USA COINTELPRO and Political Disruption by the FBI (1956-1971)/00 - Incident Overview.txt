@@ -1,0 +1,16 @@
+Incident ID: usa_1956_cointelpro_1956_1971
+Country: USA
+Date Folder: 00-00-1956
+Year: 1956
+
+Title EN: USA: COINTELPRO and Political Disruption by the FBI (1956-1971)
+Title EL: ΗΠΑ: COINTELPRO και πολιτική αποσταθεροποίηση από το FBI (1956-1971)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

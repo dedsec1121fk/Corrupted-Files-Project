@@ -1,0 +1,25 @@
+{
+  "id": "greece_1955_istanbul_pogrom_greek_minority_trauma",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Istanbul Pogrom and Greek minority trauma",
+    "el": "Istanbul Pogrom and Greek minority trauma"
+  },
+  "year": 1955,
+  "date_folder": "00-00-1955",
+  "incident_folder": "Greece/00-00-1955/Istanbul Pogrom and Greek minority trauma",
+  "category": {
+    "en": "minority rights / diplomatic shock",
+    "el": "minority rights / diplomatic shock"
+  },
+  "evidence_level": {
+    "en": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες"
+  },
+  "images": [
+    "Greece/00-00-1955/Istanbul Pogrom and Greek minority trauma/Media/01 - EN Cover Card.svg"
+  ]
+}

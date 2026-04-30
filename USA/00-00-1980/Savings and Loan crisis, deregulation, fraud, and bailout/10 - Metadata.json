@@ -1,0 +1,26 @@
+{
+  "id": "usa_1980_savings_and_loan_crisis_deregulation_fraud_bailout",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Savings and Loan crisis, deregulation, fraud, and bailout",
+    "el": "Κρίση Savings and Loan, απορρύθμιση, απάτη και διάσωση"
+  },
+  "year": 1980,
+  "date_folder": "00-00-1980",
+  "incident_folder": "USA/00-00-1980/Savings and Loan crisis, deregulation, fraud, and bailout",
+  "category": {
+    "en": "financial regulation / fraud / public bailout",
+    "el": "χρηματοπιστωτική εποπτεία / απάτη / δημόσια διάσωση"
+  },
+  "evidence_level": {
+    "en": "documented financial crisis with prosecutions and public cost",
+    "el": "τεκμηριωμένη χρηματοπιστωτική κρίση με διώξεις και δημόσιο κόστος"
+  },
+  "images": [
+    "USA/00-00-1980/Savings and Loan crisis, deregulation, fraud, and bailout/Media/01 - Cover Card.svg",
+    "USA/00-00-1980/Savings and Loan crisis, deregulation, fraud, and bailout/Media/02 - Proof Map.svg"
+  ]
+}

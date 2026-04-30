@@ -1,0 +1,16 @@
+Incident ID: usa_1964_freedom_summer_murders_mississippi_state_complicity
+Country: USA
+Date Folder: 00-00-1964
+Year: 1964
+
+Title EN: Freedom Summer murders, Mississippi law enforcement, and state complicity
+Title EL: Δολοφονίες Freedom Summer, αστυνομία Μισισίπι και κρατική συνενοχή
+
+Category EN: civil rights / racial terror / law enforcement
+Category EL: πολιτικά δικαιώματα / φυλετική τρομοκρατία / αστυνομία
+
+Evidence EN: documented murders with federal civil-rights prosecution history
+Evidence EL: τεκμηριωμένες δολοφονίες με ομοσπονδιακό ιστορικό διώξεων δικαιωμάτων
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

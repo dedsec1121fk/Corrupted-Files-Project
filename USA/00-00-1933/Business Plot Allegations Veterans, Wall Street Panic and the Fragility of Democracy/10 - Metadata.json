@@ -1,0 +1,26 @@
+{
+  "id": "usa_1933_business_plot_allegations_veterans_wall_street_panic_fragility_democra",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Business Plot Allegations: Veterans, Wall Street Panic and the Fragility of Democracy",
+    "el": "Ισχυρισμοί Business Plot: Βετεράνοι, Οικονομικός Πανικός και Ευθραυστότητα της Δημοκρατίας"
+  },
+  "year": 1933,
+  "date_folder": "00-00-1933",
+  "incident_folder": "USA/00-00-1933/Business Plot Allegations Veterans, Wall Street Panic and the Fragility of Democracy",
+  "category": {
+    "en": "political conspiracy allegation / democratic stress",
+    "el": "πολιτική συνωμοσία ως ισχυρισμός / πίεση στη δημοκρατία"
+  },
+  "evidence_level": {
+    "en": "partly documented allegations, disputed scope",
+    "el": "μερικώς τεκμηριωμένοι ισχυρισμοί, αμφισβητούμενη έκταση"
+  },
+  "images": [
+    "USA/00-00-1933/Business Plot Allegations Veterans, Wall Street Panic and the Fragility of Democracy/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1933/Business Plot Allegations Veterans, Wall Street Panic and the Fragility of Democracy/Media/02 - EL Cover Card.svg"
+  ]
+}

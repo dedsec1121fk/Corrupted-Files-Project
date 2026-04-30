@@ -1,0 +1,25 @@
+{
+  "id": "usa_1985_move_bombing_in_philadelphia",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "MOVE bombing in Philadelphia",
+    "el": "MOVE bombing in Philadelphia"
+  },
+  "year": 1985,
+  "date_folder": "00-00-1985",
+  "incident_folder": "USA/00-00-1985/MOVE bombing in Philadelphia [2]",
+  "category": {
+    "en": "policing / urban violence",
+    "el": "policing / urban violence"
+  },
+  "evidence_level": {
+    "en": "documented state violence",
+    "el": "documented state violence"
+  },
+  "images": [
+    "USA/00-00-1985/MOVE bombing in Philadelphia [2]/Media/01 - EN Cover Card.svg"
+  ]
+}

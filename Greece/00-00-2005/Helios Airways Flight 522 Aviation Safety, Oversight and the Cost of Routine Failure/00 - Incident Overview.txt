@@ -1,0 +1,16 @@
+Incident ID: greece_2005_helios_airways_flight_522_aviation_safety_oversight_cost_routine_failu
+Country: Greece
+Date Folder: 00-00-2005
+Year: 2005
+
+Title EN: Helios Airways Flight 522: Aviation Safety, Oversight and the Cost of Routine Failure
+Title EL: Helios 522: Αεροπορική Ασφάλεια, Έλεγχος και Κόστος Ρουτίνας
+
+Category EN: aviation disaster / oversight
+Category EL: αεροπορικό δυστύχημα / εποπτεία
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

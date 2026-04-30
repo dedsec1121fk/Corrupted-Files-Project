@@ -1,0 +1,16 @@
+Incident ID: usa_1992_ruby_ridge_federal_force_rules_engagement
+Country: USA
+Date Folder: 00-00-1992
+Year: 1992
+
+Title EN: Ruby Ridge, federal force, rules of engagement and public trust (1992)
+Title EL: Ruby Ridge, ομοσπονδιακή δύναμη, κανόνες εμπλοκής και δημόσια εμπιστοσύνη (1992)
+
+Category EN: Policing, force and institutional accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

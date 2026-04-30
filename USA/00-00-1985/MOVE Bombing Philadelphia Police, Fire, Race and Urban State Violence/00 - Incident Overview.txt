@@ -1,0 +1,16 @@
+Incident ID: usa_1985_move_bombing_philadelphia_police_fire_race_urban_state_violence
+Country: USA
+Date Folder: 00-00-1985
+Year: 1985
+
+Title EN: MOVE Bombing: Philadelphia Police, Fire, Race and Urban State Violence
+Title EL: MOVE Bombing: Αστυνομία Philadelphia, Φωτιά, Φυλή και Αστική Κρατική Βία
+
+Category EN: police violence / urban governance
+Category EL: αστυνομική βία / αστική διακυβέρνηση
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

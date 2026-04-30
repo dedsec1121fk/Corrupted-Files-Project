@@ -1,0 +1,26 @@
+{
+  "id": "usa_1969_black_panther_surveillance_and_raids",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Black Panther surveillance and raids",
+    "el": "Παρακολούθηση και επιδρομές εναντίον Black Panthers"
+  },
+  "year": 1969,
+  "date_folder": "00-00-1969",
+  "incident_folder": "USA/00-00-1969/Black Panther surveillance and raids",
+  "category": {
+    "en": "surveillance / racial politics",
+    "el": "παρακολούθηση / φυλετική πολιτική"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "USA/00-00-1969/Black Panther surveillance and raids/Media/01 - Cover Card.svg",
+    "USA/00-00-1969/Black Panther surveillance and raids/Media/02 - Proof Map.svg"
+  ]
+}

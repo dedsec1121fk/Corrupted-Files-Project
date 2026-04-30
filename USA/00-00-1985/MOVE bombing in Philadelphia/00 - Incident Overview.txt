@@ -1,0 +1,16 @@
+Incident ID: usa_1985_move_bombing_in_philadelphia_2
+Country: USA
+Date Folder: 00-00-1985
+Year: 1985
+
+Title EN: MOVE bombing in Philadelphia
+Title EL: Βομβαρδισμός MOVE στη Φιλαδέλφεια
+
+Category EN: police violence / urban disaster
+Category EL: αστυνομική βία / αστική καταστροφή
+
+Evidence EN: documented municipal disaster
+Evidence EL: τεκμηριωμένη δημοτική καταστροφή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

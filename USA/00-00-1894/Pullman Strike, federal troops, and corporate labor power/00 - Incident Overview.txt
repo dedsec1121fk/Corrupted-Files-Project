@@ -1,0 +1,16 @@
+Incident ID: usa_1894_pullman_strike_federal_troops_labor_power
+Country: USA
+Date Folder: 00-00-1894
+Year: 1894
+
+Title EN: Pullman Strike, federal troops, and corporate labor power
+Title EL: Απεργία Pullman, ομοσπονδιακός στρατός και εταιρική ισχύς εργασίας
+
+Category EN: labor conflict / federal force / corporate power
+Category EL: εργατική σύγκρουση / ομοσπονδιακή ισχύς / εταιρική εξουσία
+
+Evidence EN: documented labor conflict and federal intervention
+Evidence EL: τεκμηριωμένη εργατική σύγκρουση και ομοσπονδιακή επέμβαση
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

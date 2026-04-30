@@ -1,0 +1,26 @@
+{
+  "id": "greece_2016_novartis_political_scandal_drug_pricing",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Novartis political scandal, drug pricing, and allegation warfare",
+    "el": "Novartis: πολιτικό σκάνδαλο, τιμές φαρμάκων και πόλεμος καταγγελιών"
+  },
+  "year": 2016,
+  "date_folder": "00-00-2016",
+  "incident_folder": "Greece/00-00-2016/Novartis political scandal, drug pricing, and allegation warfare",
+  "category": {
+    "en": "pharma / bribery allegations / political conflict",
+    "el": "φάρμακο / καταγγελίες δωροδοκίας / πολιτική σύγκρουση"
+  },
+  "evidence_level": {
+    "en": "documented corporate settlement abroad; Greek political allegations contested",
+    "el": "τεκμηριωμένος εταιρικός διακανονισμός στο εξωτερικό· αμφισβητούμενες ελληνικές πολιτικές καταγγελίες"
+  },
+  "images": [
+    "Greece/00-00-2016/Novartis political scandal, drug pricing, and allegation warfare/Media/01 - Cover Card.svg",
+    "Greece/00-00-2016/Novartis political scandal, drug pricing, and allegation warfare/Media/02 - Proof Map.svg"
+  ]
+}

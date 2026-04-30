@@ -1,0 +1,16 @@
+Incident ID: usa_2022_roe_v_wade_overturned_data_privacy_fears
+Country: USA
+Date Folder: 00-00-2022
+Year: 2022
+
+Title EN: Roe v Wade overturned and data privacy fears
+Title EL: Roe v Wade overturned and data privacy fears
+
+Category EN: rights / digital surveillance
+Category EL: rights / digital surveillance
+
+Evidence EN: documented legal shift
+Evidence EL: documented legal shift
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

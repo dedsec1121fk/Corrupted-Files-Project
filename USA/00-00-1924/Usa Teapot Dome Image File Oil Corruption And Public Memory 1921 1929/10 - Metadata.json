@@ -1,0 +1,27 @@
+{
+  "id": "usa_1924_teapot_dome_oil_corruption_memory",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Usa Teapot Dome Image File Oil Corruption And Public Memory 1921 1929",
+    "el": "Ηπα Teapot Dome Αρχειο Εικονας Πετρελαιο Διαφθορα Και Δημοσια Μνημη 1921 1929"
+  },
+  "year": 1924,
+  "date_folder": "00-00-1924",
+  "incident_folder": "USA/00-00-1924/Usa Teapot Dome Image File Oil Corruption And Public Memory 1921 1929",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1924/Usa Teapot Dome Image File Oil Corruption And Public Memory 1921 1929/Media/01 - EN Image.jpg",
+    "USA/00-00-1924/Usa Teapot Dome Image File Oil Corruption And Public Memory 1921 1929/Media/02 - EN Cover Card.svg",
+    "USA/00-00-1924/Usa Teapot Dome Image File Oil Corruption And Public Memory 1921 1929/Media/03 - EL Cover Card.svg"
+  ]
+}

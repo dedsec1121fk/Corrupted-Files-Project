@@ -1,0 +1,26 @@
+{
+  "id": "greece_1965_apostasia_palace_party_defection_crisis",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Apostasia crisis, palace pressure, and parliamentary defections",
+    "el": "Αποστασία, πίεση παλατιού και κοινοβουλευτικές μετακινήσεις"
+  },
+  "year": 1965,
+  "date_folder": "00-00-1965",
+  "incident_folder": "Greece/00-00-1965/Apostasia crisis, palace pressure, and parliamentary defections",
+  "category": {
+    "en": "constitutional crisis / palace influence",
+    "el": "συνταγματική κρίση / επιρροή παλατιού"
+  },
+  "evidence_level": {
+    "en": "documented political crisis with disputed motives",
+    "el": "τεκμηριωμένη πολιτική κρίση με αμφισβητούμενα κίνητρα"
+  },
+  "images": [
+    "Greece/00-00-1965/Apostasia crisis, palace pressure, and parliamentary defections/Media/01 - Cover Card.svg",
+    "Greece/00-00-1965/Apostasia crisis, palace pressure, and parliamentary defections/Media/02 - Proof Map.svg"
+  ]
+}

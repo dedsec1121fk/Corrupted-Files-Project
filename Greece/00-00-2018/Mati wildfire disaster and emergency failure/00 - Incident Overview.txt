@@ -1,0 +1,16 @@
+Incident ID: greece_2018_mati_wildfire_disaster_and_emergency_failure
+Country: Greece
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Mati wildfire disaster and emergency failure
+Title EL: Τραγωδία στο Μάτι και αποτυχία έκτακτης ανάγκης
+
+Category EN: wildfire / state failure
+Category EL: πυρκαγιά / κρατική αποτυχία
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

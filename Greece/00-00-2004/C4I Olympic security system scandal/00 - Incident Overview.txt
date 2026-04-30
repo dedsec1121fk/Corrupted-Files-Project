@@ -1,0 +1,16 @@
+Incident ID: greece_2004_c4i_olympic_security_system_scandal
+Country: Greece
+Date Folder: 00-00-2004
+Year: 2004
+
+Title EN: C4I Olympic security system scandal
+Title EL: C4I Olympic security system scandal
+
+Category EN: procurement / surveillance infrastructure
+Category EL: procurement / surveillance infrastructure
+
+Evidence EN: documented procurement controversy
+Evidence EL: documented procurement controversy
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

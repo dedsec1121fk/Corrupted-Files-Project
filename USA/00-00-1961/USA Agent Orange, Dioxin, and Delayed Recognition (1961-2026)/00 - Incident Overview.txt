@@ -1,0 +1,16 @@
+Incident ID: usa_1961_agent_orange_dioxin_delayed_recognition
+Country: USA
+Date Folder: 00-00-1961
+Year: 1961
+
+Title EN: USA: Agent Orange, Dioxin, and Delayed Recognition (1961-2026)
+Title EL: ΗΠΑ: Agent Orange, διοξίνη και καθυστερημένη αναγνώριση (1961-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

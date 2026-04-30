@@ -1,0 +1,16 @@
+Incident ID: usa_1946_guatemala_syphilis_experiments_us_health
+Country: USA
+Date Folder: 00-00-1946
+Year: 1946
+
+Title EN: Guatemala syphilis experiments by U.S. public-health researchers
+Title EL: Guatemala syphilis experiments by U.S. public-health researchers
+
+Category EN: medical ethics / human experimentation
+Category EL: medical ethics / human experimentation
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

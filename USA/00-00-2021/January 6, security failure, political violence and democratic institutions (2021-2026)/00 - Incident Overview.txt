@@ -1,0 +1,16 @@
+Incident ID: usa_2021_january_6_security_failure_political_violence_democratic_institutions
+Country: USA
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: January 6, security failure, political violence and democratic institutions (2021-2026)
+Title EL: 6 Ιανουαρίου, αποτυχία ασφάλειας, πολιτική βία και δημοκρατικοί θεσμοί (2021-2026)
+
+Category EN: Policing, force and institutional accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

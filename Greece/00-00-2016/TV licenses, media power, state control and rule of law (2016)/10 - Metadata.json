@@ -1,0 +1,26 @@
+{
+  "id": "greece_2016_tv_licenses_media_power_state_control_rule_law",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "TV licenses, media power, state control and rule of law (2016)",
+    "el": "Τηλεοπτικές άδειες, μιντιακή ισχύς, κρατικός έλεγχος και κράτος δικαίου (2016)"
+  },
+  "year": 2016,
+  "date_folder": "00-00-2016",
+  "incident_folder": "Greece/00-00-2016/TV licenses, media power, state control and rule of law (2016)",
+  "category": {
+    "en": "Surveillance, secrecy and information control",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "documented/partly documented public record; disputed parts are labelled as disputed",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-2016/TV licenses, media power, state control and rule of law (2016)/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2016/TV licenses, media power, state control and rule of law (2016)/Media/02 - EL Cover Card.svg"
+  ]
+}

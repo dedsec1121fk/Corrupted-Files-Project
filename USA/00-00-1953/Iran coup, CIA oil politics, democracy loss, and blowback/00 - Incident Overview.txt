@@ -1,0 +1,16 @@
+Incident ID: usa_1953_iran_coup_cia_oil_democracy_blowback
+Country: USA
+Date Folder: 00-00-1953
+Year: 1953
+
+Title EN: Iran coup, CIA oil politics, democracy loss, and blowback
+Title EL: Πραξικόπημα Ιράν, CIA, πετρέλαιο, απώλεια δημοκρατίας και blowback
+
+Category EN: foreign intervention / oil / covert action
+Category EL: ξένη επέμβαση / πετρέλαιο / μυστική δράση
+
+Evidence EN: documented covert action with declassified record
+Evidence EL: τεκμηριωμένη μυστική δράση με αποχαρακτηρισμένο αρχείο
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

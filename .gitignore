@@ -1,0 +1,4 @@
+Corrupted Files Exports/
+__pycache__/
+*.pyc
+*.pyo

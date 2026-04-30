@@ -1,0 +1,16 @@
+Incident ID: greece_2022_personal_number_biometric_ids_gov_wallet
+Country: Greece
+Date Folder: 00-00-2022
+Year: 2022
+
+Title EN: GREECE: Personal Number, Biometric IDs, and the State Digital Layer (2022-2026)
+Title EL: ΕΛΛΑΔΑ: Προσωπικός Αριθμός, βιομετρικές ταυτότητες και το κρατικό ψηφιακό στρώμα (2022-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_1980_savings_and_loan_crisis_deregulation_fraud_bailout
+Country: USA
+Date Folder: 00-00-1980
+Year: 1980
+
+Title EN: Savings and Loan crisis, deregulation, fraud, and bailout
+Title EL: Κρίση Savings and Loan, απορρύθμιση, απάτη και διάσωση
+
+Category EN: financial regulation / fraud / public bailout
+Category EL: χρηματοπιστωτική εποπτεία / απάτη / δημόσια διάσωση
+
+Evidence EN: documented financial crisis with prosecutions and public cost
+Evidence EL: τεκμηριωμένη χρηματοπιστωτική κρίση με διώξεις και δημόσιο κόστος
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

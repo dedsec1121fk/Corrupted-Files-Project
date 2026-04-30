@@ -1,0 +1,26 @@
+{
+  "id": "usa_2013_snowden_nsa_disclosures",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Snowden NSA disclosures",
+    "el": "Αποκαλύψεις Snowden για NSA"
+  },
+  "year": 2013,
+  "date_folder": "00-00-2013",
+  "incident_folder": "USA/00-00-2013/Snowden NSA disclosures",
+  "category": {
+    "en": "mass surveillance / whistleblowing",
+    "el": "μαζική παρακολούθηση / whistleblowing"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "USA/00-00-2013/Snowden NSA disclosures/Media/01 - Cover Card.svg",
+    "USA/00-00-2013/Snowden NSA disclosures/Media/02 - Proof Map.svg"
+  ]
+}

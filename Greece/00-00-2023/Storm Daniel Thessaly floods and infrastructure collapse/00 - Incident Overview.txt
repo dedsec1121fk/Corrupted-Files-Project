@@ -1,0 +1,16 @@
+Incident ID: greece_2023_storm_daniel_thessaly_floods_infrastructure_collapse
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: Storm Daniel Thessaly floods and infrastructure collapse
+Title EL: Storm Daniel Thessaly floods and infrastructure collapse
+
+Category EN: disaster governance / climate
+Category EL: disaster governance / climate
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

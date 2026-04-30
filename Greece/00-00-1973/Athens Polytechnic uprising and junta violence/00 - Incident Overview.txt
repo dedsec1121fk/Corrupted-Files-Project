@@ -1,0 +1,16 @@
+Incident ID: greece_1973_athens_polytechnic_uprising_and_junta_violence
+Country: Greece
+Date Folder: 00-00-1973
+Year: 1973
+
+Title EN: Athens Polytechnic uprising and junta violence
+Title EL: Εξέγερση Πολυτεχνείου και βία χούντας
+
+Category EN: dictatorship / repression
+Category EL: δικτατορία / καταστολή
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

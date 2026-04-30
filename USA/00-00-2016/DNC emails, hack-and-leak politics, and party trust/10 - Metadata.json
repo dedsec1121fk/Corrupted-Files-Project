@@ -1,0 +1,26 @@
+{
+  "id": "usa_2016_dnc_emails_hack_leaks_party_trust",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "DNC emails, hack-and-leak politics, and party trust",
+    "el": "Emails DNC, πολιτική hack-and-leak και εμπιστοσύνη κόμματος"
+  },
+  "year": 2016,
+  "date_folder": "00-00-2016",
+  "incident_folder": "USA/00-00-2016/DNC emails, hack-and-leak politics, and party trust",
+  "category": {
+    "en": "cyber operation / election trust / party politics",
+    "el": "κυβερνοεπιχείρηση / εκλογική εμπιστοσύνη / κομματική πολιτική"
+  },
+  "evidence_level": {
+    "en": "documented hack-and-leak episode with disputed political effects",
+    "el": "τεκμηριωμένο επεισόδιο hack-and-leak με αμφισβητούμενες πολιτικές επιδράσεις"
+  },
+  "images": [
+    "USA/00-00-2016/DNC emails, hack-and-leak politics, and party trust/Media/01 - Cover Card.svg",
+    "USA/00-00-2016/DNC emails, hack-and-leak politics, and party trust/Media/02 - Proof Map.svg"
+  ]
+}

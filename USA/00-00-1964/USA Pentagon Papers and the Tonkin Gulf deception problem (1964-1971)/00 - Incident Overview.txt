@@ -1,0 +1,16 @@
+Incident ID: usa_1964_pentagon_papers_tonkin
+Country: USA
+Date Folder: 00-00-1964
+Year: 1964
+
+Title EN: USA: Pentagon Papers and the Tonkin Gulf deception problem (1964-1971)
+Title EL: ΗΠΑ: Pentagon Papers και το πρόβλημα της παραπλάνησης στον Κόλπο του Τόνκιν (1964-1971)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

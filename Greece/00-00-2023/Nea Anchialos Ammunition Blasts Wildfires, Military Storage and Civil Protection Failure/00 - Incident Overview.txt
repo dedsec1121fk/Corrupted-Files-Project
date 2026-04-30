@@ -1,0 +1,16 @@
+Incident ID: greece_2023_nea_anchialos_ammunition_blasts_wildfires_military_storage_civil_prote
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: Nea Anchialos Ammunition Blasts: Wildfires, Military Storage and Civil Protection Failure
+Title EL: Εκρήξεις Νέας Αγχιάλου: Πυρκαγιές, Πυρομαχικά και Πολιτική Προστασία
+
+Category EN: military safety / wildfires
+Category EL: στρατιωτική ασφάλεια / πυρκαγιές
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

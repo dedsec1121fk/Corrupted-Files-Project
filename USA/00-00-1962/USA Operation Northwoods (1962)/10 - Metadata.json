@@ -1,0 +1,28 @@
+{
+  "id": "usa_1962_operation_northwoods",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA: Operation Northwoods (1962)",
+    "el": "ΗΠΑ: Επιχείρηση Northwoods (1962)"
+  },
+  "year": 1962,
+  "date_folder": "00-00-1962",
+  "incident_folder": "USA/00-00-1962/USA Operation Northwoods (1962)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1962/USA Operation Northwoods (1962)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1962/USA Operation Northwoods (1962)/Media/02 - EL Cover Card.svg",
+    "USA/00-00-1962/USA Operation Northwoods (1962)/Media/03 - EN Cover Card.svg",
+    "USA/00-00-1962/USA Operation Northwoods (1962)/Media/04 - EN Proof Map.svg"
+  ]
+}

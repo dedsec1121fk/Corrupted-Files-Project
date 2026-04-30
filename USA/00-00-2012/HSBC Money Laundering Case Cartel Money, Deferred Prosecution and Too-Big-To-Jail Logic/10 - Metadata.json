@@ -1,0 +1,26 @@
+{
+  "id": "usa_2012_hsbc_money_laundering_cartel_money_deferred_prosecution_too_big_jail_l",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "HSBC Money Laundering Case: Cartel Money, Deferred Prosecution and Too-Big-To-Jail Logic",
+    "el": "HSBC: Ξέπλυμα Χρήματος, Καρτέλ και Λογική Too-Big-To-Jail"
+  },
+  "year": 2012,
+  "date_folder": "00-00-2012",
+  "incident_folder": "USA/00-00-2012/HSBC Money Laundering Case Cartel Money, Deferred Prosecution and Too-Big-To-Jail Logic",
+  "category": {
+    "en": "banking crime / deferred prosecution",
+    "el": "τραπεζικό έγκλημα / αναστολή δίωξης"
+  },
+  "evidence_level": {
+    "en": "documented case with some disputed interpretation",
+    "el": "τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2012/HSBC Money Laundering Case Cartel Money, Deferred Prosecution and Too-Big-To-Jail Logic/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2012/HSBC Money Laundering Case Cartel Money, Deferred Prosecution and Too-Big-To-Jail Logic/Media/02 - EL Cover Card.svg"
+  ]
+}

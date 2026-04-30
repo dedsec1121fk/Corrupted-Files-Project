@@ -1,0 +1,16 @@
+Incident ID: usa_2018_cambridge_analytica_facebook_data_election_manipulation
+Country: USA
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Cambridge Analytica, Facebook data, and election-manipulation panic
+Title EL: Cambridge Analytica, δεδομένα Facebook και πανικός εκλογικής χειραγώγησης
+
+Category EN: data exploitation / elections / platform power
+Category EL: εκμετάλλευση δεδομένων / εκλογές / ισχύς πλατφορμών
+
+Evidence EN: documented data misuse scandal with disputed persuasion impact
+Evidence EL: τεκμηριωμένο σκάνδαλο χρήσης δεδομένων με αμφισβητούμενη επίδραση πειθούς
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

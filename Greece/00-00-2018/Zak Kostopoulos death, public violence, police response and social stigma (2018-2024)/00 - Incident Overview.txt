@@ -1,0 +1,16 @@
+Incident ID: greece_2018_zak_kostopoulos_death_violence_police_response_social_stigma
+Country: Greece
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Zak Kostopoulos death, public violence, police response and social stigma (2018-2024)
+Title EL: Θάνατος Ζακ Κωστόπουλου, δημόσια βία, αστυνομική αντίδραση και κοινωνικό στίγμα (2018-2024)
+
+Category EN: Policing, force and institutional accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_1947_makronisos_camps_reeducation_state_violence
+Country: Greece
+Date Folder: 00-00-1947
+Year: 1947
+
+Title EN: Makronisos camps, re-education, and state violence
+Title EL: Μακρόνησος, αναμόρφωση και κρατική βία
+
+Category EN: civil-war aftermath / detention / coercion
+Category EL: μετεμφυλιακή περίοδος / κράτηση / καταναγκασμός
+
+Evidence EN: documented camp system with contested full responsibility
+Evidence EL: τεκμηριωμένο σύστημα στρατοπέδων με αμφισβητούμενη πλήρη ευθύνη
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

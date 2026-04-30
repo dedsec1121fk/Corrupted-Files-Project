@@ -1,0 +1,16 @@
+Incident ID: greece_2026_greek_social_media_age_gate_kids_wallet_debate_child_protection_or_dig
+Country: Greece
+Date Folder: 00-00-2026
+Year: 2026
+
+Title EN: Greek Social Media Age Gate and Kids Wallet Debate: Child Protection or Digital Gatekeeping
+Title EL: Greek Social Media Age Gate και Kids Wallet: Προστασία Παιδιών ή Ψηφιακή Πύλη;
+
+Category EN: digital ID / children / platform control
+Category EL: ψηφιακή ταυτότητα / παιδιά / έλεγχος πλατφορμών
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

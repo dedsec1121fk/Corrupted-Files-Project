@@ -1,0 +1,16 @@
+Incident ID: greece_1920_political_dynasties_venizelos_mitsotakis_link
+Country: Greece
+Date Folder: 00-00-1920
+Year: 1920
+
+Title EN: POLITICAL DYNASTIES IN GREECE, AND THE VENIZELOS-MITSOTAKIS FAMILY LINK (1900-2026)
+Title EL: ΠΟΛΙΤΙΚΕΣ ΔΥΝΑΣΤΕΙΕΣ ΣΤΗΝ ΕΛΛΑΔΑ ΚΑΙ Η ΣΥΓΓΕΝΕΙΑ ΒΕΝΙΖΕΛΟΥ - ΜΗΤΣΟΤΑΚΗ (1900-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

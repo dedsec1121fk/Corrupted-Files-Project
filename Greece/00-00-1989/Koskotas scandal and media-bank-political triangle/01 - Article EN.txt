@@ -1,0 +1,42 @@
+Koskotas scandal and media-bank-political triangle
+
+Country: Greece
+Year: 1989
+Category: corruption / media / finance
+Evidence level: documented political-financial scandal
+
+Full story
+----------
+This dossier records the case as a public-trust event rather than as a short headline. The point is to make the reader understand what happened, why people still discuss it, what can be proven, what remains disputed, and how the case fits into a wider pattern of corruption, state failure, institutional secrecy, organized influence, or public fear.
+
+Background
+----------
+The Koskotas scandal connected banking, media power, party politics, and allegations of corruption in late-1980s Greece.
+
+Chronology and public record
+----------------------------
+The case reshaped the political climate and fed a period of trials, polarization, and institutional suspicion.
+
+Main conflict
+-------------
+The main conflict was whether media and financial machinery were being used to purchase influence.
+
+Why it matters
+--------------
+It matters because it showed how press power and banking power can merge into political leverage.
+
+Impact on public trust
+----------------------
+Public trust suffered because the scandal suggested that money, publicity, and state access could form a closed circuit.
+
+Open questions
+--------------
+Open questions concern the full map of beneficiaries and the boundary between legal influence and criminal corruption.
+
+Reader conclusion
+-----------------
+A careful reader should separate confirmed facts from interpretation. The strongest parts of this case are the documented events, public records, court or institutional material, and direct consequences. The weaker parts are claims that require inference or depend on political interpretation. The case belongs in this database because it shows how a public event can become a larger question about accountability, power, and memory.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = Greece, year = 1989, category = corruption / media / finance, title = Koskotas scandal and media-bank-political triangle. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.

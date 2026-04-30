@@ -1,0 +1,16 @@
+Incident ID: usa_2025_walgreens_opioid_prescriptions_false_claims_pharmacy_gatekeeping
+Country: USA
+Date Folder: 00-00-2025
+Year: 2025
+
+Title EN: Walgreens opioid prescriptions, false claims and pharmacy gatekeeping (2025)
+Title EL: Walgreens, συνταγές οπιοειδών, ψευδείς αξιώσεις και φαρμακείο ως πύλη (2025)
+
+Category EN: Public health, science and consent
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

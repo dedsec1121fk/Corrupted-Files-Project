@@ -1,0 +1,26 @@
+{
+  "id": "usa_1964_fbi_mlk_blackmail_letter_surveillance",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "FBI surveillance of Martin Luther King Jr. and blackmail letter",
+    "el": "FBI surveillance of Martin Luther King Jr. and blackmail letter"
+  },
+  "year": 1964,
+  "date_folder": "00-00-1964",
+  "incident_folder": "USA/00-00-1964/FBI surveillance of Martin Luther King Jr. and blackmail letter",
+  "category": {
+    "en": "domestic intelligence abuse",
+    "el": "domestic intelligence abuse"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1964/FBI surveillance of Martin Luther King Jr. and blackmail letter/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1964/FBI surveillance of Martin Luther King Jr. and blackmail letter/Media/02 - EN Proof Map.svg"
+  ]
+}

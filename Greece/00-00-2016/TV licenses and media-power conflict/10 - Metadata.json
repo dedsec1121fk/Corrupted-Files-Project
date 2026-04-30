@@ -1,0 +1,25 @@
+{
+  "id": "greece_2016_tv_licenses_media_power_conflict",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "TV licenses and media-power conflict",
+    "el": "TV licenses and media-power conflict"
+  },
+  "year": 2016,
+  "date_folder": "00-00-2016",
+  "incident_folder": "Greece/00-00-2016/TV licenses and media-power conflict",
+  "category": {
+    "en": "media regulation / state power",
+    "el": "media regulation / state power"
+  },
+  "evidence_level": {
+    "en": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες"
+  },
+  "images": [
+    "Greece/00-00-2016/TV licenses and media-power conflict/Media/01 - EN Cover Card.svg"
+  ]
+}

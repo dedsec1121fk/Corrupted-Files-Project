@@ -1,0 +1,16 @@
+Incident ID: usa_2005_hurricane_katrina_response_disaster_governance_race_class_state_abando
+Country: USA
+Date Folder: 00-00-2005
+Year: 2005
+
+Title EN: Hurricane Katrina Response: Disaster Governance, Race, Class and State Abandonment
+Title EL: Katrina: Διαχείριση Καταστροφής, Φυλή, Τάξη και Κρατική Εγκατάλειψη
+
+Category EN: disaster governance / inequality
+Category EL: διαχείριση καταστροφής / ανισότητα
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

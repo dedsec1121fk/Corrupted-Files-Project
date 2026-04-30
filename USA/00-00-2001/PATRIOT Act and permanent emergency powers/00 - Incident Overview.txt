@@ -1,0 +1,16 @@
+Incident ID: usa_2001_patriot_act_permanent_emergency_powers
+Country: USA
+Date Folder: 00-00-2001
+Year: 2001
+
+Title EN: PATRIOT Act and permanent emergency powers
+Title EL: PATRIOT Act and permanent emergency powers
+
+Category EN: surveillance / counterterrorism
+Category EL: surveillance / counterterrorism
+
+Evidence EN: documented law and policy shift
+Evidence EL: documented law and policy shift
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

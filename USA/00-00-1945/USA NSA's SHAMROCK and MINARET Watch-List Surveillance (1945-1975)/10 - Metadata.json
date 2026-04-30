@@ -1,0 +1,26 @@
+{
+  "id": "usa_1945_nsa_shamrock_minaret",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA: NSA's SHAMROCK and MINARET Watch-List Surveillance (1945-1975)",
+    "el": "ΗΠΑ: Τα προγράμματα SHAMROCK και MINARET της NSA (1945-1975)"
+  },
+  "year": 1945,
+  "date_folder": "00-00-1945",
+  "incident_folder": "USA/00-00-1945/USA NSA's SHAMROCK and MINARET Watch-List Surveillance (1945-1975)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1945/USA NSA's SHAMROCK and MINARET Watch-List Surveillance (1945-1975)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1945/USA NSA's SHAMROCK and MINARET Watch-List Surveillance (1945-1975)/Media/02 - EL Cover Card.svg"
+  ]
+}

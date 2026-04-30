@@ -1,0 +1,16 @@
+Incident ID: greece_1999_stock_market_bubble_and_household_losses
+Country: Greece
+Date Folder: 00-00-1999
+Year: 1999
+
+Title EN: Stock market bubble and household losses
+Title EL: Χρηματιστηριακή φούσκα και απώλειες νοικοκυριών
+
+Category EN: finance / political trust
+Category EL: οικονομία / πολιτική εμπιστοσύνη
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

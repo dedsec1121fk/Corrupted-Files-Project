@@ -1,0 +1,16 @@
+Incident ID: greece_1952_beloyannis_trial_execution_cold_war_state
+Country: Greece
+Date Folder: 00-00-1952
+Year: 1952
+
+Title EN: Beloyannis trial, execution, and Cold War state justice
+Title EL: Δίκη Μπελογιάννη, εκτέλεση και δικαιοσύνη ψυχροπολεμικού κράτους
+
+Category EN: political trial / civil-war aftermath / state justice
+Category EL: πολιτική δίκη / μετεμφυλιακό κράτος / δικαιοσύνη
+
+Evidence EN: documented trial and execution with contested political meaning
+Evidence EL: τεκμηριωμένη δίκη και εκτέλεση με αμφισβητούμενη πολιτική σημασία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_1830_trail_tears_forced_removal
+Country: USA
+Date Folder: 00-00-1830
+Year: 1830
+
+Title EN: Trail of Tears and federal forced-removal policy
+Title EL: Το Μονοπάτι των Δακρύων και η ομοσπονδιακή πολιτική αναγκαστικής απομάκρυνσης
+
+Category EN: state violence / land policy
+Category EL: κρατική βία / πολιτική γης
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_1953_mkultra_secret_science_consent_mind_control
+Country: USA
+Date Folder: 00-00-1953
+Year: 1953
+
+Title EN: USA — MKULTRA: SECRET SCIENCE, CONSENT, AND MIND-CONTROL RESEARCH (1953–1977)
+Title EL: ΗΠΑ — MKULTRA: ΜΥΣΤΙΚΉ ΕΠΙΣΤΉΜΗ, ΣΥΝΑΊΝΕΣΗ ΚΑΙ ΈΡΕΥΝΑ ΕΛΈΓΧΟΥ ΝΟΥ (1953–1977)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

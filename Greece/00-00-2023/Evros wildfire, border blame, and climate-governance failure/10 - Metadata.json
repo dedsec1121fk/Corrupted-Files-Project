@@ -1,0 +1,26 @@
+{
+  "id": "greece_2023_evros_wildfire_border_blame_and_climate_failure",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Evros wildfire, border blame, and climate-governance failure",
+    "el": "Πυρκαγιά Έβρου, ενοχοποίηση συνόρων και αποτυχία κλιματικής διακυβέρνησης"
+  },
+  "year": 2023,
+  "date_folder": "00-00-2023",
+  "incident_folder": "Greece/00-00-2023/Evros wildfire, border blame, and climate-governance failure",
+  "category": {
+    "en": "wildfire / borders / climate governance",
+    "el": "πυρκαγιά / σύνορα / κλιματική διακυβέρνηση"
+  },
+  "evidence_level": {
+    "en": "documented wildfire disaster with contested blame narratives",
+    "el": "τεκμηριωμένη πυρκαγιά με αμφισβητούμενες αφηγήσεις ευθύνης"
+  },
+  "images": [
+    "Greece/00-00-2023/Evros wildfire, border blame, and climate-governance failure/Media/01 - Cover Card.svg",
+    "Greece/00-00-2023/Evros wildfire, border blame, and climate-governance failure/Media/02 - Proof Map.svg"
+  ]
+}

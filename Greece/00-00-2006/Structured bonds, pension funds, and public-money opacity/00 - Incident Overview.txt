@@ -1,0 +1,16 @@
+Incident ID: greece_2006_structured_bonds_pension_fund_public_money_scandal
+Country: Greece
+Date Folder: 00-00-2006
+Year: 2006
+
+Title EN: Structured bonds, pension funds, and public-money opacity
+Title EL: Δομημένα ομόλογα, ασφαλιστικά ταμεία και αδιαφάνεια δημόσιου χρήματος
+
+Category EN: public money / pension funds / financial products
+Category EL: δημόσιο χρήμα / ασφαλιστικά ταμεία / χρηματοοικονομικά προϊόντα
+
+Evidence EN: documented financial scandal with disputed responsibility layers
+Evidence EL: τεκμηριωμένο χρηματοοικονομικό σκάνδαλο με αμφισβητούμενα επίπεδα ευθύνης
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

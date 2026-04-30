@@ -1,0 +1,26 @@
+{
+  "id": "usa_2001_fusion_centers_suspicious_activity_reporting",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA: Fusion Centers, Suspicious Activity Reporting, and Domestic Intelligence Drift (2001-2026)",
+    "el": "ΗΠΑ: Fusion Centers, αναφορές ύποπτης δραστηριότητας και διολίσθηση προς εσωτερική νοημοσύνη (2001-2026)"
+  },
+  "year": 2001,
+  "date_folder": "00-00-2001",
+  "incident_folder": "USA/00-00-2001/USA Fusion Centers, Suspicious Activity Reporting, and Domestic Intelligence Drift (2001",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-2001/USA Fusion Centers, Suspicious Activity Reporting, and Domestic Intelligence Drift (2001/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2001/USA Fusion Centers, Suspicious Activity Reporting, and Domestic Intelligence Drift (2001/Media/02 - EL Cover Card.svg"
+  ]
+}

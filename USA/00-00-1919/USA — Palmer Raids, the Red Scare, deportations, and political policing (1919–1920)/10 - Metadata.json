@@ -1,0 +1,28 @@
+{
+  "id": "usa_1919_palmer_raids_red_scare_deportations_political_policing",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)",
+    "el": "ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920)"
+  },
+  "year": 1919,
+  "date_folder": "00-00-1919",
+  "incident_folder": "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "High for raids/deportations and political repression; medium for broader claims about lasting intelligence-culture effects.",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/02 - EN Cover Card.svg",
+    "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/03 - EL Cover Card.svg",
+    "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/04 - EL Cover Card.svg"
+  ]
+}

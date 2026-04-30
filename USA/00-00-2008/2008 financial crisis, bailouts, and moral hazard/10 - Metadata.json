@@ -1,0 +1,26 @@
+{
+  "id": "usa_2008_financial_crisis_bailouts_and_moral_hazard",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "2008 financial crisis, bailouts, and moral hazard",
+    "el": "Κρίση 2008, διασώσεις τραπεζών και ηθικός κίνδυνος"
+  },
+  "year": 2008,
+  "date_folder": "00-00-2008",
+  "incident_folder": "USA/00-00-2008/2008 financial crisis, bailouts, and moral hazard",
+  "category": {
+    "en": "financial crisis / regulatory failure",
+    "el": "χρηματοπιστωτική κρίση / αποτυχία εποπτείας"
+  },
+  "evidence_level": {
+    "en": "documented crisis with contested blame and accountability",
+    "el": "τεκμηριωμένη κρίση με αμφισβητούμενη ευθύνη και λογοδοσία"
+  },
+  "images": [
+    "USA/00-00-2008/2008 financial crisis, bailouts, and moral hazard/Media/01 - Cover Card.svg",
+    "USA/00-00-2008/2008 financial crisis, bailouts, and moral hazard/Media/02 - Proof Map.svg"
+  ]
+}

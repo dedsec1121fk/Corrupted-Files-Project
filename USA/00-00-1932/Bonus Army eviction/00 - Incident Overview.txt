@@ -1,0 +1,16 @@
+Incident ID: usa_1932_bonus_army_eviction_2
+Country: USA
+Date Folder: 00-00-1932
+Year: 1932
+
+Title EN: Bonus Army eviction
+Title EL: Βίαιη εκκένωση Bonus Army
+
+Category EN: veterans / state force
+Category EL: βετεράνοι / κρατική βία
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

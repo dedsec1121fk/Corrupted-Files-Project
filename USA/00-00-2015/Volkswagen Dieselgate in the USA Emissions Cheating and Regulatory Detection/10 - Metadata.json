@@ -1,0 +1,26 @@
+{
+  "id": "usa_2015_volkswagen_dieselgate_in_usa_emissions_cheating_regulatory_detection",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Volkswagen Dieselgate in the USA: Emissions Cheating and Regulatory Detection",
+    "el": "Volkswagen Dieselgate στις ΗΠΑ: Νοθεία Ρύπων και Ρυθμιστικός Έλεγχος"
+  },
+  "year": 2015,
+  "date_folder": "00-00-2015",
+  "incident_folder": "USA/00-00-2015/Volkswagen Dieselgate in the USA Emissions Cheating and Regulatory Detection",
+  "category": {
+    "en": "corporate fraud / environment",
+    "el": "εταιρική απάτη / περιβάλλον"
+  },
+  "evidence_level": {
+    "en": "documented case with some disputed interpretation",
+    "el": "τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2015/Volkswagen Dieselgate in the USA Emissions Cheating and Regulatory Detection/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2015/Volkswagen Dieselgate in the USA Emissions Cheating and Regulatory Detection/Media/02 - EL Cover Card.svg"
+  ]
+}

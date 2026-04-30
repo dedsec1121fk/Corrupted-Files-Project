@@ -1,0 +1,26 @@
+{
+  "id": "usa_2022_uvalde_school_shooting_police_response_failure",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Uvalde school shooting and police response failure",
+    "el": "Uvalde, σχολική επίθεση και αποτυχία αστυνομικής αντίδρασης"
+  },
+  "year": 2022,
+  "date_folder": "00-00-2022",
+  "incident_folder": "USA/00-00-2022/Uvalde school shooting and police response failure",
+  "category": {
+    "en": "mass shooting / policing failure / public safety",
+    "el": "μαζική επίθεση / αποτυχία αστυνόμευσης / δημόσια ασφάλεια"
+  },
+  "evidence_level": {
+    "en": "documented mass shooting with official response failures",
+    "el": "τεκμηριωμένη μαζική επίθεση με επίσημες αποτυχίες αντίδρασης"
+  },
+  "images": [
+    "USA/00-00-2022/Uvalde school shooting and police response failure/Media/01 - Cover Card.svg",
+    "USA/00-00-2022/Uvalde school shooting and police response failure/Media/02 - Proof Map.svg"
+  ]
+}

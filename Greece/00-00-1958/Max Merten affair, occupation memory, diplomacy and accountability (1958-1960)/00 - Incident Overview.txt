@@ -1,0 +1,16 @@
+Incident ID: greece_1958_max_merten_occupation_memory_diplomacy_accountability
+Country: Greece
+Date Folder: 00-00-1958
+Year: 1958
+
+Title EN: Max Merten affair, occupation memory, diplomacy and accountability (1958-1960)
+Title EL: Υπόθεση Μαξ Μέρτεν, μνήμη Κατοχής, διπλωματία και λογοδοσία (1958-1960)
+
+Category EN: Corruption, capture and public money
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

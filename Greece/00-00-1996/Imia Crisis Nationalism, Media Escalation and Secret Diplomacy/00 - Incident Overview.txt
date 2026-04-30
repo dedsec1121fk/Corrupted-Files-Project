@@ -1,0 +1,16 @@
+Incident ID: greece_1996_imia_crisis_nationalism_media_escalation_secret_diplomacy
+Country: Greece
+Date Folder: 00-00-1996
+Year: 1996
+
+Title EN: Imia Crisis: Nationalism, Media Escalation and Secret Diplomacy
+Title EL: Κρίση Ιμίων: Εθνικισμός, Μιντιακή Κλιμάκωση και Μυστική Διπλωματία
+
+Category EN: foreign policy crisis / media panic
+Category EL: κρίση εξωτερικής πολιτικής / μιντιακός πανικός
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

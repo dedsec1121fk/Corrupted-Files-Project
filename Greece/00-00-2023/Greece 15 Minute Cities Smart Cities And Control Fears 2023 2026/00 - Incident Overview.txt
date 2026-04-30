@@ -1,0 +1,16 @@
+Incident ID: greece_2023_15_minute_cities_smart_cities_control_fears
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: Greece 15 Minute Cities Smart Cities And Control Fears 2023 2026
+Title EL: Ελλαδα 15 Minute Cities Smart Cities Και Φοβοι Ελεγχου 2023 2026
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_2025_opekepe_agricultural_subsidy_fraud_escalation
+Country: Greece
+Date Folder: 00-00-2025
+Year: 2025
+
+Title EN: OPEKEPE agricultural subsidy fraud escalation
+Title EL: Κλιμάκωση σκανδάλου αγροτικών επιδοτήσεων ΟΠΕΚΕΠΕ
+
+Category EN: EU funds / corruption
+Category EL: ευρωπαϊκά κονδύλια / διαφθορά
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

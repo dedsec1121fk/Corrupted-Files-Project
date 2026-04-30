@@ -1,0 +1,16 @@
+Incident ID: greece_2022_pispirigou_child_deaths_media_trial_problem
+Country: Greece
+Date Folder: 00-00-2022
+Year: 2022
+
+Title EN: Pispirigou child deaths media trial problem
+Title EL: Pispirigou child deaths media trial problem
+
+Category EN: crime / media ethics
+Category EL: crime / media ethics
+
+Evidence EN: documented criminal case with media controversy
+Evidence EL: documented criminal case with media controversy
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_1971_citizens_commission_fbi_files_and_cointelpro_exposure
+Country: USA
+Date Folder: 00-00-1971
+Year: 1971
+
+Title EN: Citizens Commission FBI files and COINTELPRO exposure
+Title EL: Αρχεία Citizens Commission και αποκάλυψη COINTELPRO
+
+Category EN: surveillance / civil liberties
+Category EL: παρακολούθηση / ατομικές ελευθερίες
+
+Evidence EN: documented declassified program
+Evidence EL: τεκμηριωμένο αποχαρακτηρισμένο πρόγραμμα
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,25 @@
+{
+  "id": "usa_2002_abu_ghraib_prisoner_abuse_scandal",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Abu Ghraib prisoner abuse scandal",
+    "el": "Abu Ghraib prisoner abuse scandal"
+  },
+  "year": 2002,
+  "date_folder": "00-00-2002",
+  "incident_folder": "USA/00-00-2002/Abu Ghraib prisoner abuse scandal",
+  "category": {
+    "en": "war crimes / detention",
+    "el": "war crimes / detention"
+  },
+  "evidence_level": {
+    "en": "documented abuse",
+    "el": "documented abuse"
+  },
+  "images": [
+    "USA/00-00-2002/Abu Ghraib prisoner abuse scandal/Media/01 - EN Cover Card.svg"
+  ]
+}

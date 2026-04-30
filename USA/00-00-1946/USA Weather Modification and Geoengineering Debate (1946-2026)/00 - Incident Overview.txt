@@ -1,0 +1,16 @@
+Incident ID: usa_1946_weather_modification_geoengineering
+Country: USA
+Date Folder: 00-00-1946
+Year: 1946
+
+Title EN: USA: Weather Modification and Geoengineering Debate (1946-2026)
+Title EL: ΗΠΑ: Τροποποίηση Καιρού και Συζήτηση για Geoengineering (1946-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

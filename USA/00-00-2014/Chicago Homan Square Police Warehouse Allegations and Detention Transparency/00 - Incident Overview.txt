@@ -1,0 +1,16 @@
+Incident ID: usa_2014_chicago_homan_square_police_warehouse_allegations_detention_transparen
+Country: USA
+Date Folder: 00-00-2014
+Year: 2014
+
+Title EN: Chicago Homan Square: Police Warehouse Allegations and Detention Transparency
+Title EL: Chicago Homan Square: Ισχυρισμοί για Αστυνομική Αποθήκη και Διαφάνεια Κράτησης
+
+Category EN: policing / detention transparency
+Category EL: αστυνόμευση / διαφάνεια κράτησης
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

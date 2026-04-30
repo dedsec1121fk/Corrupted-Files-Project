@@ -1,0 +1,26 @@
+{
+  "id": "greece_2019_exarchia_operations_urban_policing_drugs_squats_fear_rights",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Exarchia Operations and Urban Policing: Drugs, Squats, Fear and Rights",
+    "el": "Επιχειρήσεις Εξαρχείων: Ναρκωτικά, Καταλήψεις, Φόβος και Δικαιώματα"
+  },
+  "year": 2019,
+  "date_folder": "00-00-2019",
+  "incident_folder": "Greece/00-00-2019/Exarchia Operations and Urban Policing Drugs, Squats, Fear and Rights",
+  "category": {
+    "en": "urban policing / public order",
+    "el": "αστική αστυνόμευση / δημόσια τάξη"
+  },
+  "evidence_level": {
+    "en": "documented case or documented public controversy with unresolved interpretation",
+    "el": "τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία"
+  },
+  "images": [
+    "Greece/00-00-2019/Exarchia Operations and Urban Policing Drugs, Squats, Fear and Rights/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2019/Exarchia Operations and Urban Policing Drugs, Squats, Fear and Rights/Media/02 - EL Cover Card.svg"
+  ]
+}

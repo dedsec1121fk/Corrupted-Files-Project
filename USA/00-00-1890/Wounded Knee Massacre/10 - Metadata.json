@@ -1,0 +1,28 @@
+{
+  "id": "usa_1890_wounded_knee_massacre",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Wounded Knee Massacre",
+    "el": "Wounded Knee Massacre"
+  },
+  "year": 1890,
+  "date_folder": "00-00-1890",
+  "incident_folder": "USA/00-00-1890/Wounded Knee Massacre",
+  "category": {
+    "en": "state violence / indigenous history",
+    "el": "state violence / indigenous history"
+  },
+  "evidence_level": {
+    "en": "documented historical atrocity",
+    "el": "documented historical atrocity"
+  },
+  "images": [
+    "USA/00-00-1890/Wounded Knee Massacre/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1890/Wounded Knee Massacre/Media/02 - EN Cover Card.svg",
+    "USA/00-00-1890/Wounded Knee Massacre/Media/03 - EN Cover Card.svg",
+    "USA/00-00-1890/Wounded Knee Massacre/Media/04 - EN Proof Map.svg"
+  ]
+}

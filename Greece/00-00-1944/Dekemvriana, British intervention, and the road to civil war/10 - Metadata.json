@@ -1,0 +1,26 @@
+{
+  "id": "greece_1944_dekemvriana_british_intervention_civil_war_path",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Dekemvriana, British intervention, and the road to civil war",
+    "el": "Δεκεμβριανά, βρετανική επέμβαση και δρόμος προς τον εμφύλιο"
+  },
+  "year": 1944,
+  "date_folder": "00-00-1944",
+  "incident_folder": "Greece/00-00-1944/Dekemvriana, British intervention, and the road to civil war",
+  "category": {
+    "en": "postwar state power / foreign influence / political violence",
+    "el": "μεταπολεμική εξουσία / ξένη επιρροή / πολιτική βία"
+  },
+  "evidence_level": {
+    "en": "documented historical conflict with contested responsibility",
+    "el": "τεκμηριωμένη ιστορική σύγκρουση με αμφισβητούμενη ευθύνη"
+  },
+  "images": [
+    "Greece/00-00-1944/Dekemvriana, British intervention, and the road to civil war/Media/01 - Cover Card.svg",
+    "Greece/00-00-1944/Dekemvriana, British intervention, and the road to civil war/Media/02 - Proof Map.svg"
+  ]
+}

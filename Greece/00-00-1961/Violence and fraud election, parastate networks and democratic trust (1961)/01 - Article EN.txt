@@ -1,0 +1,95 @@
+Violence and fraud election, parastate networks and democratic trust (1961)
+
+COUNTRY: Greece
+YEAR FOLDER: 1961
+EVIDENCE LEVEL: documented/partly documented public record; disputed parts are labelled as disputed
+CATEGORY: Surveillance, secrecy and information control
+
+FULL ARTICLE / DOSSIER
+The 1961 election became shorthand for intimidation, administrative manipulation and fear that
+formal democracy could be substantively distorted.
+
+BACKGROUND
+The deeper mechanism in this type of case is secrecy plus asymmetry: one side collects, classifies, stores or shapes information while ordinary people cannot see the full system. The visible scandal is usually only the
+surface. Under it there are incentives, habits, institutions, budgets, files, contracts, social fears and
+political stories that existed before the public paid attention.
+
+IMAGE
+An original SVG cover card is included in this folder. It is not a documentary photo and does not copy
+copyrighted news imagery.
+
+SOURCE TRAIL
+- https://www.britannica.com/place/Greece/Civil-war-and-its-legacy
+
+V19 FULL READING REPORT
+
+This added report makes the existing file read like a complete case rather than a collection of facts.
+
+CASE TYPE: Public health, science and consent
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: Violence and fraud election, parastate networks and democratic trust (1961)
+Country folder: Greece
+Year folder: 1961
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For Violence and fraud election, parastate networks and democratic trust (1961), the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Case-specific reading frame
+---------------------------
+For this file, the title itself points to a public-trust rupture in Greece around 1961. The
+most useful way to read it is to identify the institutions involved, the people harmed, the
+official explanation, the counter-evidence, and the final accountability outcome. A detailed
+reader should ask whether the event was a one-time failure, a symptom of a wider system, or
+a case where later political mythology became stronger than the documented record.
+
+Long-form narrative
+-------------------
+In a full article, Violence and fraud election, parastate networks and democratic trust (1961) should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of Violence and fraud election, parastate networks and democratic trust (1961) should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: Violence and fraud election, parastate networks and democratic trust (1961) matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = Greece, year = 1961, category = Surveillance, secrecy and information control, title = Violence and fraud election, parastate networks and democratic trust (1961). A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.

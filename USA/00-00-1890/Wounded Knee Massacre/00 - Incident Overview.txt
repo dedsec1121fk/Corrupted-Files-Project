@@ -1,0 +1,16 @@
+Incident ID: usa_1890_wounded_knee_massacre
+Country: USA
+Date Folder: 00-00-1890
+Year: 1890
+
+Title EN: Wounded Knee Massacre
+Title EL: Wounded Knee Massacre
+
+Category EN: state violence / indigenous history
+Category EL: state violence / indigenous history
+
+Evidence EN: documented historical atrocity
+Evidence EL: documented historical atrocity
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

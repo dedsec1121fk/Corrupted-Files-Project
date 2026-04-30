@@ -1,0 +1,25 @@
+{
+  "id": "usa_2003_iraq_wmd_intelligence_failure",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Iraq WMD intelligence failure",
+    "el": "Iraq WMD intelligence failure"
+  },
+  "year": 2003,
+  "date_folder": "00-00-2003",
+  "incident_folder": "USA/00-00-2003/Iraq WMD intelligence failure",
+  "category": {
+    "en": "war / intelligence failure",
+    "el": "war / intelligence failure"
+  },
+  "evidence_level": {
+    "en": "documented intelligence and policy failure",
+    "el": "documented intelligence and policy failure"
+  },
+  "images": [
+    "USA/00-00-2003/Iraq WMD intelligence failure/Media/01 - EN Cover Card.svg"
+  ]
+}

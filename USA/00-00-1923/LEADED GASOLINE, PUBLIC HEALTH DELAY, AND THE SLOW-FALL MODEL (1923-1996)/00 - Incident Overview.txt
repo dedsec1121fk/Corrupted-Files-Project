@@ -1,0 +1,16 @@
+Incident ID: usa_1923_leaded_gasoline_health_delay
+Country: USA
+Date Folder: 00-00-1923
+Year: 1923
+
+Title EN: LEADED GASOLINE, PUBLIC HEALTH DELAY, AND THE SLOW-FALL MODEL (1923-1996)
+Title EL: ΒΕΝΖΙΝΗ ΜΕ ΜΟΛΥΒΔΟ, ΚΑΘΥΣΤΕΡΗΣΗ ΠΡΟΣΤΑΣΙΑΣ ΤΗΣ ΔΗΜΟΣΙΑΣ ΥΓΕΙΑΣ ΚΑΙ ΤΟ ΜΟΝΤΕΛΟ «ΑΡΓΗΣ ΠΤΩΣΗΣ» (1923-1996)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

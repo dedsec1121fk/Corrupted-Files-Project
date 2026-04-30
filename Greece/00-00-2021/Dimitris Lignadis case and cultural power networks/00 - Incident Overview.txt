@@ -1,0 +1,16 @@
+Incident ID: greece_2021_dimitris_lignadis_cultural_power_networks
+Country: Greece
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: Dimitris Lignadis case and cultural power networks
+Title EL: Dimitris Lignadis case and cultural power networks
+
+Category EN: abuse / elite protection
+Category EL: abuse / elite protection
+
+Evidence EN: documented criminal case and public debate
+Evidence EL: documented criminal case and public debate
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

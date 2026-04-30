@@ -1,0 +1,16 @@
+Incident ID: usa_1993_waco_branch_davidians_atf_fbi_siege_media
+Country: USA
+Date Folder: 00-00-1993
+Year: 1993
+
+Title EN: USA — Waco, Branch Davidians, ATF/FBI siege, media, and public trust (1993)
+Title EL: ΗΠΑ — Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη (1993)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: High for raid/siege/deaths; contested on responsibility, intent, and some tactical claims.
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

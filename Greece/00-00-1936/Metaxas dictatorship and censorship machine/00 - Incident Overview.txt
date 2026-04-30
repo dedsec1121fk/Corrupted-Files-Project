@@ -1,0 +1,16 @@
+Incident ID: greece_1936_metaxas_dictatorship_censorship_machine
+Country: Greece
+Date Folder: 00-00-1936
+Year: 1936
+
+Title EN: Metaxas dictatorship and censorship machine
+Title EL: Metaxas dictatorship and censorship machine
+
+Category EN: authoritarianism / censorship
+Category EL: authoritarianism / censorship
+
+Evidence EN: documented dictatorship
+Evidence EL: documented dictatorship
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_1985_kaltezas_killing_police_impunity_youth_revolt
+Country: Greece
+Date Folder: 00-00-1985
+Year: 1985
+
+Title EN: Michalis Kaltezas killing, police impunity, and youth revolt
+Title EL: Δολοφονία Μιχάλη Καλτεζά, αστυνομική ατιμωρησία και νεολαιίστικη εξέγερση
+
+Category EN: police violence / youth protest / accountability
+Category EL: αστυνομική βία / νεολαιίστικη διαμαρτυρία / λογοδοσία
+
+Evidence EN: documented police killing with contested accountability
+Evidence EL: τεκμηριωμένη αστυνομική δολοφονία με αμφισβητούμενη λογοδοσία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

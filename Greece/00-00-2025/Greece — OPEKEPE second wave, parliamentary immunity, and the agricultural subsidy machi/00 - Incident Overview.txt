@@ -1,0 +1,16 @@
+Incident ID: greece_2025_opekepe_second_wave_parliament_immunity_agricultural_subsidy_machine
+Country: Greece
+Date Folder: 00-00-2025
+Year: 2025
+
+Title EN: Greece — OPEKEPE second wave, parliamentary immunity, and the agricultural subsidy machine (2025–2026)
+Title EL: Ελλάδα — ΟΠΕΚΕΠΕ, ασυλίες και μηχανή αγροτικών επιδοτήσεων (2025–2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: High for EPPO investigation steps and public resignations; allegations remain legally unresolved for specific persons until courts decide.
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_1967_april_21_coup_foreign_context_local_responsibility
+Country: Greece
+Date Folder: 00-00-1967
+Year: 1967
+
+Title EN: April 21 coup: foreign context and local responsibility
+Title EL: Πραξικόπημα της 21ης Απριλίου: ξένο πλαίσιο και τοπική ευθύνη
+
+Category EN: military dictatorship / Cold War
+Category EL: στρατιωτική δικτατορία / Ψυχρός Πόλεμος
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

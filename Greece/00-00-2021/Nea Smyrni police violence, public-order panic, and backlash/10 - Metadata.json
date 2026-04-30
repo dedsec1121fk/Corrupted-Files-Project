@@ -1,0 +1,26 @@
+{
+  "id": "greece_2021_nea_smyrni_police_violence_public_order_backlash",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Nea Smyrni police violence, public-order panic, and backlash",
+    "el": "Νέα Σμύρνη, αστυνομική βία, πανικός δημόσιας τάξης και αντίδραση"
+  },
+  "year": 2021,
+  "date_folder": "00-00-2021",
+  "incident_folder": "Greece/00-00-2021/Nea Smyrni police violence, public-order panic, and backlash",
+  "category": {
+    "en": "policing / protest / pandemic restrictions",
+    "el": "αστυνόμευση / διαμαρτυρία / περιορισμοί πανδημίας"
+  },
+  "evidence_level": {
+    "en": "documented public incident with contested protest and policing narratives",
+    "el": "τεκμηριωμένο δημόσιο περιστατικό με αμφισβητούμενες αφηγήσεις διαμαρτυρίας και αστυνόμευσης"
+  },
+  "images": [
+    "Greece/00-00-2021/Nea Smyrni police violence, public-order panic, and backlash/Media/01 - Cover Card.svg",
+    "Greece/00-00-2021/Nea Smyrni police violence, public-order panic, and backlash/Media/02 - Proof Map.svg"
+  ]
+}

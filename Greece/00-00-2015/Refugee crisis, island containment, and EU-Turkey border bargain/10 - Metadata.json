@@ -1,0 +1,26 @@
+{
+  "id": "greece_2015_refugee_crisis_islands_eu_turkey_containment",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Refugee crisis, island containment, and EU-Turkey border bargain",
+    "el": "Προσφυγική κρίση, εγκλωβισμός νησιών και παζάρι συνόρων ΕΕ-Τουρκίας"
+  },
+  "year": 2015,
+  "date_folder": "00-00-2015",
+  "incident_folder": "Greece/00-00-2015/Refugee crisis, island containment, and EU-Turkey border bargain",
+  "category": {
+    "en": "migration / EU policy / humanitarian governance",
+    "el": "μετανάστευση / πολιτική ΕΕ / ανθρωπιστική διακυβέρνηση"
+  },
+  "evidence_level": {
+    "en": "documented humanitarian crisis with disputed policy responsibility",
+    "el": "τεκμηριωμένη ανθρωπιστική κρίση με αμφισβητούμενη πολιτική ευθύνη"
+  },
+  "images": [
+    "Greece/00-00-2015/Refugee crisis, island containment, and EU-Turkey border bargain/Media/01 - Cover Card.svg",
+    "Greece/00-00-2015/Refugee crisis, island containment, and EU-Turkey border bargain/Media/02 - Proof Map.svg"
+  ]
+}

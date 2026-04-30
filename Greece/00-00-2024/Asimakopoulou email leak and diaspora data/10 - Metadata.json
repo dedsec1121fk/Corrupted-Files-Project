@@ -1,0 +1,27 @@
+{
+  "id": "greece_2024_asimakopoulou_email_leak_diaspora_data",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Asimakopoulou email leak and diaspora data",
+    "el": "Asimakopoulou email leak and diaspora data"
+  },
+  "year": 2024,
+  "date_folder": "00-00-2024",
+  "incident_folder": "Greece/00-00-2024/Asimakopoulou email leak and diaspora data",
+  "category": {
+    "en": "data protection / elections",
+    "el": "data protection / elections"
+  },
+  "evidence_level": {
+    "en": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες"
+  },
+  "images": [
+    "Greece/00-00-2024/Asimakopoulou email leak and diaspora data/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2024/Asimakopoulou email leak and diaspora data/Media/02 - EN Cover Card.svg",
+    "Greece/00-00-2024/Asimakopoulou email leak and diaspora data/Media/03 - EL Cover Card.svg"
+  ]
+}

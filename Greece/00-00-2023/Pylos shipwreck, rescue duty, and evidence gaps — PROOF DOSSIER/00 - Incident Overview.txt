@@ -1,0 +1,16 @@
+Incident ID: greece_2023_pylos_shipwreck_rescue_duty_evidence_gaps
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: Pylos shipwreck, rescue duty, and evidence gaps — PROOF DOSSIER
+Title EL: Ναυάγιο της Πύλου, υποχρέωση διάσωσης και κενά τεκμηρίωσης — ΦΑΚΕΛΟΣ ΑΠΟΔΕΙΞΕΩΝ
+
+Category EN: migration / maritime disaster
+Category EL: μετανάστευση / ναυτική καταστροφή
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

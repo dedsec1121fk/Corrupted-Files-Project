@@ -1,0 +1,16 @@
+Incident ID: greece_2019_exarchia_operations_urban_policing_drugs_squats_fear_rights
+Country: Greece
+Date Folder: 00-00-2019
+Year: 2019
+
+Title EN: Exarchia Operations and Urban Policing: Drugs, Squats, Fear and Rights
+Title EL: Επιχειρήσεις Εξαρχείων: Ναρκωτικά, Καταλήψεις, Φόβος και Δικαιώματα
+
+Category EN: urban policing / public order
+Category EL: αστική αστυνόμευση / δημόσια τάξη
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

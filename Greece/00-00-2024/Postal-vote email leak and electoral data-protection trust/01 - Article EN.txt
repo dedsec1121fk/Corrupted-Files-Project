@@ -1,0 +1,36 @@
+Postal-vote email leak and electoral data-protection trust
+
+Country: Greece
+Year: 2024
+Category: data protection / elections / party access
+Evidence level: documented data-protection scandal with official investigation
+
+Full story
+----------
+The 2024 email leak controversy around Greek expatriate voters and postal-vote communication became a trust case because election data is not ordinary marketing data. Citizens asked how political actors obtained contact information and whether state-held democratic data could be treated as party infrastructure.
+
+Confirmed record
+----------------
+- The controversy involved emails sent to Greeks abroad and official data-protection scrutiny.
+- Resignations and political accountability steps followed.
+- The case overlapped with rollout of postal-vote systems and trust in electoral administration.
+
+Disputed or unresolved points
+-----------------------------
+- The exact path of data access and responsibility must be read through authority findings.
+- Political advantage claims need evidence about who knew what and when.
+
+Conspiracy theory / rumor lane
+------------------------------
+- The conspiracy lane claims a party-state voter database pipeline; the documented concern is serious, but scope depends on data-protection findings.
+- A structural reading is that digital election convenience expands the blast radius of insider access.
+
+Source trail
+------------
+- Hellenic Data Protection Authority record
+- Greek parliamentary and ministry statements
+- Greek press coverage of 2024 email leak
+
+Reader warning
+--------------
+This record includes conspiracy theories because they shape public memory. They are explicitly separated from documented anchors and should not be treated as proven unless the source trail supports them.

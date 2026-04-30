@@ -1,0 +1,26 @@
+{
+  "id": "usa_2004_abu_ghraib_abuse_photographs_and_command_responsibility",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Abu Ghraib abuse photographs and command responsibility",
+    "el": "Φωτογραφίες κακοποίησης Abu Ghraib και ευθύνη διοίκησης"
+  },
+  "year": 2004,
+  "date_folder": "00-00-2004",
+  "incident_folder": "USA/00-00-2004/Abu Ghraib abuse photographs and command responsibility",
+  "category": {
+    "en": "war abuse / accountability",
+    "el": "κακοποίηση πολέμου / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "USA/00-00-2004/Abu Ghraib abuse photographs and command responsibility/Media/01 - Cover Card.svg",
+    "USA/00-00-2004/Abu Ghraib abuse photographs and command responsibility/Media/02 - Proof Map.svg"
+  ]
+}

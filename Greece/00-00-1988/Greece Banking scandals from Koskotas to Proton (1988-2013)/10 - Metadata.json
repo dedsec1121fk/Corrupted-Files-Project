@@ -1,0 +1,26 @@
+{
+  "id": "greece_1988_banking_scandals_koskotas_proton",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Greece: Banking scandals from Koskotas to Proton (1988-2013)",
+    "el": "Ελλάδα: Τραπεζικά σκάνδαλα από Κοσκωτά έως Proton (1988-2013)"
+  },
+  "year": 1988,
+  "date_folder": "00-00-1988",
+  "incident_folder": "Greece/00-00-1988/Greece Banking scandals from Koskotas to Proton (1988-2013)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-1988/Greece Banking scandals from Koskotas to Proton (1988-2013)/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-1988/Greece Banking scandals from Koskotas to Proton (1988-2013)/Media/02 - EL Cover Card.svg"
+  ]
+}

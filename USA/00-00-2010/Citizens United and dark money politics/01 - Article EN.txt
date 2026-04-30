@@ -1,0 +1,113 @@
+Citizens United and dark money politics
+=======================================
+
+Country: USA
+Year folder: 2010
+Category: elections / money power
+Evidence level: documented legal turning point
+
+Core story
+----------
+The Supreme Court decision changed campaign finance by expanding independent political
+spending rights.
+
+What happened, in full context
+------------------------------
+Citizens United did not create money in politics from nothing, but it changed the legal
+terrain. Super PACs and dark-money networks grew in influence, making it harder for ordinary
+voters to trace who funds persuasion. The case is not a secret conspiracy; it is a public
+legal transformation with deep democratic effects.
+
+Timeline
+--------
+- 2010: Supreme Court decision.
+- 2010s: Super PAC and dark-money ecosystem grows.
+- Ongoing: reform debates continue.
+
+Key facts and evidence points
+-----------------------------
+- Decision protected independent expenditures.
+- Political spending vehicles expanded afterward.
+- Disclosure gaps remain a central issue.
+
+Why this case matters
+---------------------
+It belongs in the database because visible law can still create hidden power.
+
+Competing explanations and caution
+-----------------------------------
+Supporters frame the ruling as speech protection; critics see donor power and disclosure
+failure.
+
+Source trail / suggested verification
+-------------------------------------
+- US Senate hearings and reports: https://www.senate.gov/
+
+V21 expansion note: This file was added in the mega expansion pass with extra context, evidence labeling, and a safe original cover card.
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: Citizens United and dark money politics
+Country folder: USA
+Year folder: 2010
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For Citizens United and dark money politics, the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Case-specific reading frame
+---------------------------
+For this file, the title itself points to a public-trust rupture in USA around 2010. The
+most useful way to read it is to identify the institutions involved, the people harmed, the
+official explanation, the counter-evidence, and the final accountability outcome. A detailed
+reader should ask whether the event was a one-time failure, a symptom of a wider system, or
+a case where later political mythology became stronger than the documented record.
+
+Long-form narrative
+-------------------
+In a full article, Citizens United and dark money politics should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of Citizens United and dark money politics should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: Citizens United and dark money politics matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = USA, year = 2010, category = elections / money power, title = Citizens United and dark money politics. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.

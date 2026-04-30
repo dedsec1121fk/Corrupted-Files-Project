@@ -1,0 +1,26 @@
+{
+  "id": "usa_1986_challenger_disaster_engineering_warnings_launch_pressure_institutional",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Challenger Disaster: Engineering Warnings, Launch Pressure and Institutional Silence",
+    "el": "Challenger: Προειδοποιήσεις Μηχανικών, Πίεση Εκτόξευσης και Θεσμική Σιωπή"
+  },
+  "year": 1986,
+  "date_folder": "00-00-1986",
+  "incident_folder": "USA/00-00-1986/Challenger Disaster Engineering Warnings, Launch Pressure and Institutional Silence",
+  "category": {
+    "en": "space disaster / organizational failure",
+    "el": "διαστημική καταστροφή / οργανωσιακή αποτυχία"
+  },
+  "evidence_level": {
+    "en": "documented case with some disputed interpretation",
+    "el": "τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-1986/Challenger Disaster Engineering Warnings, Launch Pressure and Institutional Silence/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1986/Challenger Disaster Engineering Warnings, Launch Pressure and Institutional Silence/Media/02 - EL Cover Card.svg"
+  ]
+}

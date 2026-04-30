@@ -1,0 +1,16 @@
+Incident ID: usa_2001_worldcom_accounting_fraud_telecom_bubble
+Country: USA
+Date Folder: 00-00-2001
+Year: 2001
+
+Title EN: WorldCom accounting fraud and telecom-bubble trust collapse
+Title EL: WorldCom, λογιστική απάτη και κατάρρευση εμπιστοσύνης τηλεπικοινωνιακής φούσκας
+
+Category EN: corporate fraud / accounting / telecom bubble
+Category EL: εταιρική απάτη / λογιστική / τηλεπικοινωνιακή φούσκα
+
+Evidence EN: documented corporate fraud with criminal convictions
+Evidence EL: τεκμηριωμένη εταιρική απάτη με ποινικές καταδίκες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

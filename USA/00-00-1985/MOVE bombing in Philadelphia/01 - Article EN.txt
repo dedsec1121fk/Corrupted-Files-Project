@@ -1,0 +1,42 @@
+MOVE bombing in Philadelphia
+
+Country: USA
+Year: 1985
+Category: police violence / urban disaster
+Evidence level: documented municipal disaster
+
+Full story
+----------
+This dossier records the case as a public-trust event rather than as a short headline. The point is to make the reader understand what happened, why people still discuss it, what can be proven, what remains disputed, and how the case fits into a wider pattern of corruption, state failure, institutional secrecy, organized influence, or public fear.
+
+Background
+----------
+In 1985 Philadelphia police dropped an explosive on a house occupied by MOVE members.
+
+Chronology and public record
+----------------------------
+The resulting fire killed adults and children and destroyed dozens of homes.
+
+Main conflict
+-------------
+The central conflict is how a city converted a policing operation into a neighborhood catastrophe.
+
+Why it matters
+--------------
+It matters because state force, racial politics, and urban governance collided in one visible disaster.
+
+Impact on public trust
+----------------------
+Public trust collapsed because the event looked less like law enforcement and more like war against residents.
+
+Open questions
+--------------
+Questions remain over command decisions, fire response, and accountability.
+
+Reader conclusion
+-----------------
+A careful reader should separate confirmed facts from interpretation. The strongest parts of this case are the documented events, public records, court or institutional material, and direct consequences. The weaker parts are claims that require inference or depend on political interpretation. The case belongs in this database because it shows how a public event can become a larger question about accountability, power, and memory.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = USA, year = 1985, category = police violence / urban disaster, title = MOVE bombing in Philadelphia. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.

@@ -1,0 +1,16 @@
+Incident ID: usa_1945_project_sunshine_body_parts_nuclear_fallout_consent
+Country: USA
+Date Folder: 00-00-1945
+Year: 1945
+
+Title EN: USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973)
+Title EL: ΗΠΑ — Project Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση (1945–1973)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: High for fallout research and collection controversies; medium for the most dramatic public interpretations.
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,26 @@
+{
+  "id": "greece_1967_coup_us_response",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Greece: The 1967 coup and the U.S. response (1965-1974)",
+    "el": "Ελλάδα: Το πραξικόπημα του 1967 και η αμερικανική ανταπόκριση (1965-1974)"
+  },
+  "year": 1967,
+  "date_folder": "00-00-1967",
+  "incident_folder": "Greece/00-00-1967/Greece The 1967 coup and the U.S. response (1965-1974)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-1967/Greece The 1967 coup and the U.S. response (1965-1974)/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-1967/Greece The 1967 coup and the U.S. response (1965-1974)/Media/02 - EL Cover Card.svg"
+  ]
+}

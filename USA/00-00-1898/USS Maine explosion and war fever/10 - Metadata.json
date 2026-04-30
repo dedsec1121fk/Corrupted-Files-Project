@@ -1,0 +1,26 @@
+{
+  "id": "usa_1898_uss_maine_explosion_and_war_fever",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USS Maine explosion and war fever",
+    "el": "Έκρηξη USS Maine και πολεμικός πυρετός"
+  },
+  "year": 1898,
+  "date_folder": "00-00-1898",
+  "incident_folder": "USA/00-00-1898/USS Maine explosion and war fever",
+  "category": {
+    "en": "war trigger / media panic",
+    "el": "αφορμή πολέμου / πανικός ΜΜΕ"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "USA/00-00-1898/USS Maine explosion and war fever/Media/01 - Cover Card.svg",
+    "USA/00-00-1898/USS Maine explosion and war fever/Media/02 - Proof Map.svg"
+  ]
+}

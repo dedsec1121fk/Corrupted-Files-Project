@@ -1,5 +1,0 @@
-EN:
-The reader now has a menu option to display all folders by year. It prints each year, country, case ID folder, and case title. Inside a case, the image list can be opened with the Android gallery/file app when Termux can launch it. SVG files may open in a browser or file viewer depending on the phone.
-
-EL:
-Ο reader έχει πλέον επιλογή για εμφάνιση όλων των φακέλων ανά έτος. Εμφανίζει κάθε έτος, χώρα, ID φακέλου υπόθεσης και τίτλο υπόθεσης. Μέσα σε κάθε υπόθεση, η λίστα εικόνων μπορεί να ανοίξει με gallery/file app όταν το Termux μπορεί να το εκτελέσει. Τα SVG μπορεί να ανοίξουν σε browser ή file viewer ανάλογα με το κινητό.

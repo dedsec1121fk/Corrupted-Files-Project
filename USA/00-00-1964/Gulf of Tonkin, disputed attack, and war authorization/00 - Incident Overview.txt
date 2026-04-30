@@ -1,0 +1,16 @@
+Incident ID: usa_1964_gulf_of_tonkin_resolution_intelligence_gap
+Country: USA
+Date Folder: 00-00-1964
+Year: 1964
+
+Title EN: Gulf of Tonkin, disputed attack, and war authorization
+Title EL: Κόλπος του Tonkin: αμφισβητούμενη επίθεση και εξουσιοδότηση πολέμου
+
+Category EN: war powers / intelligence / deception claims
+Category EL: πολεμικές εξουσίες / πληροφορίες / ισχυρισμοί παραπλάνησης
+
+Evidence EN: documented incident with declassified doubts and disputed intent
+Evidence EL: τεκμηριωμένο περιστατικό με αποχαρακτηρισμένες αμφιβολίες και αμφισβητούμενη πρόθεση
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

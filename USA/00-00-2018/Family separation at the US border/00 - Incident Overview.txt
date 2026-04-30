@@ -1,0 +1,16 @@
+Incident ID: usa_2018_family_separation_at_us_border
+Country: USA
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Family separation at the US border
+Title EL: Family separation at the US border
+
+Category EN: immigration / state power
+Category EL: immigration / state power
+
+Evidence EN: documented policy harm
+Evidence EL: documented policy harm
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,25 @@
+{
+  "id": "usa_2021_nso_pegasus_global_spyware_pressure",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "NSO Pegasus and global spyware pressure",
+    "el": "NSO Pegasus and global spyware pressure"
+  },
+  "year": 2021,
+  "date_folder": "00-00-2021",
+  "incident_folder": "USA/00-00-2021/NSO Pegasus and global spyware pressure",
+  "category": {
+    "en": "surveillance / private cyber power",
+    "el": "surveillance / private cyber power"
+  },
+  "evidence_level": {
+    "en": "documented global scandal",
+    "el": "documented global scandal"
+  },
+  "images": [
+    "USA/00-00-2021/NSO Pegasus and global spyware pressure/Media/01 - EN Cover Card.svg"
+  ]
+}

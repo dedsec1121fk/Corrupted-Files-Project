@@ -1,0 +1,5 @@
+Therac-25, υπερδοσολογίες ακτινοβολίας και αποτυχία ασφάλειας λογισμικού
+
+- Therac-25 accident analysis literature
+- FDA medical-device safety record
+- Safety-critical software engineering case studies

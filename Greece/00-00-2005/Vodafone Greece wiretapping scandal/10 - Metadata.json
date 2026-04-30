@@ -1,0 +1,25 @@
+{
+  "id": "greece_2005_vodafone_greece_wiretapping_scandal",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Vodafone Greece wiretapping scandal",
+    "el": "Vodafone Greece wiretapping scandal"
+  },
+  "year": 2005,
+  "date_folder": "00-00-2005",
+  "incident_folder": "Greece/00-00-2005/Vodafone Greece wiretapping scandal",
+  "category": {
+    "en": "surveillance / telecoms",
+    "el": "surveillance / telecoms"
+  },
+  "evidence_level": {
+    "en": "documented wiretapping scandal",
+    "el": "documented wiretapping scandal"
+  },
+  "images": [
+    "Greece/00-00-2005/Vodafone Greece wiretapping scandal/Media/01 - EN Cover Card.svg"
+  ]
+}

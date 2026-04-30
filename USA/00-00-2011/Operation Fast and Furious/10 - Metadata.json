@@ -1,0 +1,25 @@
+{
+  "id": "usa_2011_operation_fast_furious",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Operation Fast and Furious",
+    "el": "Operation Fast and Furious"
+  },
+  "year": 2011,
+  "date_folder": "00-00-2011",
+  "incident_folder": "USA/00-00-2011/Operation Fast and Furious",
+  "category": {
+    "en": "law enforcement failure",
+    "el": "law enforcement failure"
+  },
+  "evidence_level": {
+    "en": "documented oversight scandal",
+    "el": "documented oversight scandal"
+  },
+  "images": [
+    "USA/00-00-2011/Operation Fast and Furious/Media/01 - EN Cover Card.svg"
+  ]
+}

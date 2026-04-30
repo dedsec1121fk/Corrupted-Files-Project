@@ -1,0 +1,16 @@
+Incident ID: usa_1953_operation_ajax_iran_cia_mi6_coup
+Country: USA
+Date Folder: 00-00-1953
+Year: 1953
+
+Title EN: Operation AJAX and the 1953 Iran coup
+Title EL: Επιχείρηση AJAX και το πραξικόπημα στο Ιράν το 1953
+
+Category EN: foreign intervention / intelligence
+Category EL: ξένη επέμβαση / υπηρεσίες πληροφοριών
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

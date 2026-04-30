@@ -1,0 +1,16 @@
+Incident ID: usa_1919_palmer_raids_red_scare_deportations_political_policing
+Country: USA
+Date Folder: 00-00-1919
+Year: 1919
+
+Title EN: USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)
+Title EL: ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: High for raids/deportations and political repression; medium for broader claims about lasting intelligence-culture effects.
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

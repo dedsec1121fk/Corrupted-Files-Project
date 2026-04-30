@@ -1,0 +1,16 @@
+Incident ID: usa_1944_human_radiation_experiments
+Country: USA
+Date Folder: 00-00-1944
+Year: 1944
+
+Title EN: USA: Human Radiation Experiments — Official Review of Cold War-Era Government-Sponsored Testing (1944-1995)
+Title EL: ΗΠΑ: Πειράματα ανθρώπινης ακτινοβολίας — Επίσημη ανασκόπηση κρατικά χρηματοδοτημένων δοκιμών της Ψυχροπολεμικής περιόδου (1944-1995)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

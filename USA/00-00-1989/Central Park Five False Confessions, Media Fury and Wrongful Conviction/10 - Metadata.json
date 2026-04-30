@@ -1,0 +1,26 @@
+{
+  "id": "usa_1989_central_park_five_false_confessions_media_fury_wrongful_conviction",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Central Park Five: False Confessions, Media Fury and Wrongful Conviction",
+    "el": "Central Park Five: Ψευδείς Ομολογίες, Μιντιακή Οργή και Άδικη Καταδίκη"
+  },
+  "year": 1989,
+  "date_folder": "00-00-1989",
+  "incident_folder": "USA/00-00-1989/Central Park Five False Confessions, Media Fury and Wrongful Conviction",
+  "category": {
+    "en": "wrongful conviction / media panic / race and policing",
+    "el": "άδικη καταδίκη / μιντιακός πανικός / φυλή και αστυνόμευση"
+  },
+  "evidence_level": {
+    "en": "documented exoneration after wrongful convictions",
+    "el": "τεκμηριωμένη αθώωση μετά από άδικες καταδίκες"
+  },
+  "images": [
+    "USA/00-00-1989/Central Park Five False Confessions, Media Fury and Wrongful Conviction/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1989/Central Park Five False Confessions, Media Fury and Wrongful Conviction/Media/02 - EL Cover Card.svg"
+  ]
+}

@@ -1,0 +1,16 @@
+Incident ID: greece_2008_vatopedi_land_swap
+Country: Greece
+Date Folder: 00-00-2008
+Year: 2008
+
+Title EN: Greece: Vatopedi Monastery Land-Swap Scandal (2008-2017)
+Title EL: Ελλάδα: Σκάνδαλο ανταλλαγών γης της Μονής Βατοπεδίου (2008-2017)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

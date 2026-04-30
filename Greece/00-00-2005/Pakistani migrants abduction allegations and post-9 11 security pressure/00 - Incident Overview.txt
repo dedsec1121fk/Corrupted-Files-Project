@@ -1,0 +1,16 @@
+Incident ID: greece_2005_pakistani_migrants_abduction_surveillance_case
+Country: Greece
+Date Folder: 00-00-2005
+Year: 2005
+
+Title EN: Pakistani migrants abduction allegations and post-9/11 security pressure
+Title EL: Καταγγελίες απαγωγής Πακιστανών μεταναστών και πίεση ασφάλειας μετά την 11η Σεπτεμβρίου
+
+Category EN: migration / intelligence cooperation / civil liberties
+Category EL: μετανάστευση / συνεργασία υπηρεσιών / ατομικές ελευθερίες
+
+Evidence EN: public allegations and legal controversy with disputed state responsibility
+Evidence EL: δημόσιες καταγγελίες και νομική διαμάχη με αμφισβητούμενη κρατική ευθύνη
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

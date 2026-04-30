@@ -1,0 +1,16 @@
+Incident ID: greece_1997_siemens_scandal
+Country: Greece
+Date Folder: 00-00-1997
+Year: 1997
+
+Title EN: Greece: Siemens bribery scandal (1997-2017)
+Title EL: Ελλάδα: σκάνδαλο Siemens (1997-2017)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

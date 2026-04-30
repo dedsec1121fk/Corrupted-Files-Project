@@ -1,0 +1,25 @@
+{
+  "id": "usa_2013_prism_disclosures_platform_surveillance",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "PRISM disclosures and platform surveillance",
+    "el": "PRISM disclosures and platform surveillance"
+  },
+  "year": 2013,
+  "date_folder": "00-00-2013",
+  "incident_folder": "USA/00-00-2013/PRISM disclosures and platform surveillance",
+  "category": {
+    "en": "surveillance / digital infrastructure",
+    "el": "surveillance / digital infrastructure"
+  },
+  "evidence_level": {
+    "en": "mixed: documented event with disputed interpretations",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2013/PRISM disclosures and platform surveillance/Media/01 - EN Cover Card.svg"
+  ]
+}

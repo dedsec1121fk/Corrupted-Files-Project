@@ -1,0 +1,26 @@
+{
+  "id": "greece_2004_debt_crisis_misreporting_austerity",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Greece: Debt Crisis, Misreported Fiscal Data, and the Austerity Era (2004-2018)",
+    "el": "Ελλάδα: Κρίση χρέους, παραποιημένα δημοσιονομικά στοιχεία και εποχή λιτότητας (2004-2018)"
+  },
+  "year": 2004,
+  "date_folder": "00-00-2004",
+  "incident_folder": "Greece/00-00-2004/Greece Debt Crisis, Misreported Fiscal Data, and the Austerity Era (2004-2018)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-2004/Greece Debt Crisis, Misreported Fiscal Data, and the Austerity Era (2004-2018)/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2004/Greece Debt Crisis, Misreported Fiscal Data, and the Austerity Era (2004-2018)/Media/02 - EL Cover Card.svg"
+  ]
+}

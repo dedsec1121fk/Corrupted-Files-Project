@@ -1,0 +1,26 @@
+{
+  "id": "greece_1922_trial_of_the_six_asia_minor_accountability",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Trial of the Six, Asia Minor catastrophe, and punishment politics",
+    "el": "Δίκη των Έξι, Μικρασιατική Καταστροφή και πολιτική τιμωρίας"
+  },
+  "year": 1922,
+  "date_folder": "00-00-1922",
+  "incident_folder": "Greece/00-00-1922/Trial of the Six, Asia Minor catastrophe, and punishment politics",
+  "category": {
+    "en": "military disaster / political trial / national trauma",
+    "el": "στρατιωτική καταστροφή / πολιτική δίκη / εθνικό τραύμα"
+  },
+  "evidence_level": {
+    "en": "documented historical trial with disputed justice",
+    "el": "τεκμηριωμένη ιστορική δίκη με αμφισβητούμενη δικαιοσύνη"
+  },
+  "images": [
+    "Greece/00-00-1922/Trial of the Six, Asia Minor catastrophe, and punishment politics/Media/01 - Cover Card.svg",
+    "Greece/00-00-1922/Trial of the Six, Asia Minor catastrophe, and punishment politics/Media/02 - Proof Map.svg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usa_1975_church_committee_intelligence_oversight",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Church Committee intelligence oversight revelations",
+    "el": "Church Committee intelligence oversight revelations"
+  },
+  "year": 1975,
+  "date_folder": "00-00-1975",
+  "incident_folder": "USA/00-00-1975/Church Committee intelligence oversight revelations",
+  "category": {
+    "en": "intelligence oversight / civil liberties",
+    "el": "intelligence oversight / civil liberties"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1975/Church Committee intelligence oversight revelations/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1975/Church Committee intelligence oversight revelations/Media/02 - EN Proof Map.svg"
+  ]
+}

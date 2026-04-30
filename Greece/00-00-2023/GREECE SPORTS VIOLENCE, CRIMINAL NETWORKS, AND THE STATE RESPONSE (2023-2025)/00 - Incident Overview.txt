@@ -1,0 +1,16 @@
+Incident ID: greece_2023_sports_violence_crime_networks_state_response
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: GREECE: SPORTS VIOLENCE, CRIMINAL NETWORKS, AND THE STATE RESPONSE (2023-2025)
+Title EL: ΕΛΛΑΔΑ: ΟΠΑΔΙΚΗ ΒΙΑ, ΕΓΚΛΗΜΑΤΙΚΑ ΔΙΚΤΥΑ ΚΑΙ Η ΚΡΑΤΙΚΗ ΑΝΤΙΔΡΑΣΗ (2023-2025)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

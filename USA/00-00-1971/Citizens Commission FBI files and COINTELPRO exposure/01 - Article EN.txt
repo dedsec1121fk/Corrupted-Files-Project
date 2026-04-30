@@ -1,0 +1,42 @@
+Citizens Commission FBI files and COINTELPRO exposure
+
+Country: USA
+Year: 1971
+Category: surveillance / civil liberties
+Evidence level: documented declassified program
+
+Full story
+----------
+This dossier records the case as a public-trust event rather than as a short headline. The point is to make the reader understand what happened, why people still discuss it, what can be proven, what remains disputed, and how the case fits into a wider pattern of corruption, state failure, institutional secrecy, organized influence, or public fear.
+
+Background
+----------
+Activists broke into an FBI office in Media, Pennsylvania, in 1971 and revealed files that helped expose COINTELPRO.
+
+Chronology and public record
+----------------------------
+The files showed domestic surveillance and disruption against political groups, civil-rights movements, and dissent networks.
+
+Main conflict
+-------------
+The key conflict is whether security agencies can secretly police lawful political activity without destroying democracy.
+
+Why it matters
+--------------
+The case matters because it transformed abstract fears of surveillance into documents people could read.
+
+Impact on public trust
+----------------------
+It produced long-term distrust of intelligence power and helped push later oversight reforms.
+
+Open questions
+--------------
+Open questions remain about how much similar activity continues under different legal names.
+
+Reader conclusion
+-----------------
+A careful reader should separate confirmed facts from interpretation. The strongest parts of this case are the documented events, public records, court or institutional material, and direct consequences. The weaker parts are claims that require inference or depend on political interpretation. The case belongs in this database because it shows how a public event can become a larger question about accountability, power, and memory.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = USA, year = 1971, category = surveillance / civil liberties, title = Citizens Commission FBI files and COINTELPRO exposure. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.

@@ -1,0 +1,16 @@
+Incident ID: greece_2005_zahopoulos_affair_media_blackmail_power
+Country: Greece
+Date Folder: 00-00-2007
+Year: 2007
+
+Title EN: Zahopoulos affair, media blackmail, and ministerial power
+Title EL: Υπόθεση Ζαχόπουλου, εκβιασμός ΜΜΕ και υπουργική ισχύς
+
+Category EN: media scandal / political access / alleged blackmail
+Category EL: σκάνδαλο ΜΜΕ / πολιτική πρόσβαση / καταγγελίες εκβιασμού
+
+Evidence EN: documented public scandal with disputed criminal and political layers
+Evidence EL: τεκμηριωμένο δημόσιο σκάνδαλο με αμφισβητούμενα ποινικά και πολιτικά επίπεδα
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

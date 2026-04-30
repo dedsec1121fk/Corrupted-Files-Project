@@ -1,0 +1,16 @@
+Incident ID: usa_1995_oklahoma_city_bombing_extremist_warning_failure
+Country: USA
+Date Folder: 00-00-1995
+Year: 1995
+
+Title EN: Oklahoma City bombing and extremist warning failure
+Title EL: Oklahoma City bombing and extremist warning failure
+
+Category EN: domestic terrorism / warning signs
+Category EL: domestic terrorism / warning signs
+
+Evidence EN: mixed: documented event with disputed interpretations
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

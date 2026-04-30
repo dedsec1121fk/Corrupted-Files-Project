@@ -1,0 +1,26 @@
+{
+  "id": "usa_2023_east_palestine_derailment_chemical_response_regulatory",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "East Palestine derailment, chemical response and regulatory trust (2023-2026)",
+    "el": "Εκτροχιασμός East Palestine, χημική αντίδραση και ρυθμιστική εμπιστοσύνη (2023-2026)"
+  },
+  "year": 2023,
+  "date_folder": "00-00-2023",
+  "incident_folder": "USA/00-00-2023/East Palestine derailment, chemical response and regulatory trust (2023-2026)",
+  "category": {
+    "en": "Public health, science and consent",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "documented/partly documented public record; disputed parts are labelled as disputed",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-2023/East Palestine derailment, chemical response and regulatory trust (2023-2026)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2023/East Palestine derailment, chemical response and regulatory trust (2023-2026)/Media/02 - EL Cover Card.svg"
+  ]
+}

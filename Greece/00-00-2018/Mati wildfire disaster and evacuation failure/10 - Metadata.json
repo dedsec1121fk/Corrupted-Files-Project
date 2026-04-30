@@ -1,0 +1,25 @@
+{
+  "id": "greece_2018_mati_wildfire_disaster_evacuation_failure",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Mati wildfire disaster and evacuation failure",
+    "el": "Mati wildfire disaster and evacuation failure"
+  },
+  "year": 2018,
+  "date_folder": "00-00-2018",
+  "incident_folder": "Greece/00-00-2018/Mati wildfire disaster and evacuation failure",
+  "category": {
+    "en": "disaster governance / accountability",
+    "el": "disaster governance / accountability"
+  },
+  "evidence_level": {
+    "en": "documented disaster",
+    "el": "documented disaster"
+  },
+  "images": [
+    "Greece/00-00-2018/Mati wildfire disaster and evacuation failure/Media/01 - EN Mati Wildfire Disaster And Evacuation Failure Cove A11E89A9Ae82.svg"
+  ]
+}

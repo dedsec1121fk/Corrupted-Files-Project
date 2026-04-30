@@ -1,0 +1,16 @@
+Incident ID: usa_1964_gulf_tonkin_incident_war_escalation
+Country: USA
+Date Folder: 00-00-1964
+Year: 1964
+
+Title EN: Gulf of Tonkin incident and war escalation
+Title EL: Gulf of Tonkin incident and war escalation
+
+Category EN: war powers / intelligence
+Category EL: war powers / intelligence
+
+Evidence EN: documented controversy
+Evidence EL: documented controversy
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

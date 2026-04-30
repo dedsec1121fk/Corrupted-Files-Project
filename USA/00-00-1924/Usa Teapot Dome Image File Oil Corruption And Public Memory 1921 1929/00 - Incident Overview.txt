@@ -1,0 +1,16 @@
+Incident ID: usa_1924_teapot_dome_oil_corruption_memory
+Country: USA
+Date Folder: 00-00-1924
+Year: 1924
+
+Title EN: Usa Teapot Dome Image File Oil Corruption And Public Memory 1921 1929
+Title EL: Ηπα Teapot Dome Αρχειο Εικονας Πετρελαιο Διαφθορα Και Δημοσια Μνημη 1921 1929
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

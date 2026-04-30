@@ -1,0 +1,16 @@
+Incident ID: usa_1919_palmer_raids_and_red_scare_policing
+Country: USA
+Date Folder: 00-00-1919
+Year: 1919
+
+Title EN: Palmer Raids and Red Scare policing
+Title EL: Επιδρομές Palmer και αστυνόμευση Red Scare
+
+Category EN: mass raids / political repression
+Category EL: μαζικές επιδρομές / πολιτική καταστολή
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

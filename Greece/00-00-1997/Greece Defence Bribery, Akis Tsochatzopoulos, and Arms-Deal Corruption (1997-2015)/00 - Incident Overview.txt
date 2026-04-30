@@ -1,0 +1,16 @@
+Incident ID: greece_1997_defence_bribery_tsochatzopoulos
+Country: Greece
+Date Folder: 00-00-1997
+Year: 1997
+
+Title EN: Greece: Defence Bribery, Akis Tsochatzopoulos, and Arms-Deal Corruption (1997-2015)
+Title EL: Ελλάδα: Μίζες στα Εξοπλιστικά, Άκης Τσοχατζόπουλος και Διαφθορά στις Αμυντικές Συμβάσεις (1997-2015)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

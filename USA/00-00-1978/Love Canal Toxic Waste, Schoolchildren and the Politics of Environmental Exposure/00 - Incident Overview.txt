@@ -1,0 +1,16 @@
+Incident ID: usa_1978_love_canal_toxic_waste_schoolchildren_politics_environmental_exposure
+Country: USA
+Date Folder: 00-00-1978
+Year: 1978
+
+Title EN: Love Canal: Toxic Waste, Schoolchildren and the Politics of Environmental Exposure
+Title EL: Love Canal: Τοξικά Απόβλητα, Παιδιά και Πολιτική Περιβαλλοντικής Έκθεσης
+
+Category EN: environmental failure / corporate-state accountability
+Category EL: περιβαλλοντική αποτυχία / εταιρική και κρατική λογοδοσία
+
+Evidence EN: documented contamination and relocation response
+Evidence EL: τεκμηριωμένη μόλυνση και κρατική αντίδραση με μετεγκατάσταση
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

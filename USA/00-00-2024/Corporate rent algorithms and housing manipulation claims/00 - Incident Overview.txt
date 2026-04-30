@@ -1,0 +1,16 @@
+Incident ID: usa_2024_corporate_rent_algorithms_housing_manipulation_claims
+Country: USA
+Date Folder: 00-00-2024
+Year: 2024
+
+Title EN: Corporate rent algorithms and housing manipulation claims
+Title EL: Corporate rent algorithms and housing manipulation claims
+
+Category EN: housing / data economy
+Category EL: housing / data economy
+
+Evidence EN: active legal controversy
+Evidence EL: active legal controversy
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

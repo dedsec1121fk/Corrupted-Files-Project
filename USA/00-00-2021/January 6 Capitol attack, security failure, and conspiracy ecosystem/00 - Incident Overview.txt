@@ -1,0 +1,16 @@
+Incident ID: usa_2021_january_6_capitol_attack_security_failure_conspiracy_ecosystem
+Country: USA
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: January 6 Capitol attack, security failure, and conspiracy ecosystem
+Title EL: 6 Ιανουαρίου: επίθεση στο Καπιτώλιο, αποτυχία ασφάλειας και οικοσύστημα συνωμοσιών
+
+Category EN: election legitimacy / political violence / security failure
+Category EL: νομιμοποίηση εκλογών / πολιτική βία / αποτυχία ασφάλειας
+
+Evidence EN: documented attack with prosecutions and disputed responsibility narratives
+Evidence EL: τεκμηριωμένη επίθεση με διώξεις και αμφισβητούμενες αφηγήσεις ευθύνης
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_1961_bay_of_pigs_covert_failure_plausible_denial
+Country: USA
+Date Folder: 00-00-1961
+Year: 1961
+
+Title EN: Bay of Pigs invasion, covert failure, and plausible deniability
+Title EL: Εισβολή Bay of Pigs, μυστική αποτυχία και εύλογη άρνηση
+
+Category EN: covert action / foreign policy failure / secrecy
+Category EL: μυστική δράση / αποτυχία εξωτερικής πολιτικής / μυστικότητα
+
+Evidence EN: documented failed covert operation with declassified record
+Evidence EL: τεκμηριωμένη αποτυχημένη μυστική επιχείρηση με αποχαρακτηρισμένο αρχείο
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

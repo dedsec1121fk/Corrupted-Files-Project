@@ -1,0 +1,16 @@
+Incident ID: usa_1989_central_park_five_false_confessions_media_fury_wrongful_conviction
+Country: USA
+Date Folder: 00-00-1989
+Year: 1989
+
+Title EN: Central Park Five: False Confessions, Media Fury and Wrongful Conviction
+Title EL: Central Park Five: Ψευδείς Ομολογίες, Μιντιακή Οργή και Άδικη Καταδίκη
+
+Category EN: wrongful conviction / media panic / race and policing
+Category EL: άδικη καταδίκη / μιντιακός πανικός / φυλή και αστυνόμευση
+
+Evidence EN: documented exoneration after wrongful convictions
+Evidence EL: τεκμηριωμένη αθώωση μετά από άδικες καταδίκες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

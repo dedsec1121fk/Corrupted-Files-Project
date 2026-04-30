@@ -1,0 +1,16 @@
+Incident ID: greece_1963_lambrakis_assassination_and_parastate_exposure
+Country: Greece
+Date Folder: 00-00-1963
+Year: 1963
+
+Title EN: Lambrakis assassination and parastate exposure
+Title EL: Δολοφονία Λαμπράκη και αποκάλυψη παρακράτους
+
+Category EN: political violence / parastate
+Category EL: πολιτική βία / παρακράτος
+
+Evidence EN: documented historical assassination
+Evidence EL: τεκμηριωμένη ιστορική δολοφονία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

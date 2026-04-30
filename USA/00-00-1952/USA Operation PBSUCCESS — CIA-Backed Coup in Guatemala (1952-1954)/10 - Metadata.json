@@ -1,0 +1,26 @@
+{
+  "id": "usa_1952_guatemala_pbsuccess",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA: Operation PBSUCCESS — CIA-Backed Coup in Guatemala (1952-1954)",
+    "el": "ΗΠΑ: Επιχείρηση PBSUCCESS — Πραξικόπημα στη Γουατεμάλα με στήριξη CIA (1952-1954)"
+  },
+  "year": 1952,
+  "date_folder": "00-00-1952",
+  "incident_folder": "USA/00-00-1952/USA Operation PBSUCCESS — CIA-Backed Coup in Guatemala (1952-1954)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1952/USA Operation PBSUCCESS — CIA-Backed Coup in Guatemala (1952-1954)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1952/USA Operation PBSUCCESS — CIA-Backed Coup in Guatemala (1952-1954)/Media/02 - EL Cover Card.svg"
+  ]
+}

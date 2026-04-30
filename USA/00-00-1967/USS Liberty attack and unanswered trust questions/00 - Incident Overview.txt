@@ -1,0 +1,16 @@
+Incident ID: usa_1967_uss_liberty_attack_unanswered_questions
+Country: USA
+Date Folder: 00-00-1967
+Year: 1967
+
+Title EN: USS Liberty attack and unanswered trust questions
+Title EL: USS Liberty attack and unanswered trust questions
+
+Category EN: military incident / diplomacy
+Category EL: military incident / diplomacy
+
+Evidence EN: documented attack with contested intent
+Evidence EL: documented attack with contested intent
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

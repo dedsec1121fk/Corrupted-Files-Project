@@ -1,0 +1,16 @@
+Incident ID: usa_1950_big_tobacco_rico_decades_deception
+Country: USA
+Date Folder: 00-00-1950
+Year: 1950
+
+Title EN: USA: Big Tobacco, RICO, and Decades of Deception (1950-2026)
+Title EL: ΗΠΑ: Big Tobacco, RICO και δεκαετίες εξαπάτησης (1950-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

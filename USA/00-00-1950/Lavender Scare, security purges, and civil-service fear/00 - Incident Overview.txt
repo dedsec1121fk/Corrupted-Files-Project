@@ -1,0 +1,16 @@
+Incident ID: usa_1950_lavender_scare_security_purge_civil_service
+Country: USA
+Date Folder: 00-00-1950
+Year: 1950
+
+Title EN: Lavender Scare, security purges, and civil-service fear
+Title EL: Lavender Scare, εκκαθαρίσεις ασφαλείας και φόβος στη δημόσια διοίκηση
+
+Category EN: civil liberties / sexuality / security state
+Category EL: ατομικές ελευθερίες / σεξουαλικότητα / κράτος ασφαλείας
+
+Evidence EN: documented purge climate with later historical recognition
+Evidence EL: τεκμηριωμένο κλίμα εκκαθαρίσεων με μεταγενέστερη ιστορική αναγνώριση
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

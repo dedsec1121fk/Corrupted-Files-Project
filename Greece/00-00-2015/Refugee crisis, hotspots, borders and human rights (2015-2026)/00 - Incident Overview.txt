@@ -1,0 +1,16 @@
+Incident ID: greece_2015_refugee_crisis_hotspots_borders_human_rights
+Country: Greece
+Date Folder: 00-00-2015
+Year: 2015
+
+Title EN: Refugee crisis, hotspots, borders and human rights (2015-2026)
+Title EL: Προσφυγική κρίση, hotspots, σύνορα και ανθρώπινα δικαιώματα (2015-2026)
+
+Category EN: Policing, force and institutional accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

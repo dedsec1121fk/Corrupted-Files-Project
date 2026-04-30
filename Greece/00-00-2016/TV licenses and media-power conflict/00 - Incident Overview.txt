@@ -1,0 +1,16 @@
+Incident ID: greece_2016_tv_licenses_media_power_conflict
+Country: Greece
+Date Folder: 00-00-2016
+Year: 2016
+
+Title EN: TV licenses and media-power conflict
+Title EL: TV licenses and media-power conflict
+
+Category EN: media regulation / state power
+Category EL: media regulation / state power
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

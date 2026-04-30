@@ -1,0 +1,16 @@
+Incident ID: usa_2005_nsa_warrantless_wiretapping_disclosure
+Country: USA
+Date Folder: 00-00-2005
+Year: 2005
+
+Title EN: NSA warrantless wiretapping disclosure
+Title EL: NSA warrantless wiretapping disclosure
+
+Category EN: surveillance / executive power
+Category EL: surveillance / executive power
+
+Evidence EN: documented secret program
+Evidence EL: documented secret program
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

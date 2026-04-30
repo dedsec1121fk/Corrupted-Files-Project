@@ -1,0 +1,63 @@
+{
+  "id": "usa_1985_therac25_radiation_overdose_software_safety",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "year": 1985,
+  "canonical_slug": "THERAC_25_RADIATION_OVERDOSES_AND_SOFTWARE_SAFETY_FAILURE",
+  "title": {
+    "en": "Therac-25 radiation overdoses and software safety failure",
+    "el": "Therac-25, υπερδοσολογίες ακτινοβολίας και αποτυχία ασφάλειας λογισμικού"
+  },
+  "category": {
+    "en": "medical technology / software safety / regulation",
+    "el": "ιατρική τεχνολογία / ασφάλεια λογισμικού / εποπτεία"
+  },
+  "evidence_level": {
+    "en": "documented medical-device accidents and safety analysis",
+    "el": "τεκμηριωμένα ατυχήματα ιατρικής συσκευής και ανάλυση ασφάλειας"
+  },
+  "article": {
+    "en": "Therac-25 radiation overdoses and software safety failure\n\nCountry: USA\nYear: 1985\nCategory: medical technology / software safety / regulation\nEvidence level: documented medical-device accidents and safety analysis\n\nFull story\n----------\nTherac-25 radiation overdoses became a foundational software-safety case: patients were harmed by a medical device where software design, interface assumptions, weak incident reporting, and overconfidence in automation intersected.\n\nConfirmed record\n----------------\n- Multiple patients received massive radiation overdoses in the 1980s.\n- Investigations identified software and safety-process failures.\n- The case is widely taught in safety-critical software engineering.\n\nDisputed or unresolved points\n-----------------------------\n- Technical blame must be separated between code defects, interface behavior, testing, reporting, and regulation.\n- The case is not proof that all medical automation is unsafe.\n\nConspiracy theory / rumor lane\n------------------------------\n- The theory lane says vendors hid software danger to protect profit; the documented lesson is that weak reporting and overconfidence delayed recognition.\n- A structural reading is that invisible code can become an uninspected machine part inside the human body.\n\nSource trail\n------------\n- Therac-25 accident analysis literature\n- FDA medical-device safety record\n- Safety-critical software engineering case studies\n\nReader warning\n--------------\nThis record includes theory and rumor handling because those claims shape public memory. They are separated from documented anchors and should not be treated as proven without primary or court-tested evidence.\n",
+    "el": "Therac-25, υπερδοσολογίες ακτινοβολίας και αποτυχία ασφάλειας λογισμικού\n\nΧώρα: ΗΠΑ\nΈτος: 1985\nΚατηγορία: ιατρική τεχνολογία / ασφάλεια λογισμικού / εποπτεία\nΕπίπεδο τεκμηρίωσης: τεκμηριωμένα ατυχήματα ιατρικής συσκευής και ανάλυση ασφάλειας\n\nΠλήρης ιστορία\n--------------\nΟι υπερδοσολογίες ακτινοβολίας Therac-25 έγιναν θεμελιώδης υπόθεση ασφάλειας λογισμικού: ασθενείς βλάφθηκαν από ιατρική συσκευή όπου σχεδιασμός λογισμικού, υποθέσεις διεπαφής, αδύναμη αναφορά περιστατικών και υπερβολική εμπιστοσύνη στην αυτοματοποίηση συναντήθηκαν.\n\nΤεκμηριωμένος πυρήνας\n---------------------\n- Πολλοί ασθενείς έλαβαν τεράστιες υπερδοσολογίες ακτινοβολίας τη δεκαετία του 1980.\n- Έρευνες εντόπισαν αποτυχίες λογισμικού και διαδικασιών ασφάλειας.\n- Η υπόθεση διδάσκεται ευρέως στην ασφάλεια κρίσιμου λογισμικού.\n\nΑμφισβητούμενα ή ανοιχτά σημεία\n--------------------------------\n- Η τεχνική ευθύνη πρέπει να χωρίζεται σε σφάλματα κώδικα, διεπαφή, δοκιμές, αναφορά και εποπτεία.\n- Η υπόθεση δεν αποδεικνύει ότι κάθε ιατρική αυτοματοποίηση είναι επικίνδυνη.\n\nΛωρίδα θεωριών συνωμοσίας / φημών\n----------------------------------\n- Η θεωρία λέει ότι οι προμηθευτές έκρυψαν κίνδυνο λογισμικού για κέρδος· το τεκμηριωμένο μάθημα είναι ότι αδύναμη αναφορά και υπερβολική αυτοπεποίθηση καθυστέρησαν την αναγνώριση.\n- Η δομική ανάγνωση είναι ότι αόρατος κώδικας γίνεται ανεξέλεγκτο εξάρτημα μηχανής μέσα στο ανθρώπινο σώμα.\n\nΔιαδρομή πηγών\n--------------\n- Therac-25 accident analysis literature\n- FDA medical-device safety record\n- Safety-critical software engineering case studies\n\nΠροειδοποίηση ανάγνωσης\n-----------------------\nΟι θεωρίες και οι φήμες περιλαμβάνονται επειδή επηρεάζουν τη δημόσια μνήμη. Χωρίζονται από τον τεκμηριωμένο πυρήνα και δεν πρέπει να θεωρούνται αποδεδειγμένες χωρίς πρωτογενή ή δικαστικά ελεγμένα στοιχεία.\n"
+  },
+  "proof_dossier": {
+    "en": "Therac-25 radiation overdoses and software safety failure — PROOF DOSSIER\n\nVerified anchors\n----------------\n- Multiple patients received massive radiation overdoses in the 1980s.\n- Investigations identified software and safety-process failures.\n- The case is widely taught in safety-critical software engineering.\n\nDisputed / weaker evidence\n--------------------------\n- Technical blame must be separated between code defects, interface behavior, testing, reporting, and regulation.\n- The case is not proof that all medical automation is unsafe.\n\nConspiracy theories to handle carefully\n---------------------------------------\n- The theory lane says vendors hid software danger to protect profit; the documented lesson is that weak reporting and overconfidence delayed recognition.\n- A structural reading is that invisible code can become an uninspected machine part inside the human body.\n\nSource trail\n------------\n- Therac-25 accident analysis literature\n- FDA medical-device safety record\n- Safety-critical software engineering case studies\n",
+    "el": "Therac-25, υπερδοσολογίες ακτινοβολίας και αποτυχία ασφάλειας λογισμικού — ΦΑΚΕΛΟΣ ΑΠΟΔΕΙΞΕΩΝ\n\nΤεκμηριωμένος πυρήνας\n---------------------\n- Πολλοί ασθενείς έλαβαν τεράστιες υπερδοσολογίες ακτινοβολίας τη δεκαετία του 1980.\n- Έρευνες εντόπισαν αποτυχίες λογισμικού και διαδικασιών ασφάλειας.\n- Η υπόθεση διδάσκεται ευρέως στην ασφάλεια κρίσιμου λογισμικού.\n\nΑδύναμα / αμφισβητούμενα σημεία\n-------------------------------\n- Η τεχνική ευθύνη πρέπει να χωρίζεται σε σφάλματα κώδικα, διεπαφή, δοκιμές, αναφορά και εποπτεία.\n- Η υπόθεση δεν αποδεικνύει ότι κάθε ιατρική αυτοματοποίηση είναι επικίνδυνη.\n\nΘεωρίες προς προσεκτικό χειρισμό\n--------------------------------\n- Η θεωρία λέει ότι οι προμηθευτές έκρυψαν κίνδυνο λογισμικού για κέρδος· το τεκμηριωμένο μάθημα είναι ότι αδύναμη αναφορά και υπερβολική αυτοπεποίθηση καθυστέρησαν την αναγνώριση.\n- Η δομική ανάγνωση είναι ότι αόρατος κώδικας γίνεται ανεξέλεγκτο εξάρτημα μηχανής μέσα στο ανθρώπινο σώμα.\n\nΔιαδρομή πηγών\n--------------\n- Therac-25 accident analysis literature\n- FDA medical-device safety record\n- Safety-critical software engineering case studies\n"
+  },
+  "source_trail": {
+    "en": "Therac-25 radiation overdoses and software safety failure\n\n- Therac-25 accident analysis literature\n- FDA medical-device safety record\n- Safety-critical software engineering case studies",
+    "el": "Therac-25, υπερδοσολογίες ακτινοβολίας και αποτυχία ασφάλειας λογισμικού\n\n- Therac-25 accident analysis literature\n- FDA medical-device safety record\n- Safety-critical software engineering case studies"
+  },
+  "reading_report": {
+    "en": "Reading report: Start with Therac-25 radiation overdoses and software safety failure (USA, 1985). Verify anchors first, then disputed points, then theory lane.",
+    "el": "Αναφορά ανάγνωσης: Ξεκίνα από Therac-25, υπερδοσολογίες ακτινοβολίας και αποτυχία ασφάλειας λογισμικού (ΗΠΑ, 1985). Έλεγξε πρώτα τον τεκμηριωμένο πυρήνα, μετά τα αμφισβητούμενα και μετά τις θεωρίες."
+  },
+  "images": [
+    "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/Media/01 - Cover Card.svg",
+    "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/Media/02 - Proof Map.svg"
+  ],
+  "audit": {
+    "v29": "Fourth Greece/USA expansion; standard-library offline Termux reader compatible."
+  },
+  "incident_folder": "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure",
+  "source_archive_paths": {
+    "en": [
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/01 - Article EN.txt",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/03 - Proof Dossier EN.txt",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/05 - Source Trail EN.txt",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/07 - Reading Report EN.txt",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/Media/01 - Cover Card.svg",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/Media/02 - Proof Map.svg"
+    ],
+    "el": [
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/02 - Article EL.txt",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/04 - Proof Dossier EL.txt",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/06 - Source Trail EL.txt",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/08 - Reading Report EL.txt",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/Media/01 - Cover Card.svg",
+      "USA/00-00-1985/Therac-25 radiation overdoses and software safety failure/Media/02 - Proof Map.svg"
+    ]
+  }
+}

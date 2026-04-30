@@ -1,0 +1,26 @@
+{
+  "id": "usa_1919_palmer_raids_first_red_scare",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Palmer Raids and the first Red Scare",
+    "el": "Palmer Raids and the first Red Scare"
+  },
+  "year": 1919,
+  "date_folder": "00-00-1919",
+  "incident_folder": "USA/00-00-1919/Palmer Raids and the first Red Scare",
+  "category": {
+    "en": "civil liberties / surveillance",
+    "el": "civil liberties / surveillance"
+  },
+  "evidence_level": {
+    "en": "documented government repression",
+    "el": "documented government repression"
+  },
+  "images": [
+    "USA/00-00-1919/Palmer Raids and the first Red Scare/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1919/Palmer Raids and the first Red Scare/Media/02 - EN Palmer Raids And The First Red Scare V21 Expanded E08C45C045B7.svg"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "usa_2019_boeing_737_max_crashes_certification_failures",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Boeing 737 MAX crashes and certification failures",
+    "el": "Boeing 737 MAX crashes and certification failures"
+  },
+  "year": 2019,
+  "date_folder": "00-00-2019",
+  "incident_folder": "USA/00-00-2019/Boeing 737 MAX crashes and certification failures",
+  "category": {
+    "en": "corporate regulation / aviation safety",
+    "el": "corporate regulation / aviation safety"
+  },
+  "evidence_level": {
+    "en": "documented corporate and regulatory failure",
+    "el": "documented corporate and regulatory failure"
+  },
+  "images": [
+    "USA/00-00-2019/Boeing 737 MAX crashes and certification failures/Media/01 - EN Boeing 737 Max Crashes And Certification Failures 236399Aaacf4.svg"
+  ]
+}

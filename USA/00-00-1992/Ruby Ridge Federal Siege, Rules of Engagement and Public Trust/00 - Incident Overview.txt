@@ -1,0 +1,16 @@
+Incident ID: usa_1992_ruby_ridge_federal_siege_rules_engagement
+Country: USA
+Date Folder: 00-00-1992
+Year: 1992
+
+Title EN: Ruby Ridge: Federal Siege, Rules of Engagement and Public Trust
+Title EL: Ruby Ridge: Ομοσπονδιακή Πολιορκία, Κανόνες Εμπλοκής και Δημόσια Εμπιστοσύνη
+
+Category EN: federal force / siege / civil liberties
+Category EL: ομοσπονδιακή δύναμη / πολιορκία / πολιτικές ελευθερίες
+
+Evidence EN: documented deadly operation with official reviews
+Evidence EL: τεκμηριωμένη θανατηφόρα επιχείρηση με επίσημους ελέγχους
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

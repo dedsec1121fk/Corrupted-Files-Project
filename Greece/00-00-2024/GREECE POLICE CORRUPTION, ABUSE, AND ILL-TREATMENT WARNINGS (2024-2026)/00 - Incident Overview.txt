@@ -1,0 +1,16 @@
+Incident ID: greece_2024_police_corruption_abuse_ill_treatment
+Country: Greece
+Date Folder: 00-00-2024
+Year: 2024
+
+Title EN: GREECE: POLICE CORRUPTION, ABUSE, AND ILL-TREATMENT WARNINGS (2024-2026)
+Title EL: ΕΛΛΑΔΑ: ΑΣΤΥΝΟΜΙΚΗ ΔΙΑΦΘΟΡΑ, ΚΑΚΟΜΕΤΑΧΕΙΡΙΣΗ ΚΑΙ ΠΡΟΒΛΗΜΑ ΑΤΙΜΩΡΗΣΙΑΣ (2024-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

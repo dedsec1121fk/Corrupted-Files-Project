@@ -1,0 +1,16 @@
+Incident ID: usa_2016_facial_recognition_real_time_surveillance
+Country: USA
+Date Folder: 00-00-2016
+Year: 2016
+
+Title EN: USA: Facial Recognition and Real-Time Surveillance Creep (2016-2026)
+Title EL: ΗΠΑ: Αναγνώριση προσώπου και διολίσθηση σε επιτήρηση πραγματικού χρόνου (2016-2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

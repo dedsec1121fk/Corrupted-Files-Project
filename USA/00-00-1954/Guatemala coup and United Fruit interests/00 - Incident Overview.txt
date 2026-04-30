@@ -1,0 +1,16 @@
+Incident ID: usa_1954_guatemala_coup_united_fruit_interests
+Country: USA
+Date Folder: 00-00-1954
+Year: 1954
+
+Title EN: Guatemala coup and United Fruit interests
+Title EL: Guatemala coup and United Fruit interests
+
+Category EN: foreign intervention / corporate influence
+Category EL: foreign intervention / corporate influence
+
+Evidence EN: documented covert intervention
+Evidence EL: documented covert intervention
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_2023_eavesdropping_adae_authority_pressure_rule_of_law
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: ADAE pressure, surveillance oversight, and rule-of-law trust
+Title EL: Πίεση στην ΑΔΑΕ, εποπτεία παρακολουθήσεων και εμπιστοσύνη στο κράτος δικαίου
+
+Category EN: surveillance oversight / independent authorities
+Category EL: εποπτεία παρακολουθήσεων / ανεξάρτητες αρχές
+
+Evidence EN: documented public controversy around oversight and institutional pressure
+Evidence EL: τεκμηριωμένη δημόσια διαμάχη γύρω από εποπτεία και θεσμική πίεση
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

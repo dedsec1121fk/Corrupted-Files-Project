@@ -1,0 +1,26 @@
+{
+  "id": "usa_1944_port_chicago_disaster_black_sailors_mutiny_trial",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Port Chicago disaster, Black sailors, and mutiny trials",
+    "el": "Καταστροφή Port Chicago, μαύροι ναύτες και δίκες ανταρσίας"
+  },
+  "year": 1944,
+  "date_folder": "00-00-1944",
+  "incident_folder": "USA/00-00-1944/Port Chicago disaster, Black sailors, and mutiny trials",
+  "category": {
+    "en": "military disaster / racism / labor safety",
+    "el": "στρατιωτική καταστροφή / ρατσισμός / ασφάλεια εργασίας"
+  },
+  "evidence_level": {
+    "en": "documented naval disaster and contested military justice",
+    "el": "τεκμηριωμένη ναυτική καταστροφή και αμφισβητούμενη στρατιωτική δικαιοσύνη"
+  },
+  "images": [
+    "USA/00-00-1944/Port Chicago disaster, Black sailors, and mutiny trials/Media/01 - Cover Card.svg",
+    "USA/00-00-1944/Port Chicago disaster, Black sailors, and mutiny trials/Media/02 - Proof Map.svg"
+  ]
+}

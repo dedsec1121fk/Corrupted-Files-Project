@@ -1,0 +1,16 @@
+Incident ID: usa_2004_abu_ghraib_abuse_photographs_and_command_responsibility
+Country: USA
+Date Folder: 00-00-2004
+Year: 2004
+
+Title EN: Abu Ghraib abuse photographs and command responsibility
+Title EL: Φωτογραφίες κακοποίησης Abu Ghraib και ευθύνη διοίκησης
+
+Category EN: war abuse / accountability
+Category EL: κακοποίηση πολέμου / λογοδοσία
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

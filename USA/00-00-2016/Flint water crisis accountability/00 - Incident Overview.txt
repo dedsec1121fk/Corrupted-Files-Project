@@ -1,0 +1,16 @@
+Incident ID: usa_2016_flint_water_crisis_accountability
+Country: USA
+Date Folder: 00-00-2016
+Year: 2016
+
+Title EN: Flint water crisis accountability
+Title EL: Κρίση νερού Flint και λογοδοσία
+
+Category EN: public health / infrastructure failure
+Category EL: δημόσια υγεία / αποτυχία υποδομών
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

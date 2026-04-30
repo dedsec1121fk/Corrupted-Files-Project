@@ -1,0 +1,26 @@
+{
+  "id": "greece_2015_capital_controls_and_referendum_rupture",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Capital controls and referendum rupture",
+    "el": "Capital controls και ρήξη δημοψηφίσματος"
+  },
+  "year": 2015,
+  "date_folder": "00-00-2015",
+  "incident_folder": "Greece/00-00-2015/Capital controls and referendum rupture",
+  "category": {
+    "en": "banking crisis / democracy",
+    "el": "τραπεζική κρίση / δημοκρατία"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "Greece/00-00-2015/Capital controls and referendum rupture/Media/01 - Cover Card.svg",
+    "Greece/00-00-2015/Capital controls and referendum rupture/Media/02 - Proof Map.svg"
+  ]
+}

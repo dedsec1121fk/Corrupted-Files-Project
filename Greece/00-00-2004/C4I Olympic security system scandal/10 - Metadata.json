@@ -1,0 +1,25 @@
+{
+  "id": "greece_2004_c4i_olympic_security_system_scandal",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "C4I Olympic security system scandal",
+    "el": "C4I Olympic security system scandal"
+  },
+  "year": 2004,
+  "date_folder": "00-00-2004",
+  "incident_folder": "Greece/00-00-2004/C4I Olympic security system scandal",
+  "category": {
+    "en": "procurement / surveillance infrastructure",
+    "el": "procurement / surveillance infrastructure"
+  },
+  "evidence_level": {
+    "en": "documented procurement controversy",
+    "el": "documented procurement controversy"
+  },
+  "images": [
+    "Greece/00-00-2004/C4I Olympic security system scandal/Media/01 - EN Cover Card.svg"
+  ]
+}

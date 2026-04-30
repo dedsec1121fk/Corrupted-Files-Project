@@ -1,0 +1,16 @@
+Incident ID: greece_2000_express_samina_ferry_disaster_safety_culture_island_transport_accounta
+Country: Greece
+Date Folder: 00-00-2000
+Year: 2000
+
+Title EN: Express Samina Ferry Disaster: Safety Culture, Island Transport and Accountability
+Title EL: Ναυάγιο Express Samina: Κουλτούρα Ασφάλειας, Ακτοπλοΐα και Λογοδοσία
+
+Category EN: transport disaster / regulatory failure
+Category EL: ναυτικό δυστύχημα / ρυθμιστική αποτυχία
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

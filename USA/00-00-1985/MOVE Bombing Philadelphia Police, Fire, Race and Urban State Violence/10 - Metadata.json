@@ -1,0 +1,30 @@
+{
+  "id": "usa_1985_move_bombing_philadelphia_police_fire_race_urban_state_violence",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "MOVE Bombing: Philadelphia Police, Fire, Race and Urban State Violence",
+    "el": "MOVE Bombing: Αστυνομία Philadelphia, Φωτιά, Φυλή και Αστική Κρατική Βία"
+  },
+  "year": 1985,
+  "date_folder": "00-00-1985",
+  "incident_folder": "USA/00-00-1985/MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence",
+  "category": {
+    "en": "police violence / urban governance",
+    "el": "αστυνομική βία / αστική διακυβέρνηση"
+  },
+  "evidence_level": {
+    "en": "documented case with some disputed interpretation",
+    "el": "τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-1985/MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1985/MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence/Media/02 - EL Cover Card.svg",
+    "USA/00-00-1985/MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence/Media/03 - EN Cover Card.svg",
+    "USA/00-00-1985/MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence/Media/04 - EN Cover Card.svg",
+    "USA/00-00-1985/MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence/Media/05 - EL Cover Card.svg",
+    "USA/00-00-1985/MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence/Media/06 - EL Cover Card.svg"
+  ]
+}

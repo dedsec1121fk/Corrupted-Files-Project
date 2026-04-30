@@ -1,0 +1,16 @@
+Incident ID: usa_1911_triangle_shirtwaist_fire_labor_safety_corruption
+Country: USA
+Date Folder: 00-00-1911
+Year: 1911
+
+Title EN: Triangle Shirtwaist fire, locked exits, and labor-safety reform
+Title EL: Πυρκαγιά Triangle Shirtwaist, κλειδωμένες έξοδοι και μεταρρύθμιση ασφάλειας εργασίας
+
+Category EN: labor safety / industrial disaster / regulatory reform
+Category EL: ασφάλεια εργασίας / βιομηχανική καταστροφή / εποπτική μεταρρύθμιση
+
+Evidence EN: documented industrial disaster and reform catalyst
+Evidence EL: τεκμηριωμένη βιομηχανική καταστροφή και καταλύτης μεταρρύθμισης
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

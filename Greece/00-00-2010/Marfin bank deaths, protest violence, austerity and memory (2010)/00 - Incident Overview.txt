@@ -1,0 +1,16 @@
+Incident ID: greece_2010_marfin_bank_deaths_protest_violence_austerity_memory
+Country: Greece
+Date Folder: 00-00-2010
+Year: 2010
+
+Title EN: Marfin bank deaths, protest violence, austerity and memory (2010)
+Title EL: Νεκροί στη Marfin, βία διαδήλωσης, λιτότητα και μνήμη (2010)
+
+Category EN: Policing, force and institutional accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

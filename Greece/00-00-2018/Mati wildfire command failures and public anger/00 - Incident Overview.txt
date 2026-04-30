@@ -1,0 +1,16 @@
+Incident ID: greece_2018_mati_wildfire_command_failures_anger
+Country: Greece
+Date Folder: 00-00-2018
+Year: 2018
+
+Title EN: Mati wildfire command failures and public anger
+Title EL: Mati wildfire command failures and public anger
+
+Category EN: disaster / governance
+Category EL: disaster / governance
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

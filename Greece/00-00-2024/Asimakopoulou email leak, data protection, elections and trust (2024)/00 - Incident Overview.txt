@@ -1,0 +1,16 @@
+Incident ID: greece_2024_asimakopoulou_email_leak_data_protection_elections
+Country: Greece
+Date Folder: 00-00-2024
+Year: 2024
+
+Title EN: Asimakopoulou email leak, data protection, elections and trust (2024)
+Title EL: Υπόθεση email Ασημακοπούλου, προστασία δεδομένων, εκλογές και εμπιστοσύνη (2024)
+
+Category EN: Surveillance, secrecy and information control
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

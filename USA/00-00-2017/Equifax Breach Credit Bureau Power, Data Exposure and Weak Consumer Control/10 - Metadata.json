@@ -1,0 +1,26 @@
+{
+  "id": "usa_2017_equifax_breach_credit_bureau_power_data_exposure_weak_consumer_control",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Equifax Breach: Credit Bureau Power, Data Exposure and Weak Consumer Control",
+    "el": "Equifax Breach: Ισχύς Credit Bureau, Έκθεση Δεδομένων και Αδύναμος Έλεγχος Πολιτών"
+  },
+  "year": 2017,
+  "date_folder": "00-00-2017",
+  "incident_folder": "USA/00-00-2017/Equifax Breach Credit Bureau Power, Data Exposure and Weak Consumer Control",
+  "category": {
+    "en": "data breach / consumer surveillance",
+    "el": "διαρροή δεδομένων / επιτήρηση καταναλωτών"
+  },
+  "evidence_level": {
+    "en": "documented case with some disputed interpretation",
+    "el": "τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2017/Equifax Breach Credit Bureau Power, Data Exposure and Weak Consumer Control/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2017/Equifax Breach Credit Bureau Power, Data Exposure and Weak Consumer Control/Media/02 - EL Cover Card.svg"
+  ]
+}

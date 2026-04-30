@@ -1,0 +1,16 @@
+Incident ID: usa_1960_cia_assassination_plots_mafia
+Country: USA
+Date Folder: 00-00-1960
+Year: 1960
+
+Title EN: USA: CIA assassination plots and Mafia overlap (1960-1975)
+Title EL: ΗΠΑ: σχέδια δολοφονίας της CIA και επαφή με τη Μαφία (1960-1975)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

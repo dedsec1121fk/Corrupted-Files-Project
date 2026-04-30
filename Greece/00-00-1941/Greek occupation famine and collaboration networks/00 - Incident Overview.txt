@@ -1,0 +1,16 @@
+Incident ID: greece_1941_greek_occupation_famine_collaboration_networks
+Country: Greece
+Date Folder: 00-00-1941
+Year: 1941
+
+Title EN: Greek occupation famine and collaboration networks
+Title EL: Greek occupation famine and collaboration networks
+
+Category EN: war / survival / collaboration
+Category EL: war / survival / collaboration
+
+Evidence EN: documented humanitarian catastrophe
+Evidence EL: documented humanitarian catastrophe
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

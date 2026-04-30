@@ -1,0 +1,118 @@
+Love Canal: Toxic Waste, Schoolchildren and the Politics of Environmental Exposure
+==================================================================================
+Country: United States
+Main year folder: 1978
+Category: environmental failure / corporate-state accountability
+Evidence level: documented contamination and relocation response
+File role: Original dossier-style article for the Corrupted Files database. This is written from scratch so it can be redistributed with the archive.
+
+1. Why this file exists
+Love Canal is a foundational environmental scandal because a neighborhood was built over buried chemical waste and residents had to fight to make invisible exposure politically visible.
+
+2. Background and setting
+In Niagara Falls, New York, chemical waste buried in a canal site became a public-health emergency when residents reported odors, illnesses and contamination. The case helped push the United States toward the Superfund model for hazardous waste cleanup.
+
+3. Chronology
+- 1940s–1950s: chemical waste is buried at the site.
+- 1950s: land transfers and school/community development follow.
+- 1978: public emergency and relocation decisions escalate.
+- 1980: Superfund law follows in the wider political response.
+
+4. What happened in practical terms
+The mechanism was delayed responsibility: hazardous material was treated as a buried past, then later families had to prove the past was entering basements, yards, classrooms and bodies.
+
+5. Evidence map
+Documented elements:
+- Chemical disposal at the site is documented.
+- Residents and officials identified contamination concerns.
+- The case influenced U.S. hazardous waste policy.
+
+Alleged or disputed elements:
+- The exact health impact at individual level is complex and debated.
+- Responsibility is spread across corporate decisions, land-use choices and regulatory weakness.
+
+Unsupported or overextended claims to treat carefully:
+- Claims that every illness in the community can be directly traced to one chemical pathway are too broad.
+
+6. Human impact
+Families lived with fear that home, soil and school were unsafe. That psychological burden is part of environmental harm.
+
+7. Why the case created suspicion
+Suspicion grew because residents felt institutions minimized danger until public pressure made denial impossible.
+
+8. Counterpoints and caution
+A careful reading should avoid simplistic blame while still recognizing that nobody should need to become an activist to prove their neighborhood is poisoned.
+
+9. What a reader should conclude
+Love Canal shows that environmental corruption can be slow, technical and legalistic, not only dramatic and criminal.
+
+11. Source trail
+- EPA Love Canal history: https://www.epa.gov/history/love-canal-tragedy
+- New York State and EPA Superfund records
+
+V22 FULL DETAIL EXPANSION — COMPLETE READING DOSSIER
+====================================================
+
+Case identity
+-------------
+Case title: Love Canal: Toxic Waste, Schoolchildren and the Politics of Environmental Exposure
+Country folder: USA
+Year folder: 1978
+Primary reading category: surveillance / digital control
+
+The common mistake with a file like this is to treat it as a headline. A headline tells the
+reader that something happened. A dossier explains how it became possible, why people
+failed to stop it, who absorbed the cost, and how official language may have softened the
+truth. For Love Canal: Toxic Waste, Schoolchildren and the Politics of Environmental Exposure, the important reading method is to move slowly from event to
+structure: first identify the immediate facts, then the chain of decisions, then the
+institutions that controlled information, and finally the consequences for ordinary people.
+
+Detailed reconstruction method
+------------------------------
+A full reconstruction should answer these questions:
+
+Case-specific reading frame
+---------------------------
+For this file, the title itself points to a public-trust rupture in USA around 1978. The
+most useful way to read it is to identify the institutions involved, the people harmed, the
+official explanation, the counter-evidence, and the final accountability outcome. A detailed
+reader should ask whether the event was a one-time failure, a symptom of a wider system, or
+a case where later political mythology became stronger than the documented record.
+
+Long-form narrative
+-------------------
+In a full article, Love Canal: Toxic Waste, Schoolchildren and the Politics of Environmental Exposure should be introduced with the human scene first: who woke up
+that day without knowing they would become part of a national file, who gave the order, who
+signed the contract, who ignored the warning, who published the first denial, and who later
+had to live with the consequences. The event then has to be placed inside the larger
+machine around it. That machine can be a government department, an intelligence service, a
+court system, a party network, a police command, a corporate board, a media ecosystem, a
+scientific institution, or a digital platform.
+
+Evidence grading
+----------------
+Use this grading when reading the older and newer sections of the file:
+
+Impact map
+----------
+The impact of Love Canal: Toxic Waste, Schoolchildren and the Politics of Environmental Exposure should be measured in several ways. The first is direct harm:
+death, injury, imprisonment, poverty, exposure, data loss, fear, humiliation, addiction,
+displacement, or loss of rights. The second is institutional harm: loss of trust in courts,
+police, medicine, elections, media, parliament, agencies, companies or international
+organizations. The third is cultural harm: people begin to believe that truth is not found
+through evidence but through loyalty to a side. That cultural damage can last longer than
+the original scandal.
+
+Reader conclusion
+-----------------
+The safest conclusion is this: Love Canal: Toxic Waste, Schoolchildren and the Politics of Environmental Exposure matters because it shows how power behaves
+when truth is expensive. Sometimes power lies. Sometimes it delays. Sometimes it speaks in
+technical language until ordinary people give up. Sometimes it is accused unfairly, and the
+accusation becomes its own myth. This file is designed to keep both dangers visible: blind
+trust and blind paranoia. The useful path is documented distrust — distrust that demands
+evidence, names the harmed people, follows the money or command chain, and refuses to turn
+uncertainty into fantasy.
+
+V25 continuity expansion
+------------------------
+This record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = USA, year = 1978, category = environmental failure / corporate-state accountability, title = Love Canal: Toxic Waste, Schoolchildren and the Politics of Environmental Exposure. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.

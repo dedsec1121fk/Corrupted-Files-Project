@@ -1,0 +1,26 @@
+{
+  "id": "usa_1918_sedition_act_war_speech_raids_free_expression",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Sedition Act, war speech, raids and the fear state (1918-1921)",
+    "el": "Νόμος περί Στασιασμού, πολεμικός λόγος, επιδρομές και κράτος φόβου (1918-1921)"
+  },
+  "year": 1918,
+  "date_folder": "00-00-1918",
+  "incident_folder": "USA/00-00-1918/Sedition Act, war speech, raids and the fear state (1918-1921)",
+  "category": {
+    "en": "Surveillance, secrecy and information control",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "documented/partly documented public record; disputed parts are labelled as disputed",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1918/Sedition Act, war speech, raids and the fear state (1918-1921)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1918/Sedition Act, war speech, raids and the fear state (1918-1921)/Media/02 - EL Cover Card.svg"
+  ]
+}

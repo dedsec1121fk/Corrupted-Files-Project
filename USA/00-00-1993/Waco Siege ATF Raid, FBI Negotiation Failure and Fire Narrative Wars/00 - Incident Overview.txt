@@ -1,0 +1,16 @@
+Incident ID: usa_1993_waco_siege_atf_raid_fbi_negotiation_failure_fire_narrative_wars
+Country: USA
+Date Folder: 00-00-1993
+Year: 1993
+
+Title EN: Waco Siege: ATF Raid, FBI Negotiation Failure and Fire Narrative Wars
+Title EL: Waco: Έφοδος ATF, Αποτυχία Διαπραγμάτευσης FBI και Πόλεμος Αφηγήσεων για τη Φωτιά
+
+Category EN: federal siege / religion / force escalation
+Category EL: ομοσπονδιακή πολιορκία / θρησκεία / κλιμάκωση βίας
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

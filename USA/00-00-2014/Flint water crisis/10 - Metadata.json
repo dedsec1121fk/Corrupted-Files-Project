@@ -1,0 +1,27 @@
+{
+  "id": "usa_2014_flint_water_crisis",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Flint water crisis",
+    "el": "Flint water crisis"
+  },
+  "year": 2014,
+  "date_folder": "00-00-2014",
+  "incident_folder": "USA/00-00-2014/Flint water crisis",
+  "category": {
+    "en": "public health / environmental injustice",
+    "el": "public health / environmental injustice"
+  },
+  "evidence_level": {
+    "en": "documented government failure",
+    "el": "documented government failure"
+  },
+  "images": [
+    "USA/00-00-2014/Flint water crisis/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2014/Flint water crisis/Media/02 - EN Cover Card.svg",
+    "USA/00-00-2014/Flint water crisis/Media/03 - EL Cover Card.svg"
+  ]
+}

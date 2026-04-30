@@ -1,0 +1,25 @@
+{
+  "id": "usa_2000_bush_v_gore_election_legitimacy_crisis",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Bush v Gore and election legitimacy crisis",
+    "el": "Bush v Gore and election legitimacy crisis"
+  },
+  "year": 2000,
+  "date_folder": "00-00-2000",
+  "incident_folder": "USA/00-00-2000/Bush v Gore and election legitimacy crisis",
+  "category": {
+    "en": "elections / judiciary",
+    "el": "elections / judiciary"
+  },
+  "evidence_level": {
+    "en": "documented constitutional crisis",
+    "el": "documented constitutional crisis"
+  },
+  "images": [
+    "USA/00-00-2000/Bush v Gore and election legitimacy crisis/Media/01 - EN Cover Card.svg"
+  ]
+}

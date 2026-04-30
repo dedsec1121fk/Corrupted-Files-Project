@@ -1,0 +1,16 @@
+Incident ID: usa_1975_church_committee_intelligence_abuses
+Country: USA
+Date Folder: 00-00-1975
+Year: 1975
+
+Title EN: USA: Church Committee — Intelligence abuses exposed by Congress (1975-1976)
+Title EL: ΗΠΑ: Church Committee — οι καταχρήσεις των υπηρεσιών πληροφοριών που αποκαλύφθηκαν από τη Γερουσία (1975-1976)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

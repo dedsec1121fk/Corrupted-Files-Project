@@ -1,0 +1,16 @@
+Incident ID: greece_2008_grigoropoulos_killing_december_revolt
+Country: Greece
+Date Folder: 00-00-2008
+Year: 2008
+
+Title EN: Grigoropoulos killing and December revolt
+Title EL: Grigoropoulos killing and December revolt
+
+Category EN: policing / youth uprising
+Category EL: policing / youth uprising
+
+Evidence EN: documented killing and unrest
+Evidence EL: documented killing and unrest
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

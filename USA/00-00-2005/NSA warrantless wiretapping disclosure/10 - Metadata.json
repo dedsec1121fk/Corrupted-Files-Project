@@ -1,0 +1,25 @@
+{
+  "id": "usa_2005_nsa_warrantless_wiretapping_disclosure",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "NSA warrantless wiretapping disclosure",
+    "el": "NSA warrantless wiretapping disclosure"
+  },
+  "year": 2005,
+  "date_folder": "00-00-2005",
+  "incident_folder": "USA/00-00-2005/NSA warrantless wiretapping disclosure",
+  "category": {
+    "en": "surveillance / executive power",
+    "el": "surveillance / executive power"
+  },
+  "evidence_level": {
+    "en": "documented secret program",
+    "el": "documented secret program"
+  },
+  "images": [
+    "USA/00-00-2005/NSA warrantless wiretapping disclosure/Media/01 - EN Cover Card.svg"
+  ]
+}

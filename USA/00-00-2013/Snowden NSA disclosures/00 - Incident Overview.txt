@@ -1,0 +1,16 @@
+Incident ID: usa_2013_snowden_nsa_disclosures
+Country: USA
+Date Folder: 00-00-2013
+Year: 2013
+
+Title EN: Snowden NSA disclosures
+Title EL: Αποκαλύψεις Snowden για NSA
+
+Category EN: mass surveillance / whistleblowing
+Category EL: μαζική παρακολούθηση / whistleblowing
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

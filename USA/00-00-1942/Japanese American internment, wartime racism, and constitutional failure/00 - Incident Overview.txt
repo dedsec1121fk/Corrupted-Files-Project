@@ -1,0 +1,16 @@
+Incident ID: usa_1942_japanese_american_internment_wartime_racism
+Country: USA
+Date Folder: 00-00-1942
+Year: 1942
+
+Title EN: Japanese American internment, wartime racism, and constitutional failure
+Title EL: Εγκλεισμός Ιαπωνοαμερικανών, πολεμικός ρατσισμός και συνταγματική αποτυχία
+
+Category EN: civil liberties / wartime detention / racism
+Category EL: ατομικές ελευθερίες / πολεμική κράτηση / ρατσισμός
+
+Evidence EN: documented mass detention with later government apology
+Evidence EL: τεκμηριωμένη μαζική κράτηση με μεταγενέστερη κρατική συγγνώμη
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,25 @@
+{
+  "id": "usa_2023_maui_wildfires_response_land_grab_rumors",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Maui wildfires response and land-grab rumors",
+    "el": "Maui wildfires response and land-grab rumors"
+  },
+  "year": 2023,
+  "date_folder": "00-00-2023",
+  "incident_folder": "USA/00-00-2023/Maui wildfires response and land-grab rumors",
+  "category": {
+    "en": "disaster governance / misinformation",
+    "el": "disaster governance / misinformation"
+  },
+  "evidence_level": {
+    "en": "mixed: documented event with disputed interpretations",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες ερμηνείες"
+  },
+  "images": [
+    "USA/00-00-2023/Maui wildfires response and land-grab rumors/Media/01 - EN Cover Card.svg"
+  ]
+}

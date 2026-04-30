@@ -1,0 +1,16 @@
+Incident ID: greece_2021_nea_smyrni_police_violence_order_narrative
+Country: Greece
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: Nea Smyrni police violence and public-order narrative
+Title EL: Nea Smyrni police violence and public-order narrative
+
+Category EN: policing / protests
+Category EL: policing / protests
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

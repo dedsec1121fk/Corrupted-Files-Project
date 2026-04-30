@@ -1,0 +1,16 @@
+Incident ID: greece_2024_asimakopoulou_email_leak_diaspora_data
+Country: Greece
+Date Folder: 00-00-2024
+Year: 2024
+
+Title EN: Asimakopoulou email leak and diaspora data
+Title EL: Asimakopoulou email leak and diaspora data
+
+Category EN: data protection / elections
+Category EL: data protection / elections
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

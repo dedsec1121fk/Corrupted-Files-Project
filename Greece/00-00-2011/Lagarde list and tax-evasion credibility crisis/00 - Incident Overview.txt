@@ -1,0 +1,16 @@
+Incident ID: greece_2011_lagarde_list_tax_evasion_credibility_crisis
+Country: Greece
+Date Folder: 00-00-2011
+Year: 2011
+
+Title EN: Lagarde list and tax-evasion credibility crisis
+Title EL: Lagarde list and tax-evasion credibility crisis
+
+Category EN: tax justice / elite impunity
+Category EL: tax justice / elite impunity
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

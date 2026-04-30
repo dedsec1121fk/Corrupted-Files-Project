@@ -1,0 +1,30 @@
+{
+  "id": "greece_2022_predatorgate_spyware_state",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Predatorgate spyware and state trust",
+    "el": "Predatorgate spyware and state trust"
+  },
+  "year": 2022,
+  "date_folder": "00-00-2022",
+  "incident_folder": "Greece/00-00-2022/Predatorgate spyware and state trust",
+  "category": {
+    "en": "surveillance / spyware",
+    "el": "surveillance / spyware"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-2022/Predatorgate spyware and state trust/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2022/Predatorgate spyware and state trust/Media/02 - EN Proof Map.svg",
+    "Greece/00-00-2022/Predatorgate spyware and state trust/Media/03 - EN Cover Card.png",
+    "Greece/00-00-2022/Predatorgate spyware and state trust/Media/04 - EN Cover Card.svg",
+    "Greece/00-00-2022/Predatorgate spyware and state trust/Media/05 - EL Cover Card.png",
+    "Greece/00-00-2022/Predatorgate spyware and state trust/Media/06 - EL Cover Card.svg"
+  ]
+}

@@ -1,0 +1,16 @@
+Incident ID: usa_2023_silicon_valley_bank_collapse_interest_rate_risk_deregulation_debate_pa
+Country: USA
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: Silicon Valley Bank Collapse: Interest-Rate Risk, Deregulation Debate and Panic Speed
+Title EL: Silicon Valley Bank: Κίνδυνος Επιτοκίων, Απορρύθμιση και Ταχύτητα Πανικού
+
+Category EN: bank failure / regulatory oversight
+Category EL: τραπεζική κατάρρευση / ρυθμιστική εποπτεία
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

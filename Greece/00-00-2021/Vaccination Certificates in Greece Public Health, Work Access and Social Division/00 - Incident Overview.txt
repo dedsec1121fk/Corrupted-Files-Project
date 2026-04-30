@@ -1,0 +1,16 @@
+Incident ID: greece_2021_vaccination_certificates_in_greece_health_work_access_social_division
+Country: Greece
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: Vaccination Certificates in Greece: Public Health, Work Access and Social Division
+Title EL: Πιστοποιητικά Εμβολιασμού στην Ελλάδα: Υγεία, Εργασία και Κοινωνικός Διχασμός
+
+Category EN: public health policy / civil liberties
+Category EL: πολιτική υγείας / πολιτικές ελευθερίες
+
+Evidence EN: documented case or documented public controversy with unresolved interpretation
+Evidence EL: τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

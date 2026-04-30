@@ -1,0 +1,16 @@
+Incident ID: usa_2002_total_information_awareness_data_mining_post_911_surveillance_dream
+Country: USA
+Date Folder: 00-00-2002
+Year: 2002
+
+Title EN: USA — Total Information Awareness, data mining, and the post-9/11 surveillance dream (2002–2003)
+Title EL: ΗΠΑ — Total Information Awareness, εξόρυξη δεδομένων και όνειρο επιτήρησης μετά την 11η Σεπτεμβρίου (2002–2003)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: High for the program proposal and backlash; medium for claims about direct successors.
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

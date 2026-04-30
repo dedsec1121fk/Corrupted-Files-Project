@@ -1,0 +1,16 @@
+Incident ID: usa_1952_operation_chaos_htlingual
+Country: USA
+Date Folder: 00-00-1952
+Year: 1952
+
+Title EN: USA: Operation CHAOS and HTLINGUAL (1952-1974)
+Title EL: ΗΠΑ: Operation CHAOS και HTLINGUAL (1952-1974)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,28 @@
+{
+  "id": "usa_1945_project_sunshine_body_parts_nuclear_fallout_consent",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973)",
+    "el": "ΗΠΑ — Project Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση (1945–1973)"
+  },
+  "year": 1945,
+  "date_folder": "00-00-1945",
+  "incident_folder": "USA/00-00-1945/USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "High for fallout research and collection controversies; medium for the most dramatic public interpretations.",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-1945/USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1945/USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973)/Media/02 - EN Cover Card.svg",
+    "USA/00-00-1945/USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973)/Media/03 - EL Cover Card.svg",
+    "USA/00-00-1945/USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973)/Media/04 - EL Cover Card.svg"
+  ]
+}

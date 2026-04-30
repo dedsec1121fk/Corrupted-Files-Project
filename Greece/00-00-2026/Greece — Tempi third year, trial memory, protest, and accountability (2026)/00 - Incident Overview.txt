@@ -1,0 +1,16 @@
+Incident ID: greece_2026_tempi_third_year_trial_memory_protest_accountability
+Country: Greece
+Date Folder: 00-00-2026
+Year: 2026
+
+Title EN: Greece — Tempi third year, trial memory, protest, and accountability (2026)
+Title EL: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: High for crash/deaths/inquiry findings/protests; legal responsibility still subject to proceedings.
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

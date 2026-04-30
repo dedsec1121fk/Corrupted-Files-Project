@@ -1,0 +1,26 @@
+{
+  "id": "usa_1979_greensboro_massacre_police_klan_nazi_failure",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "Greensboro massacre, police absence, and extremist violence",
+    "el": "Σφαγή Greensboro, απουσία αστυνομίας και εξτρεμιστική βία"
+  },
+  "year": 1979,
+  "date_folder": "00-00-1979",
+  "incident_folder": "USA/00-00-1979/Greensboro massacre, police absence, and extremist violence",
+  "category": {
+    "en": "political violence / policing / extremist networks",
+    "el": "πολιτική βία / αστυνόμευση / εξτρεμιστικά δίκτυα"
+  },
+  "evidence_level": {
+    "en": "documented killings with disputed state responsibility",
+    "el": "τεκμηριωμένες δολοφονίες με αμφισβητούμενη κρατική ευθύνη"
+  },
+  "images": [
+    "USA/00-00-1979/Greensboro massacre, police absence, and extremist violence/Media/01 - Cover Card.svg",
+    "USA/00-00-1979/Greensboro massacre, police absence, and extremist violence/Media/02 - Proof Map.svg"
+  ]
+}

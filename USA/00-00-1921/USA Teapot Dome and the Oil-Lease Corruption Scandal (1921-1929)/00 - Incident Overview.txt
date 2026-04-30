@@ -1,0 +1,16 @@
+Incident ID: usa_1921_teapot_dome
+Country: USA
+Date Folder: 00-00-1921
+Year: 1921
+
+Title EN: USA: Teapot Dome and the Oil-Lease Corruption Scandal (1921-1929)
+Title EL: ΗΠΑ: Teapot Dome και το σκάνδαλο διαφθοράς με τις πετρελαϊκές μισθώσεις (1921-1929)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

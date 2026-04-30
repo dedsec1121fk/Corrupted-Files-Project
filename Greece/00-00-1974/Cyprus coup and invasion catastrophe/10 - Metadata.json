@@ -1,0 +1,26 @@
+{
+  "id": "greece_1974_cyprus_coup_and_invasion_catastrophe",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Cyprus coup and invasion catastrophe",
+    "el": "Πραξικόπημα Κύπρου και καταστροφή εισβολής"
+  },
+  "year": 1974,
+  "date_folder": "00-00-1974",
+  "incident_folder": "Greece/00-00-1974/Cyprus coup and invasion catastrophe",
+  "category": {
+    "en": "junta / foreign policy disaster",
+    "el": "χούντα / εξωτερική πολιτική καταστροφή"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "Greece/00-00-1974/Cyprus coup and invasion catastrophe/Media/01 - Cover Card.svg",
+    "Greece/00-00-1974/Cyprus coup and invasion catastrophe/Media/02 - Proof Map.svg"
+  ]
+}

@@ -1,0 +1,16 @@
+Incident ID: greece_2023_evros_wildfire_border_blame_and_climate_failure
+Country: Greece
+Date Folder: 00-00-2023
+Year: 2023
+
+Title EN: Evros wildfire, border blame, and climate-governance failure
+Title EL: Πυρκαγιά Έβρου, ενοχοποίηση συνόρων και αποτυχία κλιματικής διακυβέρνησης
+
+Category EN: wildfire / borders / climate governance
+Category EL: πυρκαγιά / σύνορα / κλιματική διακυβέρνηση
+
+Evidence EN: documented wildfire disaster with contested blame narratives
+Evidence EL: τεκμηριωμένη πυρκαγιά με αμφισβητούμενες αφηγήσεις ευθύνης
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

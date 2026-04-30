@@ -1,0 +1,26 @@
+{
+  "id": "greece_2020_pandemic_sms_permits_policing_normalization",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Greek pandemic SMS permits, policing, and normalization",
+    "el": "Greek pandemic SMS permits, policing, and normalization"
+  },
+  "year": 2020,
+  "date_folder": "00-00-2020",
+  "incident_folder": "Greece/00-00-2020/Greek pandemic SMS permits, policing, and normalization",
+  "category": {
+    "en": "public health / movement control",
+    "el": "public health / movement control"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-2020/Greek pandemic SMS permits, policing, and normalization/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2020/Greek pandemic SMS permits, policing, and normalization/Media/02 - EN Proof Map.svg"
+  ]
+}

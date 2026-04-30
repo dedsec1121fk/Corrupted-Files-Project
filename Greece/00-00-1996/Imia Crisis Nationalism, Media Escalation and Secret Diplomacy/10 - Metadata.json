@@ -1,0 +1,26 @@
+{
+  "id": "greece_1996_imia_crisis_nationalism_media_escalation_secret_diplomacy",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Imia Crisis: Nationalism, Media Escalation and Secret Diplomacy",
+    "el": "Κρίση Ιμίων: Εθνικισμός, Μιντιακή Κλιμάκωση και Μυστική Διπλωματία"
+  },
+  "year": 1996,
+  "date_folder": "00-00-1996",
+  "incident_folder": "Greece/00-00-1996/Imia Crisis Nationalism, Media Escalation and Secret Diplomacy",
+  "category": {
+    "en": "foreign policy crisis / media panic",
+    "el": "κρίση εξωτερικής πολιτικής / μιντιακός πανικός"
+  },
+  "evidence_level": {
+    "en": "documented case or documented public controversy with unresolved interpretation",
+    "el": "τεκμηριωμένη υπόθεση ή δημόσια διαμάχη με ανοιχτή ερμηνεία"
+  },
+  "images": [
+    "Greece/00-00-1996/Imia Crisis Nationalism, Media Escalation and Secret Diplomacy/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-1996/Imia Crisis Nationalism, Media Escalation and Secret Diplomacy/Media/02 - EL Cover Card.svg"
+  ]
+}

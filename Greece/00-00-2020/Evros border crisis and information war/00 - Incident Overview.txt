@@ -1,0 +1,16 @@
+Incident ID: greece_2020_evros_border_crisis_and_information_war
+Country: Greece
+Date Folder: 00-00-2020
+Year: 2020
+
+Title EN: Evros border crisis and information war
+Title EL: Κρίση Έβρου και πληροφοριακός πόλεμος
+
+Category EN: border crisis / propaganda
+Category EL: κρίση συνόρων / προπαγάνδα
+
+Evidence EN: documented or historically established event; details vary by source
+Evidence EL: τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

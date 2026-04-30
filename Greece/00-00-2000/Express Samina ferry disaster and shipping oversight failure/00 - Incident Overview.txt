@@ -1,0 +1,16 @@
+Incident ID: greece_2000_express_samina_ferry_disaster_shipping_oversight
+Country: Greece
+Date Folder: 00-00-2000
+Year: 2000
+
+Title EN: Express Samina ferry disaster and shipping oversight failure
+Title EL: Ναυάγιο Express Samina και αποτυχία εποπτείας ναυτιλίας
+
+Category EN: maritime disaster / safety regulation
+Category EL: ναυτική καταστροφή / εποπτεία ασφάλειας
+
+Evidence EN: documented disaster with criminal and regulatory aftermath
+Evidence EL: τεκμηριωμένη καταστροφή με ποινικές και εποπτικές συνέπειες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,26 @@
+{
+  "id": "usa_2016_facial_recognition_real_time_surveillance",
+  "country": {
+    "en": "USA",
+    "el": "ΗΠΑ"
+  },
+  "title": {
+    "en": "USA: Facial Recognition and Real-Time Surveillance Creep (2016-2026)",
+    "el": "ΗΠΑ: Αναγνώριση προσώπου και διολίσθηση σε επιτήρηση πραγματικού χρόνου (2016-2026)"
+  },
+  "year": 2016,
+  "date_folder": "00-00-2016",
+  "incident_folder": "USA/00-00-2016/USA Facial Recognition and Real-Time Surveillance Creep (2016-2026)",
+  "category": {
+    "en": "public trust / accountability",
+    "el": "δημόσια εμπιστοσύνη / λογοδοσία"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "USA/00-00-2016/USA Facial Recognition and Real-Time Surveillance Creep (2016-2026)/Media/01 - EN Cover Card.svg",
+    "USA/00-00-2016/USA Facial Recognition and Real-Time Surveillance Creep (2016-2026)/Media/02 - EL Cover Card.svg"
+  ]
+}

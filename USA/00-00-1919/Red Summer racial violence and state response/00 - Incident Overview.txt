@@ -1,0 +1,16 @@
+Incident ID: usa_1919_red_summer_racial_violence_state_response
+Country: USA
+Date Folder: 00-00-1919
+Year: 1919
+
+Title EN: Red Summer racial violence and state response
+Title EL: Red Summer, φυλετική βία και αντίδραση του κράτους
+
+Category EN: racial violence / policing / civil rights
+Category EL: φυλετική βία / αστυνόμευση / πολιτικά δικαιώματα
+
+Evidence EN: documented wave of racial violence with uneven accountability
+Evidence EL: τεκμηριωμένο κύμα φυλετικής βίας με άνιση λογοδοσία
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

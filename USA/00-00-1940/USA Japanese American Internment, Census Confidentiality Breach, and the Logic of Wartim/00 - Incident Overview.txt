@@ -1,0 +1,16 @@
+Incident ID: usa_1940_japanese_american_internment_census_breach
+Country: USA
+Date Folder: 00-00-1940
+Year: 1940
+
+Title EN: USA: Japanese American Internment, Census Confidentiality Breach, and the Logic of Wartime Control (1940-2025)
+Title EL: ΗΠΑ: Εγκλεισμός Ιαπωνοαμερικανών, παραβίαση απορρήτου απογραφής και η λογική του ελέγχου σε καιρό πολέμου (1940-2025)
+
+Category EN: public trust / accountability
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: mixed public record; read source trail
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

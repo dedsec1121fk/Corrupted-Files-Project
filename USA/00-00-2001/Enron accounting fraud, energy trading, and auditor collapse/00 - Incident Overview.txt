@@ -1,0 +1,16 @@
+Incident ID: usa_2001_enron_accounting_fraud_energy_market_capture
+Country: USA
+Date Folder: 00-00-2001
+Year: 2001
+
+Title EN: Enron accounting fraud, energy trading, and auditor collapse
+Title EL: Enron: λογιστική απάτη, αγορά ενέργειας και κατάρρευση ελεγκτή
+
+Category EN: corporate fraud / energy markets / audit failure
+Category EL: εταιρική απάτη / αγορές ενέργειας / αποτυχία ελέγχου
+
+Evidence EN: documented corporate fraud with convictions and market fallout
+Evidence EL: τεκμηριωμένη εταιρική απάτη με καταδίκες και συνέπειες αγοράς
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,26 @@
+{
+  "id": "greece_2004_vodafone_wiretapping_scandal_athens_olympics_context",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Vodafone wiretapping scandal and Athens Olympics context",
+    "el": "Vodafone wiretapping scandal and Athens Olympics context"
+  },
+  "year": 2004,
+  "date_folder": "00-00-2004",
+  "incident_folder": "Greece/00-00-2004/Vodafone wiretapping scandal and Athens Olympics context",
+  "category": {
+    "en": "surveillance / telecom security",
+    "el": "surveillance / telecom security"
+  },
+  "evidence_level": {
+    "en": "mixed public record; read source trail",
+    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+  },
+  "images": [
+    "Greece/00-00-2004/Vodafone wiretapping scandal and Athens Olympics context/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2004/Vodafone wiretapping scandal and Athens Olympics context/Media/02 - EN Proof Map.svg"
+  ]
+}

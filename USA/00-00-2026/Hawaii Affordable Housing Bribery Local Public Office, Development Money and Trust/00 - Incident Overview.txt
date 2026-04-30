@@ -1,0 +1,16 @@
+Incident ID: usa_2026_hawaii_affordable_housing_bribery_local_office_development_money
+Country: USA
+Date Folder: 00-00-2026
+Year: 2026
+
+Title EN: Hawaii Affordable Housing Bribery: Local Public Office, Development Money and Trust
+Title EL: Hawaii Housing Bribery: Τοπική Δημόσια Υπηρεσία, Ανάπτυξη και Εμπιστοσύνη
+
+Category EN: local corruption / housing
+Category EL: τοπική διαφθορά / στέγαση
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

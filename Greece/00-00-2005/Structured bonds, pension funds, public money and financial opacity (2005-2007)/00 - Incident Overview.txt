@@ -1,0 +1,16 @@
+Incident ID: greece_2005_structured_bonds_pension_funds_money_financial_opacity
+Country: Greece
+Date Folder: 00-00-2005
+Year: 2005
+
+Title EN: Structured bonds, pension funds, public money and financial opacity (2005-2007)
+Title EL: Δομημένα ομόλογα, ασφαλιστικά ταμεία, δημόσιο χρήμα και χρηματοοικονομική αδιαφάνεια (2005-2007)
+
+Category EN: Corruption, capture and public money
+Category EL: δημόσια εμπιστοσύνη / λογοδοσία
+
+Evidence EN: documented/partly documented public record; disputed parts are labelled as disputed
+Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

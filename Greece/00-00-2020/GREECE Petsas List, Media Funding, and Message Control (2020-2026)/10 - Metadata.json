@@ -1,0 +1,26 @@
+{
+  "id": "greece_2020_petsas_list_media_funding_message_control",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "GREECE: Petsas List, Media Funding, and Message Control (2020-2026)",
+    "el": "Petsas list media funding and message control"
+  },
+  "year": 2020,
+  "date_folder": "00-00-2020",
+  "incident_folder": "Greece/00-00-2020/GREECE Petsas List, Media Funding, and Message Control (2020-2026)",
+  "category": {
+    "en": "media funding / pandemic",
+    "el": "media funding / pandemic"
+  },
+  "evidence_level": {
+    "en": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες",
+    "el": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες"
+  },
+  "images": [
+    "Greece/00-00-2020/GREECE Petsas List, Media Funding, and Message Control (2020-2026)/Media/01 - EN Cover Card.svg",
+    "Greece/00-00-2020/GREECE Petsas List, Media Funding, and Message Control (2020-2026)/Media/02 - EN Petsas List Media Funding And Message Control Cove 066Ff652F705.svg"
+  ]
+}

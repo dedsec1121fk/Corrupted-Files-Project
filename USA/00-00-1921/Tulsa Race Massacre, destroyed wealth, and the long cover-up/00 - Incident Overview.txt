@@ -1,0 +1,16 @@
+Incident ID: usa_1921_tulsa_race_massacre_coverup_and_records
+Country: USA
+Date Folder: 00-00-1921
+Year: 1921
+
+Title EN: Tulsa Race Massacre, destroyed wealth, and the long cover-up
+Title EL: Σφαγή της Tulsa, κατεστραμμένος πλούτος και μακρά συγκάλυψη
+
+Category EN: racial violence / local cover-up
+Category EL: ρατσιστική βία / τοπική συγκάλυψη
+
+Evidence EN: documented massacre with long-suppressed accountability
+Evidence EL: τεκμηριωμένη σφαγή με μακρόχρονη αποσιώπηση λογοδοσίας
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

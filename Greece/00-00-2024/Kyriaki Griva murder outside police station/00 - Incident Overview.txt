@@ -1,0 +1,16 @@
+Incident ID: greece_2024_kyriaki_griva_murder_outside_police_station
+Country: Greece
+Date Folder: 00-00-2024
+Year: 2024
+
+Title EN: Kyriaki Griva murder outside police station
+Title EL: Kyriaki Griva murder outside police station
+
+Category EN: femicide / institutional failure
+Category EL: femicide / institutional failure
+
+Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: usa_2021_pfas_forever_chemicals_regulatory_delay_military_bases_water
+Country: USA
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: PFAS Forever Chemicals: Regulatory Delay, Military Bases and Public Water Trust
+Title EL: PFAS: Forever Chemicals, Καθυστέρηση Ρύθμισης, Στρατιωτικές Βάσεις και Νερό
+
+Category EN: environmental contamination / regulatory delay
+Category EL: περιβαλλοντική μόλυνση / καθυστέρηση ρύθμισης
+
+Evidence EN: documented case with some disputed interpretation
+Evidence EL: τεκμηριωμένη υπόθεση με αμφισβητούμενες ερμηνείες
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

@@ -1,0 +1,16 @@
+Incident ID: greece_2021_nea_smyrni_police_violence_public_order_backlash
+Country: Greece
+Date Folder: 00-00-2021
+Year: 2021
+
+Title EN: Nea Smyrni police violence, public-order panic, and backlash
+Title EL: Νέα Σμύρνη, αστυνομική βία, πανικός δημόσιας τάξης και αντίδραση
+
+Category EN: policing / protest / pandemic restrictions
+Category EL: αστυνόμευση / διαμαρτυρία / περιορισμοί πανδημίας
+
+Evidence EN: documented public incident with contested protest and policing narratives
+Evidence EL: τεκμηριωμένο δημόσιο περιστατικό με αμφισβητούμενες αφηγήσεις διαμαρτυρίας και αστυνόμευσης
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

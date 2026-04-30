@@ -1,0 +1,26 @@
+{
+  "id": "greece_2018_mati_wildfire_disaster_and_emergency_failure",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Mati wildfire disaster and emergency failure",
+    "el": "Τραγωδία στο Μάτι και αποτυχία έκτακτης ανάγκης"
+  },
+  "year": 2018,
+  "date_folder": "00-00-2018",
+  "incident_folder": "Greece/00-00-2018/Mati wildfire disaster and emergency failure",
+  "category": {
+    "en": "wildfire / state failure",
+    "el": "πυρκαγιά / κρατική αποτυχία"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "Greece/00-00-2018/Mati wildfire disaster and emergency failure/Media/01 - Cover Card.svg",
+    "Greece/00-00-2018/Mati wildfire disaster and emergency failure/Media/02 - Proof Map.svg"
+  ]
+}

@@ -1,0 +1,16 @@
+Incident ID: usa_1932_tuskegee_syphilis_study_health_race_consent_delayed_accountability
+Country: USA
+Date Folder: 00-00-1932
+Year: 1932
+
+Title EN: Tuskegee Syphilis Study: Public Health, Race, Consent and Delayed Accountability
+Title EL: Μελέτη Σύφιλης Tuskegee: Δημόσια Υγεία, Ρατσισμός, Συναίνεση και Καθυστερημένη Λογοδοσία
+
+Category EN: medical abuse / institutional racism
+Category EL: ιατρική κατάχρηση / θεσμικός ρατσισμός
+
+Evidence EN: documented government misconduct
+Evidence EL: τεκμηριωμένη κρατική παραβίαση
+
+This incident folder groups all text files and media for easier manual browsing.
+The database remains usable by the launcher, but each incident can also be read directly from its folder.

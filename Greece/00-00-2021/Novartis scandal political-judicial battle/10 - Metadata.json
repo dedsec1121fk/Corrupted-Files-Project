@@ -1,0 +1,26 @@
+{
+  "id": "greece_2021_novartis_scandal_political_judicial_battle",
+  "country": {
+    "en": "Greece",
+    "el": "Ελλάδα"
+  },
+  "title": {
+    "en": "Novartis scandal political-judicial battle",
+    "el": "Novartis και πολιτικοδικαστική μάχη"
+  },
+  "year": 2021,
+  "date_folder": "00-00-2021",
+  "incident_folder": "Greece/00-00-2021/Novartis scandal political-judicial battle",
+  "category": {
+    "en": "pharma / corruption allegation",
+    "el": "φαρμακευτική / καταγγελία διαφθοράς"
+  },
+  "evidence_level": {
+    "en": "documented or historically established event; details vary by source",
+    "el": "τεκμηριωμένο ή ιστορικά καθιερωμένο γεγονός· οι λεπτομέρειες διαφέρουν ανά πηγή"
+  },
+  "images": [
+    "Greece/00-00-2021/Novartis scandal political-judicial battle/Media/01 - Cover Card.svg",
+    "Greece/00-00-2021/Novartis scandal political-judicial battle/Media/02 - Proof Map.svg"
+  ]
+}
