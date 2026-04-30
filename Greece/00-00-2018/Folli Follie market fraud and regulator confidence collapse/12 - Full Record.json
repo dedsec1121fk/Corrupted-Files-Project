@@ -39,7 +39,12 @@
     "Greece/00-00-2018/Folli Follie market fraud and regulator confidence collapse/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v26": "Expansion record for Greece/USA only; includes documented anchors, unresolved points, and labeled conspiracy-theory lane."
+    "v26": "Expansion record for Greece/USA only; includes documented anchors, unresolved points, and labeled conspiracy-theory lane.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2018/Folli Follie market fraud and regulator confidence collapse",
   "source_archive_paths": {

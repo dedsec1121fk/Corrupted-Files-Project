@@ -39,7 +39,12 @@
     "Greece/00-00-2008/Siemens bribery scandal, public contracts, and party finance shadows/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v26": "Expansion record for Greece/USA only; includes documented anchors, unresolved points, and labeled conspiracy-theory lane."
+    "v26": "Expansion record for Greece/USA only; includes documented anchors, unresolved points, and labeled conspiracy-theory lane.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2008/Siemens bribery scandal, public contracts, and party finance shadows",
   "source_archive_paths": {

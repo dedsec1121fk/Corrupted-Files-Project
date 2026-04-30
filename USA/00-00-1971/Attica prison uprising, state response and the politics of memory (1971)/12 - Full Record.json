@@ -65,7 +65,8 @@
       "en",
       "el"
     ],
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "USA/00-00-1971/Attica prison uprising, state response and the politics of memory (1971)"
 }

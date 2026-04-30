@@ -8,11 +8,11 @@
   "canonical_slug": "KYRIAKI_GRIVA_MURDER_OUTSIDE_POLICE_STATION",
   "title": {
     "en": "Kyriaki Griva murder outside police station",
-    "el": "Kyriaki Griva murder outside police station"
+    "el": "Δολοφονία Κυριακής Γρίβα έξω από αστυνομικό τμήμα"
   },
   "category": {
     "en": "femicide / institutional failure",
-    "el": "femicide / institutional failure"
+    "el": "γυναικοκτονία / θεσμική αποτυχία"
   },
   "evidence_level": {
     "en": "μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες",
@@ -69,7 +69,8 @@
       "el"
     ],
     "duplicate_semantic_variant_merged": 1,
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2024/Kyriaki Griva murder outside police station"
 }

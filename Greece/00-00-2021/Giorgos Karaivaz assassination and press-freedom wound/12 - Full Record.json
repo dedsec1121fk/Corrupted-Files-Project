@@ -28,7 +28,7 @@
   },
   "source_trail": {
     "en": "- Reporters Without Borders, 31 July 2024: acquittal after trial over Giorgos Karaivaz killing.\n- Committee to Protect Journalists, 1 August 2024: Greece acquits two defendants over murder of crime reporter.\n- Court outcome: acquittal based on insufficient proof beyond reasonable doubt; this does not erase the murder itself.",
-    "el": "- Reporters Without Borders, 31 July 2024: acquittal after trial over Giorgos Karaivaz killing.\n- Committee to Protect Journalists, 1 August 2024: Greece acquits two defendants over murder of crime reporter.\n- Court outcome: acquittal based on insufficient proof beyond reasonable doubt; this does not erase the murder itself."
+    "el": "- Reporters Without Borders, 31 Ιουλίου 2024: αθώωση μετά τη δίκη για τη δολοφονία του Γιώργου Καραϊβάζ.\n- Committee to Protect Journalists: χρονολόγιο και ανησυχίες για την ασφάλεια δημοσιογράφων στην Ελλάδα.\n- Reuters και μεγάλα ελληνικά μέσα: δημόσιο αρχείο για τη δολοφονία, τις συλλήψεις, τη δίκη και το αποτέλεσμα.\n- Διάβασε μαζί την πορεία της υπόθεσης, τις δηλώσεις για την ελευθερία του Τύπου και τι παραμένει αναπάντητο."
   },
   "reading_report": {
     "en": "Reading report: Start from the year 2021, then ask who had institutional responsibility, who benefited from delay or confusion, which facts were proven by documents, and which claims are still allegations. This case should not be read as isolated trivia; it should be compared with other Greece cases in the same decade to see patterns of state capacity, elite protection, media framing, and public reaction.",
@@ -39,7 +39,12 @@
     "Greece/00-00-2021/Giorgos Karaivaz assassination and press-freedom wound/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2021/Giorgos Karaivaz assassination and press-freedom wound",
   "source_archive_paths": {

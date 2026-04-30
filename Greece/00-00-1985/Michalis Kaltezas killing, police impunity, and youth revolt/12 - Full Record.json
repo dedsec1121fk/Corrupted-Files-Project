@@ -39,7 +39,12 @@
     "Greece/00-00-1985/Michalis Kaltezas killing, police impunity, and youth revolt/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v28": "Third Greece/USA expansion; standard-library offline Termux reader compatible."
+    "v28": "Third Greece/USA expansion; standard-library offline Termux reader compatible.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-1985/Michalis Kaltezas killing, police impunity, and youth revolt",
   "source_archive_paths": {

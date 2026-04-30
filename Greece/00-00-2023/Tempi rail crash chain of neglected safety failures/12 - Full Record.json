@@ -28,7 +28,7 @@
   },
   "source_trail": {
     "en": "- Reuters, 23 March 2026: Greece opens trial over deadly 2023 train crash; adjourned to April 1.\n- Reuters, 1 March 2026: rallies on anniversary ahead of trial; judicial investigation concluded.\n- Public record: 57 dead, 36 defendants reported, no politicians in the dock according to Reuters coverage.",
-    "el": "- Reuters, 23 March 2026: Greece opens trial over deadly 2023 train crash; adjourned to April 1.\n- Reuters, 1 March 2026: rallies on anniversary ahead of trial; judicial investigation concluded.\n- Public record: 57 dead, 36 defendants reported, no politicians in the dock according to Reuters coverage."
+    "el": "- Reuters, 23 Μαρτίου 2026: άνοιγμα της δίκης για το πολύνεκρο δυστύχημα των Τεμπών και αναβολή για 1 Απριλίου.\n- Reuters, 1 Μαρτίου 2026 και μεταγενέστερες αναφορές: διαδηλώσεις, πολιτική πίεση και δικαστική εξέλιξη.\n- Επίσημες ανακοινώσεις, κοινοβουλευτικά στοιχεία και μεγάλα ελληνικά μέσα: ασφάλεια σιδηροδρόμων, τηλεδιοίκηση, ευθύνες και κρατική αποτυχία.\n- Διάβασε τις πηγές με σειρά: το συμβάν, τα τεχνικά κενά, τις δημόσιες υποσχέσεις, τη δικαστική πορεία."
   },
   "reading_report": {
     "en": "Reading report: Start from the year 2023, then ask who had institutional responsibility, who benefited from delay or confusion, which facts were proven by documents, and which claims are still allegations. This case should not be read as isolated trivia; it should be compared with other Greece cases in the same decade to see patterns of state capacity, elite protection, media framing, and public reaction.",
@@ -39,7 +39,12 @@
     "Greece/00-00-2023/Tempi rail crash chain of neglected safety failures/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2023/Tempi rail crash chain of neglected safety failures",
   "source_archive_paths": {

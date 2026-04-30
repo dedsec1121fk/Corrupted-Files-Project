@@ -23,8 +23,6 @@ Greece Incident Index
 00-00-1958 :: Max Merten affair, occupation memory, diplomacy and accountability (1958-1960)
 00-00-1960 :: Greece Psychological Control Media Fear And Political Memory 1960 2026
 00-00-1961 :: Violence and fraud election, parastate networks and democratic trust (1961)
-00-00-1963 :: Lambrakis assassination and parastate exposure
-00-00-1963 :: Lambrakis assassination and parastate network
 00-00-1963 :: Lambrakis assassination and the parastate
 00-00-1965 :: ASPIDA affair, army politics, and palace pressure
 00-00-1965 :: Apostasia crisis, palace pressure, and parliamentary defections
@@ -110,10 +108,8 @@ Greece Incident Index
 00-00-2013 :: ERT shutdown, black screen, and public broadcasting shock
 00-00-2013 :: ERT shutdown, public broadcasting, austerity and state media power (2013)
 00-00-2013 :: Pavlos Fyssas murder and Golden Dawn accountability
-00-00-2013 :: Pavlos Fyssas murder and Golden Dawn exposure
 00-00-2014 :: Baltakos video and Golden Dawn contacts
 00-00-2014 :: Noor One heroin case, power, impunity allegations and public trust (2014-2026)
-00-00-2015 :: Capital controls and referendum rupture
 00-00-2015 :: Capital controls and referendum shock
 00-00-2015 :: Refugee crisis, hotspots, borders and human rights (2015-2026)
 00-00-2015 :: Refugee crisis, island containment, and EU-Turkey border bargain
@@ -128,7 +124,6 @@ Greece Incident Index
 00-00-2018 :: Greece Mati wildfire, state failure, and accountability limits (2018-2025)
 00-00-2018 :: Mati wildfire command failures and public anger
 00-00-2018 :: Mati wildfire disaster and emergency failure
-00-00-2018 :: Mati wildfire disaster and evacuation failure
 00-00-2018 :: Mati wildfire, evacuation failure, and command accountability
 00-00-2018 :: Prespa Agreement Backlash Identity Politics, Disinformation and Public Pressure
 00-00-2018 :: Zak Kostopoulos death, public violence, police response and social stigma (2018-2024)
@@ -151,7 +146,6 @@ Greece Incident Index
 00-00-2021 :: GREECE GIORGOS KARAIVAZ, JOURNALIST MURDER, AND THE IMPUNITY PROBLEM (2021-2026)
 00-00-2021 :: Giorgos Karaivaz assassination and press-freedom wound
 00-00-2021 :: Karaivaz assassination and journalist safety
-00-00-2021 :: Nea Smyrni police violence and public-order narrative
 00-00-2021 :: Nea Smyrni police violence, protests and public-order narratives (2021)
 00-00-2021 :: Nea Smyrni police violence, public-order panic, and backlash
 00-00-2021 :: Novartis scandal political-judicial battle
@@ -166,11 +160,11 @@ Greece Incident Index
 00-00-2023 :: ADAE pressure, surveillance oversight, and rule-of-law trust
 00-00-2023 :: Evros wildfire, border blame, and climate-governance failure
 00-00-2023 :: GREECE SPORTS VIOLENCE, CRIMINAL NETWORKS, AND THE STATE RESPONSE (2023-2025)
-00-00-2023 :: GREECE YOUTH VIOLENCE, BULLYING, DIGITAL ADDICTION, AND THE SEARCH FOR CONTROL TOOLS (20
 00-00-2023 :: GREECE — TEMPI TRAIN CRASH, SAFETY FAILURES, AND ACCOUNTABILITY (2023–2026)
 00-00-2023 :: Greece 15 Minute Cities Smart Cities And Control Fears 2023 2026
 00-00-2023 :: Greece Pylos Shipwreck, Coast Guard Accountability, and the Investigation Fight (2023-20
 00-00-2023 :: Greece Spartans, Kasidiaris, and the Attempted Post-Golden-Dawn Political Workaround (20
+00-00-2023 :: Greece youth violence, bullying, digital addiction, and the search for control tools (2023-2026)
 00-00-2023 :: Nea Anchialos Ammunition Blasts Wildfires, Military Storage and Civil Protection Failure
 00-00-2023 :: Pylos shipwreck, rescue duty, and evidence gaps — PROOF DOSSIER
 00-00-2023 :: Sports fan violence and organized crime networks
@@ -186,7 +180,6 @@ Greece Incident Index
 00-00-2024 :: Greece Dystopian Trends 2024-2026
 00-00-2024 :: Greece Taxes, War Spending, and Jobs 2024-2026
 00-00-2024 :: Greece — Domestic violence, femicides, police response, and institutional failure (2024–
-00-00-2024 :: Kyriaki Griva killing outside police station
 00-00-2024 :: Kyriaki Griva murder outside police station
 00-00-2024 :: Kyriaki Griva, police-station femicide, response failure and institutional shock (2024)
 00-00-2024 :: Postal-vote email leak and electoral data-protection trust

@@ -32,14 +32,19 @@
   },
   "reading_report": {
     "en": "Reading report: Start with the public record for Flint water crisis, lead exposure, and state denial (USA, 2014). Separate deaths, money flows, contracts, official decisions, technical evidence, and media framing. Then compare the official explanation with documented criticism and with theories that remain unproven.",
-    "el": "Reading report: Start with the public record for Κρίση νερού Flint, μόλυβδος και κρατική άρνηση (ΗΠΑ, 2014). Separate deaths, money flows, contracts, official decisions, technical evidence, and media framing. Then compare the official explanation with documented criticism and with theories that remain unproven."
+    "el": "Αναφορά ανάγνωσης: Ξεκίνα από το βασικό δημόσιο αρχείο για την κρίση νερού στο Flint, την έκθεση σε μόλυβδο και την άρνηση του κράτους. Ξεχώρισε τι ήταν γνωστό τεχνικά, πότε δόθηκαν προειδοποιήσεις, ποιοι τις αγνόησαν και πώς εξελίχθηκε η λογοδοσία. Διάβασε το θέμα ως υπόθεση δημόσιας υγείας, περιβαλλοντικής δικαιοσύνης και θεσμικής αποτυχίας."
   },
   "images": [
     "USA/00-00-2014/Flint water crisis, lead exposure, and state denial/Media/01 - Cover Card.svg",
     "USA/00-00-2014/Flint water crisis, lead exposure, and state denial/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v26": "Expansion record for Greece/USA only; includes documented anchors, unresolved points, and labeled conspiracy-theory lane."
+    "v26": "Expansion record for Greece/USA only; includes documented anchors, unresolved points, and labeled conspiracy-theory lane.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "USA/00-00-2014/Flint water crisis, lead exposure, and state denial",
   "source_archive_paths": {

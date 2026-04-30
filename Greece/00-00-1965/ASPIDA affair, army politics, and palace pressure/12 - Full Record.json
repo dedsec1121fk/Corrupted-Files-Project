@@ -39,7 +39,12 @@
     "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v31": "Bilingual expansion record with impact map and labeled theory lane."
+    "v31": "Bilingual expansion record with impact map and labeled theory lane.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure",
   "source_archive_paths": {

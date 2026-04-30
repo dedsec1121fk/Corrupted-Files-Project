@@ -39,7 +39,12 @@
     "USA/00-00-1985/MOVE bombing in Philadelphia/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "USA/00-00-1985/MOVE bombing in Philadelphia",
   "source_archive_paths": {

@@ -20,12 +20,10 @@ Greece :: 00-00-1955 :: Istanbul Pogrom and Greek minority trauma :: greece_1955
 Greece :: 00-00-1958 :: Max Merten affair, occupation memory, diplomacy and accountability (1958-1960) :: greece_1958_max_merten_occupation_memory_diplomacy_accountability
 Greece :: 00-00-1960 :: Greece Psychological Control Media Fear And Political Memory 1960 2026 :: greece_1960_psychological_control_media_fear_political_memory
 Greece :: 00-00-1961 :: Violence and fraud election, parastate networks and democratic trust (1961) :: greece_1961_violence_fraud_election_parastate_democratic
-Greece :: 00-00-1963 :: Lambrakis assassination and parastate exposure :: greece_1963_lambrakis_assassination_and_parastate_exposure
-Greece :: 00-00-1963 :: Lambrakis assassination and parastate network :: greece_1963_lambr_kis_assassination_parastate_network
 Greece :: 00-00-1963 :: Lambrakis assassination and the parastate :: greece_1963_lambrakis_assassination_parastate
-Greece :: 00-00-1965 :: ASPIDA affair, army politics, and palace pressure :: greece_1965_aspida_affair_army_politics_palace_pressure
 Greece :: 00-00-1965 :: Apostasia crisis, palace pressure, and parliamentary defections :: greece_1965_apostasia_palace_party_defection_crisis
 Greece :: 00-00-1965 :: Apostasia, royal crisis, defectors and institutional breakdown (1965) :: greece_1965_apostasia_royal_crisis_defectors_institutional_breakdown
+Greece :: 00-00-1965 :: ASPIDA affair, army politics, and palace pressure :: greece_1965_aspida_affair_army_politics_palace_pressure
 Greece :: 00-00-1967 :: April 21 coup foreign context and local responsibility :: greece_1967_april_21_coup_foreign_context_local_responsibility
 Greece :: 00-00-1967 :: Greece The 1967 coup and the U.S. response (1965-1974) :: greece_1967_coup_us_response
 Greece :: 00-00-1967 :: Junta coup and NATO era anti-communist state :: greece_1967_junta_coup_nato_era_anti_communist_state
@@ -61,8 +59,8 @@ Greece :: 00-00-1999 :: Athens stock exchange bubble, public hype, small investo
 Greece :: 00-00-1999 :: Athens stock market bubble and public loss :: greece_1999_athens_stock_market_bubble_loss
 Greece :: 00-00-1999 :: Greece — Öcalan affair, secret diplomacy, state denial, and foreign pressure (1999) :: greece_1999_ocalan_affair_secret_diplomacy_state_denial_foreign_pressure
 Greece :: 00-00-1999 :: Stock market bubble and household losses :: greece_1999_stock_market_bubble_and_household_losses
-Greece :: 00-00-2000 :: Express Samina Ferry Disaster Safety Culture, Island Transport and Accountability :: greece_2000_express_samina_ferry_disaster_safety_culture_island_transport_accounta
 Greece :: 00-00-2000 :: Express Samina ferry disaster and shipping oversight failure :: greece_2000_express_samina_ferry_disaster_shipping_oversight
+Greece :: 00-00-2000 :: Express Samina Ferry Disaster Safety Culture, Island Transport and Accountability :: greece_2000_express_samina_ferry_disaster_safety_culture_island_transport_accounta
 Greece :: 00-00-2001 :: Greece Delphi, “Prophecy,” and the Geological Explanation of a Supernatural Tradition (2 :: greece_2001_delphi_gases_geology
 Greece :: 00-00-2002 :: 17 November trial and security-state transition :: greece_2002_17_november_trial_security_state_transition
 Greece :: 00-00-2003 :: GREECE C4I Olympic Security System, Siemens Overlap, and the Security-State Procurement :: greece_2003_c4i_olympic_security_system_surveillance_scandal
@@ -98,8 +96,8 @@ Greece :: 00-00-2011 :: Keratea waste plant conflict, policing, local resistance
 Greece :: 00-00-2011 :: Lagarde list and tax-evasion credibility crisis :: greece_2011_lagarde_list_tax_evasion_credibility_crisis
 Greece :: 00-00-2011 :: Syntagma Protests and Austerity Policing Democracy Under Economic Emergency :: greece_2011_syntagma_protests_austerity_policing_democracy_under_economic_emergenc
 Greece :: 00-00-2011 :: Syntagma square policing and austerity rage :: greece_2011_syntagma_square_policing_austerity_rage
-Greece :: 00-00-2012 :: GREECE Massive Leak of Identity, Tax, and Vehicle Data (2012-2013) :: greece_2012_mass_id_tax_vehicle_data_leak
 Greece :: 00-00-2012 :: Greece Golden Dawn, Criminal Organization Findings, and State Failure Questions (2012-20 :: greece_2012_golden_dawn_criminal_org_state_failure
+Greece :: 00-00-2012 :: GREECE Massive Leak of Identity, Tax, and Vehicle Data (2012-2013) :: greece_2012_mass_id_tax_vehicle_data_leak
 Greece :: 00-00-2012 :: Greece Novartis case — bribery, political warfare, and legal whiplash (2012-2026) :: greece_2012_novartis_2012_2026
 Greece :: 00-00-2012 :: Halyvourgia strike, riot police intervention, and austerity labor conflict :: greece_2012_halyvourgia_strike_policing_labor_crisis
 Greece :: 00-00-2012 :: Pharmakonisi and Aegean Pushback Allegations Border Deaths and Competing Narratives :: greece_2012_pharmakonisi_aegean_pushback_allegations_border_deaths_competing_narra
@@ -107,10 +105,8 @@ Greece :: 00-00-2012 :: Public shaming of HIV-positive women :: greece_2012_sham
 Greece :: 00-00-2013 :: ERT shutdown, black screen, and public broadcasting shock :: greece_2013_ert_shutdown_public_broadcasting_state_black_screen
 Greece :: 00-00-2013 :: ERT shutdown, public broadcasting, austerity and state media power (2013) :: greece_2013_ert_shutdown_broadcasting_austerity_state_media_power
 Greece :: 00-00-2013 :: Pavlos Fyssas murder and Golden Dawn accountability :: greece_2013_pavlos_fyssas_golden_dawn_accountability
-Greece :: 00-00-2013 :: Pavlos Fyssas murder and Golden Dawn exposure :: greece_2013_pavlos_fyssas_murder_golden_dawn_exposure
 Greece :: 00-00-2014 :: Baltakos video and Golden Dawn contacts :: greece_2014_baltakos_video_golden_dawn_contacts
 Greece :: 00-00-2014 :: Noor One heroin case, power, impunity allegations and public trust (2014-2026) :: greece_2014_noor_one_heroin_power_impunity_allegations
-Greece :: 00-00-2015 :: Capital controls and referendum rupture :: greece_2015_capital_controls_and_referendum_rupture
 Greece :: 00-00-2015 :: Capital controls and referendum shock :: greece_2015_capital_controls_referendum_shock
 Greece :: 00-00-2015 :: Refugee crisis, hotspots, borders and human rights (2015-2026) :: greece_2015_refugee_crisis_hotspots_borders_human_rights
 Greece :: 00-00-2015 :: Refugee crisis, island containment, and EU-Turkey border bargain :: greece_2015_refugee_crisis_islands_eu_turkey_containment
@@ -125,7 +121,6 @@ Greece :: 00-00-2018 :: Folli Follie market fraud and regulator confidence colla
 Greece :: 00-00-2018 :: Greece Mati wildfire, state failure, and accountability limits (2018-2025) :: greece_2018_mati_wildfire_state_failure
 Greece :: 00-00-2018 :: Mati wildfire command failures and public anger :: greece_2018_mati_wildfire_command_failures_anger
 Greece :: 00-00-2018 :: Mati wildfire disaster and emergency failure :: greece_2018_mati_wildfire_disaster_and_emergency_failure
-Greece :: 00-00-2018 :: Mati wildfire disaster and evacuation failure :: greece_2018_mati_wildfire_disaster_evacuation_failure
 Greece :: 00-00-2018 :: Mati wildfire, evacuation failure, and command accountability :: greece_2018_mati_wildfire_evacuation_accountability
 Greece :: 00-00-2018 :: Prespa Agreement Backlash Identity Politics, Disinformation and Public Pressure :: greece_2018_prespa_agreement_backlash_identity_politics_disinformation_pressure
 Greece :: 00-00-2018 :: Zak Kostopoulos death, public violence, police response and social stigma (2018-2024) :: greece_2018_zak_kostopoulos_death_violence_police_response_social_stigma
@@ -138,17 +133,16 @@ Greece :: 00-00-2019 :: Novartis Greece political scandal and protected witnesse
 Greece :: 00-00-2020 :: COVID lockdowns, policing, procurement, and trust in emergency rule :: greece_2020_covid_lockdowns_policing_procurement_trust
 Greece :: 00-00-2020 :: Evros border crisis and information war :: greece_2020_evros_border_crisis_and_information_war
 Greece :: 00-00-2020 :: GREECE Petsas List, Media Funding, and Message Control (2020-2026) :: greece_2020_petsas_list_media_funding_message_control
-Greece :: 00-00-2020 :: GREECE — COVID SMS PERMITS LOCKDOWNS, CERTIFICATES, AND PERMISSION CULTURE (2020–2023) :: greece_2020_covid_sms_permits_lockdowns_certificates_permission_culture
 Greece :: 00-00-2020 :: Greece Pushbacks, Border Violations, and the Accountability Fight (2020-2026) :: greece_2020_pushbacks_border_rights
+Greece :: 00-00-2020 :: GREECE — COVID SMS PERMITS LOCKDOWNS, CERTIFICATES, AND PERMISSION CULTURE (2020–2023) :: greece_2020_covid_sms_permits_lockdowns_certificates_permission_culture
 Greece :: 00-00-2020 :: Greek COVID Fines and Movement Forms Enforcement, Class and Permission Culture :: greece_2020_greek_covid_fines_movement_forms_enforcement_class_permission_culture
 Greece :: 00-00-2020 :: Greek pandemic SMS permits, policing, and normalization :: greece_2020_pandemic_sms_permits_policing_normalization
 Greece :: 00-00-2021 :: Dimitris Lignadis case and cultural power networks :: greece_2021_dimitris_lignadis_cultural_power_networks
 Greece :: 00-00-2021 :: Evia wildfires, state response, climate failure and rural abandonment (2021) :: greece_2021_evia_wildfires_state_response_climate_failure_rural_abandonment
+Greece :: 00-00-2021 :: Giorgos Karaivaz assassination and press-freedom wound :: greece_2021_giorgos_karaivaz_assassination_and_press_freedom_wound
 Greece :: 00-00-2021 :: GREECE Closed Controlled Camps, Cash Assistance Interruptions, and the Hardening of Asyl :: greece_2021_closed_controlled_camps_asylum_control
 Greece :: 00-00-2021 :: GREECE GIORGOS KARAIVAZ, JOURNALIST MURDER, AND THE IMPUNITY PROBLEM (2021-2026) :: greece_2021_karaivaz_assassination_impunity
-Greece :: 00-00-2021 :: Giorgos Karaivaz assassination and press-freedom wound :: greece_2021_giorgos_karaivaz_assassination_and_press_freedom_wound
 Greece :: 00-00-2021 :: Karaivaz assassination and journalist safety :: greece_2021_karaivaz_assassination_journalist_safety
-Greece :: 00-00-2021 :: Nea Smyrni police violence and public-order narrative :: greece_2021_nea_smyrni_police_violence_order_narrative
 Greece :: 00-00-2021 :: Nea Smyrni police violence, protests and public-order narratives (2021) :: greece_2021_nea_smyrni_police_violence_protests_order_narratives
 Greece :: 00-00-2021 :: Nea Smyrni police violence, public-order panic, and backlash :: greece_2021_nea_smyrni_police_violence_public_order_backlash
 Greece :: 00-00-2021 :: Novartis scandal political-judicial battle :: greece_2021_novartis_scandal_political_judicial_battle
@@ -162,12 +156,12 @@ Greece :: 00-00-2022 :: Predatorgate institutional reform gap :: greece_2022_pre
 Greece :: 00-00-2022 :: Predatorgate spyware and state trust :: greece_2022_predatorgate_spyware_state
 Greece :: 00-00-2023 :: ADAE pressure, surveillance oversight, and rule-of-law trust :: greece_2023_eavesdropping_adae_authority_pressure_rule_of_law
 Greece :: 00-00-2023 :: Evros wildfire, border blame, and climate-governance failure :: greece_2023_evros_wildfire_border_blame_and_climate_failure
-Greece :: 00-00-2023 :: GREECE SPORTS VIOLENCE, CRIMINAL NETWORKS, AND THE STATE RESPONSE (2023-2025) :: greece_2023_sports_violence_crime_networks_state_response
-Greece :: 00-00-2023 :: GREECE YOUTH VIOLENCE, BULLYING, DIGITAL ADDICTION, AND THE SEARCH FOR CONTROL TOOLS (20 :: greece_2023_youth_violence_bullying_stabbings
-Greece :: 00-00-2023 :: GREECE — TEMPI TRAIN CRASH, SAFETY FAILURES, AND ACCOUNTABILITY (2023–2026) :: greece_2023_tempi_train_crash_safety_failures_accountability
 Greece :: 00-00-2023 :: Greece 15 Minute Cities Smart Cities And Control Fears 2023 2026 :: greece_2023_15_minute_cities_smart_cities_control_fears
 Greece :: 00-00-2023 :: Greece Pylos Shipwreck, Coast Guard Accountability, and the Investigation Fight (2023-20 :: greece_2023_pylos_shipwreck_accountability
 Greece :: 00-00-2023 :: Greece Spartans, Kasidiaris, and the Attempted Post-Golden-Dawn Political Workaround (20 :: greece_2023_spartans_golden_dawn_bypass
+Greece :: 00-00-2023 :: GREECE SPORTS VIOLENCE, CRIMINAL NETWORKS, AND THE STATE RESPONSE (2023-2025) :: greece_2023_sports_violence_crime_networks_state_response
+Greece :: 00-00-2023 :: Greece youth violence, bullying, digital addiction, and the search for control tools (2023-2026) :: greece_2023_youth_violence_bullying_stabbings
+Greece :: 00-00-2023 :: GREECE — TEMPI TRAIN CRASH, SAFETY FAILURES, AND ACCOUNTABILITY (2023–2026) :: greece_2023_tempi_train_crash_safety_failures_accountability
 Greece :: 00-00-2023 :: Nea Anchialos Ammunition Blasts Wildfires, Military Storage and Civil Protection Failure :: greece_2023_nea_anchialos_ammunition_blasts_wildfires_military_storage_civil_prote
 Greece :: 00-00-2023 :: Pylos shipwreck, rescue duty, and evidence gaps — PROOF DOSSIER :: greece_2023_pylos_shipwreck_rescue_duty_evidence_gaps
 Greece :: 00-00-2023 :: Sports fan violence and organized crime networks :: greece_2023_sports_fan_violence_organized_crime_networks
@@ -177,26 +171,25 @@ Greece :: 00-00-2023 :: Tempi rail crash chain of neglected safety failures :: g
 Greece :: 00-00-2023 :: Tempi rail crash, system failure, and evidence battle — PROOF DOSSIER :: greece_2023_tempi_rail_crash_system_failure_evidence_battle
 Greece :: 00-00-2024 :: Asimakopoulou email leak and diaspora data :: greece_2024_asimakopoulou_email_leak_diaspora_data
 Greece :: 00-00-2024 :: Asimakopoulou email leak, data protection, elections and trust (2024) :: greece_2024_asimakopoulou_email_leak_data_protection_elections
+Greece :: 00-00-2024 :: Greece Dystopian Trends 2024-2026 :: greece_2024_dystopian_trends
 Greece :: 00-00-2024 :: GREECE POLICE CORRUPTION, ABUSE, AND ILL-TREATMENT WARNINGS (2024-2026) :: greece_2024_police_corruption_abuse_ill_treatment
 Greece :: 00-00-2024 :: GREECE PUBLIC-SECTOR BRIBERY, PERMIT NETWORKS, AND THE PERSISTENCE OF CLIENTELISM (2024- :: greece_2024_sector_bribery_permit_networks
 Greece :: 00-00-2024 :: GREECE SOCIAL-MEDIA BAN FOR UNDER-15s, DIGITAL AGE CHECKS, AND THE CHILD-CONTROL DEBATE :: greece_2024_social_media_ban_child_control_digital_age_verification
-Greece :: 00-00-2024 :: Greece Dystopian Trends 2024-2026 :: greece_2024_dystopian_trends
 Greece :: 00-00-2024 :: Greece Taxes, War Spending, and Jobs 2024-2026 :: greece_2024_taxes_war_jobs
 Greece :: 00-00-2024 :: Greece — Domestic violence, femicides, police response, and institutional failure (2024– :: greece_2024_domestic_violence_femicides_police_response_institutional_failure
-Greece :: 00-00-2024 :: Kyriaki Griva killing outside police station :: greece_2024_kyriaki_griva_killing_outside_police_station
 Greece :: 00-00-2024 :: Kyriaki Griva murder outside police station :: greece_2024_kyriaki_griva_murder_outside_police_station
 Greece :: 00-00-2024 :: Kyriaki Griva, police-station femicide, response failure and institutional shock (2024) :: greece_2024_kyriaki_griva_police_station_femicide_response_failure_institutional_s
 Greece :: 00-00-2024 :: Postal-vote email leak and electoral data-protection trust :: greece_2024_postal_vote_email_leak_data_protection_trust
 Greece :: 00-00-2025 :: ECHR Greece pushback rulings and border accountability :: greece_2025_echr_greece_pushback_rulings_border_accountability
-Greece :: 00-00-2025 :: GREECE — KIDS WALLET DIGITAL AGE VERIFICATION, CHILD SAFETY, AND IDENTITY INFRASTRUCTURE :: greece_2025_kids_wallet_digital_age_verification_child_safety_id_infrastructure
 Greece :: 00-00-2025 :: Greece Digital Id Personal Number Kids Wallet And Age Verification 2022 2026 :: greece_2025_digital_id_personal_number_kids_wallet_age_verification
+Greece :: 00-00-2025 :: GREECE — KIDS WALLET DIGITAL AGE VERIFICATION, CHILD SAFETY, AND IDENTITY INFRASTRUCTURE :: greece_2025_kids_wallet_digital_age_verification_child_safety_id_infrastructure
 Greece :: 00-00-2025 :: Greece — OPEKEPE second wave, parliamentary immunity, and the agricultural subsidy machi :: greece_2025_opekepe_second_wave_parliament_immunity_agricultural_subsidy_machine
 Greece :: 00-00-2025 :: Hellenic Train Office Bombing Public Rage, Rail Trauma and Security Spiral :: greece_2025_hellenic_train_office_bombing_rage_rail_trauma_security_spiral
 Greece :: 00-00-2025 :: Kids Wallet, digital identity, and child-protection debate :: greece_2025_kids_wallet_digital_identity_child_protection_debate
-Greece :: 00-00-2025 :: OPEKEPE EU subsidy-fraud networks :: greece_2025_opekepe_eu_subsidy_fraud_networks
-Greece :: 00-00-2025 :: OPEKEPE Resignations and EU Fine Subsidies, Parliament and Political Cost :: greece_2025_opekepe_resignations_eu_fine_subsidies_parliament_political_cost
 Greece :: 00-00-2025 :: OPEKEPE agricultural subsidy fraud escalation :: greece_2025_opekepe_agricultural_subsidy_fraud_escalation
+Greece :: 00-00-2025 :: OPEKEPE EU subsidy-fraud networks :: greece_2025_opekepe_eu_subsidy_fraud_networks
 Greece :: 00-00-2025 :: OPEKEPE farmer protests and subsidy hole :: greece_2025_opekepe_farmer_protests_subsidy_hole
+Greece :: 00-00-2025 :: OPEKEPE Resignations and EU Fine Subsidies, Parliament and Political Cost :: greece_2025_opekepe_resignations_eu_fine_subsidies_parliament_political_cost
 Greece :: 00-00-2025 :: Personal Number digital ID anxiety and state modernization :: greece_2025_personal_number_digital_id_anxiety_state_modernization
 Greece :: 00-00-2026 :: Greece Children Social Media Age Bans And Digital Parental Control 2024 2026 :: greece_2026_children_social_media_age_bans_digital_parental_control
 Greece :: 00-00-2026 :: Greece — Tempi third year, trial memory, protest, and accountability (2026) :: greece_2026_tempi_third_year_trial_memory_protest_accountability
@@ -227,7 +220,6 @@ USA :: 00-00-1923 :: LEADED GASOLINE, PUBLIC HEALTH DELAY, AND THE SLOW-FALL MOD
 USA :: 00-00-1924 :: Usa Teapot Dome Image File Oil Corruption And Public Memory 1921 1929 :: usa_1924_teapot_dome_oil_corruption_memory
 USA :: 00-00-1927 :: Buck v. Bell, forced sterilization and the respectable face of eugenics (1927-1970s) :: usa_1927_buck_v_bell_forced_sterilization_eugenics_law
 USA :: 00-00-1932 :: Bonus Army eviction :: usa_1932_bonus_army_eviction_2
-USA :: 00-00-1932 :: Bonus Army eviction [2] :: usa_1932_bonus_army_eviction
 USA :: 00-00-1932 :: Tuskegee Syphilis Study Public Health, Race, Consent and Delayed Accountability :: usa_1932_tuskegee_syphilis_study_health_race_consent_delayed_accountability
 USA :: 00-00-1932 :: Tuskegee syphilis study, medical racism, and informed-consent betrayal :: usa_1932_tuskegee_syphilis_study_medical_racism
 USA :: 00-00-1932 :: USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt :: usa_1932_tuskegee_1932_1997
@@ -247,8 +239,8 @@ USA :: 00-00-1945 :: USA — Project Sunshine, body parts, nuclear fallout, and 
 USA :: 00-00-1946 :: Guatemala syphilis experiments by U.S. public-health researchers :: usa_1946_guatemala_syphilis_experiments_us_health
 USA :: 00-00-1946 :: USA Weather Modification and Geoengineering Debate (1946-2026) :: usa_1946_weather_modification_geoengineering
 USA :: 00-00-1947 :: Hollywood blacklist, HUAC hearings, and loyalty panic :: usa_1947_hollywood_blacklist_huac_loyalty_panic
-USA :: 00-00-1947 :: USA — PROJECT BLUE BOOK AND UAP ARCHIVES, ALIENS, AND PUBLIC TRUST (1947–2026) :: usa_1947_project_blue_book_uap_archives_aliens
 USA :: 00-00-1947 :: Usa Ufo Secrecy Supernatural Claims And Public Trust 1947 2026 :: usa_1947_ufo_secrecy_supernatural_claims
+USA :: 00-00-1947 :: USA — PROJECT BLUE BOOK AND UAP ARCHIVES, ALIENS, AND PUBLIC TRUST (1947–2026) :: usa_1947_project_blue_book_uap_archives_aliens
 USA :: 00-00-1948 :: USA CIA, Journalists, and Media Influence Networks (1948-1977) :: usa_1948_cia_journalists_media_influence
 USA :: 00-00-1949 :: USA Open-air biological tests on unwarned populations (1949-1969) :: usa_1949_open_air_biological_tests
 USA :: 00-00-1950 :: Lavender Scare, security purges, and civil-service fear :: usa_1950_lavender_scare_security_purge_civil_service
@@ -289,8 +281,8 @@ USA :: 00-00-1969 :: USA — Citizens’ Commission burglary, stolen FBI files, 
 USA :: 00-00-1970 :: Kent State Shootings Protest, National Guard Force and State Violence Memory :: usa_1970_kent_state_shootings_protest_national_guard_force_state_violence_memor
 USA :: 00-00-1971 :: Attica prison uprising and state retaking :: usa_1971_attica_prison_uprising_state_retaking
 USA :: 00-00-1971 :: Attica prison uprising, state response and the politics of memory (1971) :: usa_1971_attica_prison_uprising_state_response_memory
-USA :: 00-00-1971 :: COINTELPRO files, FBI disruption, and domestic politics :: usa_1971_cointelpro_files_fbi_disruption_domestic_politics
 USA :: 00-00-1971 :: Citizens Commission FBI files and COINTELPRO exposure :: usa_1971_citizens_commission_fbi_files_and_cointelpro_exposure
+USA :: 00-00-1971 :: COINTELPRO files, FBI disruption, and domestic politics :: usa_1971_cointelpro_files_fbi_disruption_domestic_politics
 USA :: 00-00-1971 :: Pentagon Papers and the secret history of Vietnam :: usa_1971_pentagon_papers_secret_history_vietnam
 USA :: 00-00-1971 :: Pentagon Papers, Vietnam deception, and the public record :: usa_1971_pentagon_papers_vietnam_deception_public_record
 USA :: 00-00-1972 :: USA STARGATE — The U.S. Intelligence Community Really Studied “Remote Viewing” (1970s-19 :: usa_1972_stargate_remote_viewing
@@ -304,7 +296,6 @@ USA :: 00-00-1977 :: MKULTRA hearings and destroyed records problem :: usa_1977_
 USA :: 00-00-1978 :: Love Canal Toxic Waste, Schoolchildren and the Politics of Environmental Exposure :: usa_1978_love_canal_toxic_waste_schoolchildren_politics_environmental_exposure
 USA :: 00-00-1979 :: Greensboro massacre, police absence, and extremist violence :: usa_1979_greensboro_massacre_police_klan_nazi_failure
 USA :: 00-00-1979 :: Three Mile Island nuclear accident :: usa_1979_three_mile_island_nuclear_accident_2
-USA :: 00-00-1979 :: Three Mile Island nuclear accident [2] :: usa_1979_three_mile_island_nuclear_accident
 USA :: 00-00-1979 :: USA JFK Assassination — What the House Select Committee Actually Found (1979 archival re :: usa_1979_jfk_hsca_probable_conspiracy
 USA :: 00-00-1980 :: October Surprise allegations and election mythology :: usa_1980_october_surprise_allegations_election_mythology
 USA :: 00-00-1980 :: Savings and Loan crisis, deregulation, fraud, and bailout :: usa_1980_savings_and_loan_crisis_deregulation_fraud_bailout
@@ -313,9 +304,8 @@ USA :: 00-00-1981 :: PATCO strike firing, labor power, and state discipline :: u
 USA :: 00-00-1983 :: USA Iran-Contra — Illegal War Support, Secret Arms Deals, and a Presidency Under Pressur :: usa_1983_iran_contra
 USA :: 00-00-1983 :: USA The Gateway Process, Consciousness Research, and “Supernatural” Claims (1983-2026) :: usa_1983_gateway_process_consciousness
 USA :: 00-00-1984 :: USA Civil Asset Forfeiture, Equitable Sharing, and the Policing for Profit Structure (19 :: usa_1984_civil_asset_forfeiture_policing_for_profit
-USA :: 00-00-1985 :: MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence :: usa_1985_move_bombing_philadelphia_police_fire_race_urban_state_violence
 USA :: 00-00-1985 :: MOVE bombing in Philadelphia :: usa_1985_move_bombing_in_philadelphia_2
-USA :: 00-00-1985 :: MOVE bombing in Philadelphia [2] :: usa_1985_move_bombing_in_philadelphia
+USA :: 00-00-1985 :: MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence :: usa_1985_move_bombing_philadelphia_police_fire_race_urban_state_violence
 USA :: 00-00-1985 :: Therac-25 radiation overdoses and software safety failure :: usa_1985_therac25_radiation_overdose_software_safety
 USA :: 00-00-1986 :: Challenger Disaster Engineering Warnings, Launch Pressure and Institutional Silence :: usa_1986_challenger_disaster_engineering_warnings_launch_pressure_institutional
 USA :: 00-00-1986 :: Iran Contra affair :: usa_1986_iran_contra_affair
@@ -327,13 +317,12 @@ USA :: 00-00-1991 :: Rodney King beating and LAPD accountability :: usa_1991_rod
 USA :: 00-00-1992 :: Los Angeles riots and Rodney King verdict :: usa_1992_los_angeles_riots_and_rodney_king_verdict
 USA :: 00-00-1992 :: Ruby Ridge Federal Siege, Rules of Engagement and Public Trust :: usa_1992_ruby_ridge_federal_siege_rules_engagement
 USA :: 00-00-1992 :: Ruby Ridge siege and rules of engagement crisis :: usa_1992_ruby_ridge_siege_rules_engagement_crisis
-USA :: 00-00-1992 :: Ruby Ridge, federal force, rules of engagement and public trust (1992) :: usa_1992_ruby_ridge_federal_force_rules_engagement
 USA :: 00-00-1993 :: USA — Waco, Branch Davidians, ATF FBI siege, media, and public trust (1993) :: usa_1993_waco_branch_davidians_atf_fbi_siege_media
 USA :: 00-00-1993 :: Waco Siege ATF Raid, FBI Negotiation Failure and Fire Narrative Wars :: usa_1993_waco_siege_atf_raid_fbi_negotiation_failure_fire_narrative_wars
 USA :: 00-00-1993 :: World Trade Center bombing intelligence aftermath :: usa_1993_world_trade_center_bombing_intelligence_aftermath
 USA :: 00-00-1994 :: USA — PROJECT BLUE BEAM PANIC, UAP, SYNTHETIC MEDIA, AND CONTROL MYTHS (1994–2026) :: usa_1994_project_blue_beam_panic_uap_synthetic_media_control_myths
-USA :: 00-00-1995 :: Oklahoma City Bombing Backlash Extremism, Informants and Federal Security Panic :: usa_1995_oklahoma_city_bombing_backlash_extremism_informants_federal_security_p
 USA :: 00-00-1995 :: Oklahoma City bombing and extremist warning failure :: usa_1995_oklahoma_city_bombing_extremist_warning_failure
+USA :: 00-00-1995 :: Oklahoma City Bombing Backlash Extremism, Informants and Federal Security Panic :: usa_1995_oklahoma_city_bombing_backlash_extremism_informants_federal_security_p
 USA :: 00-00-1996 :: CIA Dark Alliance crack cocaine controversy :: usa_1996_cia_dark_alliance_crack_cocaine_controversy
 USA :: 00-00-1996 :: U.S. OPIOID CRISIS CORPORATE POWER, STATE FAILURE, AND THE LONG SETTLEMENT TRAIL (1996-2 :: usa_1996_opioid_crisis_purdue_sacklers_mckinsey
 USA :: 00-00-1998 :: Tobacco Master Settlement, addiction science, and political money :: usa_1998_tobacco_master_settlement_addiction_science_political_money
@@ -357,10 +346,9 @@ USA :: 00-00-2003 :: Abu Ghraib torture photos, command responsibility and secre
 USA :: 00-00-2003 :: Iraq WMD intelligence failure :: usa_2003_iraq_wmd_intelligence_failure
 USA :: 00-00-2003 :: Valerie Plame Affair Intelligence Identity, Iraq War Politics and Retaliation Claims :: usa_2003_valerie_plame_affair_intelligence_identity_iraq_war_politics_retaliati
 USA :: 00-00-2004 :: Abu Ghraib abuse photographs and command responsibility :: usa_2004_abu_ghraib_abuse_photographs_and_command_responsibility
-USA :: 00-00-2004 :: Abu Ghraib detainee abuse and command responsibility :: usa_2004_abu_ghraib_detainee_abuse_command_responsibility
 USA :: 00-00-2004 :: CIA black sites and extraordinary rendition :: usa_2004_cia_black_sites_extraordinary_rendition
-USA :: 00-00-2005 :: Hurricane Katrina Response Disaster Governance, Race, Class and State Abandonment :: usa_2005_hurricane_katrina_response_disaster_governance_race_class_state_abando
 USA :: 00-00-2005 :: Hurricane Katrina levee failure and abandonment :: usa_2005_hurricane_katrina_levee_failure_abandonment
+USA :: 00-00-2005 :: Hurricane Katrina Response Disaster Governance, Race, Class and State Abandonment :: usa_2005_hurricane_katrina_response_disaster_governance_race_class_state_abando
 USA :: 00-00-2005 :: NSA warrantless wiretapping and post-9 11 executive power (2005-2008) :: usa_2005_nsa_warrantless_wiretapping_post_911_executive_power
 USA :: 00-00-2005 :: NSA warrantless wiretapping disclosure :: usa_2005_nsa_warrantless_wiretapping_disclosure
 USA :: 00-00-2005 :: USA — DIGITAL ID, REAL ID, AND MOBILE LICENSES CONVENIENCE OR CONTROL LAYER (2005–2026) :: usa_2005_digital_id_real_id_mobile_licenses
@@ -381,8 +369,8 @@ USA :: 00-00-2011 :: Operation Fast and Furious :: usa_2011_operation_fast_furio
 USA :: 00-00-2012 :: HSBC Money Laundering Case Cartel Money, Deferred Prosecution and Too-Big-To-Jail Logic :: usa_2012_hsbc_money_laundering_cartel_money_deferred_prosecution_too_big_jail_l
 USA :: 00-00-2012 :: Sandy Hook tragedy and conspiracy harassment aftermath :: usa_2012_sandy_hook_tragedy_conspiracy_harassment_aftermath
 USA :: 00-00-2013 :: PRISM disclosures and platform surveillance :: usa_2013_prism_disclosures_platform_surveillance
-USA :: 00-00-2013 :: Snowden NSA disclosures :: usa_2013_snowden_nsa_disclosures
 USA :: 00-00-2013 :: Snowden disclosures, PRISM, and bulk collection :: usa_2013_snowden_disclosures_prism_bulk_collection
+USA :: 00-00-2013 :: Snowden NSA disclosures :: usa_2013_snowden_nsa_disclosures
 USA :: 00-00-2013 :: USA Cambridge Analytica, Mass Data Harvesting, and Psychographic Election Targeting (201 :: usa_2013_cambridge_analytica_psychographic_targeting
 USA :: 00-00-2014 :: Chicago Homan Square Police Warehouse Allegations and Detention Transparency :: usa_2014_chicago_homan_square_police_warehouse_allegations_detention_transparen
 USA :: 00-00-2014 :: Ferguson police shooting and municipal fines system :: usa_2014_ferguson_police_shooting_municipal_fines_system
@@ -394,8 +382,8 @@ USA :: 00-00-2015 :: Chicago Laquan McDonald video and cover-up claims :: usa_20
 USA :: 00-00-2015 :: USA Connected-Car Surveillance, GM, and OnStar (2015-2026) :: usa_2015_gm_onstar_car_surveillance
 USA :: 00-00-2015 :: Volkswagen Dieselgate in the USA Emissions Cheating and Regulatory Detection :: usa_2015_volkswagen_dieselgate_in_usa_emissions_cheating_regulatory_detection
 USA :: 00-00-2016 :: Cambridge Analytica and data persuasion panic :: usa_2016_cambridge_analytica_data_persuasion_panic
-USA :: 00-00-2016 :: DNC emails, hack-and-leak politics, and party trust :: usa_2016_dnc_emails_hack_leaks_party_trust
 USA :: 00-00-2016 :: Dakota Access Pipeline Protests Indigenous Rights, Private Security and Surveillance :: usa_2016_dakota_access_pipeline_protests_indigenous_rights_private_security_sur
+USA :: 00-00-2016 :: DNC emails, hack-and-leak politics, and party trust :: usa_2016_dnc_emails_hack_leaks_party_trust
 USA :: 00-00-2016 :: Flint water crisis accountability :: usa_2016_flint_water_crisis_accountability
 USA :: 00-00-2016 :: Standing Rock and pipeline protest policing :: usa_2016_standing_rock_pipeline_protest_policing
 USA :: 00-00-2016 :: USA Facial Recognition and Real-Time Surveillance Creep (2016-2026) :: usa_2016_facial_recognition_real_time_surveillance
@@ -431,9 +419,8 @@ USA :: 00-00-2022 :: USA — Twitter Files, government pressure, platforms, and 
 USA :: 00-00-2022 :: Uvalde Response Failure School Shooting, Police Delay and Public Accountability :: usa_2022_uvalde_response_failure_school_shooting_police_delay_accountability
 USA :: 00-00-2022 :: Uvalde school shooting and police response failure :: usa_2022_uvalde_school_shooting_police_response_failure
 USA :: 00-00-2023 :: East Palestine derailment, chemical response and regulatory trust (2023-2026) :: usa_2023_east_palestine_derailment_chemical_response_regulatory
-USA :: 00-00-2023 :: East Palestine derailment, chemical risk, and regulatory trust :: usa_2023_east_palestine_derailment_chemical_risk_trust
-USA :: 00-00-2023 :: MISSING SCIENTISTS SCIENTIST DEATHS PATTERN CLAIMS IN THE U.S. (2023-2026) :: usa_2023_missing_scientists_pattern_claims
 USA :: 00-00-2023 :: Maui wildfires response and land-grab rumors :: usa_2023_maui_wildfires_response_land_grab_rumors
+USA :: 00-00-2023 :: MISSING SCIENTISTS SCIENTIST DEATHS PATTERN CLAIMS IN THE U.S. (2023-2026) :: usa_2023_missing_scientists_pattern_claims
 USA :: 00-00-2023 :: Ohio train derailment and toxic-risk communication :: usa_2023_ohio_train_derailment_toxic_risk_communication
 USA :: 00-00-2023 :: Silicon Valley Bank Collapse Interest-Rate Risk, Deregulation Debate and Panic Speed :: usa_2023_silicon_valley_bank_collapse_interest_rate_risk_deregulation_debate_pa
 USA :: 00-00-2023 :: USA GLOBAL — 15-MINUTE CITIES PLANNING, SURVEILLANCE, AND LOCKDOWN PANIC (2023–2026) :: usa_2023_15_minute_cities_planning_surveillance_lockdown_panic

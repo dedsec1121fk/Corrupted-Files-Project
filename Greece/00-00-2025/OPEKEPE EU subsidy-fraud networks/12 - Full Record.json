@@ -28,7 +28,7 @@
   },
   "source_trail": {
     "en": "OPEKEPE EU subsidy-fraud networks\n\nEPPO OPEKEPE 2025: https://www.eppo.europa.eu/en/media/news/greece-eppo-probes-opekepe-officials-over-alleged-organised-agricultural-subsidy-fraud; EPPO 2026: https://www.eppo.europa.eu/en/media/news/greece-new-developments-eppos-probe-large-scale-agricultural-subsidy-fraud",
-    "el": "ΟΠΕΚΕΠΕ και δίκτυα απάτης ευρωπαϊκών επιδοτήσεων\n\nEPPO OPEKEPE 2025: https://www.eppo.europa.eu/en/media/news/greece-eppo-probes-opekepe-officials-over-alleged-organised-agricultural-subsidy-fraud; EPPO 2026: https://www.eppo.europa.eu/en/media/news/greece-new-developments-eppos-probe-large-scale-agricultural-subsidy-fraud"
+    "el": "- EPPO / OPEKEPE 2025: ανακοινώσεις για έρευνες σχετικά με δίκτυα απάτης σε ευρωπαϊκές αγροτικές επιδοτήσεις.\n- Ελληνικά μέσα και δημόσιο αρχείο: πολιτικές αντιδράσεις, διοικητικές ευθύνες και πιθανά κυκλώματα.\n- Διάβασε πρώτα τις επίσημες ανακοινώσεις, μετά τα ρεπορτάζ και στο τέλος τις πολιτικές δηλώσεις για να ξεχωρίσεις τεκμηρίωση από θόρυβο."
   },
   "reading_report": {
     "en": "Read main file, proof dossier, source trail, then images.\nCore: Alleged organized fraud involving agricultural funds, public officials, false declarations, and EU budget damage created a major rural-policy scandal.",
@@ -65,7 +65,8 @@
       "en",
       "el"
     ],
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2025/OPEKEPE EU subsidy-fraud networks"
 }

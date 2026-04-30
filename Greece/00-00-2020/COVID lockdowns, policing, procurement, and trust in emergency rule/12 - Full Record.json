@@ -39,7 +39,12 @@
     "Greece/00-00-2020/COVID lockdowns, policing, procurement, and trust in emergency rule/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v30": "Bilingual expansion shard with Greek and English text for every reader-facing field."
+    "v30": "Bilingual expansion shard with Greek and English text for every reader-facing field.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2020/COVID lockdowns, policing, procurement, and trust in emergency rule",
   "source_archive_paths": {

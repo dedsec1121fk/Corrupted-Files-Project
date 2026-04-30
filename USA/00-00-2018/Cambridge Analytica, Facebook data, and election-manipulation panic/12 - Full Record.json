@@ -39,7 +39,12 @@
     "USA/00-00-2018/Cambridge Analytica, Facebook data, and election-manipulation panic/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v27": "Second Greece/USA expansion; standard-library offline Termux reader compatible."
+    "v27": "Second Greece/USA expansion; standard-library offline Termux reader compatible.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "USA/00-00-2018/Cambridge Analytica, Facebook data, and election-manipulation panic",
   "source_archive_paths": {

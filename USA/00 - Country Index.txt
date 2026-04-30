@@ -24,7 +24,6 @@ USA Incident Index
 00-00-1924 :: Usa Teapot Dome Image File Oil Corruption And Public Memory 1921 1929
 00-00-1927 :: Buck v. Bell, forced sterilization and the respectable face of eugenics (1927-1970s)
 00-00-1932 :: Bonus Army eviction
-00-00-1932 :: Bonus Army eviction [2]
 00-00-1932 :: Tuskegee Syphilis Study Public Health, Race, Consent and Delayed Accountability
 00-00-1932 :: Tuskegee syphilis study, medical racism, and informed-consent betrayal
 00-00-1932 :: USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt
@@ -101,7 +100,6 @@ USA Incident Index
 00-00-1978 :: Love Canal Toxic Waste, Schoolchildren and the Politics of Environmental Exposure
 00-00-1979 :: Greensboro massacre, police absence, and extremist violence
 00-00-1979 :: Three Mile Island nuclear accident
-00-00-1979 :: Three Mile Island nuclear accident [2]
 00-00-1979 :: USA JFK Assassination — What the House Select Committee Actually Found (1979 archival re
 00-00-1980 :: October Surprise allegations and election mythology
 00-00-1980 :: Savings and Loan crisis, deregulation, fraud, and bailout
@@ -112,7 +110,6 @@ USA Incident Index
 00-00-1984 :: USA Civil Asset Forfeiture, Equitable Sharing, and the Policing for Profit Structure (19
 00-00-1985 :: MOVE Bombing Philadelphia Police, Fire, Race and Urban State Violence
 00-00-1985 :: MOVE bombing in Philadelphia
-00-00-1985 :: MOVE bombing in Philadelphia [2]
 00-00-1985 :: Therac-25 radiation overdoses and software safety failure
 00-00-1986 :: Challenger Disaster Engineering Warnings, Launch Pressure and Institutional Silence
 00-00-1986 :: Iran Contra affair
@@ -124,7 +121,6 @@ USA Incident Index
 00-00-1992 :: Los Angeles riots and Rodney King verdict
 00-00-1992 :: Ruby Ridge Federal Siege, Rules of Engagement and Public Trust
 00-00-1992 :: Ruby Ridge siege and rules of engagement crisis
-00-00-1992 :: Ruby Ridge, federal force, rules of engagement and public trust (1992)
 00-00-1993 :: USA — Waco, Branch Davidians, ATF FBI siege, media, and public trust (1993)
 00-00-1993 :: Waco Siege ATF Raid, FBI Negotiation Failure and Fire Narrative Wars
 00-00-1993 :: World Trade Center bombing intelligence aftermath
@@ -154,7 +150,6 @@ USA Incident Index
 00-00-2003 :: Iraq WMD intelligence failure
 00-00-2003 :: Valerie Plame Affair Intelligence Identity, Iraq War Politics and Retaliation Claims
 00-00-2004 :: Abu Ghraib abuse photographs and command responsibility
-00-00-2004 :: Abu Ghraib detainee abuse and command responsibility
 00-00-2004 :: CIA black sites and extraordinary rendition
 00-00-2005 :: Hurricane Katrina Response Disaster Governance, Race, Class and State Abandonment
 00-00-2005 :: Hurricane Katrina levee failure and abandonment
@@ -228,7 +223,6 @@ USA Incident Index
 00-00-2022 :: Uvalde Response Failure School Shooting, Police Delay and Public Accountability
 00-00-2022 :: Uvalde school shooting and police response failure
 00-00-2023 :: East Palestine derailment, chemical response and regulatory trust (2023-2026)
-00-00-2023 :: East Palestine derailment, chemical risk, and regulatory trust
 00-00-2023 :: MISSING SCIENTISTS SCIENTIST DEATHS PATTERN CLAIMS IN THE U.S. (2023-2026)
 00-00-2023 :: Maui wildfires response and land-grab rumors
 00-00-2023 :: Ohio train derailment and toxic-risk communication

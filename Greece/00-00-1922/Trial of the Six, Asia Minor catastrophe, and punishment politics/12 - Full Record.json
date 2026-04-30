@@ -40,7 +40,12 @@
   ],
   "audit": {
     "v30": "Bilingual expansion shard with Greek and English text for every reader-facing field.",
-    "v31_existing_detail": "Added bilingual impact/accountability detail to existing v30 record."
+    "v31_existing_detail": "Added bilingual impact/accountability detail to existing v30 record.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-1922/Trial of the Six, Asia Minor catastrophe, and punishment politics",
   "source_archive_paths": {

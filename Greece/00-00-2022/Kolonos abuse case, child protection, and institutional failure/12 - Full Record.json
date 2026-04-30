@@ -39,7 +39,12 @@
     "Greece/00-00-2022/Kolonos abuse case, child protection, and institutional failure/Media/02 - Proof Map.svg"
   ],
   "audit": {
-    "v29": "Fourth Greece/USA expansion; standard-library offline Termux reader compatible."
+    "v29": "Fourth Greece/USA expansion; standard-library offline Termux reader compatible.",
+    "languages_present": [
+      "en",
+      "el"
+    ],
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2022/Kolonos abuse case, child protection, and institutional failure",
   "source_archive_paths": {

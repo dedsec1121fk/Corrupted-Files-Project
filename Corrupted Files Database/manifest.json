@@ -1,8 +1,8 @@
 {
   "project": "Corrupted Files Project",
-  "database_files": 19,
-  "records": 456,
-  "media_references": 901,
+  "database_files": 18,
+  "records": 443,
+  "media_references": 878,
   "languages": [
     "en",
     "el"
@@ -11,5 +11,5 @@
     "Greece",
     "USA"
   ],
-  "notes": "Rebuilt into Greece/USA -> DD-MM-YYYY -> incident folders. No separate Corrupted Files Media, Library, Docs, or Updates folders remain."
+  "notes": "Rebuilt into Greece/USA -> DD-MM-YYYY -> incident folders. Duplicate incident variants removed, bilingual README refreshed, and selected EL files normalized."
 }

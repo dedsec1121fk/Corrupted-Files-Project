@@ -8,15 +8,15 @@
   "canonical_slug": "PAVLOS_FYSSAS_GOLDEN_DAWN_ACCOUNTABILITY",
   "title": {
     "en": "Pavlos Fyssas murder and Golden Dawn accountability",
-    "el": "Pavlos Fyssas murder and Golden Dawn accountability"
+    "el": "Δολοφονία Παύλου Φύσσα και λογοδοσία της Χρυσής Αυγής"
   },
   "category": {
     "en": "far-right violence / justice",
-    "el": "far-right violence / justice"
+    "el": "πολιτική βία / εξτρεμισμός / λογοδοσία"
   },
   "evidence_level": {
     "en": "mixed public record; read source trail",
-    "el": "μικτό δημόσιο αρχείο· διάβασε τις πηγές"
+    "el": "τεκμηριωμένη δολοφονία και δικαστική λογοδοσία"
   },
   "article": {
     "en": "Pavlos Fyssas murder and Golden Dawn accountability\nYear: 2013\nCountry folder: Greece\nCategory: far-right violence / justice\nEvidence label: DOCUMENTED: criminal trial and convictions\n\nFULL ARTICLE / STORY\nThe murder of Pavlos Fyssas led to the investigation of Golden Dawn and a historic criminal-organization trial.\n\nIt matters because violent political movements can hide behind party legality until evidence exposes operational structure.\n\nBACKGROUND\nA corruption, abuse, disaster, surveillance, intelligence, or public-trust case usually begins before the headline. The real beginning is a weakness inside the system: secrecy, emergency law, profit, war, debt, weak regulation, police culture, intelligence authority, classification, elite access, technical complexity, or public fear. For this case the main weak point is: far-right violence / justice. That category tells the reader what documents matter most: archives, contracts, court files, declassified records, regulator reports, technical investigations, parliamentary material, safety reports, or survivor testimony.\n\nWHAT HAPPENED\nThe core event is this: The murder of Pavlos Fyssas led to the investigation of Golden Dawn and a historic criminal-organization trial. The full case is bigger than the core event. It includes the warnings before it, the official explanation after it, the people who challenged that explanation, and the accountability that did or did not follow. A serious reader should ask who controlled the first narrative, who controlled the evidence, who had incentives to delay disclosure, and who was forced to prove harm from outside the institution.\n\nDETAILED REPORT\n1. Precondition: incentives, fear, secrecy, money, ideology, or weak oversight created the risk.\n2. Trigger: the event became visible through harm, leak, death, lawsuit, public report, whistleblower, declassification, or disaster.\n3. Official narrative: an institution or powerful actor gave the first explanation.\n4. Counter-record: victims, families, journalists, courts, auditors, inspectors, researchers, or international bodies challenged the explanation.\n5. Accountability: resignations, trials, settlements, reforms, compensation, or public memory battles followed.\n6. Open problem: The court record is central.\n\nPROOF / SOURCE TRAIL\nGreek court judgment on Golden Dawn; public trial observatory materials.\n\nWHAT IS STRONGLY SUPPORTED\nThe strongest supported core is: The murder of Pavlos Fyssas led to the investigation of Golden Dawn and a historic criminal-organization trial.. This is the first thing to verify. If the core is verified, wider claims can be tested. If the core is not verified, the case should not be treated as fact.\n\nWHAT IS DISPUTED OR STILL OPEN\nThe court record is central. This database is stronger when it admits uncertainty. A file can be serious without pretending that every theory around it is proven.\n\nV25 continuity expansion\n------------------------\nThis record was expanded during the project conversion pass so it can be read as part of a structured offline database rather than as an isolated text file. For this specific case, the key reading path is: country = Greece, year = 2013, category = far-right violence / justice, title = Pavlos Fyssas murder and Golden Dawn accountability. A reader should compare the official version, the documented evidence, the people affected, the incentives of institutions, and the time it took for accountability to appear. If the case contains rumors or conspiracy claims, those claims should be treated as weaker than court records, public archives, official reports, declassified files, or direct admissions. The purpose of this expansion is to make the record self-contained, so someone reading offline can understand why the case belongs in the same database as corruption, surveillance, institutional failure, unexplained public events, and abuse-of-power files.\n",
@@ -65,7 +65,8 @@
       "en",
       "el"
     ],
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "bilingual_cleanup_pass": "README/dedupe pass"
   },
   "incident_folder": "Greece/00-00-2013/Pavlos Fyssas murder and Golden Dawn accountability"
 }
