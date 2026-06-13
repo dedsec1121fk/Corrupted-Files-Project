@@ -1,8 +1,0 @@
-- Bond scandal and pension fund trust crisis is included as a public-trust case because the event became larger than its immediate facts.
-- The year 2007 marks the point where the case entered public memory, institutional debate, or legal/political review.
-- The main conflict is between the official explanation, the lived experience of affected people, and the evidence that became public later.
-- It matters because cases like this show how institutions react under pressure: with transparency, delay, denial, reform, punishment, or silence.
-- The public impact includes loss of confidence, polarization, media battles, and long-term use of the case as a symbol.
-- A complete investigation would compare official records, witness accounts, technical documents, court material, and independent reporting.
-
-Evidence reading: strong evidence comes from official records, court proceedings, parliamentary material, regulator documents, named investigations, and contemporaneous reporting. Interpretive claims should be treated as weaker unless they are tied to a concrete document.

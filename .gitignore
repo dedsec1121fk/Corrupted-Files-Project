@@ -1,8 +1,2 @@
-Corrupted Files Exports/
-.corrupted_files_state.json
+.user_state.json
 __pycache__/
-*.pyc
-*.pyo
-.pytest_cache/
-.DS_Store
-Thumbs.db

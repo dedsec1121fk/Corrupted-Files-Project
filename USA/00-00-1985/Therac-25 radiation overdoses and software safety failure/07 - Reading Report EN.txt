@@ -1,1 +1,0 @@
-Reading report: Start with Therac-25 radiation overdoses and software safety failure (USA, 1985). Verify anchors first, then disputed points, then theory lane.

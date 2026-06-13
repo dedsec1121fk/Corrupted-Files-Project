@@ -1,8 +1,0 @@
-- On 28 February 2023 a passenger train and a freight train collided near Tempi, killing 57 people and exposing long-running rail safety failures.
-- The trial opened in Larissa on 23 March 2026 and was adjourned because of courtroom and technical problems; 36 people face charges, while more than 350 witnesses are expected.
-- The central conflict is whether the crash was treated as a narrow human-error case or as the predictable result of delayed safety systems, fragmented responsibility, and institutional neglect.
-- The case matters because transport safety is a promise made by the state, operators, regulators, contractors, and political leadership together.
-- Public trust was damaged by allegations of delayed safety-system implementation, evidence handling disputes, protests, and family demands that political responsibility not disappear behind technical blame.
-- Open questions include who knew which safety gaps existed, why EU-funded systems were delayed, and whether the trial can give a complete picture rather than a narrow procedural answer.
-
-Evidence reading: strong evidence comes from official records, court proceedings, parliamentary material, regulator documents, named investigations, and contemporaneous reporting. Interpretive claims should be treated as weaker unless they are tied to a concrete document.

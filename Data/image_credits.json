@@ -1,0 +1,47 @@
+[
+  {
+    "file": "Media/USA/1921/usa_1921_tulsa_race_massacre_destroyed_black_wealth/03---Event-Image---National-Guard-and-Wounded.jpg",
+    "event": "Tulsa Race Massacre",
+    "description": "National Guard and wounded people during the 1921 Tulsa Race Massacre.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tulsaraceriot1921-wounded-pickedup-fullpicture.jpg",
+    "author": "Tulsa World",
+    "license": "Public domain in the United States (PD-US)",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_States",
+    "sha256": "b19356ec3b9e51246609fbe746e8cf366d60ad7bf846d585f242ac7eb56efd1e",
+    "used_by": [
+      "usa_1921_tulsa_race_massacre_coverup_and_records",
+      "usa_1921_tulsa_race_massacre_destroyed_black_wealth",
+      "usa_1921_tulsa_race_massacre_destruction_insurance_denial"
+    ]
+  },
+  {
+    "file": "Media/USA/2021/usa_2021_january_6_capitol_attack_accountability_record/03---Event-Image---Capitol-Steps-Crowd.jpg",
+    "event": "January 6 United States Capitol attack",
+    "description": "Crowd on the steps and balconies of the United States Capitol on January 6, 2021.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:DC_Capitol_Storming_IMG_7986.jpg",
+    "author": "TapTheForwardAssist",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sha256": "ba114287ecd529cca02eaaf5a8d56400952c50f2a056106a8127a0f48f1e2747",
+    "used_by": [
+      "usa_2021_january_6_capitol_attack_accountability_record",
+      "usa_2021_january_6_capitol_attack_security_failure_conspiracy_ecosystem",
+      "usa_2021_january_6_capitol_attack_security_failures"
+    ]
+  },
+  {
+    "file": "Media/USA/2021/usa_2021_january_6_capitol_attack_accountability_record/04---Event-Image---Capitol-Crowd-and-Flags.jpg",
+    "event": "January 6 United States Capitol attack",
+    "description": "Crowd and flags outside the United States Capitol on January 6, 2021.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2021_storming_of_the_United_States_Capitol_2021_storming_of_the_United_States_Capitol_DSC09254-2_(50820534063).jpg",
+    "author": "Tyler Merbler",
+    "license": "Creative Commons Attribution 2.0 Generic",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "sha256": "a81c02f111640400c0b7bec0ca27d4befce30bec39fe3887b35cc0a03a277382",
+    "used_by": [
+      "usa_2021_january_6_capitol_attack_accountability_record",
+      "usa_2021_january_6_capitol_attack_security_failure_conspiracy_ecosystem",
+      "usa_2021_january_6_capitol_attack_security_failures"
+    ]
+  }
+]

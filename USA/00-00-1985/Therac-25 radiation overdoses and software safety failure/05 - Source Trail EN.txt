@@ -1,5 +1,0 @@
-Therac-25 radiation overdoses and software safety failure
-
-- Therac-25 accident analysis literature
-- FDA medical-device safety record
-- Safety-critical software engineering case studies
