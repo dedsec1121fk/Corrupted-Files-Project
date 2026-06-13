@@ -46,7 +46,6 @@
       "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/05 - Source Trail EN.txt",
       "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/07 - Reading Report EN.txt",
       "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/Media/01 - EN Cover Card.svg",
-      "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/Media/02 - EL Cover Card.svg",
       "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/Media/03 - EN Cover Card.svg"
     ],
     "el": [
@@ -54,9 +53,7 @@
       "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/04 - Proof Dossier EL.txt",
       "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/06 - Source Trail EL.txt",
       "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/08 - Reading Report EL.txt",
-      "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/Media/01 - EN Cover Card.svg",
-      "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/Media/02 - EL Cover Card.svg",
-      "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/Media/03 - EN Cover Card.svg"
+      "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap/Media/02 - EL Cover Card.svg"
     ]
   },
   "match_method": "exact",
@@ -70,7 +67,27 @@
     ],
     "duplicate_semantic_variant_merged": 1,
     "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap"
+  "incident_folder": "Greece/00-00-2026/Tempi Trial Opening 350 Witnesses, No Politicians in Dock and Accountability Gap",
+  "date_folder": "00-00-2026",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

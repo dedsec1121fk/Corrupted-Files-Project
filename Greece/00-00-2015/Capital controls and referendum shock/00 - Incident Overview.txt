@@ -4,13 +4,14 @@ Date Folder: 00-00-2015
 Year: 2015
 
 Title EN: Capital controls and referendum shock
-Title EL: Capital controls and referendum shock
+Title EL: Capital controls και σοκ δημοψηφίσματος
 
 Category EN: austerity / sovereignty
-Category EL: austerity / sovereignty
+Category EL: οικονομική κρίση / πολιτική ρήξη
 
 Evidence EN: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
-Evidence EL: μικτό: τεκμηριωμένο γεγονός με αμφισβητούμενες πολιτικές ερμηνείες
+Evidence EL: τεκμηριωμένη οικονομική και πολιτική κρίση
 
-This incident folder groups all text files and media for easier manual browsing.
-The database remains usable by the launcher, but each incident can also be read directly from its folder.
+This folder groups the incident text, metadata, quality signals, and media for offline browsing.
+The evidence label describes the archive's own editorial classification; it is not a substitute
+for reading the source trail and independently checking primary records.

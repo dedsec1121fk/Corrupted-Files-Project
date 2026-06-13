@@ -1,0 +1,48 @@
+Corrupted Files Project - Quality and Integrity Report
+=======================================================
+Checked at (UTC): 2026-06-13T20:23:29+00:00
+Result: PASS
+
+Core metrics
+------------
+Database Records: 443
+Incident Folders: 443
+Database Shards: 18
+Json Files Checked: 911
+Invalid Json Files: 0
+Media References: 981
+Missing Media References: 0
+Missing Source Archive Paths: 0
+Missing Required Files: 0
+Empty Required Files: 0
+Escaped Unicode Folders: 0
+Path Mismatches: 0
+Metadata Mismatches: 0
+Full Record Mismatches: 0
+Index Mismatches: 0
+
+Translation status (heuristic)
+------------------------------
+good: 318
+needs-review: 125
+
+Source trail status
+-------------------
+descriptive-no-links: 4
+generic-guidance: 428
+specific-links: 11
+
+Errors (0)
+-----------
+None
+
+Warnings (2)
+-------------
+- 125 records contain same-as-English or heavily mixed Greek fields.
+- 428 records use generic source guidance instead of case-specific links.
+
+Interpretation
+--------------
+A PASS means the files, JSON records, indexes, and media references are structurally consistent.
+It does not independently verify every historical claim. Translation and source-trail warnings
+identify editorial work that still benefits from human review and case-specific citations.

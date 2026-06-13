@@ -51,9 +51,7 @@
       "USA/00-00-1953/Operation AJAX and the 1953 Iran coup/02 - Article EL.txt",
       "USA/00-00-1953/Operation AJAX and the 1953 Iran coup/04 - Proof Dossier EL.txt",
       "USA/00-00-1953/Operation AJAX and the 1953 Iran coup/06 - Source Trail EL.txt",
-      "USA/00-00-1953/Operation AJAX and the 1953 Iran coup/08 - Reading Report EL.txt",
-      "USA/00-00-1953/Operation AJAX and the 1953 Iran coup/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1953/Operation AJAX and the 1953 Iran coup/Media/02 - EN Proof Map.svg"
+      "USA/00-00-1953/Operation AJAX and the 1953 Iran coup/08 - Reading Report EL.txt"
     ]
   },
   "match_method": "exact",
@@ -65,7 +63,27 @@
       "en",
       "el"
     ],
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1953/Operation AJAX and the 1953 Iran coup"
+  "incident_folder": "USA/00-00-1953/Operation AJAX and the 1953 Iran coup",
+  "date_folder": "00-00-1953",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

@@ -1,8 +1,8 @@
 Greece / 00-00-2011
 ===================
 
-- GREECE Bailout Privatisation Fund, Public Asset Sales, and Post-Crisis State Restructuri
-- Keratea waste plant conflict, policing, local resistance and public trust (2010-2011)
-- Lagarde list and tax-evasion credibility crisis
-- Syntagma Protests and Austerity Policing Democracy Under Economic Emergency
-- Syntagma square policing and austerity rage
+GREECE Bailout Privatisation Fund, Public Asset Sales, and Post-Crisis State Restructuri :: greece_2011_bailout_privatization_fund_asset_sales
+Keratea waste plant conflict, policing, local resistance and public trust (2010-2011) :: greece_2011_keratea_waste_plant_policing_local_resistance
+Lagarde list and tax-evasion credibility crisis :: greece_2011_lagarde_list_tax_evasion_credibility_crisis
+Syntagma Protests and Austerity Policing Democracy Under Economic Emergency :: greece_2011_syntagma_protests_austerity_policing_democracy_under_economic_emergenc
+Syntagma square policing and austerity rage :: greece_2011_syntagma_square_policing_austerity_rage

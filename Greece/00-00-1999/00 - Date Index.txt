@@ -1,8 +1,8 @@
 Greece / 00-00-1999
 ===================
 
-- Athens stock exchange bubble and small investor ruin
-- Athens stock exchange bubble, public hype, small investors and accountability (1999-2002
-- Athens stock market bubble and public loss
-- Greece — Öcalan affair, secret diplomacy, state denial, and foreign pressure (1999)
-- Stock market bubble and household losses
+Athens stock exchange bubble and small investor ruin :: greece_1999_athens_stock_exchange_bubble_small_investor_ruin
+Athens stock exchange bubble, public hype, small investors and accountability (1999-2002 :: greece_1999_stock_exchange_bubble_hype_small_investors_accountability
+Athens stock market bubble and public loss :: greece_1999_athens_stock_market_bubble_loss
+Greece — Öcalan affair, secret diplomacy, state denial, and foreign pressure (1999) :: greece_1999_ocalan_affair_secret_diplomacy_state_denial_foreign_pressure
+Stock market bubble and household losses :: greece_1999_stock_market_bubble_and_household_losses

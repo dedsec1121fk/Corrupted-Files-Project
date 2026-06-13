@@ -1,7 +1,7 @@
 USA / 00-00-2019
 ================
 
-- Boeing 737 MAX crashes and certification failures
-- Boeing 737 MAX, regulatory capture, software and trust (2018-2024)
-- College admissions bribery scandal
-- Epstein Jail Death Custody Failure, Camera Questions and Elite Suspicion
+Boeing 737 MAX crashes and certification failures :: usa_2019_boeing_737_max_crashes_certification_failures
+Boeing 737 MAX, regulatory capture, software and trust (2018-2024) :: usa_2019_boeing_737_max_regulatory_capture_software
+College admissions bribery scandal :: usa_2019_college_admissions_bribery_scandal
+Epstein Jail Death Custody Failure, Camera Questions and Elite Suspicion :: usa_2019_epstein_jail_death_custody_failure_camera_questions_elite_suspicion

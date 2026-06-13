@@ -1,10 +1,10 @@
 USA / 00-00-2021
 ================
 
-- Facebook Files and algorithmic harm debate
-- January 6 Capitol attack accountability record
-- January 6 Capitol attack and security failures
-- January 6 Capitol attack, security failure, and conspiracy ecosystem
-- January 6, security failure, political violence and democratic institutions (2021-2026)
-- NSO Pegasus and global spyware pressure
-- PFAS Forever Chemicals Regulatory Delay, Military Bases and Public Water Trust
+Facebook Files and algorithmic harm debate :: usa_2021_facebook_files_algorithmic_harm_debate
+January 6 Capitol attack accountability record :: usa_2021_january_6_capitol_attack_accountability_record
+January 6 Capitol attack and security failures :: usa_2021_january_6_capitol_attack_security_failures
+January 6 Capitol attack, security failure, and conspiracy ecosystem :: usa_2021_january_6_capitol_attack_security_failure_conspiracy_ecosystem
+January 6, security failure, political violence and democratic institutions (2021-2026) :: usa_2021_january_6_security_failure_political_violence_democratic_institutions
+NSO Pegasus and global spyware pressure :: usa_2021_nso_pegasus_global_spyware_pressure
+PFAS Forever Chemicals Regulatory Delay, Military Bases and Public Water Trust :: usa_2021_pfas_forever_chemicals_regulatory_delay_military_bases_water

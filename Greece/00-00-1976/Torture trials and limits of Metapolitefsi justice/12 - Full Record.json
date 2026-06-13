@@ -35,7 +35,8 @@
     "el": "Αναφορά ανάγνωσης: σύγκρινε αυτή την υπόθεση του 1976 με άλλες εγγραφές της ίδιας δεκαετίας και χώρας για να φανεί αν υπάρχει μοτίβο λογοδοσίας, καθυστέρησης, θεσμικής αδυναμίας ή δημόσιου φόβου."
   },
   "images": [
-    "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/Media/01 - EN Torture Trials And Limits Of Metapolitefsi Justice F472D74E4022.svg"
+    "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/Media/01 - EN Torture Trials And Limits Of Metapolitefsi Justice F472D74E4022.svg",
+    "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/Media/02 - Bilingual Snapshot.svg"
   ],
   "source_archive_paths": {
     "en": [
@@ -49,8 +50,7 @@
       "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/02 - Article EL.txt",
       "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/04 - Proof Dossier EL.txt",
       "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/06 - Source Trail EL.txt",
-      "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/08 - Reading Report EL.txt",
-      "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/Media/01 - EN Torture Trials And Limits Of Metapolitefsi Justice F472D74E4022.svg"
+      "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice/08 - Reading Report EL.txt"
     ]
   },
   "match_method": "exact",
@@ -63,7 +63,27 @@
       "el"
     ],
     "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:00+00:00"
   },
-  "incident_folder": "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice"
+  "incident_folder": "Greece/00-00-1976/Torture trials and limits of Metapolitefsi justice",
+  "date_folder": "00-00-1976",
+  "quality": {
+    "translation": {
+      "overall": "needs-review",
+      "fields": {
+        "title": "same-as-english",
+        "category": "same-as-english",
+        "evidence_level": "same-as-english",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

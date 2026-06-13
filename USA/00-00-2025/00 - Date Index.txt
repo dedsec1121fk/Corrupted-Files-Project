@@ -1,7 +1,7 @@
 USA / 00-00-2025
 ================
 
-- AI deepfakes and election trust crisis
-- Federal anti-corruption cases and public trust in local government
-- USAID Bribery Scheme Contractor Access, Public Money and Development Corruption
-- Walgreens opioid prescriptions, false claims and pharmacy gatekeeping (2025)
+AI deepfakes and election trust crisis :: usa_2025_ai_deepfakes_election_crisis
+Federal anti-corruption cases and public trust in local government :: usa_2025_federal_anti_corruption_cases_in_local_government
+USAID Bribery Scheme Contractor Access, Public Money and Development Corruption :: usa_2025_usaid_bribery_scheme_contractor_access_money_development_corruption
+Walgreens opioid prescriptions, false claims and pharmacy gatekeeping (2025) :: usa_2025_walgreens_opioid_prescriptions_false_claims_pharmacy_gatekeeping

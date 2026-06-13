@@ -1,8 +1,8 @@
 USA / 00-00-2005
 ================
 
-- Hurricane Katrina Response Disaster Governance, Race, Class and State Abandonment
-- Hurricane Katrina levee failure and abandonment
-- NSA warrantless wiretapping and post-9 11 executive power (2005-2008)
-- NSA warrantless wiretapping disclosure
-- USA — DIGITAL ID, REAL ID, AND MOBILE LICENSES CONVENIENCE OR CONTROL LAYER (2005–2026)
+Hurricane Katrina levee failure and abandonment :: usa_2005_hurricane_katrina_levee_failure_abandonment
+Hurricane Katrina Response Disaster Governance, Race, Class and State Abandonment :: usa_2005_hurricane_katrina_response_disaster_governance_race_class_state_abando
+NSA warrantless wiretapping and post-9 11 executive power (2005-2008) :: usa_2005_nsa_warrantless_wiretapping_post_911_executive_power
+NSA warrantless wiretapping disclosure :: usa_2005_nsa_warrantless_wiretapping_disclosure
+USA — DIGITAL ID, REAL ID, AND MOBILE LICENSES CONVENIENCE OR CONTROL LAYER (2005–2026) :: usa_2005_digital_id_real_id_mobile_licenses

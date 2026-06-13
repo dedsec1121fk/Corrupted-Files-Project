@@ -1,7 +1,7 @@
 USA / 00-00-2008
 ================
 
-- 2008 financial crisis, bailouts, and moral hazard
-- AIG bailout and too big to fail culture
-- Bernie Madoff Ponzi Finance, SEC Warnings and Elite Trust Collapse
-- Financial crisis, rating agencies, bailouts and regulatory capture (2008)
+2008 financial crisis, bailouts, and moral hazard :: usa_2008_financial_crisis_bailouts_and_moral_hazard
+AIG bailout and too big to fail culture :: usa_2008_aig_bailout_too_big_fail_culture
+Bernie Madoff Ponzi Finance, SEC Warnings and Elite Trust Collapse :: usa_2008_bernie_madoff_ponzi_finance_sec_warnings_elite_collapse
+Financial crisis, rating agencies, bailouts and regulatory capture (2008) :: usa_2008_financial_crisis_rating_agencies_bailouts_regulatory_capture

@@ -4,13 +4,14 @@ Date Folder: 00-00-2013
 Year: 2013
 
 Title EN: Pavlos Fyssas murder and Golden Dawn accountability
-Title EL: Pavlos Fyssas murder and Golden Dawn accountability
+Title EL: Δολοφονία Παύλου Φύσσα και λογοδοσία της Χρυσής Αυγής
 
 Category EN: far-right violence / justice
-Category EL: far-right violence / justice
+Category EL: πολιτική βία / εξτρεμισμός / λογοδοσία
 
 Evidence EN: mixed public record; read source trail
-Evidence EL: μικτό δημόσιο αρχείο· διάβασε τις πηγές
+Evidence EL: τεκμηριωμένη δολοφονία και δικαστική λογοδοσία
 
-This incident folder groups all text files and media for easier manual browsing.
-The database remains usable by the launcher, but each incident can also be read directly from its folder.
+This folder groups the incident text, metadata, quality signals, and media for offline browsing.
+The evidence label describes the archive's own editorial classification; it is not a substitute
+for reading the source trail and independently checking primary records.

@@ -47,7 +47,6 @@
       "USA/00-00-1962/USA Operation Northwoods (1962)/05 - Source Trail EN.txt",
       "USA/00-00-1962/USA Operation Northwoods (1962)/07 - Reading Report EN.txt",
       "USA/00-00-1962/USA Operation Northwoods (1962)/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1962/USA Operation Northwoods (1962)/Media/02 - EL Cover Card.svg",
       "USA/00-00-1962/USA Operation Northwoods (1962)/Media/03 - EN Cover Card.svg",
       "USA/00-00-1962/USA Operation Northwoods (1962)/Media/04 - EN Proof Map.svg"
     ],
@@ -56,10 +55,7 @@
       "USA/00-00-1962/USA Operation Northwoods (1962)/04 - Proof Dossier EL.txt",
       "USA/00-00-1962/USA Operation Northwoods (1962)/06 - Source Trail EL.txt",
       "USA/00-00-1962/USA Operation Northwoods (1962)/08 - Reading Report EL.txt",
-      "USA/00-00-1962/USA Operation Northwoods (1962)/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1962/USA Operation Northwoods (1962)/Media/02 - EL Cover Card.svg",
-      "USA/00-00-1962/USA Operation Northwoods (1962)/Media/03 - EN Cover Card.svg",
-      "USA/00-00-1962/USA Operation Northwoods (1962)/Media/04 - EN Proof Map.svg"
+      "USA/00-00-1962/USA Operation Northwoods (1962)/Media/02 - EL Cover Card.svg"
     ]
   },
   "match_method": "fuzzy:0.62",
@@ -72,7 +68,27 @@
       "el"
     ],
     "duplicate_semantic_variant_merged": 1,
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1962/USA Operation Northwoods (1962)"
+  "incident_folder": "USA/00-00-1962/USA Operation Northwoods (1962)",
+  "date_folder": "00-00-1962",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "specific-links",
+      "url_count": 1
+    },
+    "media_paths": "verified"
+  }
 }

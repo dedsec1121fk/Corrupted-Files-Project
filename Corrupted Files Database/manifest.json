@@ -1,8 +1,9 @@
 {
   "project": "Corrupted Files Project",
+  "format_version": 2,
   "database_files": 18,
   "records": 443,
-  "media_references": 878,
+  "media_references": 981,
   "languages": [
     "en",
     "el"
@@ -11,5 +12,15 @@
     "Greece",
     "USA"
   ],
-  "notes": "Rebuilt into Greece/USA -> DD-MM-YYYY -> incident folders. Duplicate incident variants removed, bilingual README refreshed, and selected EL files normalized."
+  "translation_status": {
+    "good": 318,
+    "needs-review": 125
+  },
+  "source_trail_status": {
+    "descriptive-no-links": 4,
+    "generic-guidance": 428,
+    "specific-links": 11
+  },
+  "last_rebuilt_utc": "2026-06-13T20:23:26+00:00",
+  "notes": "Country/date/incident archive with synchronized database paths, machine-readable indexes, and integrity metadata. Translation and source coverage are reported as quality signals rather than assumed complete."
 }

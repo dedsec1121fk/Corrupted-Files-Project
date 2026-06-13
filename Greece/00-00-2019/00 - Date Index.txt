@@ -1,7 +1,7 @@
 Greece / 00-00-2019
 ===================
 
-- Exarchia Operations and Urban Policing Drugs, Squats, Fear and Rights
-- Greek Mafia killings and state-crime fear
-- Noor One aftermath, witness pressure, and media-political memory
-- Novartis Greece political scandal and protected witnesses
+Exarchia Operations and Urban Policing Drugs, Squats, Fear and Rights :: greece_2019_exarchia_operations_urban_policing_drugs_squats_fear_rights
+Greek Mafia killings and state-crime fear :: greece_2019_greek_mafia_killings_state_crime_fear
+Noor One aftermath, witness pressure, and media-political memory :: greece_2019_piraeus_noor_one_political_pressure_media_memory
+Novartis Greece political scandal and protected witnesses :: greece_2019_novartis_greece_political_scandal_protected_witnesses

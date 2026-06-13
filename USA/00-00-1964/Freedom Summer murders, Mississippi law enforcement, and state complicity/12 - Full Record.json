@@ -40,7 +40,10 @@
   ],
   "audit": {
     "v30": "Bilingual expansion shard with Greek and English text for every reader-facing field.",
-    "v31_existing_detail": "Added bilingual impact/accountability detail to existing v30 record."
+    "v31_existing_detail": "Added bilingual impact/accountability detail to existing v30 record.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
   "incident_folder": "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity",
   "source_archive_paths": {
@@ -48,17 +51,30 @@
       "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/01 - Article EN.txt",
       "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/03 - Proof Dossier EN.txt",
       "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/05 - Source Trail EN.txt",
-      "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/07 - Reading Report EN.txt",
-      "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/Media/01 - Cover Card.svg",
-      "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/Media/02 - Proof Map.svg"
+      "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/07 - Reading Report EN.txt"
     ],
     "el": [
       "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/02 - Article EL.txt",
       "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/04 - Proof Dossier EL.txt",
       "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/06 - Source Trail EL.txt",
-      "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/08 - Reading Report EL.txt",
-      "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/Media/01 - Cover Card.svg",
-      "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/Media/02 - Proof Map.svg"
+      "USA/00-00-1964/Freedom Summer murders, Mississippi law enforcement, and state complicity/08 - Reading Report EL.txt"
     ]
+  },
+  "date_folder": "00-00-1964",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
   }
 }

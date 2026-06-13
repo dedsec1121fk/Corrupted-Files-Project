@@ -1,295 +1,315 @@
 <div align="center">
   <h1>Corrupted Files Project</h1>
-  <p><strong>Bilingual offline incident archive for Greece and the USA</strong></p>
+  <p><strong>Offline incident archive and bilingual research reader for Greece and the USA</strong></p>
   <p>
-    <img src="https://img.shields.io/badge/Purpose-Offline%20Research-blue.svg" alt="Purpose: Offline Research">
-    <img src="https://img.shields.io/badge/Interface-EN%20%7C%20GR-lightgrey.svg" alt="Interface: EN | GR">
-    <img src="https://img.shields.io/badge/Formats-TXT%20%7C%20JSON%20%7C%20CSV-brightgreen.svg" alt="Formats: TXT | JSON | CSV">
-    <img src="https://img.shields.io/badge/Use-Termux%20%7C%20Manual-yellow.svg" alt="Use: Termux | Manual">
+    <img src="https://img.shields.io/badge/Archive-443%20incidents-blue.svg" alt="443 incidents">
+    <img src="https://img.shields.io/badge/Media-981%20references-brightgreen.svg" alt="981 media references">
+    <img src="https://img.shields.io/badge/Dashboards-3%20SVGs-blueviolet.svg" alt="3 SVG dashboards">
+    <img src="https://img.shields.io/badge/Interface-English%20%7C%20Greek-lightgrey.svg" alt="English and Greek interface">
+    <img src="https://img.shields.io/badge/Dependencies-Standard%20Library-yellow.svg" alt="Python standard library only">
   </p>
 </div>
 
 ---
 
-<details>
-<summary><strong>🇬🇧 English</strong></summary>
+## English
 
-The **Corrupted Files Project** is a structured offline archive of public-interest incidents, institutional-failure cases, public-trust ruptures, disasters, corruption-related files, and historical dossiers focused on **Greece** and the **USA**. Each incident folder is organized so a reader can browse an event manually, search it offline, or use the included Python tool and database shards.
+### What this project is
 
-This README is intentionally **bilingual**, using separate **English** and **Greek** sections in the same style as your uploaded example.
+The **Corrupted Files Project** is a portable archive of public-interest incidents, disasters, institutional failures, corruption-related cases, surveillance controversies, historical dossiers, and public-trust disputes connected mainly to **Greece** and the **United States**.
 
-</details>
+The project can be used in two ways:
 
-<details>
-<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+- browse the country, date, and incident folders manually;
+- run `Corrupted Files.py` for ranked search, filtering, comparison, bookmarks, exports, statistics, and integrity checks.
 
-Το **Corrupted Files Project** είναι ένα δομημένο offline αρχείο υποθέσεων δημόσιου ενδιαφέροντος, θεσμικών αποτυχιών, ρήξεων δημόσιας εμπιστοσύνης, καταστροφών, φακέλων που σχετίζονται με διαφθορά και ιστορικών dossiers με έμφαση στην **Ελλάδα** και τις **ΗΠΑ**. Κάθε φάκελος υπόθεσης είναι οργανωμένος ώστε ο αναγνώστης να μπορεί να περιηγηθεί χειροκίνητα στο γεγονός, να το αναζητήσει offline ή να χρησιμοποιήσει το παρεχόμενο Python εργαλείο και τα database shards.
+The reader uses only Python's standard library. It does not need an account, web server, API key, or permanent internet connection.
 
-Αυτό το README είναι σκόπιμα **δίγλωσσο**, με ξεχωριστές ενότητες **English** και **Greek**, στο ίδιο ύφος με το παράδειγμα που ανέβασες.
+### Important research warning
 
-</details>
+A passing integrity check means that the archive's files, JSON records, indexes, and media paths agree. It **does not** mean that every historical, political, legal, or scientific claim has been independently verified.
 
-## 📋 Table of Contents
+The current quality report deliberately identifies remaining editorial work:
 
-* [What This Project Is About](#-what-this-project-is-about)
-* [How To Download](#-how-to-download)
-* [How To Use](#-how-to-use)
-* [Project Structure](#-project-structure)
-* [Validation And Rebuild](#-validation-and-rebuild)
-* [Notes](#-notes)
+- some Greek records are complete enough for practical reading, while others remain mixed or need human translation review;
+- many source trails still contain general research guidance rather than case-specific direct citations.
+- some generated bilingual cards now explicitly flag Greek fields that still need review instead of pretending unfinished text is complete.
 
----
+Read `RESEARCH_STANDARDS.md` before treating a dossier as a source. Facts, allegations, reported claims, contested interpretations, and unknowns should remain clearly separated.
 
-## 📚 What This Project Is About
+### Main reader features
 
-<details>
-<summary><strong>🇬🇧 English</strong></summary>
+- accent-insensitive English and Greek ranked search;
+- exact and partial ID search;
+- operators such as `country:`, `year:`, `category:`, `evidence:`, `source:`, and `id:`;
+- advanced country, year-range, category, evidence, source-quality, and translation filters;
+- timeline, category, evidence, and date-folder browsing;
+- pagination for large result lists;
+- random incident selection;
+- local bookmarks and reading history;
+- two-record comparison;
+- media opening on Termux, Linux, macOS, and Windows when supported;
+- TXT, Markdown, JSON, and CSV exports;
+- non-interactive command-line search and statistics;
+- built-in structural and editorial-quality reporting.
+- original SVG snapshot cards automatically generated for incident folders that previously had only one media visual;
+- project and country SVG dashboards for quick archive inspection;
+- media manifest files for easier maintenance and browsing;
+- 9 downloaded event-related images with explicit source, author, license, checksum, and attribution records;
 
-This repository stores incidents as **country -> year folder -> incident folder**. Inside each incident you get paired **EN / EL** text files, metadata, a full JSON record, media references, and index files for faster browsing.
 
-The goal is not to force one conclusion. The goal is to give the reader a cleaner offline structure for comparing public records, reported events, institutional responses, and long-term patterns.
+### Event-image attribution
 
-</details>
+Downloaded event images are tracked in:
 
-<details>
-<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+- `00 - Event Image Attribution.json`
+- `00 - Event Image Attribution.csv`
+- `00 - Event Image Attribution.txt`
 
-Αυτό το repository αποθηκεύει τις υποθέσεις ως **χώρα -> φάκελος έτους -> φάκελος υπόθεσης**. Μέσα σε κάθε υπόθεση υπάρχουν ζευγαρωμένα αρχεία **EN / EL**, metadata, πλήρες JSON record, media references και index files για γρηγορότερη περιήγηση.
+The current distributed set contains **9 verified event-image files** across Tulsa Race Massacre and January 6 incident variants. Each record includes the source page, source-file URL, author, license or public-domain statement, checksum, and file size. The validation command is:
 
-Ο στόχος δεν είναι να επιβάλει ένα μόνο συμπέρασμα. Ο στόχος είναι να δώσει στον αναγνώστη μια πιο καθαρή offline δομή για να συγκρίνει δημόσια αρχεία, καταγεγραμμένα γεγονότα, θεσμικές αντιδράσεις και μακροχρόνια μοτίβα.
+```bash
+python "Corrupted Files Tools/validate_event_image_attribution.py"
+```
 
-</details>
+Earlier web-imported files without preserved provenance were removed from this build rather than being silently redistributed.
 
----
+### Download
 
-## ⬇️ How To Download
+#### GitHub ZIP
 
-<details>
-<summary><strong>🇬🇧 English</strong></summary>
+Open the repository, press **Code**, choose **Download ZIP**, and extract it.
 
-### Option 1: Download from GitHub
-
-- Open the repository page.
-- Tap **Code**.
-- Choose **Download ZIP**.
-- Extract it anywhere you want.
-
-### Option 2: Clone with Termux
+#### Termux clone
 
 ```bash
 git clone https://github.com/dedsec1121fk/Corrupted-Files-Project.git
-```
-
-Then enter the folder:
-
-```bash
 cd Corrupted-Files-Project
 ```
 
-</details>
+### Requirements
 
-<details>
-<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+- Python 3.10 or newer;
+- no third-party Python packages;
+- `termux-open` is optional and used only for opening media from Termux.
 
-### Επιλογή 1: Κατέβασμα από GitHub
-
-- Άνοιξε τη σελίδα του repository.
-- Πάτησε **Code**.
-- Διάλεξε **Download ZIP**.
-- Κάνε extract όπου θέλεις.
-
-### Επιλογή 2: Clone με Termux
+In Termux:
 
 ```bash
-git clone https://github.com/dedsec1121fk/Corrupted-Files-Project.git
+pkg update
+pkg install python git
 ```
 
-Μετά μπες στον φάκελο:
-
-```bash
-cd Corrupted-Files-Project
-```
-
-</details>
-
----
-
-## ▶️ How To Use
-
-<details>
-<summary><strong>🇬🇧 English</strong></summary>
-
-You can use the project in two ways.
-
-### 1. Manual browsing
-
-Open the **Greece** or **USA** folder, choose a year folder, then open any incident folder. Every incident includes paired English and Greek files plus JSON records and media references.
-
-### 2. Run the main script in Termux
+### Start the reader
 
 ```bash
 python "Corrupted Files.py"
 ```
 
-This is useful if you want a more guided way to browse the archive from the terminal.
+### Search from the command line
 
-### Helpful files at the root
+```bash
+python "Corrupted Files.py" --lang en --search "watergate country:usa" --limit 10
+```
 
-- `00 - Master Incident Index.txt`
-- `00 - Master Incident Index.json`
-- `00 - Master Incident Index.csv`
-- `00 - Dates by Country.txt`
-- `00 - Statistics.txt`
+More examples:
 
-</details>
+```bash
+python "Corrupted Files.py" --search "year:2023 country:greece"
+python "Corrupted Files.py" --search "surveillance source:linked"
+python "Corrupted Files.py" --search "category:corruption evidence:documented"
+python "Corrupted Files.py" --search "id:tempi" --export-results tempi-results.json
+```
 
-<details>
-<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+### Statistics and validation
 
-Μπορείς να χρησιμοποιήσεις το project με δύο τρόπους.
+```bash
+python "Corrupted Files.py" --stats
+python "Corrupted Files.py" --validate
+```
 
-### 1. Χειροκίνητη περιήγηση
+Full maintenance checks:
 
-Άνοιξε τον φάκελο **Greece** ή **USA**, διάλεξε έναν φάκελο έτους και μετά άνοιξε οποιονδήποτε φάκελο υπόθεσης. Κάθε υπόθεση περιλαμβάνει ζευγαρωμένα αρχεία English και Greek, μαζί με JSON records και media references.
+```bash
+python "Corrupted Files Tools/repair_paths.py" --apply
+python "Corrupted Files Tools/rebuild_indexes.py"
+python "Corrupted Files Tools/validate_rebuilt_structure.py" --write-report
+python "Corrupted Files Tools/run_tests.py"
+```
 
-### 2. Τρέξιμο του main script στο Termux
+### Project structure
+
+```text
+Corrupted-Files-Project/
+├── Greece/
+├── USA/
+├── Corrupted Files Database/
+├── Corrupted Files Tools/
+├── Corrupted Files.py
+├── corrupted_files_core.py
+├── 00 - Master Incident Index.txt
+├── 00 - Master Incident Index.json
+├── 00 - Master Incident Index.csv
+├── 00 - Dates by Country.txt
+├── 00 - Statistics.txt
+├── 00 - Quality Report.txt
+├── 00 - Quality Report.json
+├── 00 - Editorial Work Queue.csv
+├── 00 - Editorial Work Queue.json
+├── 00 - Source Link Index.csv
+├── 00 - Source Link Index.json
+├── 00 - Category Summary.csv
+├── DATA_SCHEMA.md
+├── RESEARCH_STANDARDS.md
+├── CONTRIBUTING.md
+└── CHANGELOG.md
+```
+
+Each incident folder contains English and Greek reading files, metadata, a full JSON record, search keywords, a media index, and a `Media/` folder. See `DATA_SCHEMA.md` for the exact contract.
+
+### Maintenance tools
+
+| Tool | Purpose |
+|---|---|
+| `repair_paths.py` | Decodes escaped Unicode names and synchronizes every stored path. |
+| `rebuild_indexes.py` | Rebuilds root, country, date, manifest, statistics, and quality indexes. |
+| `validate_rebuilt_structure.py` | Checks JSON, IDs, required files, metadata, media, paths, manifest, and indexes. |
+| `quality_report.py` | Refreshes the human-readable and JSON quality reports. |
+| `run_tests.py` | Runs core, search, filter, CLI, and integrity smoke tests. |
+| `push_fixed_rebuild.sh` | Runs repair/rebuild/validation before committing and pushing. |
+
+Generated research indexes include a 443-row editorial work queue, a direct-source-link index, and a category summary so incomplete translation and sourcing work can be prioritized instead of hidden.
+
+### Local data created by the reader
+
+The reader may create:
+
+- `Corrupted Files Exports/` for exports;
+- `.corrupted_files_state.json` for bookmarks and reading history.
+
+Both are ignored by Git.
+
+---
+
+## Ελληνικά
+
+### Τι είναι αυτό το project
+
+Το **Corrupted Files Project** είναι ένα φορητό offline αρχείο υποθέσεων δημόσιου ενδιαφέροντος, καταστροφών, θεσμικών αποτυχιών, υποθέσεων διαφθοράς, ζητημάτων παρακολούθησης, ιστορικών φακέλων και ρήξεων δημόσιας εμπιστοσύνης που συνδέονται κυρίως με την **Ελλάδα** και τις **Ηνωμένες Πολιτείες**.
+
+Το project χρησιμοποιείται με δύο τρόπους:
+
+- χειροκίνητη περιήγηση στους φακέλους χώρας, ημερομηνίας και υπόθεσης·
+- εκτέλεση του `Corrupted Files.py` για ταξινομημένη αναζήτηση, φίλτρα, σύγκριση, σελιδοδείκτες, εξαγωγές, στατιστικά και ελέγχους ακεραιότητας.
+
+Ο αναγνώστης χρησιμοποιεί μόνο τη standard library της Python. Δεν χρειάζεται λογαριασμό, web server, API key ή μόνιμη σύνδεση στο διαδίκτυο.
+
+### Σημαντική ερευνητική προειδοποίηση
+
+Ένας επιτυχής έλεγχος ακεραιότητας σημαίνει ότι συμφωνούν τα αρχεία, τα JSON records, τα indexes και οι διαδρομές των media. **Δεν** σημαίνει ότι κάθε ιστορικός, πολιτικός, νομικός ή επιστημονικός ισχυρισμός έχει επαληθευτεί ανεξάρτητα.
+
+Η τωρινή quality report εμφανίζει σκόπιμα την εργασία που απομένει:
+
+- ορισμένα ελληνικά records είναι αρκετά ολοκληρωμένα για πρακτική ανάγνωση, ενώ άλλα παραμένουν μικτά ή χρειάζονται ανθρώπινο έλεγχο μετάφρασης·
+- πολλά source trails περιέχουν ακόμη γενικές οδηγίες έρευνας αντί για άμεσες, συγκεκριμένες πηγές ανά υπόθεση.
+
+Διάβασε το `RESEARCH_STANDARDS.md` πριν χρησιμοποιήσεις έναν φάκελο ως πηγή. Τα τεκμηριωμένα γεγονότα, οι καταγγελίες, οι αναφερόμενοι ισχυρισμοί, οι αμφισβητούμενες ερμηνείες και τα άγνωστα στοιχεία πρέπει να παραμένουν ξεχωριστά.
+
+### Βασικές δυνατότητες του reader
+
+- ταξινομημένη αναζήτηση σε αγγλικά και ελληνικά χωρίς πρόβλημα από τόνους ή κεφαλαία·
+- αναζήτηση με ολόκληρο ή τμήμα του ID·
+- operators `country:`, `year:`, `category:`, `evidence:`, `source:` και `id:`·
+- σύνθετα φίλτρα χώρας, εύρους ετών, κατηγορίας, τεκμηρίωσης, ποιότητας πηγών και μετάφρασης·
+- περιήγηση ανά χρονολόγιο, κατηγορία, επίπεδο τεκμηρίωσης και φάκελο ημερομηνίας·
+- pagination για μεγάλα αποτελέσματα·
+- τυχαία υπόθεση·
+- τοπικοί σελιδοδείκτες και ιστορικό ανάγνωσης·
+- σύγκριση δύο records·
+- άνοιγμα media σε Termux, Linux, macOS και Windows όπου υποστηρίζεται·
+- εξαγωγή TXT, Markdown, JSON και CSV·
+- non-interactive αναζήτηση και στατιστικά από command line·
+- ενσωματωμένη αναφορά δομικής ακεραιότητας και editorial ποιότητας.
+
+### Κατέβασμα
+
+#### ZIP από GitHub
+
+Άνοιξε το repository, πάτησε **Code**, διάλεξε **Download ZIP** και κάνε extract.
+
+#### Clone στο Termux
+
+```bash
+git clone https://github.com/dedsec1121fk/Corrupted-Files-Project.git
+cd Corrupted-Files-Project
+```
+
+### Απαιτήσεις
+
+- Python 3.10 ή νεότερη·
+- κανένα third-party Python package·
+- το `termux-open` είναι προαιρετικό και χρησιμοποιείται μόνο για άνοιγμα media στο Termux.
+
+Στο Termux:
+
+```bash
+pkg update
+pkg install python git
+```
+
+### Εκκίνηση
 
 ```bash
 python "Corrupted Files.py"
 ```
 
-Αυτό είναι χρήσιμο αν θέλεις έναν πιο καθοδηγούμενο τρόπο περιήγησης του archive από το terminal.
-
-### Χρήσιμα αρχεία στη ρίζα
-
-- `00 - Master Incident Index.txt`
-- `00 - Master Incident Index.json`
-- `00 - Master Incident Index.csv`
-- `00 - Dates by Country.txt`
-- `00 - Statistics.txt`
-
-</details>
-
----
-
-## 🗂️ Project Structure
-
-<details>
-<summary><strong>🇬🇧 English</strong></summary>
-
-### Root folders
-
-- `Greece/`
-- `USA/`
-- `Corrupted Files Database/`
-- `Corrupted Files Tools/`
-
-### Standard incident contents
-
-- `00 - Incident Overview.txt`
-- `00A - Summary EN.txt`
-- `00B - Summary EL.txt`
-- `01 - Article EN.txt`
-- `02 - Article EL.txt`
-- `03 - Proof Dossier EN.txt`
-- `04 - Proof Dossier EL.txt`
-- `05 - Source Trail EN.txt`
-- `06 - Source Trail EL.txt`
-- `07 - Reading Report EN.txt`
-- `08 - Reading Report EL.txt`
-- `09 - Search Keywords.txt`
-- `10 - Metadata.json`
-- `11 - Media Index.txt`
-- `12 - Full Record.json`
-- `13 - Incident File List.txt`
-- `Media/`
-
-</details>
-
-<details>
-<summary><strong>🇬🇷 Ελληνικά</strong></summary>
-
-### Φάκελοι ρίζας
-
-- `Greece/`
-- `USA/`
-- `Corrupted Files Database/`
-- `Corrupted Files Tools/`
-
-### Τυπικά περιεχόμενα κάθε υπόθεσης
-
-- `00 - Incident Overview.txt`
-- `00A - Summary EN.txt`
-- `00B - Summary EL.txt`
-- `01 - Article EN.txt`
-- `02 - Article EL.txt`
-- `03 - Proof Dossier EN.txt`
-- `04 - Proof Dossier EL.txt`
-- `05 - Source Trail EN.txt`
-- `06 - Source Trail EL.txt`
-- `07 - Reading Report EN.txt`
-- `08 - Reading Report EL.txt`
-- `09 - Search Keywords.txt`
-- `10 - Metadata.json`
-- `11 - Media Index.txt`
-- `12 - Full Record.json`
-- `13 - Incident File List.txt`
-- `Media/`
-
-</details>
-
----
-
-## 🧪 Validation And Rebuild
-
-<details>
-<summary><strong>🇬🇧 English</strong></summary>
-
-Validate the current structure with:
+### Αναζήτηση από command line
 
 ```bash
-python "Corrupted Files Tools/validate_rebuilt_structure.py"
+python "Corrupted Files.py" --lang el --search "Τέμπη country:greece" --limit 10
 ```
 
-Rebuild the indexes with:
+Παραδείγματα:
 
 ```bash
+python "Corrupted Files.py" --search "year:2023 country:greece"
+python "Corrupted Files.py" --search "παρακολούθηση source:linked"
+python "Corrupted Files.py" --search "category:corruption evidence:documented"
+python "Corrupted Files.py" --search "id:tempi" --export-results tempi-results.json
+```
+
+### Στατιστικά και έλεγχος
+
+```bash
+python "Corrupted Files.py" --stats
+python "Corrupted Files.py" --validate
+```
+
+Πλήρης διαδικασία συντήρησης:
+
+```bash
+python "Corrupted Files Tools/repair_paths.py" --apply
 python "Corrupted Files Tools/rebuild_indexes.py"
+python "Corrupted Files Tools/validate_rebuilt_structure.py" --write-report
+python "Corrupted Files Tools/run_tests.py"
 ```
 
-</details>
+### Τοπικά αρχεία που δημιουργεί ο reader
 
-<details>
-<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+Ο reader μπορεί να δημιουργήσει:
 
-Έλεγξε τη δομή με:
+- `Corrupted Files Exports/` για exports·
+- `.corrupted_files_state.json` για σελιδοδείκτες και ιστορικό ανάγνωσης.
 
-```bash
-python "Corrupted Files Tools/validate_rebuilt_structure.py"
-```
-
-Κάνε rebuild τα indexes με:
-
-```bash
-python "Corrupted Files Tools/rebuild_indexes.py"
-```
-
-</details>
+Και τα δύο αγνοούνται από το Git.
 
 ---
 
-## 📝 Notes
+## Documentation
 
-<details>
-<summary><strong>🇬🇧 English</strong></summary>
-
-This cleaned archive was repacked to reduce duplicate incident folders, keep the bilingual EN/EL layout, and preserve the root indexes and database structure used by the project.
-
-</details>
-
-<details>
-<summary><strong>🇬🇷 Ελληνικά</strong></summary>
-
-Αυτό το καθαρισμένο archive ξανασυσκευάστηκε ώστε να μειώσει duplicate incident folders, να κρατήσει το δίγλωσσο EN/EL layout και να διατηρήσει τα root indexes και τη database structure που χρησιμοποιεί το project.
-
-</details>
+- `DATA_SCHEMA.md` — folder and JSON contract.
+- `RESEARCH_STANDARDS.md` — evidence, sourcing, uncertainty, and translation rules.
+- `CONTRIBUTING.md` — safe contribution workflow.
+- `CHANGELOG.md` — repaired defects and new capabilities.
+- `00 - Quality Report.txt` — current human-readable integrity and editorial status.
+- `00 - Quality Report.json` — machine-readable quality report.

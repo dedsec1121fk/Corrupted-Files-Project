@@ -1,9 +1,9 @@
 USA / 00-00-1953
 ================
 
-- CIA Iran coup blowback file
-- CIA Project ARTICHOKE behavioral control files
-- Iran coup, CIA oil politics, democracy loss, and blowback
-- Operation AJAX and the 1953 Iran coup
-- USA Camp Lejeune Water Contamination and Cover-Up Allegations (1953-2024)
-- USA — MKULTRA SECRET SCIENCE, CONSENT, AND MIND-CONTROL RESEARCH (1953–1977)
+CIA Iran coup blowback file :: usa_1953_cia_iran_coup_blowback
+CIA Project ARTICHOKE behavioral control files :: usa_1953_cia_project_artichoke_behavioral_control_files
+Iran coup, CIA oil politics, democracy loss, and blowback :: usa_1953_iran_coup_cia_oil_democracy_blowback
+Operation AJAX and the 1953 Iran coup :: usa_1953_operation_ajax_iran_cia_mi6_coup
+USA — MKULTRA SECRET SCIENCE, CONSENT, AND MIND-CONTROL RESEARCH (1953–1977) :: usa_1953_mkultra_secret_science_consent_mind_control
+USA Camp Lejeune Water Contamination and Cover-Up Allegations (1953-2024) :: usa_1953_camp_lejeune_contamination_coverup

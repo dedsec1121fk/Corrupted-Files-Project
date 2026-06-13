@@ -1,9 +1,9 @@
 Greece / 00-00-2008
 ===================
 
-- Greece Vatopedi Monastery Land-Swap Scandal (2008-2017)
-- Greece — Grigoropoulos killing, police violence, youth rage, and state response (2008)
-- Grigoropoulos killing and December revolt
-- Grigoropoulos killing and youth uprising
-- Siemens bribery scandal, public contracts, and party finance shadows
-- Vatopedi land-swap scandal, church property, and state access
+Greece — Grigoropoulos killing, police violence, youth rage, and state response (2008) :: greece_2008_grigoropoulos_killing_police_violence_youth_rage_state_response
+Greece Vatopedi Monastery Land-Swap Scandal (2008-2017) :: greece_2008_vatopedi_land_swap
+Grigoropoulos killing and December revolt :: greece_2008_grigoropoulos_killing_december_revolt
+Grigoropoulos killing and youth uprising :: greece_2008_grigoropoulos_killing_and_youth_uprising
+Siemens bribery scandal, public contracts, and party finance shadows :: greece_2008_siemens_bribery_contracts_party_finance
+Vatopedi land-swap scandal, church property, and state access :: greece_2008_vatopedi_land_swap_scandal_church_state_power

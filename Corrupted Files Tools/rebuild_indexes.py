@@ -1,34 +1,49 @@
 #!/usr/bin/env python3
+"""Rebuild every root, country, date, manifest, and quality index."""
+from __future__ import annotations
+
+import sys
 from pathlib import Path
-import json, csv
 
 ROOT = Path(__file__).resolve().parents[1]
-records = []
-for country in ('Greece','USA'):
-    cdir = ROOT / country
-    if not cdir.exists():
-        continue
-    for ddir in sorted([p for p in cdir.iterdir() if p.is_dir()]):
-        for idir in sorted([p for p in ddir.iterdir() if p.is_dir()]):
-            meta = idir / '10 - Metadata.json'
-            if meta.exists():
-                data = json.loads(meta.read_text(encoding='utf-8'))
-                records.append({
-                    'country':country,
-                    'date_folder':ddir.name,
-                    'incident_folder':idir.name,
-                    'id':data.get('id',''),
-                    'title_en':data.get('title',{}).get('en',''),
-                    'title_el':data.get('title',{}).get('el',''),
-                    'year':data.get('year',''),
-                    'media_count':len(data.get('images') or []),
-                })
+sys.path.insert(0, str(ROOT))
 
-(ROOT / '00 - Master Incident Index.txt').write_text('\n'.join(f"{r['country']} :: {r['date_folder']} :: {r['incident_folder']} :: {r['id']}" for r in records)+'\n', encoding='utf-8')
-(ROOT / '00 - Master Incident Index.json').write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding='utf-8')
-with (ROOT / '00 - Master Incident Index.csv').open('w', newline='', encoding='utf-8') as f:
-    w=csv.writer(f)
-    w.writerow(['Country','DateFolder','Year','IncidentFolder','ID','TitleEN','TitleEL','MediaCount'])
-    for r in records:
-        w.writerow([r['country'],r['date_folder'],r['year'],r['incident_folder'],r['id'],r['title_en'],r['title_el'],r['media_count']])
-print(f'Rebuilt indexes for {len(records)} incidents.')
+from corrupted_files_core import (  # noqa: E402
+    atomic_write_json,
+    audit_project,
+    build_manifest,
+    build_master_records,
+    load_database,
+    write_quality_report,
+    write_research_indexes,
+    write_root_indexes,
+)
+
+
+def main() -> int:
+    database = load_database(ROOT, strict=True)
+    records = build_master_records(ROOT)
+    write_root_indexes(ROOT, records)
+    write_research_indexes(ROOT, database.entries)
+    manifest = build_manifest(ROOT, database.entries, len(database.shard_paths))
+    atomic_write_json(ROOT / "Corrupted Files Database" / "manifest.json", manifest)
+
+    report = audit_project(ROOT)
+    write_quality_report(ROOT, report)
+    print(
+        f"Rebuilt indexes for {len(records)} incidents across "
+        f"{len(database.shard_paths)} database shards."
+    )
+    if report["warnings"]:
+        print(f"Quality report contains {len(report['warnings'])} editorial warning(s).")
+    if not report["ok"]:
+        print(f"Rebuild completed, but validation found {len(report['errors'])} error(s).")
+        for error in report["errors"][:20]:
+            print(f"ERROR: {error}")
+        return 1
+    print("Structural validation: PASS")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

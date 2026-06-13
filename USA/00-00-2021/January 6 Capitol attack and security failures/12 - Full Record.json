@@ -35,7 +35,10 @@
     "el": "Αναφορά ανάγνωσης: σύγκρινε αυτή την υπόθεση του 2021 με άλλες εγγραφές της ίδιας δεκαετίας και χώρας για να φανεί αν υπάρχει μοτίβο λογοδοσίας, καθυστέρησης, θεσμικής αδυναμίας ή δημόσιου φόβου."
   },
   "images": [
-    "USA/00-00-2021/January 6 Capitol attack and security failures/Media/01 - EN January 6 Capitol Attack And Security Failures Cov 3E97Cf0Cc536.svg"
+    "USA/00-00-2021/January 6 Capitol attack and security failures/Media/01 - EN January 6 Capitol Attack And Security Failures Cov 3E97Cf0Cc536.svg",
+    "USA/00-00-2021/January 6 Capitol attack and security failures/Media/02 - Bilingual Snapshot.svg",
+    "USA/00-00-2021/January 6 Capitol attack and security failures/Media/03 - Event Image - Capitol Steps Crowd.jpg",
+    "USA/00-00-2021/January 6 Capitol attack and security failures/Media/04 - Event Image - Capitol Crowd and Flags.jpg"
   ],
   "source_archive_paths": {
     "en": [
@@ -49,8 +52,7 @@
       "USA/00-00-2021/January 6 Capitol attack and security failures/02 - Article EL.txt",
       "USA/00-00-2021/January 6 Capitol attack and security failures/04 - Proof Dossier EL.txt",
       "USA/00-00-2021/January 6 Capitol attack and security failures/06 - Source Trail EL.txt",
-      "USA/00-00-2021/January 6 Capitol attack and security failures/08 - Reading Report EL.txt",
-      "USA/00-00-2021/January 6 Capitol attack and security failures/Media/01 - EN January 6 Capitol Attack And Security Failures Cov 3E97Cf0Cc536.svg"
+      "USA/00-00-2021/January 6 Capitol attack and security failures/08 - Reading Report EL.txt"
     ]
   },
   "match_method": "exact",
@@ -63,7 +65,27 @@
       "el"
     ],
     "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:02+00:00"
   },
-  "incident_folder": "USA/00-00-2021/January 6 Capitol attack and security failures"
+  "incident_folder": "USA/00-00-2021/January 6 Capitol attack and security failures",
+  "date_folder": "00-00-2021",
+  "quality": {
+    "translation": {
+      "overall": "needs-review",
+      "fields": {
+        "title": "same-as-english",
+        "category": "same-as-english",
+        "evidence_level": "same-as-english",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

@@ -1,6 +1,6 @@
 Greece / 00-00-1967
 ===================
 
-- April 21 coup foreign context and local responsibility
-- Greece The 1967 coup and the U.S. response (1965-1974)
-- Junta coup and NATO era anti-communist state
+April 21 coup foreign context and local responsibility :: greece_1967_april_21_coup_foreign_context_local_responsibility
+Greece The 1967 coup and the U.S. response (1965-1974) :: greece_1967_coup_us_response
+Junta coup and NATO era anti-communist state :: greece_1967_junta_coup_nato_era_anti_communist_state

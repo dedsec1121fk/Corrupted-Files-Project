@@ -12,5 +12,6 @@ Category EL: εκμετάλλευση δεδομένων / εκλογές / ισ
 Evidence EN: documented data misuse scandal with disputed persuasion impact
 Evidence EL: τεκμηριωμένο σκάνδαλο χρήσης δεδομένων με αμφισβητούμενη επίδραση πειθούς
 
-This incident folder groups all text files and media for easier manual browsing.
-The database remains usable by the launcher, but each incident can also be read directly from its folder.
+This folder groups the incident text, metadata, quality signals, and media for offline browsing.
+The evidence label describes the archive's own editorial classification; it is not a substitute
+for reading the source trail and independently checking primary records.

@@ -12,5 +12,6 @@ Category EL: στρατιωτική καταστροφή / ρατσισμός / 
 Evidence EN: documented naval disaster and contested military justice
 Evidence EL: τεκμηριωμένη ναυτική καταστροφή και αμφισβητούμενη στρατιωτική δικαιοσύνη
 
-This incident folder groups all text files and media for easier manual browsing.
-The database remains usable by the launcher, but each incident can also be read directly from its folder.
+This folder groups the incident text, metadata, quality signals, and media for offline browsing.
+The evidence label describes the archive's own editorial classification; it is not a substitute
+for reading the source trail and independently checking primary records.

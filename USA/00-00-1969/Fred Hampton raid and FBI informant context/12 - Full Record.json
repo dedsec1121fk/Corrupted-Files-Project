@@ -35,7 +35,8 @@
     "el": "Αναφορά ανάγνωσης: σύγκρινε αυτή την υπόθεση του 1969 με άλλες εγγραφές της ίδιας δεκαετίας και χώρας για να φανεί αν υπάρχει μοτίβο λογοδοσίας, καθυστέρησης, θεσμικής αδυναμίας ή δημόσιου φόβου."
   },
   "images": [
-    "USA/00-00-1969/Fred Hampton raid and FBI informant context/Media/01 - EN Cover Card.svg"
+    "USA/00-00-1969/Fred Hampton raid and FBI informant context/Media/01 - EN Cover Card.svg",
+    "USA/00-00-1969/Fred Hampton raid and FBI informant context/Media/02 - Bilingual Snapshot.svg"
   ],
   "source_archive_paths": {
     "en": [
@@ -49,8 +50,7 @@
       "USA/00-00-1969/Fred Hampton raid and FBI informant context/02 - Article EL.txt",
       "USA/00-00-1969/Fred Hampton raid and FBI informant context/04 - Proof Dossier EL.txt",
       "USA/00-00-1969/Fred Hampton raid and FBI informant context/06 - Source Trail EL.txt",
-      "USA/00-00-1969/Fred Hampton raid and FBI informant context/08 - Reading Report EL.txt",
-      "USA/00-00-1969/Fred Hampton raid and FBI informant context/Media/01 - EN Cover Card.svg"
+      "USA/00-00-1969/Fred Hampton raid and FBI informant context/08 - Reading Report EL.txt"
     ]
   },
   "match_method": "exact",
@@ -62,7 +62,27 @@
       "en",
       "el"
     ],
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1969/Fred Hampton raid and FBI informant context"
+  "incident_folder": "USA/00-00-1969/Fred Hampton raid and FBI informant context",
+  "date_folder": "00-00-1969",
+  "quality": {
+    "translation": {
+      "overall": "needs-review",
+      "fields": {
+        "title": "same-as-english",
+        "category": "same-as-english",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

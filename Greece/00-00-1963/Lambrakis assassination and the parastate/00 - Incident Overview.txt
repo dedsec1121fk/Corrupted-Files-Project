@@ -4,13 +4,14 @@ Date Folder: 00-00-1963
 Year: 1963
 
 Title EN: Lambrakis assassination and the parastate
-Title EL: Lambrakis assassination and the parastate
+Title EL: Δολοφονία Λαμπράκη και το παρακράτος
 
 Category EN: political violence / parastate
-Category EL: political violence / parastate
+Category EL: πολιτική βία / παρακράτος
 
 Evidence EN: documented political scandal
-Evidence EL: documented political scandal
+Evidence EL: τεκμηριωμένο πολιτικό σκάνδαλο
 
-This incident folder groups all text files and media for easier manual browsing.
-The database remains usable by the launcher, but each incident can also be read directly from its folder.
+This folder groups the incident text, metadata, quality signals, and media for offline browsing.
+The evidence label describes the archive's own editorial classification; it is not a substitute
+for reading the source trail and independently checking primary records.

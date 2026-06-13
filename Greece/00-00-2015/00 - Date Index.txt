@@ -1,8 +1,7 @@
 Greece / 00-00-2015
 ===================
 
-- Capital controls and referendum rupture
-- Capital controls and referendum shock
-- Refugee crisis, hotspots, borders and human rights (2015-2026)
-- Refugee crisis, island containment, and EU-Turkey border bargain
-- Third Bailout and Capital Controls Aftermath Democracy, Banks and External Power
+Capital controls and referendum shock :: greece_2015_capital_controls_referendum_shock
+Refugee crisis, hotspots, borders and human rights (2015-2026) :: greece_2015_refugee_crisis_hotspots_borders_human_rights
+Refugee crisis, island containment, and EU-Turkey border bargain :: greece_2015_refugee_crisis_islands_eu_turkey_containment
+Third Bailout and Capital Controls Aftermath Democracy, Banks and External Power :: greece_2015_third_bailout_capital_controls_aftermath_democracy_banks_external_powe

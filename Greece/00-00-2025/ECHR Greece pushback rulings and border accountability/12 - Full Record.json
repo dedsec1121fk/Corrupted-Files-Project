@@ -51,9 +51,7 @@
       "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability/02 - Article EL.txt",
       "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability/04 - Proof Dossier EL.txt",
       "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability/06 - Source Trail EL.txt",
-      "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability/08 - Reading Report EL.txt",
-      "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability/Media/01 - EN Cover Card.svg",
-      "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability/Media/02 - EN Proof Map.svg"
+      "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability/08 - Reading Report EL.txt"
     ]
   },
   "match_method": "exact",
@@ -66,7 +64,27 @@
       "el"
     ],
     "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability"
+  "incident_folder": "Greece/00-00-2025/ECHR Greece pushback rulings and border accountability",
+  "date_folder": "00-00-2025",
+  "quality": {
+    "translation": {
+      "overall": "needs-review",
+      "fields": {
+        "title": "same-as-english",
+        "category": "same-as-english",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "specific-links",
+      "url_count": 1
+    },
+    "media_paths": "verified"
+  }
 }

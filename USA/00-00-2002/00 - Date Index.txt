@@ -1,8 +1,8 @@
 USA / 00-00-2002
 ================
 
-- Abu Ghraib prisoner abuse scandal
-- Catholic Church abuse scandal, Boston Spotlight, and institutional cover-up
-- Enron and Arthur Andersen Energy Trading, Accounting Tricks and Regulatory Capture
-- No Child Left Behind testing regime and data pressure
-- USA — Total Information Awareness, data mining, and the post-9 11 surveillance dream (20
+Abu Ghraib prisoner abuse scandal :: usa_2002_abu_ghraib_prisoner_abuse_scandal
+Catholic Church abuse scandal, Boston Spotlight, and institutional cover-up :: usa_2002_catholic_church_abuse_boston_spotlight_coverup
+Enron and Arthur Andersen Energy Trading, Accounting Tricks and Regulatory Capture :: usa_2002_enron_arthur_andersen_energy_trading_accounting_tricks_regulatory_capt
+No Child Left Behind testing regime and data pressure :: usa_2002_no_child_left_behind_testing_regime_data_pressure
+USA — Total Information Awareness, data mining, and the post-9 11 surveillance dream (20 :: usa_2002_total_information_awareness_data_mining_post_911_surveillance_dream

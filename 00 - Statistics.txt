@@ -1,8 +1,9 @@
-Corrupted Files Project Statistics
-===============================
-
+Corrupted Files Project
+=======================
 Incidents: 443
-Media references: 878
-Countries: Greece, USA
-Country/date folders: 150
-Years covered: 1830 - 2026
+Countries: 2 (Greece: 199, USA: 244)
+Years represented: 102
+Date folders: 150
+Unique English categories: 287
+Media files referenced: 981
+Last rebuilt (UTC): 2026-06-13T20:23:24+00:00

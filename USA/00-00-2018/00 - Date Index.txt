@@ -1,7 +1,7 @@
 USA / 00-00-2018
 ================
 
-- Cambridge Analytica, Facebook data, and election-manipulation panic
-- Family separation at the US border
-- Family separation policy, deterrence, children and recordkeeping failure (2018)
-- Parkland shooting and institutional warning failures
+Cambridge Analytica, Facebook data, and election-manipulation panic :: usa_2018_cambridge_analytica_facebook_data_election_manipulation
+Family separation at the US border :: usa_2018_family_separation_at_us_border
+Family separation policy, deterrence, children and recordkeeping failure (2018) :: usa_2018_family_separation_policy_deterrence_children_recordkeeping_failure
+Parkland shooting and institutional warning failures :: usa_2018_parkland_shooting_institutional_warning_failures

@@ -1,11 +1,11 @@
 USA / 00-00-2001
 ================
 
-- Anthrax Letters and Amerithrax Bioterror, Lab Science and FBI Certainty
-- Enron accounting fraud, energy trading, and auditor collapse
-- PATRIOT Act and permanent emergency powers
-- Patriot Act expansion after 9 11
-- U.S. NATIONAL SECURITY LETTERS, GAG ORDERS, AND QUIET SURVEILLANCE POWERS (2001-2024)
-- USA Fusion Centers, Suspicious Activity Reporting, and Domestic Intelligence Drift (2001
-- USA Iraq WMD, Intelligence Failure, and the Case for War (2001-2016)
-- WorldCom accounting fraud and telecom-bubble trust collapse
+Anthrax Letters and Amerithrax Bioterror, Lab Science and FBI Certainty :: usa_2001_anthrax_letters_amerithrax_bioterror_lab_science_fbi_certainty
+Enron accounting fraud, energy trading, and auditor collapse :: usa_2001_enron_accounting_fraud_energy_market_capture
+PATRIOT Act and permanent emergency powers :: usa_2001_patriot_act_permanent_emergency_powers
+Patriot Act expansion after 9 11 :: usa_2001_patriot_act_expansion_after_9_11
+U.S. NATIONAL SECURITY LETTERS, GAG ORDERS, AND QUIET SURVEILLANCE POWERS (2001-2024) :: usa_2001_national_security_letters_gag_orders
+USA Fusion Centers, Suspicious Activity Reporting, and Domestic Intelligence Drift (2001 :: usa_2001_fusion_centers_suspicious_activity_reporting
+USA Iraq WMD, Intelligence Failure, and the Case for War (2001-2016) :: usa_2001_iraq_wmd_for_war
+WorldCom accounting fraud and telecom-bubble trust collapse :: usa_2001_worldcom_accounting_fraud_telecom_bubble

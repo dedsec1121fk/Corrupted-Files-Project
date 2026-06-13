@@ -51,9 +51,7 @@
       "USA/00-00-1954/Guatemala coup and United Fruit interests/02 - Article EL.txt",
       "USA/00-00-1954/Guatemala coup and United Fruit interests/04 - Proof Dossier EL.txt",
       "USA/00-00-1954/Guatemala coup and United Fruit interests/06 - Source Trail EL.txt",
-      "USA/00-00-1954/Guatemala coup and United Fruit interests/08 - Reading Report EL.txt",
-      "USA/00-00-1954/Guatemala coup and United Fruit interests/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1954/Guatemala coup and United Fruit interests/Media/02 - EN Guatemala Coup And United Fruit Interests V21 Expa 4501Dc5Ac35D.svg"
+      "USA/00-00-1954/Guatemala coup and United Fruit interests/08 - Reading Report EL.txt"
     ]
   },
   "match_method": "exact",
@@ -66,7 +64,27 @@
       "el"
     ],
     "duplicate_semantic_variant_merged": 1,
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1954/Guatemala coup and United Fruit interests"
+  "incident_folder": "USA/00-00-1954/Guatemala coup and United Fruit interests",
+  "date_folder": "00-00-1954",
+  "quality": {
+    "translation": {
+      "overall": "needs-review",
+      "fields": {
+        "title": "same-as-english",
+        "category": "same-as-english",
+        "evidence_level": "same-as-english",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

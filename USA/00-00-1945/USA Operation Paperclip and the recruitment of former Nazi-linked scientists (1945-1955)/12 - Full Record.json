@@ -47,7 +47,6 @@
       "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/05 - Source Trail EN.txt",
       "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/07 - Reading Report EN.txt",
       "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/02 - EL Cover Card.svg",
       "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/03 - EN Operation Paperclip And Imported Nazi Expertise Co 407Df440F069.svg",
       "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/04 - EN Operation Paperclip And Imported Nazi Expertise V2 407Df440F069.svg"
     ],
@@ -56,10 +55,7 @@
       "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/04 - Proof Dossier EL.txt",
       "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/06 - Source Trail EL.txt",
       "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/08 - Reading Report EL.txt",
-      "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/02 - EL Cover Card.svg",
-      "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/03 - EN Operation Paperclip And Imported Nazi Expertise Co 407Df440F069.svg",
-      "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/04 - EN Operation Paperclip And Imported Nazi Expertise V2 407Df440F069.svg"
+      "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)/Media/02 - EL Cover Card.svg"
     ]
   },
   "match_method": "exact",
@@ -72,7 +68,27 @@
       "el"
     ],
     "duplicate_semantic_variant_merged": 2,
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)"
+  "incident_folder": "USA/00-00-1945/USA Operation Paperclip and the recruitment of former Nazi-linked scientists (1945-1955)",
+  "date_folder": "00-00-1945",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

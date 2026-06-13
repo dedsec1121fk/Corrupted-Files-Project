@@ -1,50 +1,72 @@
 #!/usr/bin/env python3
-from pathlib import Path
+"""Perform a comprehensive structural and editorial-quality audit."""
+from __future__ import annotations
+
+import argparse
 import json
+import sys
+from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DB_DIR = ROOT / 'Corrupted Files Database'
+sys.path.insert(0, str(ROOT))
 
-def fail(msg):
-    raise SystemExit(msg)
+from corrupted_files_core import audit_project, write_quality_report  # noqa: E402
 
-required_root = [
-    'Greece',
-    'USA',
-    '00 - Master Incident Index.txt',
-    '00 - Master Incident Index.json',
-    '00 - Master Incident Index.csv',
-    '00 - Dates by Country.txt',
-    '00 - Statistics.txt',
-    'README.md',
-    'Corrupted Files.py',
-]
-for name in required_root:
-    if not (ROOT / name).exists():
-        fail(f'Missing root item: {name}')
 
-for name in ['Corrupted Files Library','Corrupted Files Media','Corrupted Files Docs','Corrupted Files Updates','__pycache__']:
-    if (ROOT / name).exists():
-        fail(f'Old folder still exists: {name}')
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--json", action="store_true", help="print the complete report as JSON")
+    parser.add_argument("--write-report", action="store_true", help="refresh the root quality report files")
+    parser.add_argument(
+        "--warnings-as-errors",
+        action="store_true",
+        help="return a failure code when editorial warnings remain",
+    )
+    return parser
 
-db_files = sorted(DB_DIR.glob('Database Shard *.json'))
-if not db_files:
-    fail('No rebuilt database shards found.')
-entries=[]
-media_refs=0
-for db in db_files:
-    payload = json.loads(db.read_text(encoding='utf-8'))
-    for e in payload.get('entries',[]):
-        entries.append(e)
-        for img in e.get('images') or []:
-            media_refs += 1
-            if not (ROOT / img).exists():
-                fail(f'Missing media file referenced in database: {img}')
 
-manifest = json.loads((DB_DIR/'manifest.json').read_text(encoding='utf-8'))
-if manifest.get('records') != len(entries):
-    fail(f"Manifest record mismatch: {manifest.get('records')} != {len(entries)}")
-if manifest.get('media_references') != media_refs:
-    fail(f"Manifest media mismatch: {manifest.get('media_references')} != {media_refs}")
+def main() -> int:
+    args = build_parser().parse_args()
+    report = audit_project(ROOT)
+    if args.write_report:
+        write_quality_report(ROOT, report)
 
-print(f'OK: {len(entries)} incidents, {len(db_files)} database shards, {media_refs} media references. Structure looks good.')
+    if args.json:
+        print(json.dumps(report, ensure_ascii=False, indent=2))
+    else:
+        metrics = report["metrics"]
+        print("Corrupted Files Project validation")
+        print("=" * 34)
+        print(f"Result: {'PASS' if report['ok'] else 'FAIL'}")
+        print(f"Database records: {metrics.get('database_records', 0)}")
+        print(f"Incident folders: {metrics.get('incident_folders', 0)}")
+        print(f"Database shards: {metrics.get('database_shards', 0)}")
+        print(f"JSON files checked: {metrics.get('json_files_checked', 0)}")
+        print(f"Invalid JSON files: {metrics.get('invalid_json_files', 0)}")
+        print(f"Media references: {metrics.get('media_references', 0)}")
+        print(f"Missing media references: {metrics.get('missing_media_references', 0)}")
+        print(f"Missing source archive paths: {metrics.get('missing_source_archive_paths', 0)}")
+        print(f"Path mismatches: {metrics.get('path_mismatches', 0)}")
+        print(f"Index mismatches: {metrics.get('index_mismatches', 0)}")
+        print(f"Missing/empty required files: {metrics.get('missing_required_files', 0) + metrics.get('empty_required_files', 0)}")
+        print(f"Escaped Unicode folders: {metrics.get('escaped_unicode_folders', 0)}")
+        print(f"Translation status: {metrics.get('translation_status', {})}")
+        print(f"Source trail status: {metrics.get('source_trail_status', {})}")
+
+        if report["errors"]:
+            print(f"\nErrors ({len(report['errors'])})")
+            for error in report["errors"]:
+                print(f"- {error}")
+        if report["warnings"]:
+            print(f"\nWarnings ({len(report['warnings'])})")
+            for warning in report["warnings"]:
+                print(f"- {warning}")
+        if not report["errors"]:
+            print("\nAll JSON, folder, index, metadata, and media-path checks passed.")
+
+    failed = not report["ok"] or (args.warnings_as_errors and bool(report["warnings"]))
+    return 1 if failed else 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

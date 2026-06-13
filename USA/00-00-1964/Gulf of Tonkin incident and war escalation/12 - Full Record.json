@@ -51,9 +51,7 @@
       "USA/00-00-1964/Gulf of Tonkin incident and war escalation/02 - Article EL.txt",
       "USA/00-00-1964/Gulf of Tonkin incident and war escalation/04 - Proof Dossier EL.txt",
       "USA/00-00-1964/Gulf of Tonkin incident and war escalation/06 - Source Trail EL.txt",
-      "USA/00-00-1964/Gulf of Tonkin incident and war escalation/08 - Reading Report EL.txt",
-      "USA/00-00-1964/Gulf of Tonkin incident and war escalation/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1964/Gulf of Tonkin incident and war escalation/Media/02 - EN Gulf Of Tonkin Incident And War Escalation V21 Exp 2F5B912B231A.svg"
+      "USA/00-00-1964/Gulf of Tonkin incident and war escalation/08 - Reading Report EL.txt"
     ]
   },
   "match_method": "exact",
@@ -66,7 +64,27 @@
       "el"
     ],
     "duplicate_semantic_variant_merged": 1,
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1964/Gulf of Tonkin incident and war escalation"
+  "incident_folder": "USA/00-00-1964/Gulf of Tonkin incident and war escalation",
+  "date_folder": "00-00-1964",
+  "quality": {
+    "translation": {
+      "overall": "needs-review",
+      "fields": {
+        "title": "same-as-english",
+        "category": "same-as-english",
+        "evidence_level": "same-as-english",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

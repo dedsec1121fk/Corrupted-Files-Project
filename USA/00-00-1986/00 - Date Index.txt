@@ -1,6 +1,6 @@
 USA / 00-00-1986
 ================
 
-- Challenger Disaster Engineering Warnings, Launch Pressure and Institutional Silence
-- Iran Contra affair
-- Iran-Contra secret policy network
+Challenger Disaster Engineering Warnings, Launch Pressure and Institutional Silence :: usa_1986_challenger_disaster_engineering_warnings_launch_pressure_institutional
+Iran Contra affair :: usa_1986_iran_contra_affair
+Iran-Contra secret policy network :: usa_1986_iran_contra_secret_policy_network

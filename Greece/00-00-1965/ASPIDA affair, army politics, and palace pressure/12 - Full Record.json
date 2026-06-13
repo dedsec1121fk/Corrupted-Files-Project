@@ -44,7 +44,10 @@
       "en",
       "el"
     ],
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:00+00:00"
   },
   "incident_folder": "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure",
   "source_archive_paths": {
@@ -52,17 +55,30 @@
       "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/01 - Article EN.txt",
       "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/03 - Proof Dossier EN.txt",
       "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/05 - Source Trail EN.txt",
-      "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/07 - Reading Report EN.txt",
-      "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/Media/01 - Cover Card.svg",
-      "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/Media/02 - Proof Map.svg"
+      "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/07 - Reading Report EN.txt"
     ],
     "el": [
       "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/02 - Article EL.txt",
       "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/04 - Proof Dossier EL.txt",
       "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/06 - Source Trail EL.txt",
-      "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/08 - Reading Report EL.txt",
-      "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/Media/01 - Cover Card.svg",
-      "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/Media/02 - Proof Map.svg"
+      "Greece/00-00-1965/ASPIDA affair, army politics, and palace pressure/08 - Reading Report EL.txt"
     ]
+  },
+  "date_folder": "00-00-1965",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
   }
 }

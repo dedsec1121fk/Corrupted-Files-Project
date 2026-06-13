@@ -44,15 +44,13 @@
       "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/03 - Proof Dossier EN.txt",
       "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/05 - Source Trail EN.txt",
       "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/07 - Reading Report EN.txt",
-      "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/Media/02 - EL Cover Card.svg"
+      "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/Media/01 - EN Cover Card.svg"
     ],
     "el": [
       "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/02 - Article EL.txt",
       "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/04 - Proof Dossier EL.txt",
       "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/06 - Source Trail EL.txt",
       "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/08 - Reading Report EL.txt",
-      "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/Media/01 - EN Cover Card.svg",
       "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)/Media/02 - EL Cover Card.svg"
     ]
   },
@@ -65,7 +63,27 @@
       "en",
       "el"
     ],
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)"
+  "incident_folder": "USA/00-00-1973/CIA, Chile, covert action and public memory of intervention (1970-1973)",
+  "date_folder": "00-00-1973",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

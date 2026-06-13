@@ -51,9 +51,7 @@
       "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER/02 - Article EL.txt",
       "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER/04 - Proof Dossier EL.txt",
       "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER/06 - Source Trail EL.txt",
-      "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER/08 - Reading Report EL.txt",
-      "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER/Media/01 - EN Cover Card.svg",
-      "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER/Media/02 - EN Proof Map.svg"
+      "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER/08 - Reading Report EL.txt"
     ]
   },
   "match_method": "exact",
@@ -66,7 +64,27 @@
       "el"
     ],
     "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:02+00:00"
   },
-  "incident_folder": "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER"
+  "incident_folder": "USA/00-00-2024/AARO UAP historical record report and public expectations — PROOF DOSSIER",
+  "date_folder": "00-00-2024",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "specific-links",
+      "url_count": 2
+    },
+    "media_paths": "verified"
+  }
 }

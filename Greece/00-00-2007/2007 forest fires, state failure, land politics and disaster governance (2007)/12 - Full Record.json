@@ -44,15 +44,13 @@
       "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/03 - Proof Dossier EN.txt",
       "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/05 - Source Trail EN.txt",
       "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/07 - Reading Report EN.txt",
-      "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/Media/01 - EN Cover Card.svg",
-      "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/Media/02 - EL Cover Card.svg"
+      "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/Media/01 - EN Cover Card.svg"
     ],
     "el": [
       "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/02 - Article EL.txt",
       "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/04 - Proof Dossier EL.txt",
       "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/06 - Source Trail EL.txt",
       "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/08 - Reading Report EL.txt",
-      "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/Media/01 - EN Cover Card.svg",
       "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)/Media/02 - EL Cover Card.svg"
     ]
   },
@@ -66,7 +64,27 @@
       "el"
     ],
     "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:00+00:00"
   },
-  "incident_folder": "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)"
+  "incident_folder": "Greece/00-00-2007/2007 forest fires, state failure, land politics and disaster governance (2007)",
+  "date_folder": "00-00-2007",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

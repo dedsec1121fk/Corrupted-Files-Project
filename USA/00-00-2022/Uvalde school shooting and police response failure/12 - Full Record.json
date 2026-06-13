@@ -44,7 +44,10 @@
       "en",
       "el"
     ],
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:02+00:00"
   },
   "incident_folder": "USA/00-00-2022/Uvalde school shooting and police response failure",
   "source_archive_paths": {
@@ -52,17 +55,30 @@
       "USA/00-00-2022/Uvalde school shooting and police response failure/01 - Article EN.txt",
       "USA/00-00-2022/Uvalde school shooting and police response failure/03 - Proof Dossier EN.txt",
       "USA/00-00-2022/Uvalde school shooting and police response failure/05 - Source Trail EN.txt",
-      "USA/00-00-2022/Uvalde school shooting and police response failure/07 - Reading Report EN.txt",
-      "USA/00-00-2022/Uvalde school shooting and police response failure/Media/01 - Cover Card.svg",
-      "USA/00-00-2022/Uvalde school shooting and police response failure/Media/02 - Proof Map.svg"
+      "USA/00-00-2022/Uvalde school shooting and police response failure/07 - Reading Report EN.txt"
     ],
     "el": [
       "USA/00-00-2022/Uvalde school shooting and police response failure/02 - Article EL.txt",
       "USA/00-00-2022/Uvalde school shooting and police response failure/04 - Proof Dossier EL.txt",
       "USA/00-00-2022/Uvalde school shooting and police response failure/06 - Source Trail EL.txt",
-      "USA/00-00-2022/Uvalde school shooting and police response failure/08 - Reading Report EL.txt",
-      "USA/00-00-2022/Uvalde school shooting and police response failure/Media/01 - Cover Card.svg",
-      "USA/00-00-2022/Uvalde school shooting and police response failure/Media/02 - Proof Map.svg"
+      "USA/00-00-2022/Uvalde school shooting and police response failure/08 - Reading Report EL.txt"
     ]
+  },
+  "date_folder": "00-00-2022",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
   }
 }

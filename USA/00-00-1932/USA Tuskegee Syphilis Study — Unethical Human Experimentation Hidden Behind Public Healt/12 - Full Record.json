@@ -46,16 +46,13 @@
       "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/05 - Source Trail EN.txt",
       "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/07 - Reading Report EN.txt",
       "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/Media/01 - EN Image.jpg",
-      "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/Media/02 - EN Cover Card.svg",
-      "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/Media/03 - EL Cover Card.svg"
+      "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/Media/02 - EN Cover Card.svg"
     ],
     "el": [
       "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/02 - Article EL.txt",
       "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/04 - Proof Dossier EL.txt",
       "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/06 - Source Trail EL.txt",
       "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/08 - Reading Report EL.txt",
-      "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/Media/01 - EN Image.jpg",
-      "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/Media/02 - EN Cover Card.svg",
       "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt/Media/03 - EL Cover Card.svg"
     ]
   },
@@ -68,7 +65,27 @@
       "en",
       "el"
     ],
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt"
+  "incident_folder": "USA/00-00-1932/USA Tuskegee Syphilis Study — Unethical Human Experimentation Hidden Behind Public Healt",
+  "date_folder": "00-00-1932",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

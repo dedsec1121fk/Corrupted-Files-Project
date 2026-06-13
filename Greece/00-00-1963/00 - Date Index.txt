@@ -1,6 +1,4 @@
 Greece / 00-00-1963
 ===================
 
-- Lambrakis assassination and parastate exposure
-- Lambrakis assassination and parastate network
-- Lambrakis assassination and the parastate
+Lambrakis assassination and the parastate :: greece_1963_lambrakis_assassination_parastate

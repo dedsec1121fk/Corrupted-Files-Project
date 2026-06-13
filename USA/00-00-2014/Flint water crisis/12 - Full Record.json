@@ -46,16 +46,13 @@
       "USA/00-00-2014/Flint water crisis/05 - Source Trail EN.txt",
       "USA/00-00-2014/Flint water crisis/07 - Reading Report EN.txt",
       "USA/00-00-2014/Flint water crisis/Media/01 - EN Cover Card.svg",
-      "USA/00-00-2014/Flint water crisis/Media/02 - EN Cover Card.svg",
-      "USA/00-00-2014/Flint water crisis/Media/03 - EL Cover Card.svg"
+      "USA/00-00-2014/Flint water crisis/Media/02 - EN Cover Card.svg"
     ],
     "el": [
       "USA/00-00-2014/Flint water crisis/02 - Article EL.txt",
       "USA/00-00-2014/Flint water crisis/04 - Proof Dossier EL.txt",
       "USA/00-00-2014/Flint water crisis/06 - Source Trail EL.txt",
       "USA/00-00-2014/Flint water crisis/08 - Reading Report EL.txt",
-      "USA/00-00-2014/Flint water crisis/Media/01 - EN Cover Card.svg",
-      "USA/00-00-2014/Flint water crisis/Media/02 - EN Cover Card.svg",
       "USA/00-00-2014/Flint water crisis/Media/03 - EL Cover Card.svg"
     ]
   },
@@ -70,7 +67,27 @@
     ],
     "duplicate_semantic_variant_merged": 1,
     "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
-    "bilingual_cleanup_pass": "README/dedupe pass"
+    "bilingual_cleanup_pass": "README/dedupe pass",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:02+00:00"
   },
-  "incident_folder": "USA/00-00-2014/Flint water crisis"
+  "incident_folder": "USA/00-00-2014/Flint water crisis",
+  "date_folder": "00-00-2014",
+  "quality": {
+    "translation": {
+      "overall": "needs-review",
+      "fields": {
+        "title": "same-as-english",
+        "category": "same-as-english",
+        "evidence_level": "same-as-english",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

@@ -1,15 +1,14 @@
 Greece / 00-00-2024
 ===================
 
-- Asimakopoulou email leak and diaspora data
-- Asimakopoulou email leak, data protection, elections and trust (2024)
-- GREECE POLICE CORRUPTION, ABUSE, AND ILL-TREATMENT WARNINGS (2024-2026)
-- GREECE PUBLIC-SECTOR BRIBERY, PERMIT NETWORKS, AND THE PERSISTENCE OF CLIENTELISM (2024-
-- GREECE SOCIAL-MEDIA BAN FOR UNDER-15s, DIGITAL AGE CHECKS, AND THE CHILD-CONTROL DEBATE
-- Greece Dystopian Trends 2024-2026
-- Greece Taxes, War Spending, and Jobs 2024-2026
-- Greece — Domestic violence, femicides, police response, and institutional failure (2024–
-- Kyriaki Griva killing outside police station
-- Kyriaki Griva murder outside police station
-- Kyriaki Griva, police-station femicide, response failure and institutional shock (2024)
-- Postal-vote email leak and electoral data-protection trust
+Asimakopoulou email leak and diaspora data :: greece_2024_asimakopoulou_email_leak_diaspora_data
+Asimakopoulou email leak, data protection, elections and trust (2024) :: greece_2024_asimakopoulou_email_leak_data_protection_elections
+Greece Dystopian Trends 2024-2026 :: greece_2024_dystopian_trends
+Greece Taxes, War Spending, and Jobs 2024-2026 :: greece_2024_taxes_war_jobs
+Greece — Domestic violence, femicides, police response, and institutional failure (2024– :: greece_2024_domestic_violence_femicides_police_response_institutional_failure
+GREECE POLICE CORRUPTION, ABUSE, AND ILL-TREATMENT WARNINGS (2024-2026) :: greece_2024_police_corruption_abuse_ill_treatment
+GREECE PUBLIC-SECTOR BRIBERY, PERMIT NETWORKS, AND THE PERSISTENCE OF CLIENTELISM (2024- :: greece_2024_sector_bribery_permit_networks
+GREECE SOCIAL-MEDIA BAN FOR UNDER-15s, DIGITAL AGE CHECKS, AND THE CHILD-CONTROL DEBATE :: greece_2024_social_media_ban_child_control_digital_age_verification
+Kyriaki Griva murder outside police station :: greece_2024_kyriaki_griva_murder_outside_police_station
+Kyriaki Griva, police-station femicide, response failure and institutional shock (2024) :: greece_2024_kyriaki_griva_police_station_femicide_response_failure_institutional_s
+Postal-vote email leak and electoral data-protection trust :: greece_2024_postal_vote_email_leak_data_protection_trust

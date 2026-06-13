@@ -47,17 +47,13 @@
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/05 - Source Trail EN.txt",
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/07 - Reading Report EN.txt",
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/02 - EN Cover Card.svg",
-      "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/03 - EL Cover Card.svg",
-      "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/04 - EL Cover Card.svg"
+      "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/02 - EN Cover Card.svg"
     ],
     "el": [
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/02 - Article EL.txt",
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/04 - Proof Dossier EL.txt",
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/06 - Source Trail EL.txt",
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/08 - Reading Report EL.txt",
-      "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/01 - EN Cover Card.svg",
-      "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/02 - EN Cover Card.svg",
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/03 - EL Cover Card.svg",
       "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)/Media/04 - EL Cover Card.svg"
     ]
@@ -71,7 +67,27 @@
       "en",
       "el"
     ],
-    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan."
+    "v25": "Checked for bilingual JSON project structure, expanded with year/folder browsing support, and included in duplicate scan.",
+    "path_integrity": "verified",
+    "path_repair_version": 2,
+    "path_repair_utc": "2026-06-13T19:30:01+00:00"
   },
-  "incident_folder": "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)"
+  "incident_folder": "USA/00-00-1919/USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920)",
+  "date_folder": "00-00-1919",
+  "quality": {
+    "translation": {
+      "overall": "good",
+      "fields": {
+        "title": "greek-present",
+        "category": "greek-present",
+        "evidence_level": "greek-present",
+        "article": "greek-present"
+      }
+    },
+    "source_trail": {
+      "level": "generic-guidance",
+      "url_count": 0
+    },
+    "media_paths": "verified"
+  }
 }

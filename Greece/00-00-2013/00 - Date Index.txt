@@ -1,7 +1,6 @@
 Greece / 00-00-2013
 ===================
 
-- ERT shutdown, black screen, and public broadcasting shock
-- ERT shutdown, public broadcasting, austerity and state media power (2013)
-- Pavlos Fyssas murder and Golden Dawn accountability
-- Pavlos Fyssas murder and Golden Dawn exposure
+ERT shutdown, black screen, and public broadcasting shock :: greece_2013_ert_shutdown_public_broadcasting_state_black_screen
+ERT shutdown, public broadcasting, austerity and state media power (2013) :: greece_2013_ert_shutdown_broadcasting_austerity_state_media_power
+Pavlos Fyssas murder and Golden Dawn accountability :: greece_2013_pavlos_fyssas_golden_dawn_accountability

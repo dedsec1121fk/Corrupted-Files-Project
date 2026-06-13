@@ -1,10 +1,10 @@
 Greece / 00-00-2020
 ===================
 
-- COVID lockdowns, policing, procurement, and trust in emergency rule
-- Evros border crisis and information war
-- GREECE Petsas List, Media Funding, and Message Control (2020-2026)
-- GREECE — COVID SMS PERMITS LOCKDOWNS, CERTIFICATES, AND PERMISSION CULTURE (2020–2023)
-- Greece Pushbacks, Border Violations, and the Accountability Fight (2020-2026)
-- Greek COVID Fines and Movement Forms Enforcement, Class and Permission Culture
-- Greek pandemic SMS permits, policing, and normalization
+COVID lockdowns, policing, procurement, and trust in emergency rule :: greece_2020_covid_lockdowns_policing_procurement_trust
+Evros border crisis and information war :: greece_2020_evros_border_crisis_and_information_war
+GREECE — COVID SMS PERMITS LOCKDOWNS, CERTIFICATES, AND PERMISSION CULTURE (2020–2023) :: greece_2020_covid_sms_permits_lockdowns_certificates_permission_culture
+GREECE Petsas List, Media Funding, and Message Control (2020-2026) :: greece_2020_petsas_list_media_funding_message_control
+Greece Pushbacks, Border Violations, and the Accountability Fight (2020-2026) :: greece_2020_pushbacks_border_rights
+Greek COVID Fines and Movement Forms Enforcement, Class and Permission Culture :: greece_2020_greek_covid_fines_movement_forms_enforcement_class_permission_culture
+Greek pandemic SMS permits, policing, and normalization :: greece_2020_pandemic_sms_permits_policing_normalization

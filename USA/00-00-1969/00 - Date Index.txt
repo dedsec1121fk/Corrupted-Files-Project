@@ -1,7 +1,7 @@
 USA / 00-00-1969
 ================
 
-- Black Panther surveillance and raids
-- Fred Hampton raid and FBI informant context
-- Stonewall raid, police power, and queer resistance memory
-- USA — Citizens’ Commission burglary, stolen FBI files, and COINTELPRO exposure (1971)
+Black Panther surveillance and raids :: usa_1969_black_panther_surveillance_and_raids
+Fred Hampton raid and FBI informant context :: usa_1969_fred_hampton_raid_fbi_informant_context
+Stonewall raid, police power, and queer resistance memory :: usa_1969_stonewall_police_raid_queer_resistance_memory
+USA — Citizens’ Commission burglary, stolen FBI files, and COINTELPRO exposure (1971) :: usa_1969_citizens_commission_fbi_burglary_files_cointelpro_exposure

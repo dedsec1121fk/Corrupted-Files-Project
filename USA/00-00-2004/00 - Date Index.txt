@@ -1,6 +1,5 @@
 USA / 00-00-2004
 ================
 
-- Abu Ghraib abuse photographs and command responsibility
-- Abu Ghraib detainee abuse and command responsibility
-- CIA black sites and extraordinary rendition
+Abu Ghraib abuse photographs and command responsibility :: usa_2004_abu_ghraib_abuse_photographs_and_command_responsibility
+CIA black sites and extraordinary rendition :: usa_2004_cia_black_sites_extraordinary_rendition
