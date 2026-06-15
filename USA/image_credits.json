@@ -1,0 +1,86 @@
+[
+  {
+    "file": "USA/Images/1921/usa_1921_tulsa_race_massacre_destroyed_black_wealth/03---Event-Image---National-Guard-and-Wounded.jpg",
+    "event": "Tulsa Race Massacre",
+    "description": "National Guard and wounded people during the 1921 Tulsa Race Massacre.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tulsaraceriot1921-wounded-pickedup-fullpicture.jpg",
+    "author": "Tulsa World",
+    "license": "Public domain in the United States (PD-US)",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/United_States",
+    "sha256": "b19356ec3b9e51246609fbe746e8cf366d60ad7bf846d585f242ac7eb56efd1e",
+    "used_by": [
+      "usa_1921_tulsa_race_massacre_coverup_and_records",
+      "usa_1921_tulsa_race_massacre_destroyed_black_wealth",
+      "usa_1921_tulsa_race_massacre_destruction_insurance_denial"
+    ],
+    "country_folder": "USA"
+  },
+  {
+    "file": "USA/Images/2021/usa_2021_january_6_capitol_attack_accountability_record/03---Event-Image---Capitol-Steps-Crowd.jpg",
+    "event": "January 6 United States Capitol attack",
+    "description": "Crowd on the steps and balconies of the United States Capitol on January 6, 2021.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:DC_Capitol_Storming_IMG_7986.jpg",
+    "author": "TapTheForwardAssist",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sha256": "ba114287ecd529cca02eaaf5a8d56400952c50f2a056106a8127a0f48f1e2747",
+    "used_by": [
+      "usa_2021_january_6_capitol_attack_accountability_record",
+      "usa_2021_january_6_capitol_attack_security_failure_conspiracy_ecosystem",
+      "usa_2021_january_6_capitol_attack_security_failures"
+    ],
+    "country_folder": "USA"
+  },
+  {
+    "file": "USA/Images/2021/usa_2021_january_6_capitol_attack_accountability_record/04---Event-Image---Capitol-Crowd-and-Flags.jpg",
+    "event": "January 6 United States Capitol attack",
+    "description": "Crowd and flags outside the United States Capitol on January 6, 2021.",
+    "source_page": "https://commons.wikimedia.org/wiki/File:2021_storming_of_the_United_States_Capitol_2021_storming_of_the_United_States_Capitol_DSC09254-2_(50820534063).jpg",
+    "author": "Tyler Merbler",
+    "license": "Creative Commons Attribution 2.0 Generic",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "sha256": "a81c02f111640400c0b7bec0ca27d4befce30bec39fe3887b35cc0a03a277382",
+    "used_by": [
+      "usa_2021_january_6_capitol_attack_accountability_record",
+      "usa_2021_january_6_capitol_attack_security_failure_conspiracy_ecosystem",
+      "usa_2021_january_6_capitol_attack_security_failures"
+    ],
+    "country_folder": "USA"
+  },
+  {
+    "file": "USA/Images/1972/watergate/Watergate-Complex-Government-Exhibit.jpg",
+    "description": "Watergate complex photographed as a U.S. government exhibit",
+    "author": "U.S. District Court for the District of Columbia",
+    "license": "Public domain (U.S. federal government work)",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Watergate_complex.jpg",
+    "sha256": "f4fc89723c0c6a70119dd33806cea2b7889bb945b14bc7817075e6427b57e8ec",
+    "used_by": [
+      "usa_1972_watergate_1972_1977"
+    ]
+  },
+  {
+    "file": "USA/Images/1932/tuskegee/Tuskegee-Study-Blood-Draw-1932.jpg",
+    "description": "Doctor drawing blood from a participant in the Tuskegee Syphilis Study",
+    "author": "National Archives Atlanta",
+    "license": "Public domain (U.S. federal government work)",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tuskegee-syphilis-study_doctor-injecting-subject.jpg",
+    "sha256": "1536ac4e968f8c23eebcc94e6aef470d2680f34168b58b5a18470299b2455867",
+    "used_by": [
+      "usa_1932_tuskegee_1932_1997"
+    ]
+  },
+  {
+    "file": "USA/Images/1970/kent_state/Kent-State-Shootings-Scene-1970.jpg",
+    "description": "Kent State campus during the confrontation and shootings, May 1970",
+    "author": "Unknown",
+    "license": "Public domain in the United States",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kent_State_shootings.jpg",
+    "sha256": "97607d352801fdcb05498c1cc59dd8bba3690e1892a8dc4b333670ad41c0b056",
+    "used_by": [
+      "usa_1970_kent_state_shootings_protest_national_guard_force_state_violence_memor"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "Greek/Images/1973/athens_polytechnic_uprising/Athens-Polytechnic-1973.png",
+    "description": "Athens Polytechnic uprising crowd, 1973",
+    "author": "Unknown / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Athens_Polytechnic_1973.png",
+    "sha256": "eb21acafc8b551a4dc1c48174395c61d4e4570d57199c5848da7de6ecc1711fe",
+    "used_by": [
+      "greece_1973_athens_polytechnic_uprising_and_junta_violence"
+    ]
+  },
+  {
+    "file": "Greek/Images/2018/mati_wildfire/Mati-Wildfire-Aftermath-2018.jpg",
+    "description": "Burned vehicles in Mati after the July 2018 wildfire",
+    "author": "Mark Lowen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Greek_wildfires_in_Mati,_July_24,_2018_b.jpg",
+    "sha256": "36fb1fd3a3ac08fb062a2b797670c78fdbe50bf1a796835dcd1a1a0741eded31",
+    "used_by": [
+      "greece_2018_mati_wildfire_state_failure"
+    ]
+  },
+  {
+    "file": "Greek/Images/1949/makronisos/Makronisos-Historical-Camp-View-1924.png",
+    "description": "Historical view of a camp on Makronisos island (1924; contextual image)",
+    "author": "Dr. Olga Stastny",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Macronissi_Quarantine_camp,_1924.png",
+    "sha256": "754c1c349a631a99cd4b14011f23d7abc7937f8bad539e48b6791cdd03bcc803",
+    "used_by": [
+      "greece_1949_makronisos_exile_camp_anti_communist_re_education"
+    ]
+  }
+]
