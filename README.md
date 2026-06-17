@@ -31,10 +31,11 @@ Use Corrupted Files Project.py
 
 ### Current archive scope
 
-- 359 unique bilingual cases.
+- 390 unique bilingual cases: 170 Greece cases and 220 USA cases.
 - Greece and USA sections.
 - Full English and Greek narratives.
 - Timelines, facts, investigation questions, verification safeguards, source gaps, and rumor assessments.
+- Separate aftermath and legacy, accountability map, and primary-record target sections in every case.
 - Android-compatible image albums.
 - Credited historical or event photographs where available.
 - Generated research guides and evidence matrices, clearly labeled as explanatory graphics.
@@ -292,6 +293,12 @@ List guided collections:
 python "Use Corrupted Files Project.py" --collections
 ```
 
+List the cases added in the latest expansion:
+
+```bash
+python "Use Corrupted Files Project.py" --new-cases
+```
+
 Show saved reading and study progress:
 
 ```bash
@@ -445,10 +452,11 @@ Use Corrupted Files Project.py
 
 ### Έκταση του αρχείου
 
-- 359 μοναδικές δίγλωσσες υποθέσεις.
+- 390 μοναδικές δίγλωσσες υποθέσεις: 170 υποθέσεις Ελλάδας και 220 υποθέσεις ΗΠΑ.
 - Ενότητες Ελλάδας και ΗΠΑ.
 - Πλήρεις αφηγήσεις στα Αγγλικά και στα Ελληνικά.
 - Χρονολόγια, βασικά στοιχεία, ερευνητικά ερωτήματα, κανόνες επαλήθευσης, κενά πηγών και αξιολογήσεις φημών.
+- Ξεχωριστές ενότητες συνεπειών και κληρονομιάς, χάρτη λογοδοσίας και στόχων πρωτογενών τεκμηρίων σε κάθε υπόθεση.
 - Συλλογές εικόνων συμβατές με Android.
 - Τεκμηριωμένες ιστορικές φωτογραφίες ή φωτογραφίες γεγονότων όπου υπάρχουν.
 - Παραγόμενοι οδηγοί έρευνας και πίνακες τεκμηρίωσης, με σαφή σήμανση ότι είναι επεξηγηματικά γραφικά.
@@ -706,6 +714,12 @@ python "Use Corrupted Files Project.py" --export-index el
 python "Use Corrupted Files Project.py" --collections
 ```
 
+Εμφάνισε τις υποθέσεις που προστέθηκαν στην τελευταία επέκταση:
+
+```bash
+python "Use Corrupted Files Project.py" --new-cases
+```
+
 Εμφάνιση αποθηκευμένης προόδου:
 
 ```bash
@@ -837,3 +851,49 @@ python "Use Corrupted Files Project.py" --validate
 ## License and image attribution
 
 Repository code and original generated archive text/visuals should be distributed according to the repository owner's chosen license. Sourced photographs may have separate licenses. Always preserve the attribution information in `image_credits.json` and the source page specified for each photograph.
+
+## Continued case expansion — version 6.0 / Συνεχιζόμενη επέκταση υποθέσεων — έκδοση 6.0
+
+This release expands the archive to **390 unique bilingual cases**: **170 Greece cases** and **220 USA cases**. It adds **20 new source-backed dossiers** and **60 new Android Gallery-compatible explanatory visuals**.
+
+Current validated totals for this release:
+
+- **1,715 image references**
+- **393 rumor, misconception or disputed-claim cards**
+- **780 official research-portal links**
+- **1,148 source-discovery leads**
+- **236 cases with at least one direct case-specific source**
+- **154 research-scaffold cases whose direct-source gap remains visibly marked**
+
+
+Every case now contains three additional bilingual research sections:
+
+- **Aftermath and legacy / Συνέπειες και κληρονομιά** — immediate response, long-term effects, public memory and unfinished consequences.
+- **Accountability map / Χάρτης λογοδοσίας** — authority, knowledge, action or omission, and documented outcomes.
+- **Primary-record targets / Στόχοι πρωτογενών τεκμηρίων** — the exact categories of records needed to confirm, challenge or deepen the dossier.
+
+The new Greece dossiers cover the Goudi movement, the Noemvriana, the Idionymon law, the Campbell pogrom, the Kokkinia roundup, the Chortiatis massacre, the Varkiza Agreement, the Agia Zoni II oil spill, the Moria fires and Medicane Ianos.
+
+The new USA dossiers cover the Great Railroad Strike, Haymarket, the Wilmington coup, the East St. Louis massacre, the Memorial Day Massacre, the 1943 Detroit violence, the Orangeburg Massacre, the Trail of Broken Treaties, the Nisour Square killings and Hurricane Maria in Puerto Rico.
+
+Η έκδοση επεκτείνει το αρχείο σε **390 μοναδικές δίγλωσσες υποθέσεις**: **170 υποθέσεις Ελλάδας** και **220 υποθέσεις ΗΠΑ**. Προσθέτει **20 νέους φακέλους με άμεσες πηγές** και **60 νέα επεξηγηματικά γραφικά συμβατά με Android Gallery**.
+
+Τρέχοντα επαληθευμένα σύνολα της έκδοσης:
+
+- **1.715 αναφορές εικόνων**
+- **393 κάρτες φημών, παρανοήσεων ή αμφισβητούμενων ισχυρισμών**
+- **780 σύνδεσμοι επίσημων ερευνητικών πυλών**
+- **1.148 αφετηρίες εντοπισμού πηγών**
+- **236 υποθέσεις με τουλάχιστον μία άμεση ειδική πηγή**
+- **154 ερευνητικοί σκελετοί των οποίων το κενό άμεσων πηγών παραμένει εμφανές**
+
+
+Κάθε υπόθεση περιλαμβάνει πλέον τρεις πρόσθετες δίγλωσσες ερευνητικές ενότητες:
+
+- **Συνέπειες και κληρονομιά / Aftermath and legacy** — άμεση αντίδραση, μακροχρόνιες επιπτώσεις, δημόσια μνήμη και ανολοκλήρωτες συνέπειες.
+- **Χάρτης λογοδοσίας / Accountability map** — αρμοδιότητα, γνώση, πράξη ή παράλειψη και τεκμηριωμένα αποτελέσματα.
+- **Στόχοι πρωτογενών τεκμηρίων / Primary-record targets** — οι ακριβείς κατηγορίες αρχείων που χρειάζονται για επιβεβαίωση, αμφισβήτηση ή εμβάθυνση του φακέλου.
+
+Οι νέοι ελληνικοί φάκελοι καλύπτουν το κίνημα στο Γουδί, τα Νοεμβριανά, το Ιδιώνυμο, το πογκρόμ του Κάμπελ, το Μπλόκο της Κοκκινιάς, τη σφαγή του Χορτιάτη, τη Συμφωνία της Βάρκιζας, την πετρελαιοκηλίδα του Αγία Ζώνη ΙΙ, τις πυρκαγιές στη Μόρια και τον μεσογειακό κυκλώνα Ιανό.
+
+Οι νέοι αμερικανικοί φάκελοι καλύπτουν τη Μεγάλη Απεργία των Σιδηροδρόμων, το Χέιμαρκετ, το πραξικόπημα του Γουίλμινγκτον, τη σφαγή του Ανατολικού Σεντ Λούις, τη Σφαγή της Ημέρας Μνήμης, τη βία στο Ντιτρόιτ το 1943, τη Σφαγή του Όραντζμπεργκ, την Πορεία των Παραβιασμένων Συνθηκών, τις δολοφονίες στην πλατεία Νισούρ και τον τυφώνα Μαρία στο Πουέρτο Ρίκο.

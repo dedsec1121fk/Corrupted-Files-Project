@@ -71,6 +71,13 @@ def local(record: dict, field: str, lang: str) -> str:
     return str(value or "")
 
 
+def rumor_status_text(rumor: dict, lang: str) -> str:
+    value = rumor.get("status", "unknown")
+    if isinstance(value, dict):
+        return str(value.get(lang) or value.get("en") or "unknown")
+    return str(value)
+
+
 def local_list(record: dict, field: str, lang: str) -> list[str]:
     value = record.get(field, {})
     if not isinstance(value, dict):
@@ -343,7 +350,7 @@ def record_text(record: dict) -> str:
     ]
     for field in ("title", "category", "evidence", "summary"):
         values.extend([local(record, field, "en"), local(record, field, "el")])
-    for field in ("full_story", "details", "timeline", "facts", "key_questions", "investigation_plan", "verification_notes"):
+    for field in ("full_story", "details", "deep_dive", "aftermath_legacy", "accountability_map", "primary_record_targets", "timeline", "facts", "key_questions", "investigation_plan", "verification_notes"):
         values.extend(local_list(record, field, "en"))
         values.extend(local_list(record, field, "el"))
     values.extend([local(record, "source_gap", "en"), local(record, "source_gap", "el")])
@@ -429,7 +436,10 @@ def archive_completeness(record: dict) -> int:
     score += 6 if local_list(record, "key_questions", "en") and local_list(record, "key_questions", "el") else 0
     score += 6 if local_list(record, "investigation_plan", "en") and local_list(record, "investigation_plan", "el") else 0
     score += 6 if local(record, "source_gap", "en") and local(record, "source_gap", "el") else 0
-    score += 6 if len(record.get("images") or []) >= 4 else 0
+    score += 4 if local_list(record, "aftermath_legacy", "en") and local_list(record, "aftermath_legacy", "el") else 0
+    score += 4 if local_list(record, "accountability_map", "en") and local_list(record, "accountability_map", "el") else 0
+    score += 4 if local_list(record, "primary_record_targets", "en") and local_list(record, "primary_record_targets", "el") else 0
+    score += 6 if len(record.get("images") or []) >= 4 else 3 if len(record.get("images") or []) >= 3 else 0
     sources = len(record.get("sources") or [])
     cap = 72 if sources == 0 else 84 if sources == 1 else 92 if sources == 2 else 100
     return min(cap, score)
@@ -691,7 +701,7 @@ def rumors_block(record: dict, lang: str) -> None:
         kind = str(rumor.get("type", "case-specific-rumor"))
         wrap(f"{index}. {local(rumor, 'claim', lang)}")
         wrap(("Type: " if lang == "en" else "Τύπος: ") + kind, "   ")
-        wrap(("Status: " if lang == "en" else "Κατάσταση: ") + str(rumor.get("status", "unknown")), "   ")
+        wrap(("Status: " if lang == "en" else "Κατάσταση: ") + rumor_status_text(rumor, lang), "   ")
         wrap(local(rumor, "assessment", lang), "   ")
         if index < len(rumors):
             print()
@@ -716,6 +726,10 @@ def export_record(record: dict, lang: str) -> None:
     labels = {
         "full_story": ("Full story", "Πλήρης αφήγηση"),
         "details": ("Details", "Λεπτομέρειες"),
+        "deep_dive": ("Deep dive", "Εμβάθυνση"),
+        "aftermath_legacy": ("Aftermath and legacy", "Συνέπειες και κληρονομιά"),
+        "accountability_map": ("Accountability map", "Χάρτης λογοδοσίας"),
+        "primary_record_targets": ("Primary-record targets", "Στόχοι πρωτογενών τεκμηρίων"),
         "timeline": ("Timeline", "Χρονολόγιο"),
         "facts": ("Key facts", "Βασικά στοιχεία"),
         "key_questions": ("Questions to test", "Ερωτήματα προς έλεγχο"),
@@ -740,7 +754,7 @@ def export_record(record: dict, lang: str) -> None:
         ]
         for rumor in record["rumors"]:
             output += [
-                f"- {local(rumor, 'claim', lang)} [{rumor.get('status', '')}]",
+                f"- {local(rumor, 'claim', lang)} [{rumor_status_text(rumor, lang)}]",
                 "  " + local(rumor, "assessment", lang),
             ]
     if record.get("research_queries"):
@@ -939,6 +953,10 @@ def show_record(record: dict, lang: str, state: dict, credits: dict[str, dict]) 
         case_brief_block(record, lang)
         items("Full story" if lang == "en" else "Πλήρης αφήγηση", local_list(record, "full_story", lang))
         items("Details" if lang == "en" else "Λεπτομέρειες", local_list(record, "details", lang))
+        items("Deep dive" if lang == "en" else "Εμβάθυνση", local_list(record, "deep_dive", lang))
+        items("Aftermath and legacy" if lang == "en" else "Συνέπειες και κληρονομιά", local_list(record, "aftermath_legacy", lang))
+        items("Accountability map" if lang == "en" else "Χάρτης λογοδοσίας", local_list(record, "accountability_map", lang))
+        items("Primary-record targets" if lang == "en" else "Στόχοι πρωτογενών τεκμηρίων", local_list(record, "primary_record_targets", lang))
         items("Timeline" if lang == "en" else "Χρονολόγιο", local_list(record, "timeline", lang))
         items("Key facts" if lang == "en" else "Βασικά στοιχεία", local_list(record, "facts", lang))
         items("Questions to test" if lang == "en" else "Ερωτήματα προς έλεγχο", local_list(record, "key_questions", lang))
@@ -1175,6 +1193,10 @@ def stats(records: list[dict], lang: str, credits: dict[str, dict]) -> None:
     print(f"Gallery-compatible images / Εικόνες συμβατές με Gallery: {gallery_ready}")
     print(f"Credited event/source photos / Φωτογραφίες με άδεια: {len(credits)}")
     print(f"Cases with sources / Υποθέσεις με πηγές: {sum(bool(record.get('sources')) for record in records)}")
+    print(f"New in v6.0 / Νέα στην v6.0: {sum(str(record.get('added_in_version', '')) == '6.0' for record in records)}")
+    print(f"Aftermath sections / Ενότητες συνεπειών: {sum(bool(local_list(record, 'aftermath_legacy', 'en') and local_list(record, 'aftermath_legacy', 'el')) for record in records)}")
+    print(f"Accountability maps / Χάρτες λογοδοσίας: {sum(bool(local_list(record, 'accountability_map', 'en') and local_list(record, 'accountability_map', 'el')) for record in records)}")
+    print(f"Primary-record target sets / Σύνολα στόχων τεκμηρίων: {sum(bool(local_list(record, 'primary_record_targets', 'en') and local_list(record, 'primary_record_targets', 'el')) for record in records)}")
     average = round(sum(archive_completeness(record) for record in records) / max(1, len(records)), 1)
     print(f"Average archive completeness / Μέση πληρότητα: {average}%")
     print("\nEvidence tiers / Επίπεδα:")
@@ -1357,6 +1379,10 @@ def export_record_html(record: dict, lang: str, credits: dict[str, dict] | None 
     labels = {
         "full_story": "Full story" if lang == "en" else "Πλήρης αφήγηση",
         "details": "Details" if lang == "en" else "Λεπτομέρειες",
+        "deep_dive": "Deep dive" if lang == "en" else "Εμβάθυνση",
+        "aftermath_legacy": "Aftermath and legacy" if lang == "en" else "Συνέπειες και κληρονομιά",
+        "accountability_map": "Accountability map" if lang == "en" else "Χάρτης λογοδοσίας",
+        "primary_record_targets": "Primary-record targets" if lang == "en" else "Στόχοι πρωτογενών τεκμηρίων",
         "timeline": "Timeline" if lang == "en" else "Χρονολόγιο",
         "facts": "Key facts" if lang == "en" else "Βασικά στοιχεία",
         "key_questions": "Questions to test" if lang == "en" else "Ερωτήματα προς έλεγχο",
@@ -1392,7 +1418,7 @@ def export_record_html(record: dict, lang: str, credits: dict[str, dict] | None 
         for rumor in record.get("rumors") or []:
             rows.append(
                 "<article class='rumor'><h3>" + escape(local(rumor, "claim", lang)) + "</h3>"
-                + f"<p><strong>Status:</strong> {escape(str(rumor.get('status','unknown')))}</p>"
+                + f"<p><strong>Status:</strong> {escape(rumor_status_text(rumor, lang))}</p>"
                 + f"<p>{escape(local(rumor, 'assessment', lang))}</p></article>"
             )
         body.append("<section><h2>" + ("Rumors, misconceptions & disputed claims" if lang == "en" else "Φήμες, παρανοήσεις & αμφισβητούμενοι ισχυρισμοί") + "</h2>" + "".join(rows) + "</section>")
@@ -1586,6 +1612,12 @@ def my_archive_menu(records: list[dict], lang: str, state: dict, credits: dict[s
         elif choice=='4': study_mode(records,lang,state,credits)
 
 
+def new_in_expansion(records: list[dict], lang: str, state: dict, credits: dict[str, dict]) -> None:
+    pool = [record for record in records if str(record.get("added_in_version", "")) == "6.0"]
+    pool.sort(key=lambda record: (record.get("country", ""), int(record.get("year", 0)), local(record, "title", "en")))
+    choose(pool, lang, state, credits, "New in v6.0 / Νέα στην έκδοση 6.0")
+
+
 def research_tools_menu(records: list[dict], lang: str, state: dict, credits: dict[str, dict]) -> None:
     while True:
         banner(lang); print(color('title','RESEARCH TOOLS' if lang=='en' else 'ΕΡΓΑΛΕΙΑ ΕΡΕΥΝΑΣ')); line()
@@ -1594,6 +1626,7 @@ def research_tools_menu(records: list[dict], lang: str, state: dict, credits: di
         print('3. Compare two cases / Σύγκριση δύο υποθέσεων')
         print('4. Chronology explorer / Χρονολογική εξερεύνηση')
         print('5. Export searchable HTML index / Εξαγωγή ευρετηρίου HTML')
+        print('6. New in this expansion / Νέα σε αυτή την επέκταση')
         print('[Enter] Back')
         choice=input('> ').strip()
         if not choice:return
@@ -1604,6 +1637,7 @@ def research_tools_menu(records: list[dict], lang: str, state: dict, credits: di
         elif choice=='5':
             path=export_archive_index(records,lang)
             if input('Open now? / Άνοιγμα τώρα; [y/N]: ').strip().lower() in {'y','yes','ν','ναι'}: open_path(path)
+        elif choice=='6': new_in_expansion(records,lang,state,credits)
 
 
 def termux_support_menu(lang: str) -> None:
@@ -1677,7 +1711,7 @@ def help_screen(lang: str) -> None:
     print("5. The system app chooser lets you select Gallery, Google Photos or another viewer.")
     print("\nNo Termux:API add-on is required for the archive reader.")
     print("\nREADME.md contains the full English and Greek installation, feature, evidence and troubleshooting guide.")
-    print("The reader also includes guided topic collections, reading progress, study mode, source auditing and HTML dossier exports.")
+    print("The reader also includes guided topic collections, reading progress, study mode, source auditing, new-expansion browsing, aftermath and legacy analysis, accountability maps, primary-record targets and HTML dossier exports.")
     pause()
 
 
@@ -1753,7 +1787,8 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
             "key_questions", "investigation_plan", "verification_notes", "source_gap",
             "research_portals", "source_leads", "rumors", "editorial_note",
             "schema_version", "topic_tags", "source_strength", "reading_metrics",
-            "case_brief", "editorial_review",
+            "case_brief", "editorial_review", "deep_dive",
+            "aftermath_legacy", "accountability_map", "primary_record_targets",
         )
         for key in required:
             if key not in record or record.get(key) in (None, "", [], {}):
@@ -1766,7 +1801,9 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
                 if field == "summary" and len(norm(value).split()) < 12:
                     errors.append(f"{record_id}: {field}.{lang} is too short")
         for field, minimum in (
-            ("full_story", 6), ("details", 6), ("timeline", 5), ("facts", 6),
+            ("full_story", 6), ("details", 6), ("deep_dive", 4),
+            ("aftermath_legacy", 4), ("accountability_map", 4), ("primary_record_targets", 4),
+            ("timeline", 5), ("facts", 6),
             ("key_questions", 3), ("investigation_plan", 3), ("verification_notes", 2),
         ):
             for lang in ("en", "el"):
@@ -1781,9 +1818,9 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
                     elif normalized in local_seen:
                         errors.append(f"{record_id}: repeated line in {field}.{lang}: {line_value[:80]}")
                     local_seen.add(normalized)
-                    if field in ("full_story", "details") and len(normalized.split()) >= 18:
+                    if field in ("full_story", "details", "deep_dive", "aftermath_legacy", "accountability_map", "primary_record_targets") and len(normalized.split()) >= 18:
                         prose_index.setdefault((lang, normalized), []).append(record_id)
-        if str(record.get("schema_version")) != "4.0":
+        if str(record.get("schema_version")) != "6.0":
             errors.append(f"{record_id}: unexpected schema version")
         if not topic_keys(record):
             errors.append(f"{record_id}: no topic collection tags")
@@ -1833,6 +1870,10 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
         "full_story_bilingual": sum(bool(local_list(r, "full_story", "en") and local_list(r, "full_story", "el")) for r in records),
         "timeline_bilingual": sum(bool(local_list(r, "timeline", "en") and local_list(r, "timeline", "el")) for r in records),
         "facts_bilingual": sum(bool(local_list(r, "facts", "en") and local_list(r, "facts", "el")) for r in records),
+        "aftermath_legacy_bilingual": sum(bool(local_list(r, "aftermath_legacy", "en") and local_list(r, "aftermath_legacy", "el")) for r in records),
+        "accountability_map_bilingual": sum(bool(local_list(r, "accountability_map", "en") and local_list(r, "accountability_map", "el")) for r in records),
+        "primary_record_targets_bilingual": sum(bool(local_list(r, "primary_record_targets", "en") and local_list(r, "primary_record_targets", "el")) for r in records),
+        "new_in_version_6": sum(str(r.get("added_in_version", "")) == "6.0" for r in records),
         "rumor_or_misconception_cards": sum(len(r.get("rumors") or []) for r in records),
         "case_specific_rumor_cards": case_rumor_cards,
         "analytical_caution_cards": analytical_cards,
@@ -1861,6 +1902,7 @@ def main() -> int:
     parser.add_argument("--export-index", nargs="?", const="en", choices=["en", "el"], help="Export searchable HTML archive index")
     parser.add_argument("--export-html", metavar="CASE_ID", help="Export one case as a standalone HTML dossier")
     parser.add_argument("--collections", action="store_true", help="List guided topic collections")
+    parser.add_argument("--new-cases", action="store_true", help="List cases added in the latest expansion")
     parser.add_argument("--progress", action="store_true", help="Print reading and study progress")
     parser.add_argument("--termux-check", action="store_true", help="Check Termux, storage and Android integration")
     parser.add_argument("--backup-state", action="store_true", help="Back up notes, bookmarks and progress to Downloads")
@@ -1901,6 +1943,10 @@ def main() -> int:
         path = export_record_html(record, "en", credits)
         print(path)
         return 0
+    if args.new_cases:
+        for record in sorted((r for r in records if str(r.get("added_in_version", "")) == "6.0"), key=lambda r: (r.get("country", ""), int(r.get("year", 0)), local(r, "title", "en"))):
+            print(f"{record.get('id')} | {record.get('country')} | {record.get('year')} | {local(record, 'title', 'en')} | {local(record, 'title', 'el')}")
+        return 0
     if args.collections:
         for key, labels in COLLECTION_LABELS.items():
             count = sum(key in topic_keys(record) for record in records)
@@ -1939,8 +1985,12 @@ def main() -> int:
                     "full_story_greek": sum(bool(local_list(record, "full_story", "el")) for record in records),
                     "timeline_bilingual": sum(bool(local_list(record, "timeline", "en") and local_list(record, "timeline", "el")) for record in records),
                     "facts_bilingual": sum(bool(local_list(record, "facts", "en") and local_list(record, "facts", "el")) for record in records),
+                    "aftermath_legacy_bilingual": sum(bool(local_list(record, "aftermath_legacy", "en") and local_list(record, "aftermath_legacy", "el")) for record in records),
+                    "accountability_map_bilingual": sum(bool(local_list(record, "accountability_map", "en") and local_list(record, "accountability_map", "el")) for record in records),
+                    "primary_record_targets_bilingual": sum(bool(local_list(record, "primary_record_targets", "en") and local_list(record, "primary_record_targets", "el")) for record in records),
+                    "new_in_version_6": sum(str(record.get("added_in_version", "")) == "6.0" for record in records),
                     "research_notebook_ready": True,
-                    "schema_version": "4.0",
+                    "schema_version": "6.0",
                     "guided_collections": len(COLLECTION_LABELS),
                     "topic_tag_assignments": sum(len(topic_keys(record)) for record in records),
                     "source_strength_levels": dict(Counter(str(record.get("source_strength", {}).get("key", "unknown")) for record in records)),
