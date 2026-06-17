@@ -350,7 +350,7 @@ def record_text(record: dict) -> str:
     ]
     for field in ("title", "category", "evidence", "summary"):
         values.extend([local(record, field, "en"), local(record, field, "el")])
-    for field in ("full_story", "details", "deep_dive", "aftermath_legacy", "accountability_map", "primary_record_targets", "timeline", "facts", "key_questions", "investigation_plan", "verification_notes"):
+    for field in ("full_story", "details", "deep_dive", "aftermath_legacy", "accountability_map", "primary_record_targets", "people_institutions", "evidence_conflicts", "media_memory", "next_reading_path", "timeline", "facts", "key_questions", "investigation_plan", "verification_notes"):
         values.extend(local_list(record, field, "en"))
         values.extend(local_list(record, field, "el"))
     values.extend([local(record, "source_gap", "en"), local(record, "source_gap", "el")])
@@ -730,6 +730,10 @@ def export_record(record: dict, lang: str) -> None:
         "aftermath_legacy": ("Aftermath and legacy", "Συνέπειες και κληρονομιά"),
         "accountability_map": ("Accountability map", "Χάρτης λογοδοσίας"),
         "primary_record_targets": ("Primary-record targets", "Στόχοι πρωτογενών τεκμηρίων"),
+        "people_institutions": ("People and institutions", "Πρόσωπα και θεσμοί"),
+        "evidence_conflicts": ("Evidence conflicts and uncertainty", "Συγκρούσεις τεκμηρίων και αβεβαιότητα"),
+        "media_memory": ("Media framing and public memory", "Μέσα ενημέρωσης και δημόσια μνήμη"),
+        "next_reading_path": ("Next reading path", "Επόμενη διαδρομή μελέτης"),
         "timeline": ("Timeline", "Χρονολόγιο"),
         "facts": ("Key facts", "Βασικά στοιχεία"),
         "key_questions": ("Questions to test", "Ερωτήματα προς έλεγχο"),
@@ -957,6 +961,10 @@ def show_record(record: dict, lang: str, state: dict, credits: dict[str, dict]) 
         items("Aftermath and legacy" if lang == "en" else "Συνέπειες και κληρονομιά", local_list(record, "aftermath_legacy", lang))
         items("Accountability map" if lang == "en" else "Χάρτης λογοδοσίας", local_list(record, "accountability_map", lang))
         items("Primary-record targets" if lang == "en" else "Στόχοι πρωτογενών τεκμηρίων", local_list(record, "primary_record_targets", lang))
+        items("People and institutions" if lang == "en" else "Πρόσωπα και θεσμοί", local_list(record, "people_institutions", lang))
+        items("Evidence conflicts and uncertainty" if lang == "en" else "Συγκρούσεις τεκμηρίων και αβεβαιότητα", local_list(record, "evidence_conflicts", lang))
+        items("Media framing and public memory" if lang == "en" else "Μέσα ενημέρωσης και δημόσια μνήμη", local_list(record, "media_memory", lang))
+        items("Next reading path" if lang == "en" else "Επόμενη διαδρομή μελέτης", local_list(record, "next_reading_path", lang))
         items("Timeline" if lang == "en" else "Χρονολόγιο", local_list(record, "timeline", lang))
         items("Key facts" if lang == "en" else "Βασικά στοιχεία", local_list(record, "facts", lang))
         items("Questions to test" if lang == "en" else "Ερωτήματα προς έλεγχο", local_list(record, "key_questions", lang))
@@ -1197,6 +1205,10 @@ def stats(records: list[dict], lang: str, credits: dict[str, dict]) -> None:
     print(f"Aftermath sections / Ενότητες συνεπειών: {sum(bool(local_list(record, 'aftermath_legacy', 'en') and local_list(record, 'aftermath_legacy', 'el')) for record in records)}")
     print(f"Accountability maps / Χάρτες λογοδοσίας: {sum(bool(local_list(record, 'accountability_map', 'en') and local_list(record, 'accountability_map', 'el')) for record in records)}")
     print(f"Primary-record target sets / Σύνολα στόχων τεκμηρίων: {sum(bool(local_list(record, 'primary_record_targets', 'en') and local_list(record, 'primary_record_targets', 'el')) for record in records)}")
+    print(f"People/institution maps / Χάρτες προσώπων και θεσμών: {sum(bool(local_list(record, 'people_institutions', 'en') and local_list(record, 'people_institutions', 'el')) for record in records)}")
+    print(f"Evidence-conflict reviews / Έλεγχοι συγκρούσεων τεκμηρίων: {sum(bool(local_list(record, 'evidence_conflicts', 'en') and local_list(record, 'evidence_conflicts', 'el')) for record in records)}")
+    print(f"Media-memory reviews / Έλεγχοι δημόσιας μνήμης: {sum(bool(local_list(record, 'media_memory', 'en') and local_list(record, 'media_memory', 'el')) for record in records)}")
+    print(f"Reading paths / Διαδρομές μελέτης: {sum(bool(local_list(record, 'next_reading_path', 'en') and local_list(record, 'next_reading_path', 'el')) for record in records)}")
     average = round(sum(archive_completeness(record) for record in records) / max(1, len(records)), 1)
     print(f"Average archive completeness / Μέση πληρότητα: {average}%")
     print("\nEvidence tiers / Επίπεδα:")
@@ -1383,6 +1395,10 @@ def export_record_html(record: dict, lang: str, credits: dict[str, dict] | None 
         "aftermath_legacy": "Aftermath and legacy" if lang == "en" else "Συνέπειες και κληρονομιά",
         "accountability_map": "Accountability map" if lang == "en" else "Χάρτης λογοδοσίας",
         "primary_record_targets": "Primary-record targets" if lang == "en" else "Στόχοι πρωτογενών τεκμηρίων",
+        "people_institutions": "People and institutions" if lang == "en" else "Πρόσωπα και θεσμοί",
+        "evidence_conflicts": "Evidence conflicts and uncertainty" if lang == "en" else "Συγκρούσεις τεκμηρίων και αβεβαιότητα",
+        "media_memory": "Media framing and public memory" if lang == "en" else "Μέσα ενημέρωσης και δημόσια μνήμη",
+        "next_reading_path": "Next reading path" if lang == "en" else "Επόμενη διαδρομή μελέτης",
         "timeline": "Timeline" if lang == "en" else "Χρονολόγιο",
         "facts": "Key facts" if lang == "en" else "Βασικά στοιχεία",
         "key_questions": "Questions to test" if lang == "en" else "Ερωτήματα προς έλεγχο",
@@ -1788,7 +1804,7 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
             "research_portals", "source_leads", "rumors", "editorial_note",
             "schema_version", "topic_tags", "source_strength", "reading_metrics",
             "case_brief", "editorial_review", "deep_dive",
-            "aftermath_legacy", "accountability_map", "primary_record_targets",
+            "aftermath_legacy", "accountability_map", "primary_record_targets", "people_institutions", "evidence_conflicts", "media_memory", "next_reading_path",
         )
         for key in required:
             if key not in record or record.get(key) in (None, "", [], {}):
@@ -1802,7 +1818,7 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
                     errors.append(f"{record_id}: {field}.{lang} is too short")
         for field, minimum in (
             ("full_story", 6), ("details", 6), ("deep_dive", 4),
-            ("aftermath_legacy", 4), ("accountability_map", 4), ("primary_record_targets", 4),
+            ("aftermath_legacy", 4), ("accountability_map", 4), ("primary_record_targets", 4), ("people_institutions", 4), ("evidence_conflicts", 4), ("media_memory", 4), ("next_reading_path", 4),
             ("timeline", 5), ("facts", 6),
             ("key_questions", 3), ("investigation_plan", 3), ("verification_notes", 2),
         ):

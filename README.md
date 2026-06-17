@@ -1,18 +1,106 @@
 # Corrupted Files Project
 
-A bilingual, offline research archive for historical events, public-interest cases, institutional failures, disputed claims, rumors, political scandals, disasters, surveillance programs, civil-rights cases, and unresolved questions from **Greece and the United States**.
-
-The project is built, tested, and supported **only for Termux on Android**. It works offline, does not require a server, and uses only Python's standard library.
-
-> The archive is a research and learning tool, not a verdict machine. A record can contain documented facts, disputed interpretations, incomplete source trails, or analytical warnings. Always inspect the source links and context before using a case as a formal reference.
-
----
+> **Termux-only bilingual historical research archive for Android.**
 
 ## English
 
-### What is included
+The paired bilingual sections below follow the same expandable English/Greek format used in the DedSec Sponsors documentation. This project is **Termux on Android only**.
 
-The repository has four root items:
+## Ελληνικά
+
+Οι παρακάτω δίγλωσσες ενότητες ακολουθούν την ίδια αναπτυσσόμενη μορφή Αγγλικών/Ελληνικών που χρησιμοποιείται στην τεκμηρίωση των Sponsors του DedSec Project. Το project λειτουργεί **μόνο Termux σε Android**.
+
+---
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+The **Corrupted Files Project** is an offline bilingual research archive created for **Android + Termux**. It organizes public-interest cases from Greece and the United States into readable dossiers with stories, timelines, evidence warnings, disputed claims, source trails, images, research questions, and personal study tools.
+
+The program is not a verdict machine and it does not present every allegation as fact. Each record separates documented material, interpretation, uncertainty, rumor, and open research questions.
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Το **Corrupted Files Project** είναι ένα offline δίγλωσσο ερευνητικό αρχείο για **Android + Termux**. Οργανώνει υποθέσεις δημόσιου ενδιαφέροντος από την Ελλάδα και τις Ηνωμένες Πολιτείες σε αναγνώσιμους φακέλους με αφηγήσεις, χρονολόγια, προειδοποιήσεις τεκμηρίωσης, αμφισβητούμενους ισχυρισμούς, διαδρομές πηγών, εικόνες, ερευνητικά ερωτήματα και προσωπικά εργαλεία μελέτης.
+
+Το πρόγραμμα δεν λειτουργεί ως μηχανή έκδοσης ετυμηγορίας και δεν παρουσιάζει κάθε καταγγελία ως γεγονός. Κάθε εγγραφή διαχωρίζει το τεκμηριωμένο υλικό, την ερμηνεία, την αβεβαιότητα, τη φήμη και τα ανοικτά ερευνητικά ερωτήματα.
+
+</details>
+
+## Table of Contents / Πίνακας Περιεχομένων
+
+- [Installation / Εγκατάσταση](#installation--εγκατάσταση)
+- [Repository Structure / Δομή Αποθετηρίου](#repository-structure--δομή-αποθετηρίου)
+- [What Every Case Contains / Τι Περιέχει Κάθε Υπόθεση](#what-every-case-contains--τι-περιέχει-κάθε-υπόθεση)
+- [Main Features / Βασικές Λειτουργίες](#main-features--βασικές-λειτουργίες)
+- [Android Gallery / Συλλογή Android](#android-gallery--συλλογή-android)
+- [Evidence and Rumors / Τεκμήρια και Φήμες](#evidence-and-rumors--τεκμήρια-και-φήμες)
+- [Research Workflow / Ροή Έρευνας](#research-workflow--ροή-έρευνας)
+- [Commands / Εντολές](#commands--εντολές)
+- [Personal Data / Προσωπικά Δεδομένα](#personal-data--προσωπικά-δεδομένα)
+- [Troubleshooting / Αντιμετώπιση Προβλημάτων](#troubleshooting--αντιμετώπιση-προβλημάτων)
+- [Contributing / Συνεισφορά](#contributing--συνεισφορά)
+- [Disclaimer / Αποποίηση Ευθύνης](#disclaimer--αποποίηση-ευθύνης)
+
+## Installation / Εγκατάσταση
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+Install the required Termux packages:
+
+```bash
+pkg update -y
+pkg install python git unzip -y
+termux-setup-storage
+```
+
+Allow Android storage access when requested. Clone and launch the repository:
+
+```bash
+cd ~
+git clone https://github.com/dedsec1121fk/Corrupted-Files-Project.git
+cd Corrupted-Files-Project
+python "Use Corrupted Files Project.py"
+```
+
+The project is supported only inside Termux on Android.
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Εγκατέστησε τα απαραίτητα πακέτα στο Termux:
+
+```bash
+pkg update -y
+pkg install python git unzip -y
+termux-setup-storage
+```
+
+Δώσε άδεια πρόσβασης στην αποθήκευση όταν το ζητήσει το Android. Κάνε clone και εκκίνησε το αποθετήριο:
+
+```bash
+cd ~
+git clone https://github.com/dedsec1121fk/Corrupted-Files-Project.git
+cd Corrupted-Files-Project
+python "Use Corrupted Files Project.py"
+```
+
+Το project υποστηρίζεται μόνο μέσα από Termux σε Android.
+
+</details>
+
+## Repository Structure / Δομή Αποθετηρίου
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+The root remains intentionally simple:
 
 ```text
 Greek/
@@ -21,879 +109,328 @@ README.md
 Use Corrupted Files Project.py
 ```
 
-- `Greek/records.json` — Greece case database.
-- `Greek/Images/` — Greece case images and generated archive visuals.
-- `Greek/image_credits.json` — credits and licenses for sourced photographs.
-- `USA/records.json` — United States case database.
-- `USA/Images/` — United States case images and generated archive visuals.
-- `USA/image_credits.json` — credits and licenses for sourced photographs.
-- `Use Corrupted Files Project.py` — the only program you need to run.
+Each country folder contains its case database, image library, and image-credit registry. The Python launcher reads both databases and provides one unified interface.
 
-### Current archive scope
+</details>
 
-- 390 unique bilingual cases: 170 Greece cases and 220 USA cases.
-- Greece and USA sections.
-- Full English and Greek narratives.
-- Timelines, facts, investigation questions, verification safeguards, source gaps, and rumor assessments.
-- Separate aftermath and legacy, accountability map, and primary-record target sections in every case.
-- Android-compatible image albums.
-- Credited historical or event photographs where available.
-- Generated research guides and evidence matrices, clearly labeled as explanatory graphics.
-- Topic collections, reading progress, study mode, research notes, source auditing, case comparison, and HTML exports.
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
 
+Η ρίζα του αποθετηρίου παραμένει σκόπιμα απλή:
 
-### Supported platform: Termux on Android only
-
-This repository is intentionally Termux-only. The launcher, storage paths, Gallery integration, browser opening, exports, state backups, and diagnostics are designed around Android and Termux.
-
-Required components:
-
-- Termux on Android
-- Python installed with `pkg install python`
-- Storage permission created with `termux-setup-storage`
-- The standard Termux commands `termux-open` and `termux-open-url`
-
-The reader checks the Termux environment at startup. Run the built-in diagnostic at any time:
-
-```bash
-python "Use Corrupted Files Project.py" --termux-check
+```text
+Greek/
+USA/
+README.md
+Use Corrupted Files Project.py
 ```
 
-Back up bookmarks, reading progress, study history, and notes to the phone Downloads folder:
+Κάθε φάκελος χώρας περιέχει τη βάση υποθέσεων, τη βιβλιοθήκη εικόνων και το αρχείο πνευματικών δικαιωμάτων εικόνων. Το Python launcher διαβάζει και τις δύο βάσεις και προσφέρει ένα ενιαίο περιβάλλον.
+
+</details>
+
+## What Every Case Contains / Τι Περιέχει Κάθε Υπόθεση
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+Every dossier can include:
+
+- Bilingual title, category, evidence label, summary and case brief
+- Full story, additional details and deep-dive analysis
+- Timeline and key facts
+- Aftermath and long-term legacy
+- Accountability map and primary-record targets
+- **People and institutions map**
+- **Evidence conflicts and uncertainty review**
+- **Media framing and public-memory review**
+- **Step-by-step next reading path**
+- Rumors, misconceptions and disputed claims with status labels
+- Direct sources, source-discovery leads and official research portals
+- Android Gallery images with credits where required
+- Related cases, personal notes, bookmark and read status
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Κάθε φάκελος μπορεί να περιλαμβάνει:
+
+- Δίγλωσσο τίτλο, κατηγορία, ένδειξη τεκμηρίωσης, περίληψη και σύντομο δελτίο
+- Πλήρη αφήγηση, πρόσθετες λεπτομέρειες και εμβάθυνση
+- Χρονολόγιο και βασικά στοιχεία
+- Συνέπειες και μακροχρόνια κληρονομιά
+- Χάρτη λογοδοσίας και στόχους πρωτογενών τεκμηρίων
+- **Χάρτη προσώπων και θεσμών**
+- **Έλεγχο συγκρούσεων τεκμηρίων και αβεβαιότητας**
+- **Έλεγχο πλαισίωσης από τα μέσα και δημόσιας μνήμης**
+- **Βήμα-βήμα επόμενη διαδρομή μελέτης**
+- Φήμες, παρανοήσεις και αμφισβητούμενους ισχυρισμούς με σαφή κατάσταση
+- Άμεσες πηγές, διαδρομές εντοπισμού πηγών και επίσημες ερευνητικές πύλες
+- Εικόνες για Android Gallery με αναφορά δικαιωμάτων όπου απαιτείται
+- Σχετικές υποθέσεις, προσωπικές σημειώσεις, σελιδοδείκτη και κατάσταση ανάγνωσης
+
+</details>
+
+## Main Features / Βασικές Λειτουργίες
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+The Termux reader provides:
+
+- Accent-insensitive English and Greek search
+- Browsing by country, decade, category and evidence level
+- Guided thematic collections
+- Chronology explorer
+- Random case and recently added cases
+- Rumor and disputed-claim browser
+- Research-priority queue and source audit
+- Case comparison and related-case ranking
+- Reading progress and study quizzes
+- Private research notebook
+- TXT and standalone HTML dossier exports
+- Full searchable HTML archive index
+- Built-in validation and Termux system doctor
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Το πρόγραμμα στο Termux προσφέρει:
+
+- Αναζήτηση στα Αγγλικά και Ελληνικά χωρίς πρόβλημα με τόνους
+- Περιήγηση ανά χώρα, δεκαετία, κατηγορία και επίπεδο τεκμηρίωσης
+- Θεματικές συλλογές
+- Εξερεύνηση χρονολογίας
+- Τυχαία υπόθεση και πρόσφατα προστεθειμένες υποθέσεις
+- Περιήγηση σε φήμες και αμφισβητούμενους ισχυρισμούς
+- Ουρά ερευνητικής προτεραιότητας και έλεγχο πηγών
+- Σύγκριση υποθέσεων και κατάταξη σχετικών φακέλων
+- Πρόοδο ανάγνωσης και κουίζ μελέτης
+- Ιδιωτικό ερευνητικό σημειωματάριο
+- Εξαγωγή φακέλων σε TXT και αυτόνομο HTML
+- Πλήρες αναζητήσιμο HTML ευρετήριο
+- Ενσωματωμένο validation και Termux system doctor
+
+</details>
+
+## Android Gallery / Συλλογή Android
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+Inside a case press **`G`**. The program copies the complete case album to:
+
+```text
+/storage/emulated/0/Pictures/Corrupted Files Project/
+```
+
+It refreshes Android media indexing and opens the selected image with `termux-open`, allowing Gallery, Google Photos or another viewer. Each album includes an `IMAGE-CREDITS.txt` file.
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Μέσα σε μία υπόθεση πάτησε **`G`**. Το πρόγραμμα αντιγράφει ολόκληρο το άλμπουμ της υπόθεσης στο:
+
+```text
+/storage/emulated/0/Pictures/Corrupted Files Project/
+```
+
+Ανανεώνει την ευρετηρίαση πολυμέσων του Android και ανοίγει την επιλεγμένη εικόνα με `termux-open`, ώστε να χρησιμοποιήσεις Gallery, Google Photos ή άλλο viewer. Κάθε άλμπουμ περιλαμβάνει αρχείο `IMAGE-CREDITS.txt`.
+
+</details>
+
+## Evidence and Rumors / Τεκμήρια και Φήμες
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+Evidence labels describe the present archive state, not absolute truth. A source-backed case has attached case-specific links; a limited-source case needs stronger triangulation; a research-scaffold case offers structured leads but should not be cited as fully verified.
+
+Rumor cards identify whether an item is a documented circulating claim, disputed interpretation, common misconception, analytical caution or unsupported allegation. The assessment explains what evidence supports, weakens or leaves the claim unresolved.
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Οι ενδείξεις τεκμηρίωσης περιγράφουν την τρέχουσα κατάσταση του αρχείου και όχι απόλυτη αλήθεια. Μία υπόθεση με πηγές έχει άμεσους συνδέσμους ειδικά για το θέμα· μία υπόθεση περιορισμένων πηγών χρειάζεται ισχυρότερη διασταύρωση· ένας ερευνητικός σκελετός παρέχει οργανωμένες διαδρομές αλλά δεν πρέπει να χρησιμοποιείται ως πλήρως επαληθευμένη αναφορά.
+
+Οι κάρτες φημών δηλώνουν αν πρόκειται για καταγεγραμμένο ισχυρισμό που κυκλοφόρησε, αμφισβητούμενη ερμηνεία, κοινή παρανόηση, αναλυτική προειδοποίηση ή ατεκμηρίωτη καταγγελία. Η αξιολόγηση εξηγεί ποια τεκμήρια τον στηρίζουν, τον αποδυναμώνουν ή τον αφήνουν άλυτο.
+
+</details>
+
+## Research Workflow / Ροή Έρευνας
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+Recommended workflow:
+
+1. Read the case brief and full story.
+2. Inspect the evidence label and source-strength warning.
+3. Open the timeline, facts, people/institutions map and accountability map.
+4. Review direct sources before source-discovery portals.
+5. Record contradictions instead of deleting inconvenient versions.
+6. Inspect rumor status and evidence assessment.
+7. Use the primary-record targets and next reading path.
+8. Save findings in research notes.
+9. Export a dossier only after checking citations and image licenses.
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Προτεινόμενη ροή:
+
+1. Διάβασε το σύντομο δελτίο και την πλήρη αφήγηση.
+2. Έλεγξε την ένδειξη τεκμηρίωσης και την προειδοποίηση ισχύος πηγών.
+3. Άνοιξε το χρονολόγιο, τα βασικά στοιχεία, τον χάρτη προσώπων/θεσμών και τον χάρτη λογοδοσίας.
+4. Έλεγξε πρώτα τις άμεσες πηγές και μετά τις ερευνητικές πύλες.
+5. Κατέγραψε τις αντιφάσεις αντί να διαγράφεις τις άβολες εκδοχές.
+6. Έλεγξε την κατάσταση της φήμης και την αξιολόγηση τεκμηρίων.
+7. Χρησιμοποίησε τους στόχους πρωτογενών τεκμηρίων και την επόμενη διαδρομή μελέτης.
+8. Αποθήκευσε τα ευρήματα στις ερευνητικές σημειώσεις.
+9. Εξήγαγε έναν φάκελο μόνο αφού ελέγξεις παραπομπές και άδειες εικόνων.
+
+</details>
+
+## Commands / Εντολές
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
 
 ```bash
+python "Use Corrupted Files Project.py"
+python "Use Corrupted Files Project.py" --validate
+python "Use Corrupted Files Project.py" --stats
+python "Use Corrupted Files Project.py" --quality-report
+python "Use Corrupted Files Project.py" --termux-check
+python "Use Corrupted Files Project.py" --new-cases
+python "Use Corrupted Files Project.py" --collections
+python "Use Corrupted Files Project.py" --progress
+python "Use Corrupted Files Project.py" --case CASE_ID
+python "Use Corrupted Files Project.py" --gallery CASE_ID
+python "Use Corrupted Files Project.py" --export-html CASE_ID
+python "Use Corrupted Files Project.py" --export-index en
 python "Use Corrupted Files Project.py" --backup-state
 ```
 
-Restore a previously created state backup:
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+```bash
+python "Use Corrupted Files Project.py"
+python "Use Corrupted Files Project.py" --validate
+python "Use Corrupted Files Project.py" --stats
+python "Use Corrupted Files Project.py" --quality-report
+python "Use Corrupted Files Project.py" --termux-check
+python "Use Corrupted Files Project.py" --new-cases
+python "Use Corrupted Files Project.py" --collections
+python "Use Corrupted Files Project.py" --progress
+python "Use Corrupted Files Project.py" --case CASE_ID
+python "Use Corrupted Files Project.py" --gallery CASE_ID
+python "Use Corrupted Files Project.py" --export-html CASE_ID
+python "Use Corrupted Files Project.py" --export-index el
+python "Use Corrupted Files Project.py" --backup-state
+```
+
+Οι επιλογές CLI χρησιμοποιούν τις ίδιες βάσεις δεδομένων και τις ίδιες προειδοποιήσεις τεκμηρίωσης με το διαδραστικό μενού.
+
+</details>
+
+## Personal Data / Προσωπικά Δεδομένα
+
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
+
+Bookmarks, read status, history, notes and study scores are stored outside the repository in `~/.corrupted_files_project_state.json`. They are not uploaded by the project. Use `--backup-state` before reinstalling or replacing the repository.
+
+</details>
+
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
+
+Οι σελιδοδείκτες, η κατάσταση ανάγνωσης, το ιστορικό, οι σημειώσεις και οι βαθμολογίες μελέτης αποθηκεύονται έξω από το αποθετήριο στο `~/.corrupted_files_project_state.json`. Το project δεν τα ανεβάζει. Χρησιμοποίησε `--backup-state` πριν από επανεγκατάσταση ή αντικατάσταση του αποθετηρίου.
+
+</details>
+
+
+
+Restore a saved state backup / Επαναφορά αποθηκευμένου backup:
 
 ```bash
 python "Use Corrupted Files Project.py" --restore-state "/storage/emulated/0/Download/Corrupted Files Exports/State Backups/BACKUP.json"
 ```
 
-### Install and run in Termux
+## Troubleshooting / Αντιμετώπιση Προβλημάτων
 
-Install Python:
-
-```bash
-pkg update -y
-pkg install python git unzip -y
-```
-
-Give Termux access to your phone storage once:
-
-```bash
-termux-setup-storage
-```
-
-Allow the permission when Android asks. Then open the project folder and run:
-
-```bash
-cd ~/Corrupted-Files-Project
-python "Use Corrupted Files Project.py"
-```
-
-When the project is still in your Downloads folder:
-
-```bash
-cd /storage/emulated/0/Download/Corrupted-Files-Project
-python "Use Corrupted Files Project.py"
-```
-
-### Main features
-
-#### Search
-
-Searches English and Greek titles, aliases, full stories, timelines, facts, rumors, source leads, categories, and research questions. Greek search is accent-insensitive.
-
-#### Browse archive
-
-Browse by:
-
-- Country
-- Decade
-- Category
-- Evidence level
-- Credited event photographs
-- Full chronology
-
-#### Guided collections
-
-The reader automatically organizes cases into collections such as:
-
-- Surveillance and secrecy
-- Corruption and public money
-- State violence and policing
-- Disasters and safety failures
-- Public health and medical ethics
-- Civil rights and discrimination
-- War, coups, and foreign policy
-- Media, propaganda, and information
-- Technology, data, and infrastructure
-- Labor, economy, and inequality
-- Institutions and accountability
-- Rumors, unexplained claims, and public psychology
-
-A case can belong to more than one collection.
-
-#### Complete case view
-
-Every case view can show:
-
-- Case brief
-- Full story
-- Additional details
-- Timeline
-- Key facts
-- Questions to test
-- Investigation plan
-- Verification safeguards
-- Source gaps
-- Rumors, misconceptions, and disputed claims
-- Research queries
-- Source-discovery leads
-- Official research portals
-- Direct sources
-- Images and image credits
-- Related cases
-- Editorial review note
-
-#### Android Gallery support
-
-Open a case and press:
-
-```text
-[G] Gallery app
-```
-
-The program copies the case images into:
-
-```text
-Pictures/Corrupted Files Project/
-```
-
-Android then lets you choose Gallery, Google Photos, or another compatible image viewer. Images belonging to the same case are placed in one album, allowing normal swiping between them.
-
-Each exported album includes an `IMAGE-CREDITS.txt` file.
-
-#### Reading progress
-
-Press `[M]` inside a case to mark it read or unread. The progress dashboard shows:
-
-- Read and unread cases
-- Completion percentage
-- Bookmark count
-- Cases with research notes
-- Study-session statistics
-
-Personal progress is stored outside the repository in:
-
-```text
-~/.corrupted_files_project_state.json
-```
-
-#### Research notebook
-
-Press `[N]` inside a case to add personal notes. Notes are timestamped and kept outside the repository.
-
-#### Study mode
-
-Study mode creates short multiple-choice sessions using archive metadata and summaries. Scores are saved locally with reading progress.
-
-#### Source audit
-
-The source audit separates:
-
-- Cases with no direct case-specific source
-- Single-source cases
-- Multi-source cases
-- Frequently used source domains
-
-A source-discovery lead or archive portal is not counted as direct proof.
-
-#### Case comparison
-
-Compare two cases by year, country, category, evidence level, source count, image count, rumor count, and archive completeness.
-
-#### HTML exports
-
-Case export now creates:
-
-- A plain-text dossier
-- A standalone HTML dossier with copied images
-
-The research tools menu can also create a searchable HTML index for the complete archive.
-
-Exports are written to:
-
-```text
-Downloads/Corrupted Files Exports/
-```
-
-In Termux this normally resolves to:
-
-```text
-/storage/emulated/0/Download/Corrupted Files Exports/
-```
-
-### Command-line options
-
-Validate the complete archive:
-
-```bash
-python "Use Corrupted Files Project.py" --validate
-```
-
-Show statistics:
-
-```bash
-python "Use Corrupted Files Project.py" --stats
-```
-
-Search without opening the menu:
-
-```bash
-python "Use Corrupted Files Project.py" --search "Watergate"
-```
-
-Print one exact case as JSON:
-
-```bash
-python "Use Corrupted Files Project.py" --case CASE_ID
-```
-
-Open a case gallery:
-
-```bash
-python "Use Corrupted Files Project.py" --gallery CASE_ID
-```
-
-Copy a case album into the phone Pictures folder:
-
-```bash
-python "Use Corrupted Files Project.py" --export-images CASE_ID
-```
-
-Export a standalone English HTML dossier:
-
-```bash
-python "Use Corrupted Files Project.py" --export-html CASE_ID
-```
-
-Export the searchable archive index:
-
-```bash
-python "Use Corrupted Files Project.py" --export-index en
-python "Use Corrupted Files Project.py" --export-index el
-```
-
-List guided collections:
-
-```bash
-python "Use Corrupted Files Project.py" --collections
-```
-
-List the cases added in the latest expansion:
-
-```bash
-python "Use Corrupted Files Project.py" --new-cases
-```
-
-Show saved reading and study progress:
-
-```bash
-python "Use Corrupted Files Project.py" --progress
-python "Use Corrupted Files Project.py" --termux-check
-python "Use Corrupted Files Project.py" --backup-state
-python "Use Corrupted Files Project.py" --restore-state BACKUP.json
-```
-
-Show the research-priority order:
-
-```bash
-python "Use Corrupted Files Project.py" --quality-report
-```
-
-List rumor and misconception cards:
-
-```bash
-python "Use Corrupted Files Project.py" --rumors
-```
-
-Disable terminal colors:
-
-```bash
-python "Use Corrupted Files Project.py" --no-color
-```
-
-### Evidence and narrative labels
-
-#### Source-backed
-
-The record has direct case-specific source links. This does not prove every interpretation inside the dossier.
-
-#### Limited-source
-
-The record has a narrow direct source trail and needs independent confirmation.
-
-#### Research scaffold
-
-The record contains a narrative, research questions, archive leads, and verification guidance, but no direct case-specific source is attached yet.
-
-#### Case-specific rumor
-
-A claim historically associated with the case. The assessment explains what the current record supports, disputes, or cannot establish.
-
-#### Analytical caution
-
-A warning against a misleading simplification. It is not presented as evidence that the exact claim circulated historically.
-
-### Image labels
-
-- **Event / source photo** — a sourced image with author, license, and source-page information.
-- **Generated archive visual** — an explanatory card created for navigation or research support.
-- **Generated research guide** — a case-specific visual containing research questions and verification reminders.
-- **Evidence matrix** — a generated summary of source strength, image count, rumor count, and unresolved gaps.
-
-Generated visuals are not presented as photographs of the event.
-
-### Privacy and offline operation
-
-- The reader does not require an account.
-- The program does not upload your notes, bookmarks, history, or progress.
-- No analytics system is included.
-- No server is required.
-- Opening source links or research portals uses the Android browser and therefore requires internet access.
-
-### Troubleshooting
-
-#### Gallery does not open in Termux
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
 
 Run:
 
 ```bash
-termux-setup-storage
-```
-
-Allow storage access, restart Termux, and try again.
-
-#### Python command not found
-
-In Termux:
-
-```bash
-pkg install python -y
-```
-
-
-#### Permission denied in Downloads
-
-Move the project into the Termux home folder:
-
-```bash
-cp -r /storage/emulated/0/Download/Corrupted-Files-Project ~/
-cd ~/Corrupted-Files-Project
-python "Use Corrupted Files Project.py"
-```
-
-#### A source link no longer works
-
-Web pages move or disappear. Use the record's source-discovery leads, research queries, and official archive portals to locate an archived or updated copy. Do not silently replace a missing link with an unrelated page.
-
-#### Validation reports warnings
-
-Warnings about missing direct sources are intentional research warnings. Structural errors, missing images, duplicate IDs, malformed JSON, or incomplete required fields are reported separately as errors.
-
-### Contributing responsibly
-
-When expanding a case:
-
-1. Preserve the distinction between documented facts, allegations, interpretation, and rumor.
-2. Prefer primary documents, official records, court material, reputable archives, and independent scholarship.
-3. Add more than one source domain when possible.
-4. Record the exact image author, license, and source page.
-5. Do not present generated graphics as real photographs.
-6. Keep English and Greek sections equivalent in meaning.
-7. Avoid copied boilerplate and repeated paragraphs.
-8. Run validation before publishing changes.
-
-```bash
-python "Use Corrupted Files Project.py" --validate
-```
-
-### Important limitation
-
-The project includes cases with incomplete source trails. The presence of a narrative does not guarantee that every sentence has been independently fact-checked. The reader visibly marks source strength and research gaps so unfinished research is not disguised as certainty.
-
----
-
-## Ελληνικά
-
-Το έργο υποστηρίζεται αποκλειστικά σε Termux για Android.
-
-### Τι περιλαμβάνει
-
-Το αποθετήριο έχει τέσσερα στοιχεία στη ρίζα του:
-
-```text
-Greek/
-USA/
-README.md
-Use Corrupted Files Project.py
-```
-
-- `Greek/records.json` — βάση υποθέσεων της Ελλάδας.
-- `Greek/Images/` — εικόνες υποθέσεων και παραγόμενα αρχειακά γραφικά για την Ελλάδα.
-- `Greek/image_credits.json` — δημιουργοί και άδειες για φωτογραφίες από πηγές.
-- `USA/records.json` — βάση υποθέσεων των Ηνωμένων Πολιτειών.
-- `USA/Images/` — εικόνες υποθέσεων και παραγόμενα αρχειακά γραφικά για τις ΗΠΑ.
-- `USA/image_credits.json` — δημιουργοί και άδειες για φωτογραφίες από πηγές.
-- `Use Corrupted Files Project.py` — το μοναδικό πρόγραμμα που χρειάζεται να εκτελέσεις.
-
-### Έκταση του αρχείου
-
-- 390 μοναδικές δίγλωσσες υποθέσεις: 170 υποθέσεις Ελλάδας και 220 υποθέσεις ΗΠΑ.
-- Ενότητες Ελλάδας και ΗΠΑ.
-- Πλήρεις αφηγήσεις στα Αγγλικά και στα Ελληνικά.
-- Χρονολόγια, βασικά στοιχεία, ερευνητικά ερωτήματα, κανόνες επαλήθευσης, κενά πηγών και αξιολογήσεις φημών.
-- Ξεχωριστές ενότητες συνεπειών και κληρονομιάς, χάρτη λογοδοσίας και στόχων πρωτογενών τεκμηρίων σε κάθε υπόθεση.
-- Συλλογές εικόνων συμβατές με Android.
-- Τεκμηριωμένες ιστορικές φωτογραφίες ή φωτογραφίες γεγονότων όπου υπάρχουν.
-- Παραγόμενοι οδηγοί έρευνας και πίνακες τεκμηρίωσης, με σαφή σήμανση ότι είναι επεξηγηματικά γραφικά.
-- Θεματικές συλλογές, πρόοδος ανάγνωσης, λειτουργία μελέτης, σημειώσεις, έλεγχος πηγών, σύγκριση υποθέσεων και εξαγωγές HTML.
-
-
-### Υποστηριζόμενη πλατφόρμα: μόνο Termux σε Android
-
-Το αποθετήριο έχει σχεδιαστεί σκόπιμα αποκλειστικά για Termux. Ο launcher, οι διαδρομές αποθήκευσης, το άνοιγμα Gallery, το άνοιγμα συνδέσμων, οι εξαγωγές, τα αντίγραφα ασφαλείας και οι διαγνωστικοί έλεγχοι βασίζονται στο Android και στο Termux.
-
-Απαιτούνται:
-
-- Termux σε Android
-- Python μέσω `pkg install python`
-- Άδεια αποθήκευσης μέσω `termux-setup-storage`
-- Οι βασικές εντολές `termux-open` και `termux-open-url` του Termux
-
-Έλεγξε οποιαδήποτε στιγμή τη ρύθμιση του Termux:
-
-```bash
 python "Use Corrupted Files Project.py" --termux-check
 ```
 
-Δημιούργησε αντίγραφο ασφαλείας για σελιδοδείκτες, πρόοδο, αποτελέσματα μελέτης και σημειώσεις στις Λήψεις του κινητού:
+If Gallery or exports fail, run `termux-setup-storage` again and verify that `~/storage/downloads` and `~/storage/pictures` exist. If the database does not load, run `--validate`. If the project was extracted inside Downloads and Android blocks execution, move it to Termux home with `cp -r` and run it from `~/Corrupted-Files-Project`.
 
-```bash
-python "Use Corrupted Files Project.py" --backup-state
-```
+</details>
 
-Επανέφερε ένα προηγούμενο αντίγραφο κατάστασης:
-
-```bash
-python "Use Corrupted Files Project.py" --restore-state "/storage/emulated/0/Download/Corrupted Files Exports/State Backups/BACKUP.json"
-```
-
-### Εγκατάσταση και εκτέλεση στο Termux
-
-Εγκατάστησε την Python:
-
-```bash
-pkg update -y
-pkg install python git unzip -y
-```
-
-Δώσε μία φορά στο Termux πρόσβαση στον αποθηκευτικό χώρο:
-
-```bash
-termux-setup-storage
-```
-
-Δέξου την άδεια όταν τη ζητήσει το Android. Μετά άνοιξε τον φάκελο του έργου και εκτέλεσε:
-
-```bash
-cd ~/Corrupted-Files-Project
-python "Use Corrupted Files Project.py"
-```
-
-Αν το έργο βρίσκεται ακόμη στις Λήψεις:
-
-```bash
-cd /storage/emulated/0/Download/Corrupted-Files-Project
-python "Use Corrupted Files Project.py"
-```
-
-### Κύριες λειτουργίες
-
-#### Αναζήτηση
-
-Η αναζήτηση ελέγχει αγγλικούς και ελληνικούς τίτλους, εναλλακτικές ονομασίες, πλήρεις αφηγήσεις, χρονολόγια, στοιχεία, φήμες, αφετηρίες πηγών, κατηγορίες και ερευνητικά ερωτήματα. Η ελληνική αναζήτηση λειτουργεί και χωρίς τόνους.
-
-#### Περιήγηση αρχείου
-
-Μπορείς να περιηγηθείς ανά:
-
-- Χώρα
-- Δεκαετία
-- Κατηγορία
-- Επίπεδο τεκμηρίωσης
-- Τεκμηριωμένες φωτογραφίες γεγονότων
-- Πλήρη χρονολογική σειρά
-
-#### Θεματικές συλλογές
-
-Ο αναγνώστης οργανώνει αυτόματα τις υποθέσεις σε συλλογές όπως:
-
-- Επιτήρηση και μυστικότητα
-- Διαφθορά και δημόσιο χρήμα
-- Κρατική βία και αστυνόμευση
-- Καταστροφές και αποτυχίες ασφάλειας
-- Δημόσια υγεία και ιατρική ηθική
-- Πολιτικά δικαιώματα και διακρίσεις
-- Πόλεμος, πραξικοπήματα και εξωτερική πολιτική
-- Μέσα, προπαγάνδα και πληροφορία
-- Τεχνολογία, δεδομένα και υποδομές
-- Εργασία, οικονομία και ανισότητα
-- Θεσμοί και λογοδοσία
-- Φήμες, ανεξήγητοι ισχυρισμοί και δημόσια ψυχολογία
-
-Μία υπόθεση μπορεί να ανήκει σε περισσότερες από μία συλλογές.
-
-#### Πλήρης προβολή υπόθεσης
-
-Κάθε υπόθεση μπορεί να εμφανίσει:
-
-- Συνοπτικό φάκελο
-- Πλήρη αφήγηση
-- Πρόσθετες λεπτομέρειες
-- Χρονολόγιο
-- Βασικά στοιχεία
-- Ερωτήματα προς έλεγχο
-- Σχέδιο έρευνας
-- Κανόνες επαλήθευσης
-- Κενά πηγών
-- Φήμες, παρανοήσεις και αμφισβητούμενους ισχυρισμούς
-- Ερευνητικές αναζητήσεις
-- Αφετηρίες εντοπισμού πηγών
-- Επίσημες ερευνητικές πύλες
-- Άμεσες πηγές
-- Εικόνες και στοιχεία αδειών
-- Σχετικές υποθέσεις
-- Σημείωση συντακτικού ελέγχου
-
-#### Άνοιγμα εικόνων με Gallery
-
-Άνοιξε μία υπόθεση και πάτησε:
-
-```text
-[G] Gallery app
-```
-
-Το πρόγραμμα αντιγράφει τις εικόνες της υπόθεσης στον φάκελο:
-
-```text
-Pictures/Corrupted Files Project/
-```
-
-Το Android επιτρέπει μετά να επιλέξεις Gallery, Google Photos ή άλλη συμβατή εφαρμογή. Οι εικόνες της ίδιας υπόθεσης τοποθετούνται στο ίδιο άλμπουμ για κανονική κύλιση.
-
-Κάθε άλμπουμ περιλαμβάνει αρχείο `IMAGE-CREDITS.txt`.
-
-#### Πρόοδος ανάγνωσης
-
-Πάτησε `[M]` μέσα σε μία υπόθεση για να τη σημειώσεις ως διαβασμένη ή αδιάβαστη. Ο πίνακας προόδου εμφανίζει:
-
-- Διαβασμένες και αδιάβαστες υποθέσεις
-- Ποσοστό ολοκλήρωσης
-- Αριθμό σελιδοδεικτών
-- Υποθέσεις με προσωπικές σημειώσεις
-- Στατιστικά λειτουργίας μελέτης
-
-Η προσωπική πρόοδος αποθηκεύεται έξω από το αποθετήριο στο:
-
-```text
-~/.corrupted_files_project_state.json
-```
-
-#### Ερευνητικό σημειωματάριο
-
-Πάτησε `[N]` μέσα σε μία υπόθεση για να προσθέσεις προσωπικές σημειώσεις. Οι σημειώσεις έχουν ημερομηνία και ώρα και παραμένουν έξω από τα αρχεία του έργου.
-
-#### Λειτουργία μελέτης
-
-Η λειτουργία μελέτης δημιουργεί σύντομες ερωτήσεις πολλαπλής επιλογής από τα μεταδεδομένα και τις συνόψεις του αρχείου. Τα αποτελέσματα αποθηκεύονται τοπικά.
-
-#### Έλεγχος πηγών
-
-Ο έλεγχος πηγών διαχωρίζει:
-
-- Υποθέσεις χωρίς άμεση ειδική πηγή
-- Υποθέσεις μίας πηγής
-- Υποθέσεις πολλών πηγών
-- Συχνότερους τομείς πηγών
-
-Μία αρχειακή πύλη ή μία αφετηρία αναζήτησης δεν μετρά ως άμεση απόδειξη.
-
-#### Σύγκριση υποθέσεων
-
-Σύγκρινε δύο υποθέσεις με βάση το έτος, τη χώρα, την κατηγορία, το επίπεδο τεκμηρίωσης, τις πηγές, τις εικόνες, τις φήμες και την πληρότητα του φακέλου.
-
-#### Εξαγωγές HTML
-
-Η εξαγωγή υπόθεσης δημιουργεί πλέον:
-
-- Αρχείο απλού κειμένου
-- Αυτόνομο φάκελο HTML με τις εικόνες της υπόθεσης
-
-Τα εργαλεία έρευνας μπορούν επίσης να δημιουργήσουν αναζητήσιμο ευρετήριο HTML ολόκληρου του αρχείου.
-
-Οι εξαγωγές αποθηκεύονται στο:
-
-```text
-Downloads/Corrupted Files Exports/
-```
-
-Στο Termux αντιστοιχεί συνήθως στο:
-
-```text
-/storage/emulated/0/Download/Corrupted Files Exports/
-```
-
-### Εντολές γραμμής εντολών
-
-Πλήρης έλεγχος αρχείου:
-
-```bash
-python "Use Corrupted Files Project.py" --validate
-```
-
-Στατιστικά:
-
-```bash
-python "Use Corrupted Files Project.py" --stats
-```
-
-Αναζήτηση χωρίς άνοιγμα του μενού:
-
-```bash
-python "Use Corrupted Files Project.py" --search "Watergate"
-```
-
-Εμφάνιση συγκεκριμένης υπόθεσης ως JSON:
-
-```bash
-python "Use Corrupted Files Project.py" --case CASE_ID
-```
-
-Άνοιγμα άλμπουμ υπόθεσης:
-
-```bash
-python "Use Corrupted Files Project.py" --gallery CASE_ID
-```
-
-Αντιγραφή εικόνων υπόθεσης στον φάκελο Pictures:
-
-```bash
-python "Use Corrupted Files Project.py" --export-images CASE_ID
-```
-
-Εξαγωγή αυτόνομου αγγλικού φακέλου HTML:
-
-```bash
-python "Use Corrupted Files Project.py" --export-html CASE_ID
-```
-
-Εξαγωγή αναζητήσιμου ευρετηρίου:
-
-```bash
-python "Use Corrupted Files Project.py" --export-index en
-python "Use Corrupted Files Project.py" --export-index el
-```
-
-Λίστα θεματικών συλλογών:
-
-```bash
-python "Use Corrupted Files Project.py" --collections
-```
-
-Εμφάνισε τις υποθέσεις που προστέθηκαν στην τελευταία επέκταση:
-
-```bash
-python "Use Corrupted Files Project.py" --new-cases
-```
-
-Εμφάνιση αποθηκευμένης προόδου:
-
-```bash
-python "Use Corrupted Files Project.py" --progress
-python "Use Corrupted Files Project.py" --termux-check
-python "Use Corrupted Files Project.py" --backup-state
-python "Use Corrupted Files Project.py" --restore-state BACKUP.json
-```
-
-Σειρά ερευνητικής προτεραιότητας:
-
-```bash
-python "Use Corrupted Files Project.py" --quality-report
-```
-
-Λίστα καρτών φημών και παρανοήσεων:
-
-```bash
-python "Use Corrupted Files Project.py" --rumors
-```
-
-Απενεργοποίηση χρωμάτων τερματικού:
-
-```bash
-python "Use Corrupted Files Project.py" --no-color
-```
-
-### Επίπεδα αφήγησης και πηγών
-
-#### Με άμεσες πηγές
-
-Η εγγραφή έχει συνδέσμους που αφορούν συγκεκριμένα την υπόθεση. Αυτό δεν αποδεικνύει αυτομάτως κάθε ερμηνεία του φακέλου.
-
-#### Περιορισμένων πηγών
-
-Η άμεση διαδρομή πηγών είναι στενή και χρειάζεται ανεξάρτητη διασταύρωση.
-
-#### Ερευνητικός σκελετός
-
-Η εγγραφή διαθέτει αφήγηση, ερωτήματα, αρχειακές αφετηρίες και οδηγίες επαλήθευσης, αλλά δεν έχει ακόμη συνδεδεμένη άμεση ειδική πηγή.
-
-#### Ειδική φήμη υπόθεσης
-
-Ισχυρισμός που συνδέθηκε ιστορικά με την υπόθεση. Η αξιολόγηση εξηγεί τι υποστηρίζει, τι αμφισβητεί και τι δεν μπορεί να αποδείξει το διαθέσιμο αρχείο.
-
-#### Αναλυτική προειδοποίηση
-
-Προειδοποίηση κατά μιας παραπλανητικής απλούστευσης. Δεν παρουσιάζεται ως απόδειξη ότι η ακριβής διατύπωση κυκλοφόρησε ιστορικά.
-
-### Είδη εικόνων
-
-- **Φωτογραφία γεγονότος / πηγής** — εικόνα με δημιουργό, άδεια και σελίδα προέλευσης.
-- **Παραγόμενο αρχειακό γραφικό** — επεξηγηματική κάρτα πλοήγησης ή υποστήριξης έρευνας.
-- **Παραγόμενος οδηγός έρευνας** — εικόνα με ερωτήματα και υπενθυμίσεις επαλήθευσης.
-- **Πίνακας τεκμηρίωσης** — παραγόμενη σύνοψη πηγών, εικόνων, φημών και εκκρεμών κενών.
-
-Τα παραγόμενα γραφικά δεν παρουσιάζονται ως πραγματικές φωτογραφίες των γεγονότων.
-
-### Ιδιωτικότητα και offline λειτουργία
-
-- Δεν απαιτείται λογαριασμός.
-- Το πρόγραμμα δεν ανεβάζει σημειώσεις, σελιδοδείκτες, ιστορικό ή πρόοδο.
-- Δεν περιλαμβάνεται σύστημα αναλυτικών στοιχείων.
-- Δεν χρειάζεται server.
-- Το άνοιγμα εξωτερικών πηγών ή αρχειακών πυλών χρησιμοποιεί τον browser και απαιτεί σύνδεση στο διαδίκτυο.
-
-### Αντιμετώπιση προβλημάτων
-
-#### Δεν ανοίγει το Gallery στο Termux
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
 
 Εκτέλεσε:
 
 ```bash
-termux-setup-storage
+python "Use Corrupted Files Project.py" --termux-check
 ```
 
-Δώσε άδεια πρόσβασης, κλείσε και άνοιξε ξανά το Termux και δοκίμασε πάλι.
+Αν αποτυγχάνει το Gallery ή η εξαγωγή, εκτέλεσε ξανά `termux-setup-storage` και έλεγξε ότι υπάρχουν τα `~/storage/downloads` και `~/storage/pictures`. Αν δεν φορτώνεται η βάση, εκτέλεσε `--validate`. Αν το project βρίσκεται στο Download και το Android εμποδίζει την εκτέλεση, αντέγραψέ το στο Termux home με `cp -r` και τρέξ’ το από `~/Corrupted-Files-Project`.
 
-#### Δεν βρέθηκε η εντολή Python
+</details>
 
-Στο Termux:
+## Contributing / Συνεισφορά
 
-```bash
-pkg install python -y
-```
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
 
+Useful contributions add verifiable value: primary documents, independent sources, corrected dates, stronger Greek translations, lawful image credits, clearly labeled uncertainty, or carefully documented new cases. Do not add copied articles, fabricated quotations, unsourced accusations, duplicate cases, AI filler, private personal data or images without permission/license information.
 
-#### Άρνηση πρόσβασης στον φάκελο Λήψεων
+</details>
 
-Αντέγραψε το έργο στον προσωπικό φάκελο του Termux:
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
 
-```bash
-cp -r /storage/emulated/0/Download/Corrupted-Files-Project ~/
-cd ~/Corrupted-Files-Project
-python "Use Corrupted Files Project.py"
-```
+Χρήσιμες συνεισφορές προσθέτουν επαληθεύσιμη αξία: πρωτογενή έγγραφα, ανεξάρτητες πηγές, διορθωμένες ημερομηνίες, καλύτερες ελληνικές μεταφράσεις, νόμιμες αναφορές εικόνων, σαφώς επισημασμένη αβεβαιότητα ή προσεκτικά τεκμηριωμένες νέες υποθέσεις. Μην προσθέτεις αντιγραμμένα άρθρα, κατασκευασμένα αποσπάσματα, κατηγορίες χωρίς πηγές, διπλότυπες υποθέσεις, κείμενο-γέμισμα από AI, ιδιωτικά προσωπικά δεδομένα ή εικόνες χωρίς άδεια/στοιχεία δικαιωμάτων.
 
-#### Μία πηγή δεν λειτουργεί πλέον
+</details>
 
-Οι ιστοσελίδες αλλάζουν ή διαγράφονται. Χρησιμοποίησε τις αφετηρίες εντοπισμού πηγών, τα ερευνητικά ερωτήματα και τις επίσημες αρχειακές πύλες για να βρεις αρχειοθετημένο ή ενημερωμένο αντίγραφο. Μην αντικαθιστάς έναν χαμένο σύνδεσμο με άσχετη σελίδα.
+## Disclaimer / Αποποίηση Ευθύνης
 
-#### Ο έλεγχος εμφανίζει προειδοποιήσεις
+<details>
+<summary><strong>🇬🇧 English</strong></summary>
 
-Οι προειδοποιήσεις για ελλιπείς άμεσες πηγές είναι σκόπιμες. Τα δομικά σφάλματα, οι εικόνες που λείπουν, τα διπλά ID, τα κατεστραμμένα JSON και τα ελλιπή απαιτούμενα πεδία εμφανίζονται χωριστά ως σφάλματα.
+This repository is for education, historical research, media literacy and source evaluation. It is not legal advice, professional historical certification or proof of criminal responsibility. Users must verify claims against original records and current authoritative sources before publication or formal use.
 
-### Υπεύθυνη συνεισφορά
+</details>
 
-Όταν επεκτείνεις μία υπόθεση:
+<details>
+<summary><strong>🇬🇷 Ελληνικά</strong></summary>
 
-1. Διατήρησε σαφή διάκριση ανάμεσα σε τεκμηριωμένο γεγονός, καταγγελία, ερμηνεία και φήμη.
-2. Προτίμησε πρωτογενή τεκμήρια, επίσημα αρχεία, δικαστικό υλικό, αξιόπιστα αρχεία και ανεξάρτητη έρευνα.
-3. Πρόσθεσε πηγές από περισσότερους από έναν φορείς όπου είναι δυνατό.
-4. Κατέγραψε ακριβώς τον δημιουργό, την άδεια και τη σελίδα προέλευσης κάθε εικόνας.
-5. Μην παρουσιάζεις παραγόμενα γραφικά ως πραγματικές φωτογραφίες.
-6. Διατήρησε ισοδύναμο νόημα στα Αγγλικά και στα Ελληνικά.
-7. Απόφυγε επαναλαμβανόμενα πρότυπα και διπλές παραγράφους.
-8. Εκτέλεσε τον έλεγχο πριν δημοσιεύσεις αλλαγές.
+Το αποθετήριο προορίζεται για εκπαίδευση, ιστορική έρευνα, παιδεία στα μέσα και αξιολόγηση πηγών. Δεν αποτελεί νομική συμβουλή, επαγγελματική ιστορική πιστοποίηση ή απόδειξη ποινικής ευθύνης. Οι χρήστες πρέπει να επαληθεύουν τους ισχυρισμούς στα πρωτότυπα αρχεία και σε σύγχρονες έγκυρες πηγές πριν από δημοσίευση ή επίσημη χρήση.
 
-```bash
-python "Use Corrupted Files Project.py" --validate
-```
-
-### Σημαντικός περιορισμός
-
-Το έργο περιλαμβάνει υποθέσεις με ελλιπή διαδρομή άμεσων πηγών. Η ύπαρξη αφήγησης δεν εγγυάται ότι κάθε πρόταση έχει ελεγχθεί ανεξάρτητα. Ο αναγνώστης εμφανίζει καθαρά την ισχύ των πηγών και τα ερευνητικά κενά ώστε η ημιτελής έρευνα να μη μεταμφιέζεται σε βεβαιότητα.
+</details>
 
 ---
 
-## License and image attribution
-
-Repository code and original generated archive text/visuals should be distributed according to the repository owner's chosen license. Sourced photographs may have separate licenses. Always preserve the attribution information in `image_credits.json` and the source page specified for each photograph.
-
-## Continued case expansion — version 6.0 / Συνεχιζόμενη επέκταση υποθέσεων — έκδοση 6.0
-
-This release expands the archive to **390 unique bilingual cases**: **170 Greece cases** and **220 USA cases**. It adds **20 new source-backed dossiers** and **60 new Android Gallery-compatible explanatory visuals**.
-
-Current validated totals for this release:
-
-- **1,715 image references**
-- **393 rumor, misconception or disputed-claim cards**
-- **780 official research-portal links**
-- **1,148 source-discovery leads**
-- **236 cases with at least one direct case-specific source**
-- **154 research-scaffold cases whose direct-source gap remains visibly marked**
-
-
-Every case now contains three additional bilingual research sections:
-
-- **Aftermath and legacy / Συνέπειες και κληρονομιά** — immediate response, long-term effects, public memory and unfinished consequences.
-- **Accountability map / Χάρτης λογοδοσίας** — authority, knowledge, action or omission, and documented outcomes.
-- **Primary-record targets / Στόχοι πρωτογενών τεκμηρίων** — the exact categories of records needed to confirm, challenge or deepen the dossier.
-
-The new Greece dossiers cover the Goudi movement, the Noemvriana, the Idionymon law, the Campbell pogrom, the Kokkinia roundup, the Chortiatis massacre, the Varkiza Agreement, the Agia Zoni II oil spill, the Moria fires and Medicane Ianos.
-
-The new USA dossiers cover the Great Railroad Strike, Haymarket, the Wilmington coup, the East St. Louis massacre, the Memorial Day Massacre, the 1943 Detroit violence, the Orangeburg Massacre, the Trail of Broken Treaties, the Nisour Square killings and Hurricane Maria in Puerto Rico.
-
-Η έκδοση επεκτείνει το αρχείο σε **390 μοναδικές δίγλωσσες υποθέσεις**: **170 υποθέσεις Ελλάδας** και **220 υποθέσεις ΗΠΑ**. Προσθέτει **20 νέους φακέλους με άμεσες πηγές** και **60 νέα επεξηγηματικά γραφικά συμβατά με Android Gallery**.
-
-Τρέχοντα επαληθευμένα σύνολα της έκδοσης:
-
-- **1.715 αναφορές εικόνων**
-- **393 κάρτες φημών, παρανοήσεων ή αμφισβητούμενων ισχυρισμών**
-- **780 σύνδεσμοι επίσημων ερευνητικών πυλών**
-- **1.148 αφετηρίες εντοπισμού πηγών**
-- **236 υποθέσεις με τουλάχιστον μία άμεση ειδική πηγή**
-- **154 ερευνητικοί σκελετοί των οποίων το κενό άμεσων πηγών παραμένει εμφανές**
-
-
-Κάθε υπόθεση περιλαμβάνει πλέον τρεις πρόσθετες δίγλωσσες ερευνητικές ενότητες:
-
-- **Συνέπειες και κληρονομιά / Aftermath and legacy** — άμεση αντίδραση, μακροχρόνιες επιπτώσεις, δημόσια μνήμη και ανολοκλήρωτες συνέπειες.
-- **Χάρτης λογοδοσίας / Accountability map** — αρμοδιότητα, γνώση, πράξη ή παράλειψη και τεκμηριωμένα αποτελέσματα.
-- **Στόχοι πρωτογενών τεκμηρίων / Primary-record targets** — οι ακριβείς κατηγορίες αρχείων που χρειάζονται για επιβεβαίωση, αμφισβήτηση ή εμβάθυνση του φακέλου.
-
-Οι νέοι ελληνικοί φάκελοι καλύπτουν το κίνημα στο Γουδί, τα Νοεμβριανά, το Ιδιώνυμο, το πογκρόμ του Κάμπελ, το Μπλόκο της Κοκκινιάς, τη σφαγή του Χορτιάτη, τη Συμφωνία της Βάρκιζας, την πετρελαιοκηλίδα του Αγία Ζώνη ΙΙ, τις πυρκαγιές στη Μόρια και τον μεσογειακό κυκλώνα Ιανό.
-
-Οι νέοι αμερικανικοί φάκελοι καλύπτουν τη Μεγάλη Απεργία των Σιδηροδρόμων, το Χέιμαρκετ, το πραξικόπημα του Γουίλμινγκτον, τη σφαγή του Ανατολικού Σεντ Λούις, τη Σφαγή της Ημέρας Μνήμης, τη βία στο Ντιτρόιτ το 1943, τη Σφαγή του Όραντζμπεργκ, την Πορεία των Παραβιασμένων Συνθηκών, τις δολοφονίες στην πλατεία Νισούρ και τον τυφώνα Μαρία στο Πουέρτο Ρίκο.
+**Created for the DedSec Project community — Termux on Android only.**
