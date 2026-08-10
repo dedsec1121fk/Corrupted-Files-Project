@@ -4,7 +4,7 @@
 **Case ID:** `usa_1957_little_rock_nine_desegregation`  
 **Country:** USA  
 **Reference year:** 1957  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ Nine Black students attempting to integrate Little Rock Central High School in 1
 
 - The historical significance of Little Rock Nine and the 1957 school desegregation crisis extends beyond the reference year. The crisis demonstrated that constitutional rulings required executive enforcement when state officials resisted and made the students' persistence an enduring symbol of the civil-rights movement. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Little Rock Nine and the 1957 school desegregation crisis without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Little Rock Nine and the 1957 school desegregation crisis without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -181,7 +181,7 @@ Nine Black students attempting to integrate Little Rock Central High School in 1
 
 - Η ιστορική σημασία της υπόθεσης «Little Rock Nine και κρίση σχολικής αποφυλετικοποίησης του 1957» ξεπερνά το έτος αναφοράς. Η κρίση έδειξε ότι οι συνταγματικές αποφάσεις απαιτούσαν εκτελεστική επιβολή όταν πολιτειακοί αξιωματούχοι αντιστέκονταν και έκανε την επιμονή των μαθητών διαρκές σύμβολο του κινήματος πολιτικών δικαιωμάτων. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Little Rock Nine και κρίση σχολικής αποφυλετικοποίησης του 1957» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Little Rock Nine και κρίση σχολικής αποφυλετικοποίησης του 1957» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

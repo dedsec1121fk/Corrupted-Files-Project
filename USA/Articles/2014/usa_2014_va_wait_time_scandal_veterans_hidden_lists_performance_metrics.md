@@ -4,7 +4,7 @@
 **Case ID:** `usa_2014_va_wait_time_scandal_veterans_hidden_lists_performance_metrics`  
 **Country:** USA  
 **Reference year:** 2014  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

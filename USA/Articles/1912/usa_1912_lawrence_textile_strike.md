@@ -4,7 +4,7 @@
 **Case ID:** `usa_1912_lawrence_textile_strike`  
 **Country:** USA  
 **Reference year:** 1912  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ In early 1912, tens of thousands of mostly immigrant textile workers in Lawrence
 
 - The historical significance of Lawrence Textile Strike: Bread and Roses extends beyond the reference year. The strike became a landmark of U.S. labor history because diverse immigrant groups coordinated across language and ethnicity and forced major textile firms to negotiate wages and conditions. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Lawrence Textile Strike: Bread and Roses without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Lawrence Textile Strike: Bread and Roses without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ In early 1912, tens of thousands of mostly immigrant textile workers in Lawrence
 
 - Η ιστορική σημασία της υπόθεσης «Απεργία κλωστοϋφαντουργών του Lawrence: Bread and Roses» ξεπερνά το έτος αναφοράς. Η απεργία έγινε ορόσημο της αμερικανικής εργατικής ιστορίας επειδή διαφορετικές μεταναστευτικές ομάδες συντονίστηκαν πέρα από γλώσσα και εθνότητα και ανάγκασαν μεγάλες κλωστοϋφαντουργίες να διαπραγματευτούν μισθούς και συνθήκες. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Απεργία κλωστοϋφαντουργών του Lawrence: Bread and Roses» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Απεργία κλωστοϋφαντουργών του Lawrence: Bread and Roses» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

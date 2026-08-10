@@ -4,7 +4,7 @@
 **Case ID:** `greece_1999_athens_parnitha_earthquake`  
 **Country:** Greece  
 **Reference year:** 1999  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ The 7 September 1999 earthquake struck close to metropolitan Athens, killing mor
 
 - The historical significance of 1999 Athens–Parnitha earthquake and urban disaster response extends beyond the reference year. The disaster influenced engineering research, seismic-risk awareness, rescue practice and public scrutiny of building quality and enforcement in the Athens metropolitan region. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate 1999 Athens–Parnitha earthquake and urban disaster response without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate 1999 Athens–Parnitha earthquake and urban disaster response without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ The 7 September 1999 earthquake struck close to metropolitan Athens, killing mor
 
 - Η ιστορική σημασία της υπόθεσης «Σεισμός Αθήνας–Πάρνηθας 1999 και διαχείριση αστικής καταστροφής» ξεπερνά το έτος αναφοράς. Η καταστροφή επηρέασε την αντισεισμική έρευνα, την επίγνωση σεισμικού κινδύνου, τις πρακτικές διάσωσης και τον δημόσιο έλεγχο της ποιότητας κατασκευών και εφαρμογής κανονισμών στην Αττική. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Σεισμός Αθήνας–Πάρνηθας 1999 και διαχείριση αστικής καταστροφής» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Σεισμός Αθήνας–Πάρνηθας 1999 και διαχείριση αστικής καταστροφής» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

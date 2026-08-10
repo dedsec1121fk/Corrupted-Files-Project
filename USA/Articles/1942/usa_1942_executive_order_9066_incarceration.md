@@ -4,7 +4,7 @@
 **Case ID:** `usa_1942_executive_order_9066_incarceration`  
 **Country:** USA  
 **Reference year:** 1942  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ Executive Order 9066 enabled military exclusion zones that led to the forced rem
 
 - The historical significance of Executive Order 9066 and Japanese American incarceration extends beyond the reference year. The incarceration became a major civil-liberties failure formally reassessed decades later, culminating in federal acknowledgment that the policy was driven by racial prejudice, wartime hysteria and failed political leadership rather than military necessity. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Executive Order 9066 and Japanese American incarceration without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Executive Order 9066 and Japanese American incarceration without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -181,7 +181,7 @@ Executive Order 9066 enabled military exclusion zones that led to the forced rem
 
 - Η ιστορική σημασία της υπόθεσης «Executive Order 9066 και εγκλεισμός Ιαπωνοαμερικανών» ξεπερνά το έτος αναφοράς. Ο εγκλεισμός έγινε μεγάλη αποτυχία πολιτικών ελευθεριών που επανεξετάστηκε επίσημα δεκαετίες αργότερα, με ομοσπονδιακή αναγνώριση ότι η πολιτική προήλθε από φυλετική προκατάληψη, πολεμική υστερία και αποτυχία πολιτικής ηγεσίας και όχι από στρατιωτική αναγκαιότητα. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Executive Order 9066 και εγκλεισμός Ιαπωνοαμερικανών» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Executive Order 9066 και εγκλεισμός Ιαπωνοαμερικανών» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

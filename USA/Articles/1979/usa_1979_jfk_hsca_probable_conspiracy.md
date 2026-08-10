@@ -4,7 +4,7 @@
 **Case ID:** `usa_1979_jfk_hsca_probable_conspiracy`  
 **Country:** USA  
 **Reference year:** 1979  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

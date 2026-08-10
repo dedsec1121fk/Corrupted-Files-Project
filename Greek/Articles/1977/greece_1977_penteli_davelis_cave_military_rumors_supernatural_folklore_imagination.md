@@ -4,7 +4,7 @@
 **Case ID:** `greece_1977_penteli_davelis_cave_military_rumors_supernatural_folklore_imagination`  
 **Country:** Greece  
 **Reference year:** 1977  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

@@ -4,7 +4,7 @@
 **Case ID:** `usa_1967_loving_v_virginia`  
 **Country:** USA  
 **Reference year:** 1967  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ In 1967, the U.S. Supreme Court unanimously struck down Virginia's anti-miscegen
 
 - The historical significance of Loving v. Virginia and the end of state interracial-marriage bans extends beyond the reference year. The decision invalidated state bans on interracial marriage and became a foundational equal-protection and due-process precedent concerning marriage, individual liberty and racial classifications. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Loving v. Virginia and the end of state interracial-marriage bans without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Loving v. Virginia and the end of state interracial-marriage bans without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ In 1967, the U.S. Supreme Court unanimously struck down Virginia's anti-miscegen
 
 - Η ιστορική σημασία της υπόθεσης «Loving v. Virginia και τέλος πολιτειακών απαγορεύσεων διαφυλετικού γάμου» ξεπερνά το έτος αναφοράς. Η απόφαση ακύρωσε πολιτειακές απαγορεύσεις διαφυλετικού γάμου και έγινε θεμελιώδες προηγούμενο ίσης προστασίας και due process για γάμο, ατομική ελευθερία και φυλετικές ταξινομήσεις. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Loving v. Virginia και τέλος πολιτειακών απαγορεύσεων διαφυλετικού γάμου» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Loving v. Virginia και τέλος πολιτειακών απαγορεύσεων διαφυλετικού γάμου» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

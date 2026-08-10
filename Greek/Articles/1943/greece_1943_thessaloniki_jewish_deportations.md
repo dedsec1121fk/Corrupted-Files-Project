@@ -4,7 +4,7 @@
 **Case ID:** `greece_1943_thessaloniki_jewish_deportations`  
 **Country:** Greece  
 **Reference year:** 1943  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ German occupation authorities progressively persecuted Thessaloniki's Jewish pop
 
 - The historical significance of Deportation and destruction of Thessaloniki's Jewish community extends beyond the reference year. The destruction of Jewish Thessaloniki radically altered the city's population, culture, property landscape and memory, and remains central to the study of collaboration, resistance, rescue, restitution and Holocaust remembrance in Greece. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Deportation and destruction of Thessaloniki's Jewish community without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Deportation and destruction of Thessaloniki's Jewish community without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ German occupation authorities progressively persecuted Thessaloniki's Jewish pop
 
 - Η ιστορική σημασία της υπόθεσης «Εκτοπισμός και καταστροφή της εβραϊκής κοινότητας της Θεσσαλονίκης» ξεπερνά το έτος αναφοράς. Η καταστροφή της εβραϊκής Θεσσαλονίκης άλλαξε ριζικά τον πληθυσμό, τον πολιτισμό, το περιουσιακό τοπίο και τη μνήμη της πόλης και παραμένει κεντρική στη μελέτη συνεργασίας, αντίστασης, διάσωσης, αποκατάστασης και μνήμης του Ολοκαυτώματος στην Ελλάδα. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Εκτοπισμός και καταστροφή της εβραϊκής κοινότητας της Θεσσαλονίκης» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Εκτοπισμός και καταστροφή της εβραϊκής κοινότητας της Θεσσαλονίκης» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

@@ -4,7 +4,7 @@
 **Case ID:** `greece_1999_athens_stock_exchange_bubble_small_investor_ruin`  
 **Country:** Greece  
 **Reference year:** 1999  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

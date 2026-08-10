@@ -4,7 +4,7 @@
 **Case ID:** `usa_1882_chinese_exclusion_act_identity_surveillance`  
 **Country:** USA  
 **Reference year:** 1882  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

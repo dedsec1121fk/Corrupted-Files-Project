@@ -101,9 +101,9 @@ The Termux reader provides:
 </details>
 
 <details>
-<summary><strong>• Expansion 7.0 — Offline Historical Pack</strong></summary>
+<summary><strong>• Offline Historical Pack</strong></summary>
 
-Version 7.0 expands the archive while keeping schema compatibility at `6.0`:
+The offline historical pack expands and strengthens the archive:
 
 - **20 newly researched dossiers**: 10 Greece and 10 USA
 - A **full local bilingual Markdown dossier article for every one of the 410 cases**, so core reading works without opening a browser
@@ -111,7 +111,7 @@ Version 7.0 expands the archive while keeping schema compatibility at `6.0`:
 - Additional historical images only when redistribution status is sufficiently clear; credits include source, creator, license and SHA-256
 - Local MP4 briefings are **project-created visual summaries**, clearly distinguished from archival footage
 - `related_case_ids` and bilingual archive-context notes connect older dossiers to relevant cases
-- `offline_article`, `offline_materials`, `content_version`, audit date and expansion metadata are stored in the case data
+- `offline_article`, `offline_materials`, audit date and expansion metadata are stored in the case data
 - Regional `offline_materials.json` manifests provide a machine-checkable inventory
 - The validator verifies path safety, existence, non-empty files, file type and SHA-256 integrity for indexed offline material
 
@@ -324,9 +324,9 @@ Offline Survival Project.py
 </details>
 
 <details>
-<summary><strong>• Επέκταση 7.0 — Offline Ιστορικό Πακέτο</strong></summary>
+<summary><strong>• Offline Ιστορικό Πακέτο</strong></summary>
 
-Η έκδοση 7.0 επεκτείνει το αρχείο διατηρώντας συμβατότητα schema στο `6.0`:
+Το offline ιστορικό πακέτο επεκτείνει και ενισχύει το αρχείο:
 
 - **20 νέοι ερευνημένοι φάκελοι**: 10 Ελλάδα και 10 ΗΠΑ
 - **Πλήρες τοπικό δίγλωσσο Markdown άρθρο για καθεμία από τις 410 υποθέσεις**, ώστε η βασική μελέτη να λειτουργεί χωρίς browser
@@ -334,7 +334,7 @@ Offline Survival Project.py
 - Πρόσθετες ιστορικές εικόνες μόνο όταν το καθεστώς αναδιανομής είναι αρκετά σαφές· τα credits περιλαμβάνουν πηγή, δημιουργό, άδεια και SHA-256
 - Τα τοπικά MP4 briefings είναι **οπτικές περιλήψεις που δημιουργήθηκαν για το project** και διαχωρίζονται σαφώς από αρχειακό footage
 - Τα `related_case_ids` και οι δίγλωσσες σημειώσεις archive context συνδέουν και τους παλαιότερους φακέλους με σχετικές υποθέσεις
-- Τα `offline_article`, `offline_materials`, `content_version`, ημερομηνία audit και metadata επέκτασης αποθηκεύονται στα δεδομένα κάθε υπόθεσης
+- Τα `offline_article`, `offline_materials`, η ημερομηνία audit και τα metadata επέκτασης αποθηκεύονται στα δεδομένα κάθε υπόθεσης
 - Τα περιφερειακά `offline_materials.json` δίνουν machine-checkable inventory
 - Ο validator ελέγχει ασφαλή paths, ύπαρξη, μη κενά αρχεία, τύπο αρχείου και SHA-256 ακεραιότητα για το ευρετηριασμένο offline υλικό
 

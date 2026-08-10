@@ -4,14 +4,14 @@
 **Case ID:** `usa_1945_project_sunshine_body_parts_nuclear_fallout_consent`  
 **Country:** USA  
 **Reference year:** 1945  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
 
 ## English — Summary
 
-DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for fallout research and collection controversies; medium for the most dramatic public interpretations.
+DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for fallout research and collection controversies; medium for the most dramatic public interpretations.
 
 ## English — Full Story
 
@@ -71,7 +71,7 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## English — Deep Dive
 
-- Deep-dive analysis for USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973): Context: DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for fallout research and collection controversies; medium for the most dramatic public interpretations.
+- Deep-dive analysis for USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973): Context: DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for fallout research and collection controversies; medium for the most dramatic public interpretations.
 
 - Deep-dive analysis for USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973): Evidence focus for USA — Project Sunshine, body parts, nuclear fallout, and consent (1945–1973): compare the stated facts, dated timeline and direct sources before accepting a causal claim.
 
@@ -141,11 +141,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## Ελληνικά — Σύνοψη
 
-ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για fallout research και collection controversies; medium για το most dramatic public interpretations.
+ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για fallout research και collection controversies; medium για το most dramatic public interpretations.
 
 ## Ελληνικά — Πλήρης αφήγηση
 
-- Η υπόθεση «Πρόγραμμα Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση» παρουσιάζεται στο αρχείο με έτος αναφοράς το 1945. ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για fallout research και collection controversies; medium για το most dramatic public interpretations. Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
+- Η υπόθεση «Πρόγραμμα Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση» παρουσιάζεται στο αρχείο με έτος αναφοράς το 1945. ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για fallout research και collection controversies; medium για το most dramatic public interpretations. Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
 
 - Οι υπάρχουσες σημειώσεις του φακέλου προσθέτουν τα εξής ουσιαστικά σημεία: Η ασφαλέστερη κατάληξη είναι αυτή: η υπόθεση Πρόγραμμα Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση έχει σημασία επειδή δείχνει πώς συμπεριφέρεται η εξουσία όταν η αλήθεια κοστίζει. Μερικές φορές η εξουσία λέει ψέματα. Μερικές φορές καθυστερεί. Μερικές φορές μιλά τόσο τεχνικά που ο πολίτης παραιτείται. Μερικές φορές κατηγορείται άδικα και η κατηγορία γίνεται μύθος. Ο φάκελος κρατά ορατούς και τους δύο κινδύνους: την τυφλή εμπιστοσύνη και την τυφλή παράνοια. Η χρήσιμη στάση είναι τεκμηριωμένη δυσπιστία.
 
@@ -201,11 +201,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 - Άμεσοι σύνδεσμοι ειδικά για την υπόθεση: 0.
 
-- ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για fallout research και collection controversies; medium για το most dramatic public interpretations.
+- ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για fallout research και collection controversies; medium για το most dramatic public interpretations.
 
 ## Ελληνικά — Βαθιά έρευνα
 
-- Ανάλυση εμβάθυνσης για την υπόθεση «Πρόγραμμα Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση»: Πλαίσιο: ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για fallout research και collection controversies; medium για το most dramatic public interpretations.
+- Ανάλυση εμβάθυνσης για την υπόθεση «Πρόγραμμα Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση»: Πλαίσιο: ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για fallout research και collection controversies; medium για το most dramatic public interpretations.
 
 - Ανάλυση εμβάθυνσης για την υπόθεση «Πρόγραμμα Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση»: Εστίαση τεκμηρίων για «Πρόγραμμα Sunshine, ανθρώπινα δείγματα, πυρηνική ραδιενέργεια και συναίνεση»: σύγκρινε τα δηλωμένα στοιχεία, το χρονολόγιο και τις άμεσες πηγές πριν αποδεχθείς αιτιώδη ισχυρισμό.
 

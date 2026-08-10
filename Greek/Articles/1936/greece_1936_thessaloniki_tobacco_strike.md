@@ -4,7 +4,7 @@
 **Case ID:** `greece_1936_thessaloniki_tobacco_strike`  
 **Country:** Greece  
 **Reference year:** 1936  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ A tobacco-workers' strike in Thessaloniki expanded into mass labor unrest in May
 
 - The historical significance of May 1936 Thessaloniki tobacco-workers' strike and bloodshed extends beyond the reference year. The events entered Greek labor memory and cultural history, including the imagery that inspired Yiannis Ritsos's Epitaphios, and occurred only months before the establishment of the Metaxas dictatorship. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate May 1936 Thessaloniki tobacco-workers' strike and bloodshed without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate May 1936 Thessaloniki tobacco-workers' strike and bloodshed without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ A tobacco-workers' strike in Thessaloniki expanded into mass labor unrest in May
 
 - Η ιστορική σημασία της υπόθεσης «Απεργία καπνεργατών και αιματηρά γεγονότα της Θεσσαλονίκης τον Μάιο του 1936» ξεπερνά το έτος αναφοράς. Τα γεγονότα εντάχθηκαν στη μνήμη του ελληνικού εργατικού κινήματος και στην πολιτισμική ιστορία, μεταξύ άλλων μέσω της εικόνας που ενέπνευσε τον Επιτάφιο του Γιάννη Ρίτσου, και συνέβησαν λίγους μήνες πριν από την εγκαθίδρυση της δικτατορίας Μεταξά. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Απεργία καπνεργατών και αιματηρά γεγονότα της Θεσσαλονίκης τον Μάιο του 1936» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Απεργία καπνεργατών και αιματηρά γεγονότα της Θεσσαλονίκης τον Μάιο του 1936» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

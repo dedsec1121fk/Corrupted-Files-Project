@@ -4,14 +4,14 @@
 **Case ID:** `usa_1919_palmer_raids_red_scare_deportations_political_policing`  
 **Country:** USA  
 **Reference year:** 1919  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
 
 ## English — Summary
 
-DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for raids/deportations and political repression; medium for broader claims about lasting intelligence-culture effects.
+DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for raids/deportations and political repression; medium for broader claims about lasting intelligence-culture effects.
 
 ## English — Full Story
 
@@ -85,7 +85,7 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## English — Deep Dive
 
-- Deep-dive analysis for USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920): Context: DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for raids/deportations and political repression; medium for broader claims about lasting intelligence-culture effects.
+- Deep-dive analysis for USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920): Context: DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for raids/deportations and political repression; medium for broader claims about lasting intelligence-culture effects.
 
 - Deep-dive analysis for USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920): Evidence focus for USA — Palmer Raids, the Red Scare, deportations, and political policing (1919–1920): compare the stated facts, dated timeline and direct sources before accepting a causal claim.
 
@@ -155,11 +155,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## Ελληνικά — Σύνοψη
 
-ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για raids/deportations και political repression; medium για broader ισχυρισμοί about lasting intelligence-culture effects.
+ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για raids/deportations και political repression; medium για broader ισχυρισμοί about lasting intelligence-culture effects.
 
 ## Ελληνικά — Πλήρης αφήγηση
 
-- Η υπόθεση «ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920)» παρουσιάζεται στο αρχείο με έτος αναφοράς το 1919. ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για raids/deportations και political repression; medium για broader ισχυρισμοί about lasting intelligence-culture effects. Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
+- Η υπόθεση «ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920)» παρουσιάζεται στο αρχείο με έτος αναφοράς το 1919. ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για raids/deportations και political repression; medium για broader ισχυρισμοί about lasting intelligence-culture effects. Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
 
 - Οι υπάρχουσες σημειώσεις του φακέλου προσθέτουν τα εξής ουσιαστικά σημεία: Η ασφαλέστερη κατάληξη είναι αυτή: η υπόθεση ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920) έχει σημασία επειδή δείχνει πώς συμπεριφέρεται η εξουσία όταν η αλήθεια κοστίζει. Μερικές φορές η εξουσία λέει ψέματα. Μερικές φορές καθυστερεί. Μερικές φορές μιλά τόσο τεχνικά που ο πολίτης παραιτείται. Μερικές φορές κατηγορείται άδικα και η κατηγορία γίνεται μύθος. Ο φάκελος κρατά ορατούς και τους δύο κινδύνους: την τυφλή εμπιστοσύνη και την τυφλή παράνοια. Η χρήσιμη στάση είναι τεκμηριωμένη δυσπιστία. Το έτος 1919 είναι το σημείο όπου η υπόθεση μπήκε στη δημόσια μνήμη, στη θεσμική συζήτηση ή σε νομικό/πολιτικό έλεγχο. Πρόσθετη αρχειακή σύνοψη: Η υπόθεση «Επιδρομές Palmer και αστυνόμευση Red Scare» περιλαμβάνεται επειδή έγινε ζήτημα δημόσιας εμπιστοσύνης μεγαλύτερο από τα άμεσα γεγονότα.
 
@@ -221,11 +221,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 - Άμεσοι σύνδεσμοι ειδικά για την υπόθεση: 2.
 
-- ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για raids/deportations και political repression; medium για broader ισχυρισμοί about lasting intelligence-culture effects.
+- ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για raids/deportations και political repression; medium για broader ισχυρισμοί about lasting intelligence-culture effects.
 
 ## Ελληνικά — Βαθιά έρευνα
 
-- Ανάλυση εμβάθυνσης για την υπόθεση «ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920)»: Πλαίσιο: ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για raids/deportations και political repression; medium για broader ισχυρισμοί about lasting intelligence-culture effects.
+- Ανάλυση εμβάθυνσης για την υπόθεση «ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920)»: Πλαίσιο: ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ ΠΝΕΥΜΑΤΙΚΩΝ ΔΙΚΑΙΩΜΑΤΩΝ: Το κείμενο γράφτηκε από την αρχή για αυτή τη βάση. Δεν αντιγράφει δημοσιογραφικό άρθρο. Συνοψίζει δημόσια τεκμηριωμένα στοιχεία, δημόσιους ισχυρισμούς, αντιπαραθέσεις και ανοιχτά ερωτήματα ώστε ο αναγνώστης να βγάλει συμπέρασμα. ΕΠΙΠΕΔΟ ΤΕΚΜΗΡΙΩΣΗΣ: High για raids/deportations και political repression; medium για broader ισχυρισμοί about lasting intelligence-culture effects.
 
 - Ανάλυση εμβάθυνσης για την υπόθεση «ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920)»: Εστίαση τεκμηρίων για «ΗΠΑ — Palmer Raids, Κόκκινος Τρόμος, απελάσεις και πολιτική αστυνόμευση (1919–1920)»: σύγκρινε τα δηλωμένα στοιχεία, το χρονολόγιο και τις άμεσες πηγές πριν αποδεχθείς αιτιώδη ισχυρισμό.
 

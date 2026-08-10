@@ -1303,7 +1303,7 @@ def stats(records: list[dict], lang: str, credits: dict[str, dict]) -> None:
     print(f"Gallery-compatible images / Εικόνες συμβατές με Gallery: {gallery_ready}")
     print(f"Credited event/source photos / Φωτογραφίες με άδεια: {len(credits)}")
     print(f"Cases with sources / Υποθέσεις με πηγές: {sum(bool(record.get('sources')) for record in records)}")
-    print(f"New in v6.0 / Νέα στην v6.0: {sum(str(record.get('added_in_version', '')) == '6.0' for record in records)}")
+    print(f"Recently added / Πρόσφατες προσθήκες: {sum(bool(record.get('recent_addition')) for record in records)}")
     print(f"Aftermath sections / Ενότητες συνεπειών: {sum(bool(local_list(record, 'aftermath_legacy', 'en') and local_list(record, 'aftermath_legacy', 'el')) for record in records)}")
     print(f"Accountability maps / Χάρτες λογοδοσίας: {sum(bool(local_list(record, 'accountability_map', 'en') and local_list(record, 'accountability_map', 'el')) for record in records)}")
     print(f"Primary-record target sets / Σύνολα στόχων τεκμηρίων: {sum(bool(local_list(record, 'primary_record_targets', 'en') and local_list(record, 'primary_record_targets', 'el')) for record in records)}")
@@ -1731,9 +1731,9 @@ def my_archive_menu(records: list[dict], lang: str, state: dict, credits: dict[s
 
 
 def new_in_expansion(records: list[dict], lang: str, state: dict, credits: dict[str, dict]) -> None:
-    pool = [record for record in records if str(record.get("added_in_version", "")) == "6.0"]
+    pool = [record for record in records if bool(record.get("recent_addition"))]
     pool.sort(key=lambda record: (record.get("country", ""), int(record.get("year", 0)), local(record, "title", "en")))
-    choose(pool, lang, state, credits, "New in v6.0 / Νέα στην έκδοση 6.0")
+    choose(pool, lang, state, credits, "Recently added / Πρόσφατες προσθήκες")
 
 
 def research_tools_menu(records: list[dict], lang: str, state: dict, credits: dict[str, dict]) -> None:
@@ -1744,7 +1744,7 @@ def research_tools_menu(records: list[dict], lang: str, state: dict, credits: di
         print('3. Compare two cases / Σύγκριση δύο υποθέσεων')
         print('4. Chronology explorer / Χρονολογική εξερεύνηση')
         print('5. Export searchable HTML index / Εξαγωγή ευρετηρίου HTML')
-        print('6. New in this expansion / Νέα σε αυτή την επέκταση')
+        print('6. Recently added cases / Πρόσφατες προσθήκες')
         print('[Enter] Back')
         choice=input('> ').strip()
         if not choice:return
@@ -1904,7 +1904,7 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
             "full_story", "details", "timeline", "facts", "evidence_level",
             "key_questions", "investigation_plan", "verification_notes", "source_gap",
             "research_portals", "source_leads", "rumors", "editorial_note",
-            "schema_version", "topic_tags", "source_strength", "reading_metrics",
+            "topic_tags", "source_strength", "reading_metrics",
             "case_brief", "editorial_review", "deep_dive",
             "aftermath_legacy", "accountability_map", "primary_record_targets", "people_institutions", "evidence_conflicts", "media_memory", "next_reading_path",
         )
@@ -1938,8 +1938,6 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
                     local_seen.add(normalized)
                     if field in ("full_story", "details", "deep_dive", "aftermath_legacy", "accountability_map", "primary_record_targets") and len(normalized.split()) >= 18:
                         prose_index.setdefault((lang, normalized), []).append(record_id)
-        if str(record.get("schema_version")) != "6.0":
-            errors.append(f"{record_id}: unexpected schema version")
         if not topic_keys(record):
             errors.append(f"{record_id}: no topic collection tags")
         if reading_minutes(record, "en") < 1 or reading_minutes(record, "el") < 1:
@@ -2038,8 +2036,7 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
         "aftermath_legacy_bilingual": sum(bool(local_list(r, "aftermath_legacy", "en") and local_list(r, "aftermath_legacy", "el")) for r in records),
         "accountability_map_bilingual": sum(bool(local_list(r, "accountability_map", "en") and local_list(r, "accountability_map", "el")) for r in records),
         "primary_record_targets_bilingual": sum(bool(local_list(r, "primary_record_targets", "en") and local_list(r, "primary_record_targets", "el")) for r in records),
-        "new_in_version_6": sum(str(r.get("added_in_version", "")) == "6.0" for r in records),
-        "new_in_version_7": sum(str(r.get("added_in_version", "")) == "7.0" for r in records),
+        "recent_additions": sum(bool(r.get("recent_addition")) for r in records),
         "rumor_or_misconception_cards": sum(len(r.get("rumors") or []) for r in records),
         "case_specific_rumor_cards": case_rumor_cards,
         "analytical_caution_cards": analytical_cards,
@@ -2114,7 +2111,7 @@ def main() -> int:
         print(path)
         return 0
     if args.new_cases:
-        for record in sorted((r for r in records if str(r.get("added_in_version", "")) == "7.0"), key=lambda r: (r.get("country", ""), int(r.get("year", 0)), local(r, "title", "en"))):
+        for record in sorted((r for r in records if bool(r.get("recent_addition"))), key=lambda r: (r.get("country", ""), int(r.get("year", 0)), local(r, "title", "en"))):
             print(f"{record.get('id')} | {record.get('country')} | {record.get('year')} | {local(record, 'title', 'en')} | {local(record, 'title', 'el')}")
         return 0
     if args.collections:
@@ -2162,10 +2159,8 @@ def main() -> int:
                     "aftermath_legacy_bilingual": sum(bool(local_list(record, "aftermath_legacy", "en") and local_list(record, "aftermath_legacy", "el")) for record in records),
                     "accountability_map_bilingual": sum(bool(local_list(record, "accountability_map", "en") and local_list(record, "accountability_map", "el")) for record in records),
                     "primary_record_targets_bilingual": sum(bool(local_list(record, "primary_record_targets", "en") and local_list(record, "primary_record_targets", "el")) for record in records),
-                    "new_in_version_6": sum(str(record.get("added_in_version", "")) == "6.0" for record in records),
-                    "new_in_version_7": sum(str(record.get("added_in_version", "")) == "7.0" for record in records),
+                    "recent_additions": sum(bool(record.get("recent_addition")) for record in records),
                     "research_notebook_ready": True,
-                    "schema_version": "6.0",
                     "guided_collections": len(COLLECTION_LABELS),
                     "topic_tag_assignments": sum(len(topic_keys(record)) for record in records),
                     "source_strength_levels": dict(Counter(str(record.get("source_strength", {}).get("key", "unknown")) for record in records)),

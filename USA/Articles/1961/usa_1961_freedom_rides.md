@@ -4,7 +4,7 @@
 **Case ID:** `usa_1961_freedom_rides`  
 **Country:** USA  
 **Reference year:** 1961  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ Interracial Freedom Riders traveled through the South in 1961 to test desegregat
 
 - The historical significance of Freedom Rides of 1961 extends beyond the reference year. The violence against Riders produced national and international pressure and contributed to Interstate Commerce Commission rules that more forcefully prohibited segregated interstate bus and terminal facilities. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Freedom Rides of 1961 without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Freedom Rides of 1961 without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -181,7 +181,7 @@ Interracial Freedom Riders traveled through the South in 1961 to test desegregat
 
 - Η ιστορική σημασία της υπόθεσης «Freedom Rides του 1961» ξεπερνά το έτος αναφοράς. Η βία κατά των Riders προκάλεσε εθνική και διεθνή πίεση και συνέβαλε σε κανόνες της Interstate Commerce Commission που απαγόρευσαν πιο αποτελεσματικά τον διαχωρισμό σε διαπολιτειακά λεωφορεία και σταθμούς. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Freedom Rides του 1961» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Freedom Rides του 1961» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

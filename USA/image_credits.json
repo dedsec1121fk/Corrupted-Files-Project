@@ -104,7 +104,7 @@
     "used_by": [
       "usa_1942_executive_order_9066_incarceration"
     ],
-    "added_in_version": "7.0"
+    "recent_addition": true
   },
   {
     "file": "USA/Imported Media/1954_welch_mccarthy_hearings.jpg",
@@ -117,7 +117,7 @@
     "used_by": [
       "usa_1954_army_mccarthy_hearings"
     ],
-    "added_in_version": "7.0"
+    "recent_addition": true
   },
   {
     "file": "USA/Imported Media/1961_freedom_rider_mae_frances_moultrie.png",
@@ -130,6 +130,6 @@
     "used_by": [
       "usa_1961_freedom_rides"
     ],
-    "added_in_version": "7.0"
+    "recent_addition": true
   }
 ]

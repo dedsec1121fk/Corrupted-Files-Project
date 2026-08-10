@@ -4,7 +4,7 @@
 **Case ID:** `greece_1901_evangelika_gospel_riots`  
 **Country:** Greece  
 **Reference year:** 1901  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ The Evangelika riots turned a dispute over translating the Gospel into modern Gr
 
 - The historical significance of Evangelika: the 1901 Athens Gospel riots extends beyond the reference year. The riots became a landmark in the Greek language question and show how language, religion, nationalism, education and mass politics could converge in the early twentieth century. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Evangelika: the 1901 Athens Gospel riots without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Evangelika: the 1901 Athens Gospel riots without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -177,7 +177,7 @@ The Evangelika riots turned a dispute over translating the Gospel into modern Gr
 
 - Η ιστορική σημασία της υπόθεσης «Ευαγγελικά: οι ταραχές της Αθήνας για τη μετάφραση των Ευαγγελίων το 1901» ξεπερνά το έτος αναφοράς. Οι ταραχές έγιναν ορόσημο του ελληνικού γλωσσικού ζητήματος και δείχνουν πώς γλώσσα, θρησκεία, εθνικισμός, εκπαίδευση και μαζική πολιτική μπορούσαν να συγκλίνουν στις αρχές του 20ού αιώνα. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ευαγγελικά: οι ταραχές της Αθήνας για τη μετάφραση των Ευαγγελίων το 1901» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ευαγγελικά: οι ταραχές της Αθήνας για τη μετάφραση των Ευαγγελίων το 1901» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

@@ -4,7 +4,7 @@
 **Case ID:** `usa_1863_new_york_draft_riots`  
 **Country:** USA  
 **Reference year:** 1863  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ From 13 July 1863, resistance to Civil War conscription in New York City escalat
 
 - The historical significance of New York City Draft Riots of 1863 extends beyond the reference year. The riots exposed the intersection of class grievance and racial terror during the Civil War and devastated parts of New York's Black community while forcing military suppression of violence in the Union's largest city. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate New York City Draft Riots of 1863 without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate New York City Draft Riots of 1863 without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ From 13 July 1863, resistance to Civil War conscription in New York City escalat
 
 - Η ιστορική σημασία της υπόθεσης «Ταραχές κατά της επιστράτευσης στη Νέα Υόρκη το 1863» ξεπερνά το έτος αναφοράς. Οι ταραχές ανέδειξαν τη διασταύρωση ταξικής δυσαρέσκειας και φυλετικής τρομοκρατίας στον Εμφύλιο και κατέστρεψαν τμήματα της Μαύρης κοινότητας της Νέας Υόρκης, οδηγώντας σε στρατιωτική καταστολή της βίας στη μεγαλύτερη πόλη της Ένωσης. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ταραχές κατά της επιστράτευσης στη Νέα Υόρκη το 1863» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ταραχές κατά της επιστράτευσης στη Νέα Υόρκη το 1863» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

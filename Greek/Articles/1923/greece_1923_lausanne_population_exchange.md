@@ -4,7 +4,7 @@
 **Case ID:** `greece_1923_lausanne_population_exchange`  
 **Country:** Greece  
 **Reference year:** 1923  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ The 1923 Lausanne settlement formalized a compulsory population exchange between
 
 - The historical significance of Treaty of Lausanne and the compulsory Greek–Turkish population exchange extends beyond the reference year. The exchange transformed Greece's demography and refugee settlement while creating enduring questions about homes, property, memory, minority protection and the human cost of compulsory nation-state homogenization. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Treaty of Lausanne and the compulsory Greek–Turkish population exchange without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Treaty of Lausanne and the compulsory Greek–Turkish population exchange without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ The 1923 Lausanne settlement formalized a compulsory population exchange between
 
 - Η ιστορική σημασία της υπόθεσης «Συνθήκη της Λωζάννης και υποχρεωτική ελληνοτουρκική ανταλλαγή πληθυσμών» ξεπερνά το έτος αναφοράς. Η ανταλλαγή μεταμόρφωσε τη δημογραφία και την προσφυγική εγκατάσταση στην Ελλάδα, δημιουργώντας διαρκή ζητήματα για πατρίδες, περιουσία, μνήμη, προστασία μειονοτήτων και το ανθρώπινο κόστος της υποχρεωτικής εθνικής ομογενοποίησης. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Συνθήκη της Λωζάννης και υποχρεωτική ελληνοτουρκική ανταλλαγή πληθυσμών» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Συνθήκη της Λωζάννης και υποχρεωτική ελληνοτουρκική ανταλλαγή πληθυσμών» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

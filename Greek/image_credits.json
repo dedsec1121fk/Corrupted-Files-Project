@@ -56,7 +56,7 @@
     "used_by": [
       "greece_1936_thessaloniki_tobacco_strike"
     ],
-    "added_in_version": "7.0"
+    "recent_addition": true
   },
   {
     "file": "Greek/Imported Media/1942_gorgopotamos_bridge.jpg",
@@ -69,7 +69,7 @@
     "used_by": [
       "greece_1942_gorgopotamos_operation_harling"
     ],
-    "added_in_version": "7.0"
+    "recent_addition": true
   },
   {
     "file": "Greek/Imported Media/1973_velos_d16.jpg",
@@ -82,6 +82,6 @@
     "used_by": [
       "greece_1973_hns_velos_anti_junta"
     ],
-    "added_in_version": "7.0"
+    "recent_addition": true
   }
 ]

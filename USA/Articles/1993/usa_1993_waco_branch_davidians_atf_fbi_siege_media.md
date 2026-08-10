@@ -4,14 +4,14 @@
 **Case ID:** `usa_1993_waco_branch_davidians_atf_fbi_siege_media`  
 **Country:** USA  
 **Reference year:** 1993  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
 
 ## English — Summary
 
-DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for raid/siege/deaths; contested on responsibility, intent, and some tactical claims.
+DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for raid/siege/deaths; contested on responsibility, intent, and some tactical claims.
 
 ## English — Full Story
 
@@ -71,7 +71,7 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## English — Deep Dive
 
-- Deep-dive analysis for USA — Waco, Branch Davidians, ATF/FBI siege, media, and public trust (1993): Context: DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for raid/siege/deaths; contested on responsibility, intent, and some tactical claims.
+- Deep-dive analysis for USA — Waco, Branch Davidians, ATF/FBI siege, media, and public trust (1993): Context: DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for raid/siege/deaths; contested on responsibility, intent, and some tactical claims.
 
 - Deep-dive analysis for USA — Waco, Branch Davidians, ATF/FBI siege, media, and public trust (1993): Evidence focus for USA — Waco, Branch Davidians, ATF/FBI siege, media, and public trust (1993): compare the stated facts, dated timeline and direct sources before accepting a causal claim.
 
@@ -141,11 +141,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## Ελληνικά — Σύνοψη
 
-ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη.
+ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη.
 
 ## Ελληνικά — Πλήρης αφήγηση
 
-- Η υπόθεση «Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη» παρουσιάζεται στο αρχείο με έτος αναφοράς το 1993. ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη. Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
+- Η υπόθεση «Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη» παρουσιάζεται στο αρχείο με έτος αναφοράς το 1993. ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη. Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
 
 - Οι υπάρχουσες σημειώσεις του φακέλου προσθέτουν τα εξής ουσιαστικά σημεία: Η ασφαλέστερη κατάληξη είναι αυτή: η υπόθεση Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη έχει σημασία επειδή δείχνει πώς συμπεριφέρεται η εξουσία όταν η αλήθεια κοστίζει. Μερικές φορές η εξουσία λέει ψέματα. Μερικές φορές καθυστερεί. Μερικές φορές μιλά τόσο τεχνικά που ο πολίτης παραιτείται. Μερικές φορές κατηγορείται άδικα και η κατηγορία γίνεται μύθος. Ο φάκελος κρατά ορατούς και τους δύο κινδύνους: την τυφλή εμπιστοσύνη και την τυφλή παράνοια. Η χρήσιμη στάση είναι τεκμηριωμένη δυσπιστία.
 
@@ -201,11 +201,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 - Άμεσοι σύνδεσμοι ειδικά για την υπόθεση: 0.
 
-- ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη.
+- ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη.
 
 ## Ελληνικά — Βαθιά έρευνα
 
-- Ανάλυση εμβάθυνσης για την υπόθεση «Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη»: Πλαίσιο: ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη.
+- Ανάλυση εμβάθυνσης για την υπόθεση «Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη»: Πλαίσιο: ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη.
 
 - Ανάλυση εμβάθυνσης για την υπόθεση «Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη»: Εστίαση τεκμηρίων για «Waco, Branch Davidians, ATF/FBI, πολιορκία και δημόσια εμπιστοσύνη»: σύγκρινε τα δηλωμένα στοιχεία, το χρονολόγιο και τις άμεσες πηγές πριν αποδεχθείς αιτιώδη ισχυρισμό.
 

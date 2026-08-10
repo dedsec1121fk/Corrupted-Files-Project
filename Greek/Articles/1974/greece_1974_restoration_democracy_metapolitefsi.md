@@ -4,7 +4,7 @@
 **Case ID:** `greece_1974_restoration_democracy_metapolitefsi`  
 **Country:** Greece  
 **Reference year:** 1974  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ The Cyprus crisis precipitated the collapse of Greece's military dictatorship in
 
 - The historical significance of Collapse of the junta and restoration of democracy in 1974 extends beyond the reference year. The transition reopened political life, legalized previously excluded political forces, led to elections and a referendum on the monarchy, and established the constitutional democratic order that followed. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Collapse of the junta and restoration of democracy in 1974 without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Collapse of the junta and restoration of democracy in 1974 without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -181,7 +181,7 @@ The Cyprus crisis precipitated the collapse of Greece's military dictatorship in
 
 - Η ιστορική σημασία της υπόθεσης «Κατάρρευση της χούντας και αποκατάσταση της δημοκρατίας το 1974» ξεπερνά το έτος αναφοράς. Η μετάβαση άνοιξε ξανά την πολιτική ζωή, νομιμοποίησε προηγουμένως αποκλεισμένες πολιτικές δυνάμεις, οδήγησε σε εκλογές και δημοψήφισμα για τη μοναρχία και θεμελίωσε τη συνταγματική δημοκρατική τάξη που ακολούθησε. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Κατάρρευση της χούντας και αποκατάσταση της δημοκρατίας το 1974» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Κατάρρευση της χούντας και αποκατάσταση της δημοκρατίας το 1974» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

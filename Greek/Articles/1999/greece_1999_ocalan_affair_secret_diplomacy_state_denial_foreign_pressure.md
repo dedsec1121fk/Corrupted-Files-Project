@@ -4,14 +4,14 @@
 **Case ID:** `greece_1999_ocalan_affair_secret_diplomacy_state_denial_foreign_pressure`  
 **Country:** Greece  
 **Reference year:** 1999  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
 
 ## English — Summary
 
-DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for the crisis and political fallout; some operational details contested.
+DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for the crisis and political fallout; some operational details contested.
 
 ## English — Full Story
 
@@ -71,7 +71,7 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## English — Deep Dive
 
-- Deep-dive analysis for Greece — Öcalan affair, secret diplomacy, state denial, and foreign pressure (1999): Context: DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for the crisis and political fallout; some operational details contested.
+- Deep-dive analysis for Greece — Öcalan affair, secret diplomacy, state denial, and foreign pressure (1999): Context: DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for the crisis and political fallout; some operational details contested.
 
 - Deep-dive analysis for Greece — Öcalan affair, secret diplomacy, state denial, and foreign pressure (1999): Evidence focus for Greece — Öcalan affair, secret diplomacy, state denial, and foreign pressure (1999): compare the stated facts, dated timeline and direct sources before accepting a causal claim.
 
@@ -141,11 +141,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## Ελληνικά — Σύνοψη
 
-ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999).
+ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999).
 
 ## Ελληνικά — Πλήρης αφήγηση
 
-- Η υπόθεση «Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999)» παρουσιάζεται στο αρχείο με έτος αναφοράς το 1999. ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999). Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
+- Η υπόθεση «Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999)» παρουσιάζεται στο αρχείο με έτος αναφοράς το 1999. ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999). Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
 
 - Οι υπάρχουσες σημειώσεις του φακέλου προσθέτουν τα εξής ουσιαστικά σημεία: Η ασφαλέστερη κατάληξη είναι αυτή: η υπόθεση Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999) έχει σημασία επειδή δείχνει πώς συμπεριφέρεται η εξουσία όταν η αλήθεια κοστίζει. Μερικές φορές η εξουσία λέει ψέματα. Μερικές φορές καθυστερεί. Μερικές φορές μιλά τόσο τεχνικά που ο πολίτης παραιτείται. Μερικές φορές κατηγορείται άδικα και η κατηγορία γίνεται μύθος. Ο φάκελος κρατά ορατούς και τους δύο κινδύνους: την τυφλή εμπιστοσύνη και την τυφλή παράνοια. Η χρήσιμη στάση είναι τεκμηριωμένη δυσπιστία.
 
@@ -201,11 +201,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 - Άμεσοι σύνδεσμοι ειδικά για την υπόθεση: 0.
 
-- ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999).
+- ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999).
 
 ## Ελληνικά — Βαθιά έρευνα
 
-- Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999)»: Πλαίσιο: ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999).
+- Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999)»: Πλαίσιο: ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999).
 
 - Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999)»: Εστίαση τεκμηρίων για «Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999)»: σύγκρινε τα δηλωμένα στοιχεία, το χρονολόγιο και τις άμεσες πηγές πριν αποδεχθείς αιτιώδη ισχυρισμό.
 

@@ -4,7 +4,7 @@
 **Case ID:** `greece_1942_gorgopotamos_operation_harling`  
 **Country:** Greece  
 **Reference year:** 1942  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ On the night of 25–26 November 1942, ELAS, EDES and a British mission cooperat
 
 - The historical significance of Gorgopotamos bridge sabotage: Operation Harling extends beyond the reference year. The operation became an enduring symbol of resistance and of the rare operational cooperation between rival ELAS and EDES formations before their later armed conflict. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Gorgopotamos bridge sabotage: Operation Harling without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Gorgopotamos bridge sabotage: Operation Harling without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -177,7 +177,7 @@ On the night of 25–26 November 1942, ELAS, EDES and a British mission cooperat
 
 - Η ιστορική σημασία της υπόθεσης «Ανατίναξη της γέφυρας του Γοργοποτάμου: Επιχείρηση Harling» ξεπερνά το έτος αναφοράς. Η επιχείρηση έγινε διαρκές σύμβολο της Αντίστασης και της σπάνιας επιχειρησιακής συνεργασίας μεταξύ των ανταγωνιστικών σχηματισμών ΕΛΑΣ και ΕΔΕΣ πριν από τη μεταγενέστερη ένοπλη σύγκρουσή τους. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ανατίναξη της γέφυρας του Γοργοποτάμου: Επιχείρηση Harling» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ανατίναξη της γέφυρας του Γοργοποτάμου: Επιχείρηση Harling» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

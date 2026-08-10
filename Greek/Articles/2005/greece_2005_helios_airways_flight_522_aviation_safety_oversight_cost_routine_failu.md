@@ -4,7 +4,7 @@
 **Case ID:** `greece_2005_helios_airways_flight_522_aviation_safety_oversight_cost_routine_failu`  
 **Country:** Greece  
 **Reference year:** 2005  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

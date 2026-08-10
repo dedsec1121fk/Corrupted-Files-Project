@@ -4,7 +4,7 @@
 **Case ID:** `usa_1920_sacco_vanzetti_case`  
 **Country:** USA  
 **Reference year:** 1920  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ Italian immigrant anarchists Nicola Sacco and Bartolomeo Vanzetti were convicted
 
 - The historical significance of Sacco and Vanzetti case, trial and executions extends beyond the reference year. The case became an international symbol of disputed justice and remains important for studying judicial bias, forensic evidence, political ideology, immigration and standards for reviewing convictions. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Sacco and Vanzetti case, trial and executions without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Sacco and Vanzetti case, trial and executions without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -181,7 +181,7 @@ Italian immigrant anarchists Nicola Sacco and Bartolomeo Vanzetti were convicted
 
 - Η ιστορική σημασία της υπόθεσης «Υπόθεση, δίκη και εκτέλεση των Sacco και Vanzetti» ξεπερνά το έτος αναφοράς. Η υπόθεση έγινε διεθνές σύμβολο αμφισβητούμενης δικαιοσύνης και παραμένει σημαντική για τη μελέτη δικαστικής προκατάληψης, δικανικών τεκμηρίων, πολιτικής ιδεολογίας, μετανάστευσης και προτύπων επανεξέτασης καταδικών. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Υπόθεση, δίκη και εκτέλεση των Sacco και Vanzetti» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Υπόθεση, δίκη και εκτέλεση των Sacco και Vanzetti» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

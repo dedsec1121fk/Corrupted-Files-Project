@@ -4,7 +4,7 @@
 **Case ID:** `usa_1991_tailhook_scandal`  
 **Country:** USA  
 **Reference year:** 1991  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ Sexual assaults and other misconduct at the 1991 Tailhook Association symposium 
 
 - The historical significance of Tailhook 1991 sexual-assault scandal and military accountability extends beyond the reference year. Tailhook became a defining U.S. military sexual-harassment and assault scandal and forced scrutiny of investigative failures, promotion systems, command climate and women's role in military aviation. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Tailhook 1991 sexual-assault scandal and military accountability without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Tailhook 1991 sexual-assault scandal and military accountability without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ Sexual assaults and other misconduct at the 1991 Tailhook Association symposium 
 
 - Η ιστορική σημασία της υπόθεσης «Σκάνδαλο σεξουαλικών επιθέσεων Tailhook 1991 και στρατιωτική λογοδοσία» ξεπερνά το έτος αναφοράς. Το Tailhook έγινε καθοριστικό αμερικανικό στρατιωτικό σκάνδαλο σεξουαλικής παρενόχλησης και επίθεσης και επέβαλε έλεγχο αποτυχιών έρευνας, συστημάτων προαγωγών, διοικητικού κλίματος και του ρόλου των γυναικών στη στρατιωτική αεροπορία. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Σκάνδαλο σεξουαλικών επιθέσεων Tailhook 1991 και στρατιωτική λογοδοσία» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Σκάνδαλο σεξουαλικών επιθέσεων Tailhook 1991 και στρατιωτική λογοδοσία» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

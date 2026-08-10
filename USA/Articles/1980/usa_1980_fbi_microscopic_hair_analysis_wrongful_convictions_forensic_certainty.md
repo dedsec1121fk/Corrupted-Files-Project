@@ -4,7 +4,7 @@
 **Case ID:** `usa_1980_fbi_microscopic_hair_analysis_wrongful_convictions_forensic_certainty`  
 **Country:** USA  
 **Reference year:** 1980  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

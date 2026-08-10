@@ -4,7 +4,7 @@
 **Case ID:** `greece_2026_greek_social_media_age_gate_kids_wallet_debate_child_protection_or_dig`  
 **Country:** Greece  
 **Reference year:** 2026  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

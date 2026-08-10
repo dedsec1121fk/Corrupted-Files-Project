@@ -4,7 +4,7 @@
 **Case ID:** `usa_1965_selma_bloody_sunday`  
 **Country:** USA  
 **Reference year:** 1965  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ On 7 March 1965, voting-rights marchers leaving Selma were attacked by Alabama l
 
 - The historical significance of Selma, Bloody Sunday and the voting-rights campaign extends beyond the reference year. Televised and photographed violence on Bloody Sunday galvanized public support, became a central episode of the civil-rights movement and helped create political momentum for the Voting Rights Act of 1965. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Selma, Bloody Sunday and the voting-rights campaign without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Selma, Bloody Sunday and the voting-rights campaign without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -181,7 +181,7 @@ On 7 March 1965, voting-rights marchers leaving Selma were attacked by Alabama l
 
 - Η ιστορική σημασία της υπόθεσης «Selma, Bloody Sunday και εκστρατεία για το δικαίωμα ψήφου» ξεπερνά το έτος αναφοράς. Η τηλεοπτική και φωτογραφική καταγραφή της βίας στο Bloody Sunday κινητοποίησε δημόσια υποστήριξη, έγινε κεντρικό επεισόδιο του κινήματος πολιτικών δικαιωμάτων και συνέβαλε στην πολιτική δυναμική για τον Voting Rights Act του 1965. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Selma, Bloody Sunday και εκστρατεία για το δικαίωμα ψήφου» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Selma, Bloody Sunday και εκστρατεία για το δικαίωμα ψήφου» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

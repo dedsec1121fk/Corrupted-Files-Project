@@ -4,14 +4,14 @@
 **Case ID:** `greece_2008_grigoropoulos_killing_police_violence_youth_rage_state_response`  
 **Country:** Greece  
 **Reference year:** 2008  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
 
 ## English — Summary
 
-DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for the killing, conviction, and unrest; contested on broader political interpretation.
+DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for the killing, conviction, and unrest; contested on broader political interpretation.
 
 ## English — Full Story
 
@@ -81,7 +81,7 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## English — Deep Dive
 
-- Deep-dive analysis for Greece — Grigoropoulos killing, police violence, youth rage, and state response (2008): Context: DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for the killing, conviction, and unrest; contested on broader political interpretation.
+- Deep-dive analysis for Greece — Grigoropoulos killing, police violence, youth rage, and state response (2008): Context: DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for the killing, conviction, and unrest; contested on broader political interpretation.
 
 - Deep-dive analysis for Greece — Grigoropoulos killing, police violence, youth rage, and state response (2008): Evidence focus for Greece — Grigoropoulos killing, police violence, youth rage, and state response (2008): compare the stated facts, dated timeline and direct sources before accepting a causal claim.
 
@@ -151,11 +151,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## Ελληνικά — Σύνοψη
 
-ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008).
+ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008).
 
 ## Ελληνικά — Πλήρης αφήγηση
 
-- Η υπόθεση «Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008)» παρουσιάζεται στο αρχείο με έτος αναφοράς το 2008. ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008). Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
+- Η υπόθεση «Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008)» παρουσιάζεται στο αρχείο με έτος αναφοράς το 2008. ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008). Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
 
 - Οι υπάρχουσες σημειώσεις του φακέλου προσθέτουν τα εξής ουσιαστικά σημεία: Η ασφαλέστερη κατάληξη είναι αυτή: η υπόθεση Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008) έχει σημασία επειδή δείχνει πώς συμπεριφέρεται η εξουσία όταν η αλήθεια κοστίζει. Μερικές φορές η εξουσία λέει ψέματα. Μερικές φορές καθυστερεί. Μερικές φορές μιλά τόσο τεχνικά που ο πολίτης παραιτείται. Μερικές φορές κατηγορείται άδικα και η κατηγορία γίνεται μύθος. Ο φάκελος κρατά ορατούς και τους δύο κινδύνους: την τυφλή εμπιστοσύνη και την τυφλή παράνοια. Η χρήσιμη στάση είναι τεκμηριωμένη δυσπιστία. Το έτος 2008 είναι το σημείο όπου η υπόθεση μπήκε στη δημόσια μνήμη, στη θεσμική συζήτηση ή σε νομικό/πολιτικό έλεγχο.
 
@@ -213,11 +213,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 - Άμεσοι σύνδεσμοι ειδικά για την υπόθεση: 1.
 
-- ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008).
+- ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008).
 
 ## Ελληνικά — Βαθιά έρευνα
 
-- Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008)»: Πλαίσιο: ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008).
+- Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008)»: Πλαίσιο: ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008).
 
 - Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008)»: Εστίαση τεκμηρίων για «Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008)»: σύγκρινε τα δηλωμένα στοιχεία, το χρονολόγιο και τις άμεσες πηγές πριν αποδεχθείς αιτιώδη ισχυρισμό.
 

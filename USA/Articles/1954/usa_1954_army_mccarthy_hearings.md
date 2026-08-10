@@ -4,7 +4,7 @@
 **Case ID:** `usa_1954_army_mccarthy_hearings`  
 **Country:** USA  
 **Reference year:** 1954  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ The nationally televised 1954 Army–McCarthy hearings examined conflicting accu
 
 - The historical significance of Army–McCarthy hearings and the decline of McCarthyism extends beyond the reference year. Television exposed investigative tactics to a mass audience; Joseph Welch's confrontation with McCarthy became an enduring symbol of resistance to abusive accusation, and the Senate censured McCarthy later in 1954. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Army–McCarthy hearings and the decline of McCarthyism without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Army–McCarthy hearings and the decline of McCarthyism without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ The nationally televised 1954 Army–McCarthy hearings examined conflicting accu
 
 - Η ιστορική σημασία της υπόθεσης «Ακροάσεις Army–McCarthy και παρακμή του McCarthyism» ξεπερνά το έτος αναφοράς. Η τηλεόραση εξέθεσε τις ερευνητικές τακτικές σε μαζικό κοινό· η αντιπαράθεση του Joseph Welch με τον McCarthy έγινε διαρκές σύμβολο αντίστασης σε καταχρηστικές κατηγορίες και η Γερουσία επέπληξε τον McCarthy αργότερα το 1954. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ακροάσεις Army–McCarthy και παρακμή του McCarthyism» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ακροάσεις Army–McCarthy και παρακμή του McCarthyism» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

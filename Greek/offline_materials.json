@@ -5,11 +5,10 @@
       "Add or remove manifest items whenever bundled articles, documents, images or videos change.",
       "Keep type, relative path, source/licensing metadata and sha256 synchronized with the actual file.",
       "Never point outside the repository or index a missing/empty file.",
-      "Keep content_version and audit_date current for meaningful archive releases.",
+      "Keep audit_date current whenever the bundled archive material changes meaningfully.",
       "Run python \"Offline Survival Project.py\" --validate before committing."
     ]
   },
-  "content_version": "7.0",
   "audit_date": "2026-08-10",
   "country": "Greece",
   "items": [
@@ -28,7 +27,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "a561ffbe0a49729675feecafcee6f9e69b54e4908262d30efd5e1e3b3e13c895"
+      "sha256": "eab3598c5dd5446e1a9867eef72919487ea501aee255e4e3934ea15b069b8c91"
     },
     {
       "case_id": "greece_1898_international_financial_control_after_war",
@@ -45,7 +44,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "5d497067434848594f5ed0594b8ce3b6a4c7e9aeeca3f9ff48a57619b632cd8f"
+      "sha256": "2962e9ffe755acc7b5de3c2930dcdaba12950edba550d30563c89fd801201d3b"
     },
     {
       "case_id": "greece_1901_evangelika_gospel_riots",
@@ -62,7 +61,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "efdb079beed01cea53431660c59af08bbae9343bc62d5edb4d974e842b2b392a"
+      "sha256": "80117ffcd6baf50d7fc72aaae43b7fbf4d185b9678b628f910c178c31a793dc7"
     },
     {
       "case_id": "greece_1903_oresteiaka_language_riots",
@@ -79,7 +78,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "0453a577ff6323a6dbc14964345ab1b242a7a8595f0616d1d4ea1e3e38597a6e"
+      "sha256": "e17192bfa2e206c4b06897bb30c98c5fbc0840745f11513f54f5640048c33261"
     },
     {
       "case_id": "greece_1909_goudi_coup_military_league_reform",
@@ -96,7 +95,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f88cb4e6e86565a829e01eaf1bd961d974831e60e01c8ccfd9f8f40bad7bb355"
+      "sha256": "a8ae36b0efdedf9e2758244942d70b92a6730e8c42ee731773841ad5965229ff"
     },
     {
       "case_id": "greece_1915_national_schism",
@@ -113,7 +112,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "8784f47490009a7b5763f2a447f98a0e2321c557d569d6f0255b1f130a75be87"
+      "sha256": "1a146c8994fc31ffc7e287e736f051cca69dcfdd277b9c1fc10328716911407a"
     },
     {
       "case_id": "greece_1916_noemvriana_athens_violence_national_schism",
@@ -130,7 +129,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "40adb264ac3c6f082c13af05787ca06b11c65b9205e0c6458ade2d596b6766e3"
+      "sha256": "272bf91ea93b8d5a22e5bdb119189676c889eed4af682c80eb78edf3ba8c6f6e"
     },
     {
       "case_id": "greece_1920_political_dynasties_venizelos_mitsotakis_link",
@@ -147,7 +146,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d805aae922e9283795dea80eb63e2f2298730a5e89b82da45ae38505cbdf9789"
+      "sha256": "f0800cdd387c508428ebed2b2c1de13ff30b43f25dc9836b935bf0e2cc389e32"
     },
     {
       "case_id": "greece_1922_asia_minor_catastrophe_trial_six",
@@ -164,7 +163,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "3a05cbd4949399464fdd5eec160a1e4582b9b34dbeecb8fe3603842a2b2d7ccd"
+      "sha256": "03c11680237d777bba140f729c6cae9f8a8f9de4855e15c963388b1add7e8060"
     },
     {
       "case_id": "greece_1923_lausanne_population_exchange",
@@ -181,7 +180,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "237beac9ae4b5a714466c4fa0d08895d1eceeaf611cfb435c58d987dff5af79a"
+      "sha256": "4a0be23b58677217816e18d8402e04ad750997b631ae5a9b602bc4698b25187a"
     },
     {
       "case_id": "greece_1923_lausanne_population_exchange",
@@ -215,7 +214,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f89dbea9673c7fd73ec81ecf8acca4f52d308a9e28ae4a4c5bee1bb76bb512d5"
+      "sha256": "ef494abe1c99b9e5fe15d10343a134eb17c9c60b68321b80cdd35cee668a720c"
     },
     {
       "case_id": "greece_1931_campbell_pogrom_thessaloniki_antisemitism",
@@ -232,7 +231,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "4dc53ead61ba1b9782330d85aa76d26c8affbfd4fe02e78e6b42246253b08481"
+      "sha256": "326db17b495617b2fd312e73b2994f92c6946007dfcfa5e4af1df8d56e9c7ead"
     },
     {
       "case_id": "greece_1936_metaxas_dictatorship_censorship_machine",
@@ -249,7 +248,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b7b84eee429d94c0ce39605e6924782de8dd62f3f69ae0983afaf9c13d332dfb"
+      "sha256": "44e30e4aa44253981763533c34c28069b6950f5406f90596566d095cdd0c8493"
     },
     {
       "case_id": "greece_1936_thessaloniki_tobacco_strike",
@@ -266,7 +265,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "425b14e3c1ccfd38eb7e519adfdb3e9d41effaad04a870ffad73b1a1c1d8f9f2"
+      "sha256": "f56e39074e63e22191b3204f02912158858ca50969ed4cafb1562003c66ea2e7"
     },
     {
       "case_id": "greece_1936_thessaloniki_tobacco_strike",
@@ -300,7 +299,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "78d492767aeb31d68eebaaa8dd2d2799b2842a2f6c9cde139e097a3e1c2a80be"
+      "sha256": "45837aaf96a9bdca91b890d433efbb5c6de5656b74ee404b6fd9510edee78b9c"
     },
     {
       "case_id": "greece_1942_gorgopotamos_operation_harling",
@@ -317,7 +316,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "fd2029689852714b841294598bbf40b2c4a90d4c7ef161525fc4088928911131"
+      "sha256": "2d65a7067e67d85ec4583d06df9ed32269ea030254fdde78cf0550967e9a9dc0"
     },
     {
       "case_id": "greece_1942_gorgopotamos_operation_harling",
@@ -368,7 +367,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "6c5a43b086324d8ab9008ecf2a2ab228315ab81275a7945317b6d2e9cb6d4c95"
+      "sha256": "cd1ca6f5073e92e4d087bf72877099a0075245b42e46b8a9fb56e8595a972dd2"
     },
     {
       "case_id": "greece_1943_thessaloniki_jewish_deportations",
@@ -385,7 +384,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "3dcf98f3d8d9b496284b8c319f6e41e93af22207ba5c3e4f220a17f792f44a44"
+      "sha256": "6fd0dcc81ce3d1cccf13c2c027476cbbdd977e4acd099b953b0876a60cbd8253"
     },
     {
       "case_id": "greece_1944_chortiatis_massacre_occupation_reprisal",
@@ -402,7 +401,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "180014571631855fb179e0d9a1c7ff42daacc194cd652527ca8c26ad31fda532"
+      "sha256": "9c1a05b0373d2583e23a165e96847c177c6375dfa4c52e5f3e98909b6152200e"
     },
     {
       "case_id": "greece_1944_dekemvriana_british_intervention_civil_war_path",
@@ -419,7 +418,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "6065cd922d291bdb98ce39e653ed70e8bf97285379fd4ee4ea4a9de634798e60"
+      "sha256": "ba0f7529c5cb84f9969eb9700577e5ff934a345b74d55a7826796c93c632bd52"
     },
     {
       "case_id": "greece_1944_distomo_massacre",
@@ -436,7 +435,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "c4c69beec7f455b543bc5339c72bc09d33fdc7749893aff2917f5e5302cbd7ad"
+      "sha256": "beb67a801997b50da73ea918d865ff25feb44942252d8aa9ce4b52ad0792a23d"
     },
     {
       "case_id": "greece_1944_kokkinia_roundup_mass_execution",
@@ -453,7 +452,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "5de98f71f746509cd7ff00e39e430949f0cc1a2bbba34355943a3928215bdd8f"
+      "sha256": "f17e868332052acd783d0b6655553318a071fc23f9f0ea01a1fab7103f6c7147"
     },
     {
       "case_id": "greece_1945_varkiza_agreement_disarmament_white_terror",
@@ -470,7 +469,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "3326f170defe5144ee6fc103b60bbd86d357e427ed6af2c16ca0c29ac2ed888f"
+      "sha256": "9dfcd1354fa31bebe0a51f248caf7a792e7b733f27bbe66df2eae9ab0e949401"
     },
     {
       "case_id": "greece_1946_white_terror_after_liberation_civil_war_escalation",
@@ -487,7 +486,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "30b9f65f942b208cf4643c9c61b392b7cec37b26fdcd021dbf832af8bcb0825e"
+      "sha256": "8c6a1fc7830b9ec94f00c4c3a61b404dce939332ad0d6b2fa4c2e7c0e85f4b91"
     },
     {
       "case_id": "greece_1947_cia_cold_war_stay_behind_claims_coup_context",
@@ -504,7 +503,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f70aafe03ac19ce6d80510024bed0ec95cf9cb802bb4b62ff00fe87f8beecdfb"
+      "sha256": "834b9c5e7cd74337841483f3201f3038b4b56d16b4667bdd64d00d24f3f5bc84"
     },
     {
       "case_id": "greece_1947_makronisos_camps_reeducation_state_violence",
@@ -521,7 +520,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "0fd14ea2d337a4d1c626c22a6fe386c0b927c02e9250546c55f33007bf2de946"
+      "sha256": "abbc30ec19335cd7a2a6e3b1eaf02f79b63cedaa860333e3647aaabf7a401af4"
     },
     {
       "case_id": "greece_1947_ufo_supernatural_folklore_state_secrecy_psychology",
@@ -538,7 +537,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "46cd6414d75541af00d2a7966f9ad857852dde7e69690a5c22fb2793781718af"
+      "sha256": "d12eb4e8dcabb1d4be25b0ca4cdb924dca581c6d0392fad316b56b8859d3086a"
     },
     {
       "case_id": "greece_1949_makronisos_exile_camp_anti_communist_re_education",
@@ -555,7 +554,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "a3bc7e1f0262a3159abcf31eb4e94ceaf595d431e9c311ee215f7b799c97ab8a"
+      "sha256": "d87eefd81feb13ee22751bac8c16b925c8bb6e7289fabc2249e8204e5efa22f9"
     },
     {
       "case_id": "greece_1952_beloyannis_trial_execution_cold_war_state",
@@ -572,7 +571,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f36d8d4c32de7c923b7f665959256fdadbe63698f110d3f78d1a043a82e0cfc8"
+      "sha256": "69973276c08bf3f2326cfb37361ed7f4bef44bc2420f8217c7a1431b4dfc284e"
     },
     {
       "case_id": "greece_1955_istanbul_pogrom_minority_trauma_diplomatic_shock_state_memory",
@@ -589,7 +588,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "7c414783736560bd871121336b04a94e33319d699d26ebd5490a616e36eb46ec"
+      "sha256": "392dee7b4ee7bee2b4c4a8a993e6250346ed61c5e46e44a6d7fb73fe011a9fe4"
     },
     {
       "case_id": "greece_1958_max_merten_occupation_memory_diplomacy_accountability",
@@ -606,7 +605,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "c2c57e0b145ca1f348f7dbe103f3edf36eaa5b38a384dbaf21c12fbaea1b4178"
+      "sha256": "2eab960bc181197baeae4d71a70a22e42e0702486d871c982f0ef36e52e571de"
     },
     {
       "case_id": "greece_1960_psychological_control_media_fear_political_memory",
@@ -623,7 +622,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "cfd1e02e69a91e3326480fb8b0a297a9e23eeb1caa4dc327d6efd8eac4264dc9"
+      "sha256": "c87a3af1ccba1deb5482d531b42deadec245bc9629af0fcb0a1bfa282b81c2be"
     },
     {
       "case_id": "greece_1961_violence_fraud_election_parastate_democratic",
@@ -640,7 +639,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "9bbf9f2f22a39c49f860c470cffac46cdac2641aaa65d17d0758f6ebcc12e7a3"
+      "sha256": "30b1f614f57e49123edcbfe093073764758ef3fc4e667bbdeeb695ef64e2712f"
     },
     {
       "case_id": "greece_1963_lambrakis_assassination_parastate",
@@ -657,7 +656,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f1c5f568416f2a50bc34ee977cd3a86cc5f7590d528eabcf172290cc7324b449"
+      "sha256": "33fbfb882b067ccfd1d91eb8461811d317f7f771050847c2e660c75fdd0d2bd6"
     },
     {
       "case_id": "greece_1965_apostasia_palace_party_defection_crisis",
@@ -674,7 +673,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "76bef7116d059d01c56be92d3b8bb799795491a2729f0b24914c3f9d1fb9ef4d"
+      "sha256": "947c93eabaebc3c626c97a4ad9399675626dbbbfbd168d0c6ad10d21cbaeaa5a"
     },
     {
       "case_id": "greece_1965_apostasia_royal_crisis_defectors_institutional_breakdown",
@@ -691,7 +690,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f9529934ea6720073d1c7c00152c2d9fe7844a2ced39868f2c43f5294c8cb798"
+      "sha256": "4ef404001b91d156ac5a16fd8fbeffd8c0c3278222819bc29dee617b76074327"
     },
     {
       "case_id": "greece_1965_aspida_affair_army_politics_palace_pressure",
@@ -708,7 +707,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "73037662e21c599d0191787b10a893b0fc04d6dd10b3c67727ace675b96a2d08"
+      "sha256": "976913d11d04b904e8629889c1b3372d618b28c339b64cab7ee96226092b6659"
     },
     {
       "case_id": "greece_1967_april_21_coup_foreign_context_local_responsibility",
@@ -725,7 +724,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "4fc6031ffd946a2314b37639f0f445eedb448d97dbdbe0002c6406c9a64a1a67"
+      "sha256": "837f61a4969858a75c73e82fe34e0669927551f4feb2af8553a514567b9b4e50"
     },
     {
       "case_id": "greece_1967_coup_us_response",
@@ -742,7 +741,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "14853b16b5d3195be26ee955873829d2794565e673951cff1c91728396cdf60c"
+      "sha256": "f15f3e589e4f1f4c0bbc6c55c1e0a9fdb97146f4859455df3a8a3ed4470dd23e"
     },
     {
       "case_id": "greece_1967_junta_coup_nato_era_anti_communist_state",
@@ -759,7 +758,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "31f966e1886b261f067151c5681b5861e3c91f5c8dc82cfa932411c00d954c32"
+      "sha256": "1c614f1f764bc250b379adc12206dd9638503bdb18d16c6ee659a627fff0219a"
     },
     {
       "case_id": "greece_1968_junta_torture_files_international_condemnation",
@@ -776,7 +775,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "280a56bae65794fe9441343a431940df6c47f2dc65a311ce659087353aef6fdd"
+      "sha256": "927be18115675999e92aa050569c3375316e6ae224d334283af29ce099be1b85"
     },
     {
       "case_id": "greece_1968_panagoulis_torture_junta_repression_resistance_military_courts_fear",
@@ -793,7 +792,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "c11af124c3ed47288cab6acd109fd58a27108c9f2881d80d8a2992cc52a5b8c8"
+      "sha256": "c9d3395cff0c0be12750a1e1abe25fcee9563fa371c8faf398f03921e397f33e"
     },
     {
       "case_id": "greece_1973_athens_polytechnic_uprising_and_junta_violence",
@@ -810,7 +809,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f020c42a8412c81d3b446a97ca37c3ae5c54383d2a27c931937c26c4d6223080"
+      "sha256": "74a01e46c9d9d37db31fa1227ea553aa4872ad4ced4776bed6d26d60202ce526"
     },
     {
       "case_id": "greece_1973_hns_velos_anti_junta",
@@ -827,7 +826,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f5463881a9775014a83edf483de02357074ab35d5c241f0670145a2cd03d45bf"
+      "sha256": "d925e06005fd7f84887cbb94f7ebd959ebcccfb5ae36dacec88bab4a982bd235"
     },
     {
       "case_id": "greece_1973_hns_velos_anti_junta",
@@ -861,7 +860,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "fd364f542df06454996dfaa33bbc6ec76d14d008a5b182b3a80711d0a4cb5790"
+      "sha256": "23b03d635cfb78f037705827d724db31efa020a27ee2bb31cf8e1c2c431c02ce"
     },
     {
       "case_id": "greece_1974_junta_trials_partial_accountability_metapolitefsi_punishment_unfinishe",
@@ -878,7 +877,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "374108eaa96f7d5678db3e3adb1936a3a252248419450d763d5c2027b996658f"
+      "sha256": "c8fe76b42e643bd063529a167665cffc633875810e0c4e4f02fd5841bbd1e337"
     },
     {
       "case_id": "greece_1974_restoration_democracy_metapolitefsi",
@@ -895,7 +894,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "9e11f2e52010984c2d5b1785f1a9cb6556f471f13bac2dc8e774bc6903cd2a40"
+      "sha256": "6a980b6a36c5420559a5c6b1854ac20d3092d0b0931efd8f4abd199ac1e7b6a7"
     },
     {
       "case_id": "greece_1976_torture_trials_limits_metapolitefsi_justice",
@@ -912,7 +911,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "ba50c6d4874e57366c1ce9ff3c02bfd27b0c72aadd24dd56e24baf80daddcd0a"
+      "sha256": "05d139303bbbeae5e2d643ff5346840e50cf986d958ca091d8d4b8015bf6267e"
     },
     {
       "case_id": "greece_1977_penteli_davelis_cave_military_rumors_supernatural_folklore_imagination",
@@ -929,7 +928,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "ab1ed3166c0b117b00a2c3b9ed61c0322b8371f536c91794244f787e1b520100"
+      "sha256": "803252b0f8324429db8f41ccf6dbec925905645f23562fa7adc57c743011353c"
     },
     {
       "case_id": "greece_1980_polytechnic_march_koumis_kanellopoulou",
@@ -946,7 +945,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "7d9a57dc56327100f4fd55f411b09cbb36a69a59547081fe62528042b88d5459"
+      "sha256": "334e325060c1bb99da3d29bc2d1d6851795c3a76455a4203f8f5d7b747c1c530"
     },
     {
       "case_id": "greece_1981_weather_modification_hail_suppression",
@@ -963,7 +962,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "c336e946eb893f28df648d191faaa135c98a89286ea8a4bdb3d97a1c2e0c0457"
+      "sha256": "e4d8a0605a4a6c2b3098a1710e63c15a8d2e3569b8afaf3e97cb91de031b1c98"
     },
     {
       "case_id": "greece_1985_kaltezas_killing_exarchia_police_distrust",
@@ -980,7 +979,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "669bbc90c0c91651d5cc381fa2e3c8ea22c654c9ede2e0db1f5e24a6a4b023d7"
+      "sha256": "b95e6f87abaaef69b9dc0eb0b75e9b58cf0ca212a905b6d58db84b007f361a38"
     },
     {
       "case_id": "greece_1987_sismik_aegean_crisis",
@@ -997,7 +996,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "2cc5e5154cf5601ebe87f2a7f0f3c46c9295e3aebdbc3fdb5f34d202916e0ca0"
+      "sha256": "8da9d674a9938debba91ccad15d95d35b65f470db35d866d8ae331e788e1169f"
     },
     {
       "case_id": "greece_1988_banking_scandals_koskotas_proton",
@@ -1014,7 +1013,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "e0d520eb1d2d2c1ab65057d74cf624ef97ffcfd8d445ae1612ae81a3e2d6fcac"
+      "sha256": "dad600e0cb6cecaed0931013ee9cd4e074a17b2d0d00ea9f948dfd32dd498be4"
     },
     {
       "case_id": "greece_1988_koskotas_scandal_media_bank_politics",
@@ -1031,7 +1030,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "5da12d09239b4e3a1d0c34a05526605a81eea80d9a4259188c480d4450203b0b"
+      "sha256": "2095c592f95afb2f8c70293bf74f1d2b0cf666945b802b9f861226d6091ba020"
     },
     {
       "case_id": "greece_1991_koskoletas_media_licensing_private_tv_power",
@@ -1048,7 +1047,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "8165b40edcf42be672651cda5030951b9b66f160a746fc4e3e7b24e6be19540b"
+      "sha256": "0baadbdf82805870213e76029d9ba320b17e68e18509dee74d55a06533ec82aa"
     },
     {
       "case_id": "greece_1991_temponeras_murder_education_protest_violence",
@@ -1065,7 +1064,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "a5be0e6f4b369cf8683a67a09fe31393ced1b04d2a4b8eafc0f1ca28ddb590fb"
+      "sha256": "eaec19b00c9bdc3b0b40db9ff6bd4070e19711f2ffc9eeb41fb8b9c3ae297ec6"
     },
     {
       "case_id": "greece_1996_imia_crisis_nationalism_media_escalation_secret_diplomacy",
@@ -1082,7 +1081,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "51666bd90ddfa1ab71a143afc9e48b11593256222fc04a99d9f95dc420990568"
+      "sha256": "157f2199822ec28e412da93289b044d127c2a283e1289d56c020aa0bad560527"
     },
     {
       "case_id": "greece_1996_imia_crisis_sovereignty_media_military_pressure",
@@ -1099,7 +1098,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "2f7e9efe8bb90dfc540708dea055c43eac9f78054e04d937a004c4e84adf45e4"
+      "sha256": "ab035536251b51db76f4a47fc868c918a99130e0c1788d992153b68f49db4350"
     },
     {
       "case_id": "greece_1997_defence_bribery_tsochatzopoulos",
@@ -1116,7 +1115,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b5f5ae366f2a563ab438258d0b798ad51ec6cf6bb0ff92070739c443231188fb"
+      "sha256": "b361383c939940fd7573e74fef78162b54357164839b629569ae7829b878c863"
     },
     {
       "case_id": "greece_1997_siemens_scandal",
@@ -1133,7 +1132,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "83fc5317630c19b00d6824d1a4409e0f89bdfb4176fdc57f5eea4a55bd399e76"
+      "sha256": "56a2eb17fbc4a6815c6d21bfbb3280a92ee574e1015552ea7dc1dfda8e9922b8"
     },
     {
       "case_id": "greece_1999_athens_parnitha_earthquake",
@@ -1150,7 +1149,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "c6ef9b88db26e1d0253fa609e5d526b1b3ffb15e90b718a1dc7ee428087da603"
+      "sha256": "b05ddf0b92732740fa916fa9c032d0f50d8678fe09ebf4b422b13d21efd46727"
     },
     {
       "case_id": "greece_1999_athens_stock_exchange_bubble_small_investor_ruin",
@@ -1167,7 +1166,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "7af7c1825e44db8f75743c41f039499319af94a5ff53989586846c2e0d118b0b"
+      "sha256": "a4796bdfd3e2906b6be47b6adc60257b2e4c7b5afd464cf14bf012dd96ee5f39"
     },
     {
       "case_id": "greece_1999_ocalan_affair_secret_diplomacy_state_denial_foreign_pressure",
@@ -1184,7 +1183,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "54062beb23d4548c067e78f3db5f59def0b699f6faf3b4fc13463fc8c030ded1"
+      "sha256": "24f2ae923054daae988f45a1182ed57de196c1c2bbe83c5386aa8ac6c0eec90d"
     },
     {
       "case_id": "greece_2000_express_samina_ferry_disaster_safety_culture_island_transport_accounta",
@@ -1201,7 +1200,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "0c878cb6483e5eebef3229889db9ccdebec4f8308425ffecc367d8f91f56b4ae"
+      "sha256": "da0156d78c8dbd9a0c06099adfcec63dfe92e7e1ee12dff4d8016deaf76637be"
     },
     {
       "case_id": "greece_2000_express_samina_ferry_disaster_shipping_oversight",
@@ -1218,7 +1217,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "919915eb853b4be409c5d3c6a4653f6bc632dce1306d69e7f735878c434cdd1a"
+      "sha256": "6633cd32ee36b0532fe50f194f12518d7ce30d2984a335b9422ca33094f96bcf"
     },
     {
       "case_id": "greece_2001_delphi_gases_geology",
@@ -1235,7 +1234,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "e38c74664f67e729fdcc6e07026358fb3080e646400a4d3c25433e1bdc0e73ce"
+      "sha256": "da7d6e3ccb4dcac0ec5cc20c6de5758da417f8bf4ceb1f6f50d0f99d959fd93f"
     },
     {
       "case_id": "greece_2002_17_november_trial_security_state_transition",
@@ -1252,7 +1251,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "4724448fa764464db55a6a8377114b0238267555f94c8928e885bb5a68cb24c8"
+      "sha256": "2bb39d2aa933b50f0a7fd7c38b666c8604d8a18217960c6916f9f99d6a296b76"
     },
     {
       "case_id": "greece_2003_c4i_olympic_security_system_surveillance_scandal",
@@ -1269,7 +1268,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d81802cfa1593beaf1d6b44b81da19e256244cc5d21876053161e9b919f2cc54"
+      "sha256": "9db0cce901864fb23d34aeb94b879a58e4e0ae7a0b1e1497c80a56e7a7247529"
     },
     {
       "case_id": "greece_2004_athens_olympics_cost_security_debt",
@@ -1286,7 +1285,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "33365a93b3eb40cf872bd7f74fb3f58e9efdeefeb35e67acecf342b8a680831b"
+      "sha256": "ff583bd277fe6e1cf430a674dd86c8010ef76359a3ec85d277b8da911e419b5d"
     },
     {
       "case_id": "greece_2004_c4i_olympic_security_system_scandal",
@@ -1303,7 +1302,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "72a78e1d948f0c8ce8ecd14c402f92c58537d5318a476422695c6081bc9a8b36"
+      "sha256": "18c95dbb7a84d85e677758c794be7073c6b91eb0dca6e06559cf666476b059d3"
     },
     {
       "case_id": "greece_2004_debt_crisis_misreporting_austerity",
@@ -1320,7 +1319,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "575882c94ae9a41148be1c2c8a35c21be57d6487ed83dbb0bd85ba05add3a654"
+      "sha256": "d13fa63480d558bcdb4daa697ca8cb137c2318725a1453dba71f3047b5bc28b6"
     },
     {
       "case_id": "greece_2004_vodafone_wiretap_tsalikidis",
@@ -1337,7 +1336,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "ec36d55e8aebe872c2f69223a41618e607e1192d47179de05fe17d8c9426f814"
+      "sha256": "3ea397bd9c0d104a81db2a1494015be8dc94b158e8db8eb084b1a8f4f0563803"
     },
     {
       "case_id": "greece_2005_helios_airways_flight_522_aviation_safety_oversight_cost_routine_failu",
@@ -1354,7 +1353,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "2715a73a0e09127ba086f3d684f79ecfef7d7de1a35fd827ea0339277791b7f7"
+      "sha256": "6f92d97f04fb0e7998d1e2e46e4adec672470a160f27e6ed3520e3c93877bc4f"
     },
     {
       "case_id": "greece_2005_pakistani_migrants_abduction_surveillance_case",
@@ -1371,7 +1370,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d6a996d9e9fdc9570a67c73d4502739dd8f128d94c663c1ead6c26f692910a33"
+      "sha256": "2430ffd94f6eda10621381ee6af39bdad990c94732463993926aad9927190e37"
     },
     {
       "case_id": "greece_2005_structured_bonds_pension_funds_money_financial_opacity",
@@ -1388,7 +1387,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "00b671fbeaae47355579df6e4208d4c7a4fc2ad916f0e83942b5964e70748c29"
+      "sha256": "3df1cb66a042c2ad1ea8a55b348f2c9c1df03ad62489e72802ad9a45232a974f"
     },
     {
       "case_id": "greece_2005_zahopoulos_affair_media_blackmail_power",
@@ -1405,7 +1404,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "ec17f8353f817027f8d9323d3b35be69f185d5293d6a7f37481f8b34b8faa8e0"
+      "sha256": "a7bcc105cbc0889f64c3eb4cad52894695db53593d6a4b1759927e07db317f4a"
     },
     {
       "case_id": "greece_2007_bond_scandal_and_pension_fund_trust_crisis",
@@ -1422,7 +1421,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "3f08400d197b4b0447c04379691b03193a6009818e7913d89018b580c781f77c"
+      "sha256": "3487c0a6cddba085c078f7412dd961c0aedaea4761156c3f8cf2dbc75a9ce6ca"
     },
     {
       "case_id": "greece_2007_forest_fires_state_failure_land_politics_disaster_governance",
@@ -1439,7 +1438,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "6624054d2c4867fdaa4e3f19e8f93d1fdfca7c3742ae7dc047d2dbf3639cbda7"
+      "sha256": "b8230a62f9f0ef80610f32573f6369118e634084ca48a934ec1b9f9ad8fdfc3d"
     },
     {
       "case_id": "greece_2008_grigoropoulos_killing_police_violence_youth_rage_state_response",
@@ -1456,7 +1455,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "ba02a85fe58a9cb60c68f4059e3c9b7fa43aef99bdb67028a61d39ee9d2d5264"
+      "sha256": "7edb13d37a124fe236cfa8a83549d6e756b34ffd58b8eafba7cc020052ce324c"
     },
     {
       "case_id": "greece_2008_siemens_bribery_contracts_party_finance",
@@ -1473,7 +1472,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f0afd955c33084fbef4e6525c3abc3414f5cf2e75c98d2d400421ffe70997bae"
+      "sha256": "1fe799b02b0c124f24d6ef8c4479fa904b4eb7e50290808798e569f3fa2cbdec"
     },
     {
       "case_id": "greece_2008_vatopedi_land_swap",
@@ -1490,7 +1489,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "0406a524a35ca49fdde31e2c637026052c26eb1007b27dce9544758df55b410c"
+      "sha256": "05fc7ed961877acd6f5b1aca08be46c45f2d5d21f6cca67d43a6f14a259e7c40"
     },
     {
       "case_id": "greece_2009_elstat_deficit_statistics_austerity_political_blame",
@@ -1507,7 +1506,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "9fe3685184db60ab30a1e068367339e2a4114150500a7e7e7fbc70236c03300c"
+      "sha256": "46147ed61719e5204aff3220fe208480f18be605f74af1200ffa5d842f0f9a4d"
     },
     {
       "case_id": "greece_2010_debt_memorandum_shock_and_austerity_governance",
@@ -1524,7 +1523,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "45d890d693c02d99dc67d98b2170c05d72820a5d6e8f013b5a681d1fb7c60bcf"
+      "sha256": "fc5fb12a892e0c323ab0229af0ef84e24248801bbceca425eaeb95145d1a2207"
     },
     {
       "case_id": "greece_2010_elstat_deficit_revision_statistics_trust_war",
@@ -1541,7 +1540,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "0605cb327fd31f79d334c723e278a2b075bf254bf3e2feb9fe3a03a37aee6235"
+      "sha256": "0a44d41309005c4fa9f0cb0fe4396bfa355697b09afd7126ff9d374876aa5766"
     },
     {
       "case_id": "greece_2010_lagarde_list",
@@ -1558,7 +1557,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "86c1de97a47050d0fc874cdebffd6afe91ef4c03a46b5d2e0966c3a3d04f684a"
+      "sha256": "0543ff7de660c17c536b85a3ef8b6583e74fda08080b8ce16fc36bd8db0755d7"
     },
     {
       "case_id": "greece_2010_marfin_bank_deaths_protest_violence_austerity_memory",
@@ -1575,7 +1574,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "8772a38af0388b1ee3930abafd052c21c27f3f5a79969ddd39e4843749313763"
+      "sha256": "8eb9c3e2e4a169ac8d092c29eac11c162c55d8e9230dbde616e6fc508efff3c3"
     },
     {
       "case_id": "greece_2010_oligarchs_media_banks_tax_evasion",
@@ -1592,7 +1591,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "29fe2423ce659c183a3305bee1d8d90caa7e436d25bad06ddc7ebf51fedaeda6"
+      "sha256": "5f23bce07996a4302b016068535f38afda44dabda14fc069e2b87d220e0bb9d7"
     },
     {
       "case_id": "greece_2011_bailout_privatization_fund_asset_sales",
@@ -1609,7 +1608,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "c1a3808c874b66a7cac5ef4d1cfefc3b9fee03731cbcc4b7d897bf8ff10806a2"
+      "sha256": "5bc919aa2dbcdd6a887860826a855a75d81ffe446620809de536a573c1e65df2"
     },
     {
       "case_id": "greece_2011_keratea_waste_plant_policing_local_resistance",
@@ -1626,7 +1625,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d2475789380579f50d8edbe61f11866fce67088ac8f06e2caebe3aea9f5328b3"
+      "sha256": "b3561cf3f927cf65b0c0c8a66ed7f5ba3c5285152e27597b8472f88a1ebe68d6"
     },
     {
       "case_id": "greece_2011_syntagma_protests_austerity_policing_democracy_under_economic_emergenc",
@@ -1643,7 +1642,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "05f92ab7f88e525291455a0617e51e31234fb12a99eab9638f5bcd438cd18c8b"
+      "sha256": "5bc5184da066ba8d366eb828766d28c9732ed16ce74a2d38f9174c94e097db11"
     },
     {
       "case_id": "greece_2011_syntagma_square_policing_austerity_rage",
@@ -1660,7 +1659,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "54cf817dfc0e472cd90e775df9c741b49f8b880e3ba839933a02d9c8d701976b"
+      "sha256": "7d36e5d1e4a6151da0aa3ec357c548307d703a0b93e8bfdaab4845875e907f3d"
     },
     {
       "case_id": "greece_2012_golden_dawn_criminal_org_state_failure",
@@ -1677,7 +1676,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "fd5d8a1bb267dfd759fc0416dc6c88529f7df021dc9d39aa03e21b8ae404ec9d"
+      "sha256": "ba754d1623319a7d35abcf66021534d8660b4b55e3ad3df20d67147a38dc2ece"
     },
     {
       "case_id": "greece_2012_halyvourgia_strike_policing_labor_crisis",
@@ -1694,7 +1693,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "4aafb240376e62d192930dfafb3fafa0d3bd011b9d81bb04d1ab37b50cd84f44"
+      "sha256": "b21c03e380a03c4a0f0073c9e32ec329d1d75e151bd33fada621f527ffee4852"
     },
     {
       "case_id": "greece_2012_mass_id_tax_vehicle_data_leak",
@@ -1711,7 +1710,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "32f5925e70f4fc9c16cade824a988eb6b0b55601476efc0385bd11d17f9feb77"
+      "sha256": "5c9c50f7ce889a8d0edb2c4154ebe143ea06a8d6d5ecf6484c8acaf85b4d1c9d"
     },
     {
       "case_id": "greece_2012_novartis_2012_2026",
@@ -1728,7 +1727,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "114d0f413b8fd13850fd0ca8a746afdb11f6957b1b5274a7eef1ce219a605685"
+      "sha256": "72f3641e916066bf50f109c36f5cfdd1479b9c3c50d64f7cdd0b1afc55be511b"
     },
     {
       "case_id": "greece_2012_pharmakonisi_aegean_pushback_allegations_border_deaths_competing_narra",
@@ -1745,7 +1744,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "7a454d1ced2aee40767ac33ec8f74bf3c0a89c3bb857e65ab7e96ccf6dc68f62"
+      "sha256": "42d92f857fd90f10e8ae9c6c8f6c1538841871c6d60394df2c9675c1c6d0b121"
     },
     {
       "case_id": "greece_2012_shaming_hiv_positive_women",
@@ -1762,7 +1761,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "1364e9c2a42f97d2f277e72dde61d799b593e1bdd0cd1ca4feb542248654272a"
+      "sha256": "e52c2cc051f9e9af2744cbd3a65f45929f49b61d59c82894317beecbcdaaa767"
     },
     {
       "case_id": "greece_2013_ert_shutdown_public_broadcasting_state_black_screen",
@@ -1779,7 +1778,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "4e4c26cc5b2319e25a86eb2e5d7a070b59022e208a3f3d866bbb88de1ff6c1e5"
+      "sha256": "26fd8b731a255bf010e3205f2680d9ecc15f9388df7d6973b29a8cd6b0f6f647"
     },
     {
       "case_id": "greece_2013_manolada_workers_shooting",
@@ -1796,7 +1795,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "3c86b58e500f9b5d442225076c53670bb3730fde482394e54a6015c16234b206"
+      "sha256": "84bd4747154c03ca08237e121fe6140f9d5170547538a7719ad892828089c7b1"
     },
     {
       "case_id": "greece_2013_pavlos_fyssas_golden_dawn_accountability",
@@ -1813,7 +1812,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d3441d57358cbccc25772d34cf80ec2b5a6a9fc4515209bf46d39d2be0d29f7e"
+      "sha256": "935d859c112f41a6373bc11e82c39c2b0df405ed8601b3e566d1c34db6f44bb4"
     },
     {
       "case_id": "greece_2014_baltakos_video_golden_dawn_contacts",
@@ -1830,7 +1829,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "507c072ef898aa643f7cc40c8b82f70247e920a0c513c3338ae8883d2ebf634a"
+      "sha256": "d8696a36018c2f8083337f6ea738a0ea73775e1fcd112bd3c61e066c0e84a0e5"
     },
     {
       "case_id": "greece_2014_noor_one_heroin_power_impunity_allegations",
@@ -1847,7 +1846,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b2f6cacf44a68ffef4d4abdc5aaa7057778e7b55ceb7a8830b96c264623e2957"
+      "sha256": "c8330570a5f3854c193752524c1be08e3e5bef1ce67a2a607528cf2e7fb803ec"
     },
     {
       "case_id": "greece_2015_capital_controls_referendum_shock",
@@ -1864,7 +1863,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "8ab501877888755e4187850ef803f3ad8f82b3a207df93171ec61cb41635c945"
+      "sha256": "28842ef0eaded41d83d11e17bc884c3e7481ba47aed472e6a932bf69bae3c33d"
     },
     {
       "case_id": "greece_2015_refugee_crisis_hotspots_borders_human_rights",
@@ -1881,7 +1880,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b8fae68c400a69b7f485b6e597167fc071a72a316d070662c2e8e558392f6bdb"
+      "sha256": "ddfa2017c940bfbe79bddf0aa7edfc7d7524e1f49cfc52e1b2d952fd6fcc46a0"
     },
     {
       "case_id": "greece_2015_refugee_crisis_islands_eu_turkey_containment",
@@ -1898,7 +1897,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "bee003ba6c9c80e766363c275d943085b6fc1549ef257bf17d116492858716e6"
+      "sha256": "e961fb99140af49eaebd182f50d1c916b6f08c375946d21dab99d94d1720af4c"
     },
     {
       "case_id": "greece_2015_third_bailout_capital_controls_aftermath_democracy_banks_external_powe",
@@ -1915,7 +1914,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "ed8975e7fe91de7c6de748fd38fbb869994efbc4513c231d395fee874d88c996"
+      "sha256": "30b194b029e8d4e6b7f76c5398c825efb6d4d481e09df1b0adb784267064135e"
     },
     {
       "case_id": "greece_2016_novartis_political_scandal_drug_pricing",
@@ -1932,7 +1931,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "a0b463bc20db64212c4949a225ae7815538277c2bf5be206cb505233ad9b2d79"
+      "sha256": "b7d4fe084463035381781f6a2ea12681052f033881592dca4e120b23c3f7b7b9"
     },
     {
       "case_id": "greece_2016_opekepe_eu_subsidies_political_immunity_state_capture",
@@ -1949,7 +1948,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "8ac72e6b48ecfd401e06936c9d9a74e00f1094a0813d22c977ea7b14e301a2b2"
+      "sha256": "e5271d4ad9376834fe57c64c266bd2e4d0e24d0d37f56b344d24deb7e6689062"
     },
     {
       "case_id": "greece_2016_tv_licenses_media_power_conflict",
@@ -1966,7 +1965,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "e3aeae861ba013390388c819237be52b724e7572001266ea8b4418700a19368b"
+      "sha256": "82516c971cfb20ebd2f0ba729fb8926d7db5398eecc7170d27b22c777ca6858f"
     },
     {
       "case_id": "greece_2017_agia_zoni_ii_oil_spill_saronic",
@@ -1983,7 +1982,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "44fb5c4045f377d308eff522d5951d44d091537732d360e0da1de927f6136cae"
+      "sha256": "abcb10ba67b98ee6b3e754021326c8fcd0f7ef861c01c9efc73bf6d4f41aac03"
     },
     {
       "case_id": "greece_2017_mandra_flash_flood_planning_failure",
@@ -2000,7 +1999,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b6cae23f49b569b1a2422700c74a627cab448bccc14f4169ec23cfd7bad02894"
+      "sha256": "f74ece9e1881e222abc437870ff01f34081004cb7d0861e767c67857fc6b96b4"
     },
     {
       "case_id": "greece_2017_noor_one_heroin_allegations_impunity",
@@ -2017,7 +2016,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "252d6d213b0264ff4c9a83f781fbe5e075cdbeb4273aa53b2bc42a0a70f4f0a0"
+      "sha256": "e7ba6fd09ed0a59ee60b834d6f6612a62d1afedf22d85f97b6ea65afda3923fd"
     },
     {
       "case_id": "greece_2018_folli_follie_market_fraud_regulator_failure",
@@ -2034,7 +2033,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "ee09f74a76d0221514a4ca80553b46897f62ccf9091f5b996291931146844da4"
+      "sha256": "2fdb5cafebf92f45a00343fe4ef27ca797e41b19f2a05b103fd854d421ad4436"
     },
     {
       "case_id": "greece_2018_mati_wildfire_state_failure",
@@ -2051,7 +2050,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d68a79af4a55a5fcd87b862e3476f66b15a398c8f6e8d8d06ed8fffca8b5b7fe"
+      "sha256": "9af1522bce5a312641c78dc604f4c6f3033ffa898f7f3ee1751ddd6e4c8cda78"
     },
     {
       "case_id": "greece_2018_prespa_agreement_backlash_identity_politics_disinformation_pressure",
@@ -2068,7 +2067,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "21f6015b4992346ee3f6079c33ae3152042efd95b6bfee5126b646c45b9f7840"
+      "sha256": "de35e57b126bcae2aee73562dd7ec9c449b6a3a36706c71b25cee499d05bedab"
     },
     {
       "case_id": "greece_2018_zak_kostopoulos_death_violence_police_response_social_stigma",
@@ -2085,7 +2084,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "db3f9bcbda624e9e2b9a24acb557f1ff0e050ea5b208887a51debe2f32b1e629"
+      "sha256": "eef524e7929fd38287ef294a9ed0e1db0652e557bbed38848cf630dbd98d98b6"
     },
     {
       "case_id": "greece_2019_exarchia_operations_urban_policing_drugs_squats_fear_rights",
@@ -2102,7 +2101,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "30762cb703967a05f7cb1694d49afe4c6c51d119bb5151a4f7fd2b507f82bab1"
+      "sha256": "c2f7dc9e2a8a7f3b8b8f0a69a23b1ff2f4615378cac8697c3b883533817f4541"
     },
     {
       "case_id": "greece_2019_greek_mafia_killings_state_crime_fear",
@@ -2119,7 +2118,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "23e6269ba5711e40a6f0c4932ca322e2dc4534d1a2f643ac8793078bff091c48"
+      "sha256": "52055724be882ae3cfbb73f055ee4cbbb9a7c253df68b721868a5af5f0bfa4f9"
     },
     {
       "case_id": "greece_2019_novartis_greece_political_scandal_protected_witnesses",
@@ -2136,7 +2135,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f1a3aae3b11ac44861d9a87d795dcfc472189acb9faea6eff566d20807309f0a"
+      "sha256": "247c5cd87fc7fd937ece8bddb33b609d746ad6979b8a634273700bd6ec422f5e"
     },
     {
       "case_id": "greece_2019_piraeus_noor_one_political_pressure_media_memory",
@@ -2153,7 +2152,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "0233c3c136d036ac5e04019f3aad4ce29909976f271fb73ded8baa7e19bec7f4"
+      "sha256": "367263520efe82429ed06979c8dafc01c0229134c9e5608419a73f7daa5bc0d7"
     },
     {
       "case_id": "greece_2020_covid_lockdowns_policing_procurement_trust",
@@ -2170,7 +2169,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b048dfdebefb61a5ad764f265cd5d3ea6c4ca7a7d4c034619197a9040570a26b"
+      "sha256": "dafbe194c2840ebef269a219436f7780e0969b7cce070fee5fb5f310f0f763d3"
     },
     {
       "case_id": "greece_2020_covid_sms_permits_lockdowns_certificates_permission_culture",
@@ -2187,7 +2186,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b56b55964b2ccc3e09693a979f975e44df2ad50982b3dbc840878a08afa91224"
+      "sha256": "79700469da8b7971cfc57b3dba2cd6614b03f9b0fd7eeeaa6b11873c926ccc17"
     },
     {
       "case_id": "greece_2020_evros_border_crisis_and_information_war",
@@ -2204,7 +2203,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "40b3f38eefa11cbd259a033953e1a6186e9dc854082aca840b2f8fbeee109890"
+      "sha256": "1149822ce4ca3fe4d0ce2afa313360d4cb47ea5d6ccff752cddef6a3f0b2a9de"
     },
     {
       "case_id": "greece_2020_golden_dawn_conviction",
@@ -2221,7 +2220,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d39678cc26d0407ca10a162d53fd608834ebdcfd6347bf0ee319ba24d93f419d"
+      "sha256": "1235811c6fe6b1f0852eef1aee7f58f1b778cc22ec34e48e1c78fb036f090e68"
     },
     {
       "case_id": "greece_2020_greek_covid_fines_movement_forms_enforcement_class_permission_culture",
@@ -2238,7 +2237,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "281b115621628c7043cee4f8b7a80f1a99893ad1abd5a214004bf93c2362b8a7"
+      "sha256": "f351d6871c63da3531b23ff7d6da60fa61c2565e0d1ff71c5f7f70d08842cf5f"
     },
     {
       "case_id": "greece_2020_medicane_ianos_floods_response_accountability",
@@ -2255,7 +2254,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "1c9ba4294791f4b06b7b8f653229f73d7f1da797d6480d24e6a51a5352fe4149"
+      "sha256": "30048c574f482ac17e0f35051647179bcb45d5613311fd75e8812e7f481f5f75"
     },
     {
       "case_id": "greece_2020_moria_fire_refugee_camp_failure",
@@ -2272,7 +2271,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "5e1de164817211b2e5d7adaaebbc1753503d894a320702b5fc96e802edd9b20d"
+      "sha256": "5063f8c1cc8baa4ee674cb67cdce4f0ed2d4bf3d31710417470d251382e18f98"
     },
     {
       "case_id": "greece_2020_pandemic_sms_permits_policing_normalization",
@@ -2289,7 +2288,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d7ddc06acc12324dfe2a8d9b70126b697564f9c716f75453d335ac726114a3b9"
+      "sha256": "77b57009b5d3aef5d1ccc9d66262bf6186445c8407a4e7d725acb8836f3a74fd"
     },
     {
       "case_id": "greece_2020_petsas_list_media_funding_message_control",
@@ -2306,7 +2305,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "bb3280fb3a4063139d805215b0008a6e82c8d008e68c4589f99f52717154f165"
+      "sha256": "4b2a9a4fe1b419b44413b6f024553fed87257e47ba416977b93aab060e25917a"
     },
     {
       "case_id": "greece_2020_pushbacks_border_rights",
@@ -2323,7 +2322,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "72af81352161d29df8430733609637e63566a45daec3ed3a275d6dbf8a9f0666"
+      "sha256": "5253b7759ef2d8c392eb0496709403b7ec7bd674107ec99c1fc0792fd6d7e534"
     },
     {
       "case_id": "greece_2021_closed_controlled_camps_asylum_control",
@@ -2340,7 +2339,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d8e632f5ac30640d07bd5b5f02f8832f97d018911447d19dc404000d2bd21ef4"
+      "sha256": "da7dd72ce63883099dbbfb4cecfd8398dbc45263b01a1355cf6376fbe3bca8f4"
     },
     {
       "case_id": "greece_2021_dimitris_lignadis_cultural_power_networks",
@@ -2357,7 +2356,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "37a87488cf221f49d67943da3fc69988b31d68b6b1fa53db3a9df70a9be29cbe"
+      "sha256": "9da55153930423eb5e1a1e8716c77a4d0d2a34aec43491b7362c6a7fd257f0c3"
     },
     {
       "case_id": "greece_2021_evia_wildfires_state_response_climate_failure_rural_abandonment",
@@ -2374,7 +2373,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "1b7c1e20956e0ef7a13173da07b95be2b97bac3808c45c5ab76567e1c4f0d3d3"
+      "sha256": "00e8a0ba2e46d36c9cb97d9ace7aa2026b02638770e7df003b98f801bcc2e39f"
     },
     {
       "case_id": "greece_2021_giorgos_karaivaz_assassination_and_press_freedom_wound",
@@ -2391,7 +2390,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "28fbc81bf5b22f60cc608044b1d1a5a55430fc6cf1d06a3948f130b12f3b90f4"
+      "sha256": "c37411e51fb7493b70b23dfdbf694eda300bffde500a4d65dd730d8e734fa4cd"
     },
     {
       "case_id": "greece_2021_nea_smyrni_police_violence_protests_order_narratives",
@@ -2408,7 +2407,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "74beca2da385197f7394ef56d55065c5d4e4fe6bd9c5e35916738f63c5f7acfb"
+      "sha256": "9d647404879b4f6791b16c4f9dc5f8bb9cb4375020e09190b5c9c5ab613bfd98"
     },
     {
       "case_id": "greece_2021_novartis_scandal_political_judicial_battle",
@@ -2425,7 +2424,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "52a895d8f1d0110f9182af0766a6ca50a923757dc459ca1bbfc9e8b31e345b5d"
+      "sha256": "2d20eb62d34d7f13d016f91f16de9b9d6a000ca11e1ac22e840233192f10f5ae"
     },
     {
       "case_id": "greece_2021_vaccination_certificates_in_greece_health_work_access_social_division",
@@ -2442,7 +2441,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "f54a2e8b666f51cc341b22e7187a9c8747610fc11bd6be9a29c7554cf3f6af31"
+      "sha256": "502832c8cebb2050e36ff6df7a820bae2a4590571e641a6588c406fef6830be0"
     },
     {
       "case_id": "greece_2022_ark_world_charity_scandal_children_donations_oversight_failure",
@@ -2459,7 +2458,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "2f08f837b91f7f6ca65231d0d96c9ae6bbf0ed8be2b49c1c530a160f3b8b20f3"
+      "sha256": "474c6f2a7915cea0299c1e94dd30e6a7d7ab8e11f60c5e0710f1e0da4fe919b3"
     },
     {
       "case_id": "greece_2022_kolonos_abuse_case_child_protection_institutional_failure",
@@ -2476,7 +2475,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "9cd0a59603ffcedd2001de5093462cffa7438e0cf9fdb1e195f9957bdac160a4"
+      "sha256": "15763b385032bc245a4536619e1a5b11b974dd0902c6e6dd9817a13c8e8e3477"
     },
     {
       "case_id": "greece_2022_personal_number_biometric_ids_gov_wallet",
@@ -2493,7 +2492,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "6e57e7d014594a32ec27a9145a316a5c3a12dac044244093ff7ba0db0929b2fd"
+      "sha256": "db534c5a997f089429600281994e3ce24959a50bebbcbe6d8132a4d59e3a7493"
     },
     {
       "case_id": "greece_2022_pispirigou_child_deaths_media_trial_problem",
@@ -2510,7 +2509,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "15d0d09fcecc6680532ebf530aa75a2401fe52ed08f1606e5bf0e1e8b6ef3bea"
+      "sha256": "65c87fba753f532a0a5b181d7e7f7ad760733a3535975b0d9f2ad452c2c73138"
     },
     {
       "case_id": "greece_2022_predatorgate_institutional_reform_gap",
@@ -2527,7 +2526,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "d745ff4c16a61b2cbcfc25ca7e7a24886f4ed26fec5399701ecb10c7b9e17e46"
+      "sha256": "40b56b18613d03e9af9ca934106ca15b4de61e3df35c4f26ba6aacbd6ba6d7e7"
     },
     {
       "case_id": "greece_2022_predatorgate_spyware_state",
@@ -2544,7 +2543,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "808c5d990384a478c5c9270c8c6c07e6b43e59241e5291b4ce117f3e5511de96"
+      "sha256": "b3631a7f62d3068d842519103c7452ee327728428cd94d8ed7d4be4df136842e"
     },
     {
       "case_id": "greece_2022_surveillance_reforms_after_predator",
@@ -2561,7 +2560,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "78e5bed856f3ed24bbf21b94b89b2ffa1f805b517e6e806f53726c64aca409de"
+      "sha256": "fe918e4e86d33a4308a71548d2a7fa85c90159b7782496a2651ec1e8712e51cc"
     },
     {
       "case_id": "greece_2023_15_minute_cities_smart_cities_control_fears",
@@ -2578,7 +2577,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "caf762de7586bbcd9470a2f6820682a174ec5fb6c434c72db2c34637cdc2c2a7"
+      "sha256": "a2adc15d917777e48165af61ae41b1b4d0749352666c2a17476e4f5eb876baee"
     },
     {
       "case_id": "greece_2023_eavesdropping_adae_authority_pressure_rule_of_law",
@@ -2595,7 +2594,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "9a591e6f2743b5308a2973be148f04a7ecd153f4f8a791cc15cf9baab7e2be57"
+      "sha256": "1e6ab85b4fb9b8d880568ec254a74892d9fec78e0ae3b4f14b57643d451fec45"
     },
     {
       "case_id": "greece_2023_evros_wildfire_border_blame_and_climate_failure",
@@ -2612,7 +2611,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "79c3d094d050d5d2f64d6105b7e1134da62a39cf39f42a41271e946b19b87f12"
+      "sha256": "4642457ddbe4c076abf079ab951e3696bb35b018a483a10b3ab28a46d0cf9d64"
     },
     {
       "case_id": "greece_2023_nea_anchialos_ammunition_blasts_wildfires_military_storage_civil_prote",
@@ -2629,7 +2628,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "25c965c37dfd0a34186765e539bb8b17489e28e26ee1b24129230a7b0d031501"
+      "sha256": "73398df9100297f7081ad1ae00adab326918ca84276357348187142a33a95230"
     },
     {
       "case_id": "greece_2023_pylos_shipwreck_accountability",
@@ -2646,7 +2645,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "082231cd194d39980cc1950870add9b35b8a8db6a786036342dc37f65b65017d"
+      "sha256": "cb50b85bc643431c94a97ef56f3cc41c6dc62d51f4ecc16f27acabab236d4aaf"
     },
     {
       "case_id": "greece_2023_pylos_shipwreck_rescue_duty_evidence_gaps",
@@ -2663,7 +2662,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "8b2bd886f130dfa4b7fb39160f898a81ab3703f1fcd8be1a53248248b98f3179"
+      "sha256": "cb6b86c136fe696241c2b3329db68ea8acb1afe211ec67019c9c29fa067001b2"
     },
     {
       "case_id": "greece_2023_spartans_golden_dawn_bypass",
@@ -2680,7 +2679,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "38e306797fa340d752c7ed5f91ed5f7d224e472a1127a17fb47179af66b88f1b"
+      "sha256": "f8ff245da7e9920a659266e5f6470f1ff8638a028bfce990cd4c0c1d42ee9ca9"
     },
     {
       "case_id": "greece_2023_sports_fan_violence_organized_crime_networks",
@@ -2697,7 +2696,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "4195c35260e53e5ed5aea303d9be982990069f50b7e2b5bd3f7c665ad1042358"
+      "sha256": "4906133c4625ac9f540a73aaad2a6e19843aa59d97af0c6bc52e29add2d29dbe"
     },
     {
       "case_id": "greece_2023_sports_violence_crime_networks_state_response",
@@ -2714,7 +2713,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "a019fa34273c80f606f3a9608c8abfe2e44739e9e0f5712e817117f30eec6caf"
+      "sha256": "c9832026fa125e24499ec8e089bf846a9a7b2afda9c5c502fe01f1bb336057d6"
     },
     {
       "case_id": "greece_2023_storm_daniel_thessaly_floods_infrastructure_collapse",
@@ -2731,7 +2730,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "74035d121a2c9ad6795f424fde1d8ac02147ef03775f4d37113f702c1405008c"
+      "sha256": "5ca4a2b4c831f2f0abd867a1f0025ec68ff6a346c580e8a08bd6efb37af5cd55"
     },
     {
       "case_id": "greece_2023_tempi_train_crash_safety_failures_accountability",
@@ -2748,7 +2747,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "276cb62dbffe0a0cca67f4c390b6eb1f2804e5779733e1cc11637c6be672973f"
+      "sha256": "569b7f4a81e72ecba44c398e7622d61ed097bdba579a60e4308637527736d5e6"
     },
     {
       "case_id": "greece_2023_youth_violence_bullying_stabbings",
@@ -2765,7 +2764,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "215b09df48c9972b0ede5f6ee3e6511e72a0c8a17819de8b80dba331a44af2f4"
+      "sha256": "7026cec9d387fd9d87ef3b895d80defdddecbeab9ee9a9d9e0252e76de9f1a3e"
     },
     {
       "case_id": "greece_2024_asimakopoulou_email_leak_data_protection_elections",
@@ -2782,7 +2781,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "63766a25ea528a3ad2743e26601cfe8d319ba7d5081c1a187237351d8ff6c276"
+      "sha256": "d8a97e1f59d4b4f8e011140199b0452629976e63fa87c9a4037d7c6120e04e71"
     },
     {
       "case_id": "greece_2024_domestic_violence_femicides_police_response_institutional_failure",
@@ -2799,7 +2798,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b695a1ec3a0468d650fdfa7fb8ff4ba0db787cccf1023d9db1371cf09c41b403"
+      "sha256": "73e325a8eeaaf50fd2f60e92b0b5aba81048f50b83c93654fee2fd1e75778a83"
     },
     {
       "case_id": "greece_2024_dystopian_trends",
@@ -2816,7 +2815,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "ffbb25db160d259ce99bd75157c90cea3bde1eb51ad396fcd88fad0cd47d0fbc"
+      "sha256": "e64e1142be868f2f864ddb7d35febb0f859b0a2ec9ffaed068de55ba7746df28"
     },
     {
       "case_id": "greece_2024_kyriaki_griva_murder_outside_police_station",
@@ -2833,7 +2832,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "292c68bc47eb24a55b491fc30b43172fa0c6361f4f2686c58dfd5fb6eb20d6d2"
+      "sha256": "80e1102804cdee85c4a69e39e44ce8816b96c8c979d24c3c5e74373c42edb76e"
     },
     {
       "case_id": "greece_2024_kyriaki_griva_police_station_femicide_response_failure_institutional_s",
@@ -2850,7 +2849,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "51117695cb3b389c3ebb83f51f567cb71a27c30a09044f7a6fa21cd365af17c3"
+      "sha256": "579fa81df3ef22c77e2bdb12c0593bf1bf11d29ec65c5a5f85c0f08475ffc6f3"
     },
     {
       "case_id": "greece_2024_police_corruption_abuse_ill_treatment",
@@ -2867,7 +2866,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b13a25793bbee36020633c62361be4f92ea3747116ef123b69a48c110023c78a"
+      "sha256": "73d4a34fb09b12f43cdbbfc1370c1862356e3a0b00dd6d3577cfd3e612d3d6c2"
     },
     {
       "case_id": "greece_2024_sector_bribery_permit_networks",
@@ -2884,7 +2883,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "940ad3d38a36cb0191a58433137e1511d1cedfd4d9793a9a27d5fd706daf36e9"
+      "sha256": "acd78b932bea7b10e75d1ad75b2985321c90b41dc1235519be0aedaec54e25d1"
     },
     {
       "case_id": "greece_2024_social_media_ban_child_control_digital_age_verification",
@@ -2901,7 +2900,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "278a85ca3271efc68d00c323506ed55eec5616d41d7ee760abb8bdd210e43a78"
+      "sha256": "70ffae310b023c2dc722dd37b14ec7c927926dbf320cf110edbe544edb5391dd"
     },
     {
       "case_id": "greece_2024_taxes_war_jobs",
@@ -2918,7 +2917,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "60a54295c2b0044c06da0922696ed6dbed652e8e7d2900faa8cf2148f8d09458"
+      "sha256": "594040e209d74f65a4864e41c4038bf15e133a16fbf6caa4678a83b9fda16899"
     },
     {
       "case_id": "greece_2025_digital_id_personal_number_kids_wallet_age_verification",
@@ -2935,7 +2934,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "779c63183da377019ca2be2ca46b6ad57e8ad66312335e82ae11dc5505d400dc"
+      "sha256": "f7e53efc56916dde431daee5737435a6c48dd159ed225dd31836e016ce508ae2"
     },
     {
       "case_id": "greece_2025_echr_greece_pushback_rulings_border_accountability",
@@ -2952,7 +2951,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "cd31ad049c5bdccb13dceaf575f566a6e6e1f1d1d3d8ada36944f1a9ced0f6d6"
+      "sha256": "0d28d7e184d48622349919dae02e7dab8973b0874864e4f6206ad3e3df5b4c88"
     },
     {
       "case_id": "greece_2025_hellenic_train_office_bombing_rage_rail_trauma_security_spiral",
@@ -2969,7 +2968,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "2d396dd312be8ae189151a7caa0cbf9fbeda4b33bb4033113090e87d4eed64f8"
+      "sha256": "1948c106d49778d04bbcc67a2cfb409cdb81150dc573f748326eb00d4341a8a0"
     },
     {
       "case_id": "greece_2025_kids_wallet_digital_age_verification_child_safety_id_infrastructure",
@@ -2986,7 +2985,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "169d66ff0678dc62698b908afd24b224ad618871946d3da266f5c07d4e805eca"
+      "sha256": "6f1fa708645dc64b82565b6e163728ea03fb884186334d43853ed55a3736570a"
     },
     {
       "case_id": "greece_2025_kids_wallet_digital_identity_child_protection_debate",
@@ -3003,7 +3002,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "1c57269ce02d8ba935fb6dd7a55584d982057aa3bd7be48c6bdeee749ddee8c6"
+      "sha256": "cc4d73e24299f131d50298095c70e3f156142d0388defcaf8396e0f45a337810"
     },
     {
       "case_id": "greece_2025_opekepe_agricultural_subsidy_fraud_escalation",
@@ -3020,7 +3019,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "e69f5a114d680a745ea6b3262383b535627259c7e9a638975764fb72bd4768f5"
+      "sha256": "d57f06c9f3820e8d883069ac81a125b048ec4dfb7a8e297eb937388576c2f010"
     },
     {
       "case_id": "greece_2025_opekepe_farmer_protests_subsidy_hole",
@@ -3037,7 +3036,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "529b49a6212924d9f44e85a58e83f4d33f98f0ed08fae2892ba5e30abba64f9f"
+      "sha256": "573e1afe596b189998af6179c042c3cf2132270066e1898364e9b4a62d6852f9"
     },
     {
       "case_id": "greece_2025_opekepe_resignations_eu_fine_subsidies_parliament_political_cost",
@@ -3054,7 +3053,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "3c452122a86167c9fdfcb7904867da58d2e7bd41ce46ea0d8c359657e2e14324"
+      "sha256": "ce589f7aad6bf1b0a1b45aaf65e7e5727bc48b7109d196ed73fdeea97447f757"
     },
     {
       "case_id": "greece_2025_opekepe_second_wave_parliament_immunity_agricultural_subsidy_machine",
@@ -3071,7 +3070,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "1c100ce12cd95b3cbf4e5561380bd54d48dc5974ab107790c9abd67515cb4bcc"
+      "sha256": "5f03f39196e95d8b7141d060a73315ef13e991adc8e53dfdac27837b0b691fdb"
     },
     {
       "case_id": "greece_2025_personal_number_digital_id_anxiety_state_modernization",
@@ -3088,7 +3087,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "4218833ec114f382c030c8ecf33b3d5cc4ccf0c6c5a3bd5c05d5a5f55268fc77"
+      "sha256": "a72dae003bbc0113b87dd25a21daf87b835a61d832659c8e096e162b431f2376"
     },
     {
       "case_id": "greece_2026_children_social_media_age_bans_digital_parental_control",
@@ -3105,7 +3104,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "4f21c0c42c1183ec9ef2c487dde13f6f7de7795a05d3f42404f005d9270372b2"
+      "sha256": "2e61cc7f76cdc56a17b9720db15b7ee8753212db6414148c51ea623bf82f7535"
     },
     {
       "case_id": "greece_2026_greek_social_media_age_gate_kids_wallet_debate_child_protection_or_dig",
@@ -3122,7 +3121,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "6c8db4208b622cdd08a7e96998109aec40649a9dc6f338b5cf7b9f3050b390dc"
+      "sha256": "2c73c5dbc7f3f6fccce6146811cc6c538276938dc1786bf181d9467b083d3d03"
     },
     {
       "case_id": "greece_2026_opekepe_immunity_requests_parliamentary_accountability",
@@ -3139,7 +3138,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "07ecfad98c62cfacf8bbb013db42b171c31c553f5a4ce6e9b908b0798f4831e1"
+      "sha256": "0eb4cbf4bf456c7c5239a666725495941c29412b6f514d0ddcd0fb1047bdffb5"
     },
     {
       "case_id": "greece_2026_tempi_third_year_trial_memory_protest_accountability",
@@ -3156,7 +3155,7 @@
       },
       "license": "Project-authored/compiled text",
       "source_page": "",
-      "sha256": "b8ee66a1ef405e8f21ff331b17d1fae690ec1308fe6035bfa48bd3ce71ea1cd5"
+      "sha256": "1a24db0fc808d48ac30cd4053abfa1446ec08c39f072f840e75114fe2d94cb11"
     }
   ]
 }

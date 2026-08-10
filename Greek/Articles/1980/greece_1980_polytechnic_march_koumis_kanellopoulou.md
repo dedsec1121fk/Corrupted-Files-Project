@@ -4,7 +4,7 @@
 **Case ID:** `greece_1980_polytechnic_march_koumis_kanellopoulou`  
 **Country:** Greece  
 **Reference year:** 1980  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ Serious clashes during the 1980 Athens Polytechnic anniversary march resulted in
 
 - The historical significance of 1980 Polytechnic anniversary march: deaths of Iakovos Koumis and Stamatina Kanellopoulou extends beyond the reference year. The deaths became reference points for post-junta police accountability and for assessing how democratic institutions handled protest, crowd control and continuity with coercive practices of the past. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate 1980 Polytechnic anniversary march: deaths of Iakovos Koumis and Stamatina Kanellopoulou without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate 1980 Polytechnic anniversary march: deaths of Iakovos Koumis and Stamatina Kanellopoulou without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -179,7 +179,7 @@ Serious clashes during the 1980 Athens Polytechnic anniversary march resulted in
 
 - Η ιστορική σημασία της υπόθεσης «Πορεία Πολυτεχνείου 1980: οι θάνατοι Ιάκωβου Κουμή και Σταματίνας Κανελλοπούλου» ξεπερνά το έτος αναφοράς. Οι θάνατοι έγιναν σημεία αναφοράς για την αστυνομική λογοδοσία μετά τη χούντα και για την αξιολόγηση του τρόπου με τον οποίο οι δημοκρατικοί θεσμοί διαχειρίστηκαν διαμαρτυρίες, έλεγχο πλήθους και συνέχειες κατασταλτικών πρακτικών του παρελθόντος. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Πορεία Πολυτεχνείου 1980: οι θάνατοι Ιάκωβου Κουμή και Σταματίνας Κανελλοπούλου» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Πορεία Πολυτεχνείου 1980: οι θάνατοι Ιάκωβου Κουμή και Σταματίνας Κανελλοπούλου» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

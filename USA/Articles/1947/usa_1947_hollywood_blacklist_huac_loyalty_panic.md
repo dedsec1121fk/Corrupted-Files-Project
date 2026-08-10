@@ -4,7 +4,7 @@
 **Case ID:** `usa_1947_hollywood_blacklist_huac_loyalty_panic`  
 **Country:** USA  
 **Reference year:** 1947  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

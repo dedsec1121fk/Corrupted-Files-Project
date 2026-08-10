@@ -4,7 +4,7 @@
 **Case ID:** `usa_1969_fred_hampton_raid_fbi_informant_context`  
 **Country:** USA  
 **Reference year:** 1969  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.

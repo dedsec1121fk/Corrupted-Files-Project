@@ -4,14 +4,14 @@
 **Case ID:** `greece_2026_tempi_third_year_trial_memory_protest_accountability`  
 **Country:** Greece  
 **Reference year:** 2026  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
 
 ## English — Summary
 
-DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for crash/deaths/inquiry findings/protests; legal responsibility still subject to proceedings.
+DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for crash/deaths/inquiry findings/protests; legal responsibility still subject to proceedings.
 
 ## English — Full Story
 
@@ -73,7 +73,7 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## English — Deep Dive
 
-- Deep-dive analysis for Greece — Tempi third year, trial memory, protest, and accountability (2026): Context: DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for crash/deaths/inquiry findings/protests; legal responsibility still subject to proceedings.
+- Deep-dive analysis for Greece — Tempi third year, trial memory, protest, and accountability (2026): Context: DOSSIER TYPE: Full original article / story file COPYRIGHT NOTE: This file is newly written for this database. It does not copy a news article. It summarizes publicly documented facts, public claims, controversies, and open questions so a reader can form a conclusion. EVIDENCE LEVEL: High for crash/deaths/inquiry findings/protests; legal responsibility still subject to proceedings.
 
 - Deep-dive analysis for Greece — Tempi third year, trial memory, protest, and accountability (2026): Evidence focus for Greece — Tempi third year, trial memory, protest, and accountability (2026): compare the stated facts, dated timeline and direct sources before accepting a causal claim.
 
@@ -143,11 +143,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 ## Ελληνικά — Σύνοψη
 
-ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026).
+ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026).
 
 ## Ελληνικά — Πλήρης αφήγηση
 
-- Η υπόθεση «Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026)» παρουσιάζεται στο αρχείο με έτος αναφοράς το 2026. ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026). Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
+- Η υπόθεση «Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026)» παρουσιάζεται στο αρχείο με έτος αναφοράς το 2026. ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026). Στόχος του φακέλου δεν είναι να επιβάλει μία εντυπωσιακή ερμηνεία, αλλά να ανασυνθέσει τη σειρά αποφάσεων, τους θεσμούς, τις επηρεαζόμενες ομάδες, τα σωζόμενα τεκμήρια και τις μεταγενέστερες διαφωνίες που διαμορφώνουν την υπόθεση.
 
 - Οι υπάρχουσες σημειώσεις του φακέλου προσθέτουν τα εξής ουσιαστικά σημεία: Η ασφαλέστερη κατάληξη είναι αυτή: η υπόθεση Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026) έχει σημασία επειδή δείχνει πώς συμπεριφέρεται η εξουσία όταν η αλήθεια κοστίζει. Μερικές φορές η εξουσία λέει ψέματα. Μερικές φορές καθυστερεί. Μερικές φορές μιλά τόσο τεχνικά που ο πολίτης παραιτείται. Μερικές φορές κατηγορείται άδικα και η κατηγορία γίνεται μύθος. Ο φάκελος κρατά ορατούς και τους δύο κινδύνους: την τυφλή εμπιστοσύνη και την τυφλή παράνοια. Η χρήσιμη στάση είναι τεκμηριωμένη δυσπιστία. Το έτος 2026 είναι το σημείο όπου η υπόθεση μπήκε στη δημόσια μνήμη, στη θεσμική συζήτηση ή σε νομικό/πολιτικό έλεγχο. Η ασφαλέστερη κατάληξη είναι αυτή: η υπόθεση Έναρξη Δίκης Τεμπών: 350 Μάρτυρες, Κανένας Πολιτικός στο εδώλιο και Κενό Λογοδοσίας έχει σημασία επειδή δείχνει πώς συμπεριφέρεται η εξουσία όταν η αλήθεια κοστίζει. Μερικές φορές η εξουσία λέει ψέματα. Μερικές φορές καθυστερεί. Μερικές φορές μιλά τόσο τεχνικά που ο πολίτης παραιτείται. Μερικές φορές κατηγορείται άδικα και η κατηγορία γίνεται μύθος. Ο φάκελος κρατά ορατούς και τους δύο κινδύνους: την τυφλή εμπιστοσύνη και την τυφλή παράνοια. Η χρήσιμη στάση είναι τεκμηριωμένη δυσπιστία.
 
@@ -209,11 +209,11 @@ DATABASE VERSION: v17 expanded dossier TYPE: Full original article / story file 
 
 - Άμεσοι σύνδεσμοι ειδικά για την υπόθεση: 0.
 
-- ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026).
+- ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026).
 
 ## Ελληνικά — Βαθιά έρευνα
 
-- Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026)»: Πλαίσιο: ΕΚΔΟΣΗ ΒΑΣΗΣ: v17 εκτεταμένος φάκελος ΤΥΠΟΣ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026).
+- Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026)»: Πλαίσιο: ΤΥΠΟΣ ΦΑΚΕΛΟΥ: Πλήρες πρωτότυπο άρθρο / αρχείο ιστορίας ΣΗΜΕΙΩΣΗ: Το κείμενο γράφτηκε από την αρχή. Δεν αντιγράφει δημοσιογραφικό άρθρο. Υπόθεση: Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026).
 
 - Ανάλυση εμβάθυνσης για την υπόθεση «Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026)»: Εστίαση τεκμηρίων για «Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026)»: σύγκρινε τα δηλωμένα στοιχεία, το χρονολόγιο και τις άμεσες πηγές πριν αποδεχθείς αιτιώδη ισχυρισμό.
 

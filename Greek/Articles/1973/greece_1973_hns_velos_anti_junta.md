@@ -4,7 +4,7 @@
 **Case ID:** `greece_1973_hns_velos_anti_junta`  
 **Country:** Greece  
 **Reference year:** 1973  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ In May 1973, after arrests disrupted a planned naval movement against the dictat
 
 - The historical significance of HNS Velos and the 1973 naval anti-junta action extends beyond the reference year. Velos provided international evidence that opposition to the junta existed inside the armed forces and later became a floating museum of anti-dictatorship democratic resistance. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate HNS Velos and the 1973 naval anti-junta action without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate HNS Velos and the 1973 naval anti-junta action without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -177,7 +177,7 @@ In May 1973, after arrests disrupted a planned naval movement against the dictat
 
 - Η ιστορική σημασία της υπόθεσης «Α/Τ Βέλος και η αντιδικτατορική ενέργεια του Πολεμικού Ναυτικού το 1973» ξεπερνά το έτος αναφοράς. Το Βέλος προσέφερε διεθνή απόδειξη ότι υπήρχε αντίθεση στη χούντα μέσα στις ένοπλες δυνάμεις και αργότερα έγινε πλωτό μουσείο της αντιδικτατορικής δημοκρατικής αντίστασης. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Α/Τ Βέλος και η αντιδικτατορική ενέργεια του Πολεμικού Ναυτικού το 1973» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Α/Τ Βέλος και η αντιδικτατορική ενέργεια του Πολεμικού Ναυτικού το 1973» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 

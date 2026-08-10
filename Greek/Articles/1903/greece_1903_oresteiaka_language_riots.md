@@ -4,7 +4,7 @@
 **Case ID:** `greece_1903_oresteiaka_language_riots`  
 **Country:** Greece  
 **Reference year:** 1903  
-**Archive content version:** 7.0  
+
 **Last archive audit:** 2026-08-10
 
 > This is a project-authored bilingual research synthesis. It is not a verbatim copy of a third-party article. Source links and bundled primary/openly licensed material are identified separately.
@@ -29,7 +29,7 @@ The Oresteiaka riots erupted around a modern-Greek adaptation of Aeschylus's Ore
 
 - The historical significance of Oresteiaka: the 1903 Oresteia language riots extends beyond the reference year. The episode demonstrated that the language question was not confined to scripture but extended to classical drama, education and competing definitions of Greek cultural continuity. Its legacy is therefore examined through institutional change, law or policy, memory, scholarship and the experience of affected people.
 
-- This article is an offline research synthesis created for Corrupted Files Project v7.0. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Oresteiaka: the 1903 Oresteia language riots without confusing the archive's editorial synthesis with a primary source.
+- This article is an offline research synthesis created for Corrupted Files Project. It does not reproduce copyrighted third-party articles. It organizes factual claims, source leads and openly redistributable local material so the reader can investigate Oresteiaka: the 1903 Oresteia language riots without confusing the archive's editorial synthesis with a primary source.
 
 ## English — Detailed Analysis
 
@@ -175,7 +175,7 @@ The Oresteiaka riots erupted around a modern-Greek adaptation of Aeschylus's Ore
 
 - Η ιστορική σημασία της υπόθεσης «Ορεστειακά: οι γλωσσικές ταραχές του 1903 για την Ορέστεια» ξεπερνά το έτος αναφοράς. Το επεισόδιο έδειξε ότι το γλωσσικό ζήτημα δεν περιοριζόταν στη Γραφή αλλά επεκτεινόταν στο αρχαίο δράμα, την εκπαίδευση και ανταγωνιστικούς ορισμούς της ελληνικής πολιτισμικής συνέχειας. Η κληρονομιά της εξετάζεται επομένως μέσα από θεσμική αλλαγή, δίκαιο ή πολιτική, μνήμη, ιστοριογραφία και την εμπειρία των ανθρώπων που επηρεάστηκαν.
 
-- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project v7.0. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ορεστειακά: οι γλωσσικές ταραχές του 1903 για την Ορέστεια» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
+- Το παρόν άρθρο είναι offline ερευνητική σύνθεση που δημιουργήθηκε για το Corrupted Files Project. Δεν αναπαράγει προστατευμένα άρθρα τρίτων. Οργανώνει πραγματολογικούς ισχυρισμούς, διαδρομές πηγών και τοπικό υλικό με άδεια αναδιανομής ώστε ο αναγνώστης να ερευνά την υπόθεση «Ορεστειακά: οι γλωσσικές ταραχές του 1903 για την Ορέστεια» χωρίς να συγχέει τη συντακτική σύνθεση του αρχείου με πρωτογενή πηγή.
 
 ## Ελληνικά — Αναλυτική εξέταση
 
