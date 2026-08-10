@@ -13,6 +13,7 @@ exports are stored outside the repository so archive files remain clean.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import mimetypes
 import os
@@ -37,6 +38,9 @@ STATE_FILE = Path.home() / ".corrupted_files_project_state.json"
 EXPORT_DIR = Path.home() / "storage" / "downloads" / "Corrupted Files Exports"
 GALLERY_FOLDER_NAME = "Corrupted Files Project"
 GALLERY_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp", ".gif"}
+VIDEO_EXTENSIONS = {".mp4", ".webm", ".ogv", ".mkv", ".m4v"}
+ARTICLE_EXTENSIONS = {".md", ".txt", ".html", ".htm"}
+DOCUMENT_EXTENSIONS = {".pdf", ".doc", ".docx", ".txt", ".md", ".html", ".htm"}
 GLOBAL_RECORDS: list[dict] = []
 WIDTH = max(62, min(100, shutil.get_terminal_size((90, 24)).columns))
 USE_COLOR = sys.stdout.isatty() and os.environ.get("NO_COLOR") is None
@@ -501,6 +505,68 @@ def open_path(path: Path) -> bool:
     print(path)
     return False
 
+def local_project_path(relative: object) -> Path | None:
+    """Resolve a repository-relative path without allowing directory traversal."""
+    text = str(relative or "").strip()
+    if not text or Path(text).is_absolute():
+        return None
+    try:
+        path = (APP_DIR / text).resolve()
+        path.relative_to(APP_DIR.resolve())
+    except (OSError, ValueError):
+        return None
+    return path
+
+
+def sha256_file(path: Path) -> str:
+    digest = hashlib.sha256()
+    with Path(path).open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def offline_material_menu(record: dict, lang: str) -> None:
+    """List and open the local article, documents, images and videos attached to a case."""
+    materials = list(record.get("offline_materials") or [])
+    if not materials:
+        print("No offline files / Δεν υπάρχουν offline αρχεία.")
+        pause()
+        return
+    while True:
+        banner(lang)
+        print(color("accent", "Offline case files" if lang == "en" else "Offline αρχεία υπόθεσης"))
+        print(color("title", local(record, "title", lang)))
+        line()
+        for index, item in enumerate(materials, 1):
+            relative = str(item.get("path", ""))
+            path = local_project_path(relative)
+            status = "OK" if path and path.is_file() and path.stat().st_size > 0 else "MISSING"
+            kind = str(item.get("type", "file")).upper()
+            title = local(item, "title", lang) or Path(relative).name
+            print(f"{index:>2}. [{kind}] {title} — {status}")
+            description = local(item, "description", lang)
+            if description:
+                wrap(description, "    ")
+            license_text = str(item.get("license", "")).strip()
+            if license_text:
+                wrap(("Rights/license: " if lang == "en" else "Δικαιώματα/άδεια: ") + license_text, "    ")
+            wrap(relative, "    ")
+        line()
+        print("Number = open file / Αριθμός = άνοιγμα αρχείου  [Enter] Back")
+        choice = input("> ").strip()
+        if not choice:
+            return
+        if choice.isdigit() and 1 <= int(choice) <= len(materials):
+            item = materials[int(choice) - 1]
+            path = local_project_path(item.get("path"))
+            if path and path.is_file():
+                open_path(path)
+            else:
+                print(color("bad", "Offline file missing / Το offline αρχείο λείπει."))
+            pause()
+
+
 def public_pictures_root() -> Path | None:
     candidates = [
         Path.home() / "storage" / "pictures",
@@ -948,7 +1014,8 @@ def show_record(record: dict, lang: str, state: dict, credits: dict[str, dict]) 
         print(
             f"Archive completeness: {archive_completeness(record)}% • "
             f"Reading: {reading_minutes(record, lang)} min • "
-            f"Images: {len(record.get('images') or [])} • Credited photos: {photo_count}"
+            f"Images: {len(record.get('images') or [])} • Credited photos: {photo_count} • "
+            f"Offline files: {len(record.get('offline_materials') or [])}"
         )
         print(("Source strength: " if lang == "en" else "Ισχύς πηγών: ") + source_strength_label(record, lang))
         print(("Topics: " if lang == "en" else "Θέματα: ") + ", ".join(topic_names(record, lang)))
@@ -1019,7 +1086,7 @@ def show_record(record: dict, lang: str, state: dict, credits: dict[str, dict]) 
                 print(f"{index}. {Path(relative).name} — {image_kind(relative, credits)}")
         line("═")
         print("[B] Bookmark  [M] Mark read/unread  [G] Gallery app  [S] Source")
-        print("[E] Export TXT + HTML  [R] Related cases  [N] Research notes")
+        print("[F] Offline files  [E] Export TXT + HTML  [R] Related cases  [N] Research notes")
         print("[O] Open gallery album")
         print("[P] Research portal")
         print("[C] Image credits  [Enter] Back")
@@ -1056,6 +1123,8 @@ def show_record(record: dict, lang: str, state: dict, credits: dict[str, dict]) 
             if pick.isdigit() and 1 <= int(pick) <= len(record["sources"]):
                 open_url(record["sources"][int(pick) - 1])
             pause()
+        elif choice == "f":
+            offline_material_menu(record, lang)
         elif choice == "e":
             export_record(record, lang)
             pause()
@@ -1855,6 +1924,47 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
             for lang in ("en", "el"):
                 if not local(rumor, "claim", lang).strip() or not local(rumor, "assessment", lang).strip():
                     errors.append(f"{record_id}: incomplete rumor card in {lang}")
+        offline_article = str(record.get("offline_article", "")).strip()
+        offline_materials = record.get("offline_materials") or []
+        if not offline_article:
+            errors.append(f"{record_id}: missing offline_article")
+        if not isinstance(offline_materials, list) or not offline_materials:
+            errors.append(f"{record_id}: missing offline_materials")
+            offline_materials = []
+        material_paths: set[str] = set()
+        for material in offline_materials:
+            if not isinstance(material, dict):
+                errors.append(f"{record_id}: invalid offline material entry")
+                continue
+            relative_material = str(material.get("path", "")).strip()
+            material_type = str(material.get("type", "")).strip().casefold()
+            path = local_project_path(relative_material)
+            if path is None:
+                errors.append(f"{record_id}: unsafe offline material path {relative_material}")
+                continue
+            material_paths.add(relative_material)
+            if not path.is_file():
+                errors.append(f"{record_id}: missing offline material {relative_material}")
+                continue
+            if path.stat().st_size <= 0:
+                errors.append(f"{record_id}: empty offline material {relative_material}")
+            expected_hash = str(material.get("sha256", "")).strip().casefold()
+            if expected_hash and sha256_file(path).casefold() != expected_hash:
+                errors.append(f"{record_id}: offline material hash mismatch {relative_material}")
+            suffix = path.suffix.casefold()
+            if material_type == "video" and suffix not in VIDEO_EXTENSIONS:
+                errors.append(f"{record_id}: unsupported offline video format {relative_material}")
+            elif material_type == "article" and suffix not in ARTICLE_EXTENSIONS:
+                errors.append(f"{record_id}: unsupported offline article format {relative_material}")
+            elif material_type == "document" and suffix not in DOCUMENT_EXTENSIONS:
+                errors.append(f"{record_id}: unsupported offline document format {relative_material}")
+            elif material_type == "image" and suffix not in GALLERY_EXTENSIONS:
+                errors.append(f"{record_id}: unsupported offline image format {relative_material}")
+        if offline_article and offline_article not in material_paths:
+            errors.append(f"{record_id}: offline_article is not indexed in offline_materials")
+        article_path = local_project_path(offline_article) if offline_article else None
+        if offline_article and (article_path is None or not article_path.is_file()):
+            errors.append(f"{record_id}: offline article missing {offline_article}")
         for relative in record.get("images", []):
             path = APP_DIR / relative
             if not path.is_file(): errors.append(f"{record_id}: missing image {relative}")
@@ -1890,12 +2000,17 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
         "accountability_map_bilingual": sum(bool(local_list(r, "accountability_map", "en") and local_list(r, "accountability_map", "el")) for r in records),
         "primary_record_targets_bilingual": sum(bool(local_list(r, "primary_record_targets", "en") and local_list(r, "primary_record_targets", "el")) for r in records),
         "new_in_version_6": sum(str(r.get("added_in_version", "")) == "6.0" for r in records),
+        "new_in_version_7": sum(str(r.get("added_in_version", "")) == "7.0" for r in records),
         "rumor_or_misconception_cards": sum(len(r.get("rumors") or []) for r in records),
         "case_specific_rumor_cards": case_rumor_cards,
         "analytical_caution_cards": analytical_cards,
         "records_without_direct_sources": source_less,
         "image_references": len(seen_images),
         "credited_photos": len(credits),
+        "offline_articles": sum(1 for r in records if str(r.get("offline_article", "")).strip()),
+        "offline_material_files": sum(len(r.get("offline_materials") or []) for r in records),
+        "offline_documents": sum(sum(1 for item in (r.get("offline_materials") or []) if str(item.get("type", "")).casefold() == "document") for r in records),
+        "offline_videos": sum(sum(1 for item in (r.get("offline_materials") or []) if str(item.get("type", "")).casefold() == "video") for r in records),
         "errors": errors,
         "warnings": warnings,
         "ok": not errors,
@@ -1960,7 +2075,7 @@ def main() -> int:
         print(path)
         return 0
     if args.new_cases:
-        for record in sorted((r for r in records if str(r.get("added_in_version", "")) == "6.0"), key=lambda r: (r.get("country", ""), int(r.get("year", 0)), local(r, "title", "en"))):
+        for record in sorted((r for r in records if str(r.get("added_in_version", "")) == "7.0"), key=lambda r: (r.get("country", ""), int(r.get("year", 0)), local(r, "title", "en"))):
             print(f"{record.get('id')} | {record.get('country')} | {record.get('year')} | {local(record, 'title', 'en')} | {local(record, 'title', 'el')}")
         return 0
     if args.collections:
@@ -1993,6 +2108,10 @@ def main() -> int:
                     "rumor_cards": sum(len(record.get("rumors") or []) for record in records),
                     "image_references": sum(len(record.get("images") or []) for record in records),
                     "credited_photos": len(credits),
+                    "offline_articles": sum(1 for record in records if record.get("offline_article")),
+                    "offline_material_files": sum(len(record.get("offline_materials") or []) for record in records),
+                    "offline_videos": sum(sum(1 for item in (record.get("offline_materials") or []) if str(item.get("type", "")).casefold() == "video") for record in records),
+                    "offline_documents": sum(sum(1 for item in (record.get("offline_materials") or []) if str(item.get("type", "")).casefold() == "document") for record in records),
                     "merged_duplicate_records": sum(len(record.get("merged_from_ids") or []) for record in records),
                     "evidence_matrix_images": sum(any("Evidence-Matrix" in image for image in record.get("images") or []) for record in records),
                     "research_portal_links": sum(len(record.get("research_portals") or []) for record in records),
@@ -2005,6 +2124,7 @@ def main() -> int:
                     "accountability_map_bilingual": sum(bool(local_list(record, "accountability_map", "en") and local_list(record, "accountability_map", "el")) for record in records),
                     "primary_record_targets_bilingual": sum(bool(local_list(record, "primary_record_targets", "en") and local_list(record, "primary_record_targets", "el")) for record in records),
                     "new_in_version_6": sum(str(record.get("added_in_version", "")) == "6.0" for record in records),
+                    "new_in_version_7": sum(str(record.get("added_in_version", "")) == "7.0" for record in records),
                     "research_notebook_ready": True,
                     "schema_version": "6.0",
                     "guided_collections": len(COLLECTION_LABELS),

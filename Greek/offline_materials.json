@@ -1,0 +1,3152 @@
+{
+  "content_version": "7.0",
+  "audit_date": "2026-08-10",
+  "country": "Greece",
+  "items": [
+    {
+      "case_id": "greece_1893_bankruptcy_trikoupis_debt_crisis",
+      "year": 1893,
+      "case_title": {
+        "en": "Greece bankruptcy and Trikoupis debt crisis",
+        "el": "Η ελληνική χρεοκοπία και η κρίση χρέους επί Τρικούπη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1893/greece_1893_bankruptcy_trikoupis_debt_crisis.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "a561ffbe0a49729675feecafcee6f9e69b54e4908262d30efd5e1e3b3e13c895"
+    },
+    {
+      "case_id": "greece_1898_international_financial_control_after_war",
+      "year": 1898,
+      "case_title": {
+        "en": "International Financial Control after the 1897 war",
+        "el": "Διεθνής Οικονομικός Έλεγχος μετά τον πόλεμο του 1897"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1898/greece_1898_international_financial_control_after_war.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "5d497067434848594f5ed0594b8ce3b6a4c7e9aeeca3f9ff48a57619b632cd8f"
+    },
+    {
+      "case_id": "greece_1901_evangelika_gospel_riots",
+      "year": 1901,
+      "case_title": {
+        "en": "Evangelika: the 1901 Athens Gospel riots",
+        "el": "Ευαγγελικά: οι ταραχές της Αθήνας για τη μετάφραση των Ευαγγελίων το 1901"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1901/greece_1901_evangelika_gospel_riots.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "efdb079beed01cea53431660c59af08bbae9343bc62d5edb4d974e842b2b392a"
+    },
+    {
+      "case_id": "greece_1903_oresteiaka_language_riots",
+      "year": 1903,
+      "case_title": {
+        "en": "Oresteiaka: the 1903 Oresteia language riots",
+        "el": "Ορεστειακά: οι γλωσσικές ταραχές του 1903 για την Ορέστεια"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1903/greece_1903_oresteiaka_language_riots.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "0453a577ff6323a6dbc14964345ab1b242a7a8595f0616d1d4ea1e3e38597a6e"
+    },
+    {
+      "case_id": "greece_1909_goudi_coup_military_league_reform",
+      "year": 1909,
+      "case_title": {
+        "en": "Goudi coup, the Military League and the demand for reform",
+        "el": "Το κίνημα στο Γουδί, ο Στρατιωτικός Σύνδεσμος και το αίτημα μεταρρύθμισης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1909/greece_1909_goudi_coup_military_league_reform.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f88cb4e6e86565a829e01eaf1bd961d974831e60e01c8ccfd9f8f40bad7bb355"
+    },
+    {
+      "case_id": "greece_1915_national_schism",
+      "year": 1915,
+      "case_title": {
+        "en": "National Schism: Crown, Parliament and World War I",
+        "el": "Εθνικός Διχασμός: Στέμμα, Βουλή και Α΄ Παγκόσμιος Πόλεμος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1915/greece_1915_national_schism.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "8784f47490009a7b5763f2a447f98a0e2321c557d569d6f0255b1f130a75be87"
+    },
+    {
+      "case_id": "greece_1916_noemvriana_athens_violence_national_schism",
+      "year": 1916,
+      "case_title": {
+        "en": "Noemvriana: armed confrontation in Athens during the National Schism",
+        "el": "Νοεμβριανά: ένοπλη σύγκρουση στην Αθήνα κατά τον Εθνικό Διχασμό"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1916/greece_1916_noemvriana_athens_violence_national_schism.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "40adb264ac3c6f082c13af05787ca06b11c65b9205e0c6458ade2d596b6766e3"
+    },
+    {
+      "case_id": "greece_1920_political_dynasties_venizelos_mitsotakis_link",
+      "year": 1920,
+      "case_title": {
+        "en": "Political Dynasties In Greece, And The Venizelos-Mitsotakis Family Link (1900-2026)",
+        "el": "Πολιτικες δυναστειες στην ελλαδα και η συγγενεια βενιζελου - μητσοτακη (1900-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1920/greece_1920_political_dynasties_venizelos_mitsotakis_link.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d805aae922e9283795dea80eb63e2f2298730a5e89b82da45ae38505cbdf9789"
+    },
+    {
+      "case_id": "greece_1922_asia_minor_catastrophe_trial_six",
+      "year": 1922,
+      "case_title": {
+        "en": "Asia Minor catastrophe and trial of the six",
+        "el": "Μικρασιατική Καταστροφή και Δίκη των Έξι"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1922/greece_1922_asia_minor_catastrophe_trial_six.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "3a05cbd4949399464fdd5eec160a1e4582b9b34dbeecb8fe3603842a2b2d7ccd"
+    },
+    {
+      "case_id": "greece_1923_lausanne_population_exchange",
+      "year": 1923,
+      "case_title": {
+        "en": "Treaty of Lausanne and the compulsory Greek–Turkish population exchange",
+        "el": "Συνθήκη της Λωζάννης και υποχρεωτική ελληνοτουρκική ανταλλαγή πληθυσμών"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1923/greece_1923_lausanne_population_exchange.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "237beac9ae4b5a714466c4fa0d08895d1eceeaf611cfb435c58d987dff5af79a"
+    },
+    {
+      "case_id": "greece_1923_lausanne_population_exchange",
+      "year": 1923,
+      "case_title": {
+        "en": "Treaty of Lausanne and the compulsory Greek–Turkish population exchange",
+        "el": "Συνθήκη της Λωζάννης και υποχρεωτική ελληνοτουρκική ανταλλαγή πληθυσμών"
+      },
+      "type": "document",
+      "path": "Greek/Documents/1923_Treaty_of_Lausanne_Greek_MFA.doc",
+      "title": {
+        "en": "Treaty of Lausanne — Greek Ministry of Foreign Affairs",
+        "el": "Συνθήκη της Λωζάννης — Υπουργείο Εξωτερικών"
+      },
+      "license": "Official government document",
+      "source_page": "https://www.mfa.gr/images/docs/diethneis_symvaseis/1923_lausanne_treaty.doc",
+      "sha256": "d6407b5fad5ec91f606ceff882985e8e8a274ad1637c321bb99e70ec0ddd5121"
+    },
+    {
+      "case_id": "greece_1929_idionymon_law_anti_communist_repression",
+      "year": 1929,
+      "case_title": {
+        "en": "The Idionymon law and the institutionalization of anti-communist repression",
+        "el": "Το Ιδιώνυμο και η θεσμοποίηση της αντικομμουνιστικής καταστολής"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1929/greece_1929_idionymon_law_anti_communist_repression.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f89dbea9673c7fd73ec81ecf8acca4f52d308a9e28ae4a4c5bee1bb76bb512d5"
+    },
+    {
+      "case_id": "greece_1931_campbell_pogrom_thessaloniki_antisemitism",
+      "year": 1931,
+      "case_title": {
+        "en": "The Campbell pogrom in Thessaloniki",
+        "el": "Το πογκρόμ του Κάμπελ στη Θεσσαλονίκη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1931/greece_1931_campbell_pogrom_thessaloniki_antisemitism.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "4dc53ead61ba1b9782330d85aa76d26c8affbfd4fe02e78e6b42246253b08481"
+    },
+    {
+      "case_id": "greece_1936_metaxas_dictatorship_censorship_machine",
+      "year": 1936,
+      "case_title": {
+        "en": "Metaxas dictatorship and censorship machine",
+        "el": "Δικτατορία Μεταξά και μηχανισμός λογοκρισίας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1936/greece_1936_metaxas_dictatorship_censorship_machine.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b7b84eee429d94c0ce39605e6924782de8dd62f3f69ae0983afaf9c13d332dfb"
+    },
+    {
+      "case_id": "greece_1936_thessaloniki_tobacco_strike",
+      "year": 1936,
+      "case_title": {
+        "en": "May 1936 Thessaloniki tobacco-workers' strike and bloodshed",
+        "el": "Απεργία καπνεργατών και αιματηρά γεγονότα της Θεσσαλονίκης τον Μάιο του 1936"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1936/greece_1936_thessaloniki_tobacco_strike.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "425b14e3c1ccfd38eb7e519adfdb3e9d41effaad04a870ffad73b1a1c1d8f9f2"
+    },
+    {
+      "case_id": "greece_1936_thessaloniki_tobacco_strike",
+      "year": 1936,
+      "case_title": {
+        "en": "May 1936 Thessaloniki tobacco-workers' strike and bloodshed",
+        "el": "Απεργία καπνεργατών και αιματηρά γεγονότα της Θεσσαλονίκης τον Μάιο του 1936"
+      },
+      "type": "image",
+      "path": "Greek/Imported Media/1936_thessaloniki_water_pump.jpg",
+      "title": {
+        "en": "Thessaloniki historical photograph, 1936",
+        "el": "Ιστορική φωτογραφία Θεσσαλονίκης, 1936"
+      },
+      "license": "Public-domain / no known restrictions per source metadata",
+      "source_page": "https://commons.wikimedia.org/",
+      "sha256": "d406b365a1f837c93575d5fdbb971fc7594c41c95f56923d1413ad73fc4786fb"
+    },
+    {
+      "case_id": "greece_1941_greek_occupation_famine_collaboration_networks",
+      "year": 1941,
+      "case_title": {
+        "en": "Greek occupation famine and collaboration networks",
+        "el": "Λιμός της Κατοχής και δίκτυα συνεργασίας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1941/greece_1941_greek_occupation_famine_collaboration_networks.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "78d492767aeb31d68eebaaa8dd2d2799b2842a2f6c9cde139e097a3e1c2a80be"
+    },
+    {
+      "case_id": "greece_1942_gorgopotamos_operation_harling",
+      "year": 1942,
+      "case_title": {
+        "en": "Gorgopotamos bridge sabotage: Operation Harling",
+        "el": "Ανατίναξη της γέφυρας του Γοργοποτάμου: Επιχείρηση Harling"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1942/greece_1942_gorgopotamos_operation_harling.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "fd2029689852714b841294598bbf40b2c4a90d4c7ef161525fc4088928911131"
+    },
+    {
+      "case_id": "greece_1942_gorgopotamos_operation_harling",
+      "year": 1942,
+      "case_title": {
+        "en": "Gorgopotamos bridge sabotage: Operation Harling",
+        "el": "Ανατίναξη της γέφυρας του Γοργοποτάμου: Επιχείρηση Harling"
+      },
+      "type": "image",
+      "path": "Greek/Imported Media/1942_gorgopotamos_bridge.jpg",
+      "title": {
+        "en": "Gorgopotamos bridge",
+        "el": "Γέφυρα Γοργοποτάμου"
+      },
+      "license": "CC BY-SA 2.0 — George Terezakis",
+      "source_page": "https://commons.wikimedia.org/",
+      "sha256": "3c105c54b48a966ae5c59a74d1037e40b67069d5a7c327d10c3de17288635a15"
+    },
+    {
+      "case_id": "greece_1942_gorgopotamos_operation_harling",
+      "year": 1942,
+      "case_title": {
+        "en": "Gorgopotamos bridge sabotage: Operation Harling",
+        "el": "Ανατίναξη της γέφυρας του Γοργοποτάμου: Επιχείρηση Harling"
+      },
+      "type": "video",
+      "path": "Greek/Videos/1942_Gorgopotamos_Offline_Briefing.mp4",
+      "title": {
+        "en": "Gorgopotamos 1942 — offline briefing",
+        "el": "Γοργοπόταμος 1942 — offline ενημέρωση"
+      },
+      "license": "Project-created derivative briefing; source bridge image CC BY-SA 2.0, George Terezakis",
+      "source_page": "https://commons.wikimedia.org/",
+      "sha256": "a21925711eaffa893953b8837080a357ac6c226e10f0ea93dd25b1395bf317fb"
+    },
+    {
+      "case_id": "greece_1943_kalavryta_massacre",
+      "year": 1943,
+      "case_title": {
+        "en": "Kalavryta Massacre and the destruction of the town",
+        "el": "Σφαγή των Καλαβρύτων και καταστροφή της πόλης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1943/greece_1943_kalavryta_massacre.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "6c5a43b086324d8ab9008ecf2a2ab228315ab81275a7945317b6d2e9cb6d4c95"
+    },
+    {
+      "case_id": "greece_1943_thessaloniki_jewish_deportations",
+      "year": 1943,
+      "case_title": {
+        "en": "Deportation and destruction of Thessaloniki's Jewish community",
+        "el": "Εκτοπισμός και καταστροφή της εβραϊκής κοινότητας της Θεσσαλονίκης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1943/greece_1943_thessaloniki_jewish_deportations.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "3dcf98f3d8d9b496284b8c319f6e41e93af22207ba5c3e4f220a17f792f44a44"
+    },
+    {
+      "case_id": "greece_1944_chortiatis_massacre_occupation_reprisal",
+      "year": 1944,
+      "case_title": {
+        "en": "The Chortiatis massacre and occupation reprisals",
+        "el": "Η σφαγή του Χορτιάτη και τα κατοχικά αντίποινα"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1944/greece_1944_chortiatis_massacre_occupation_reprisal.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "180014571631855fb179e0d9a1c7ff42daacc194cd652527ca8c26ad31fda532"
+    },
+    {
+      "case_id": "greece_1944_dekemvriana_british_intervention_civil_war_path",
+      "year": 1944,
+      "case_title": {
+        "en": "Dekemvriana, British intervention, and the road to civil war",
+        "el": "Δεκεμβριανά, βρετανική επέμβαση και δρόμος προς τον εμφύλιο"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1944/greece_1944_dekemvriana_british_intervention_civil_war_path.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "6065cd922d291bdb98ce39e653ed70e8bf97285379fd4ee4ea4a9de634798e60"
+    },
+    {
+      "case_id": "greece_1944_distomo_massacre",
+      "year": 1944,
+      "case_title": {
+        "en": "Distomo Massacre, survivors and the long fight for justice",
+        "el": "Σφαγή του Διστόμου, επιζώντες και μακρύς αγώνας για δικαιοσύνη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1944/greece_1944_distomo_massacre.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "c4c69beec7f455b543bc5339c72bc09d33fdc7749893aff2917f5e5302cbd7ad"
+    },
+    {
+      "case_id": "greece_1944_kokkinia_roundup_mass_execution",
+      "year": 1944,
+      "case_title": {
+        "en": "The Kokkinia roundup and mass executions",
+        "el": "Το Μπλόκο της Κοκκινιάς και οι μαζικές εκτελέσεις"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1944/greece_1944_kokkinia_roundup_mass_execution.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "5de98f71f746509cd7ff00e39e430949f0cc1a2bbba34355943a3928215bdd8f"
+    },
+    {
+      "case_id": "greece_1945_varkiza_agreement_disarmament_white_terror",
+      "year": 1945,
+      "case_title": {
+        "en": "The Varkiza Agreement, disarmament and the road to renewed conflict",
+        "el": "Η Συμφωνία της Βάρκιζας, ο αφοπλισμός και ο δρόμος προς τη νέα σύγκρουση"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1945/greece_1945_varkiza_agreement_disarmament_white_terror.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "3326f170defe5144ee6fc103b60bbd86d357e427ed6af2c16ca0c29ac2ed888f"
+    },
+    {
+      "case_id": "greece_1946_white_terror_after_liberation_civil_war_escalation",
+      "year": 1946,
+      "case_title": {
+        "en": "White Terror after liberation and civil-war escalation",
+        "el": "Λευκή Τρομοκρατία μετά την Απελευθέρωση και κλιμάκωση του Εμφυλίου"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1946/greece_1946_white_terror_after_liberation_civil_war_escalation.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "30b9f65f942b208cf4643c9c61b392b7cec37b26fdcd021dbf832af8bcb0825e"
+    },
+    {
+      "case_id": "greece_1947_cia_cold_war_stay_behind_claims_coup_context",
+      "year": 1947,
+      "case_title": {
+        "en": "Greece Cia Cold War Stay Behind Claims And 1967 Coup Context 1947 1974",
+        "el": "Ελλαδα Cia Ψυχρος Πολεμος Stay Behind ισχυρισμοί Και Πλαισιο Πραξικοπηματος 1967 1947 1974"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1947/greece_1947_cia_cold_war_stay_behind_claims_coup_context.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f70aafe03ac19ce6d80510024bed0ec95cf9cb802bb4b62ff00fe87f8beecdfb"
+    },
+    {
+      "case_id": "greece_1947_makronisos_camps_reeducation_state_violence",
+      "year": 1947,
+      "case_title": {
+        "en": "Makronisos camps, re-education, and state violence",
+        "el": "Μακρόνησος, αναμόρφωση και κρατική βία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1947/greece_1947_makronisos_camps_reeducation_state_violence.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "0fd14ea2d337a4d1c626c22a6fe386c0b927c02e9250546c55f33007bf2de946"
+    },
+    {
+      "case_id": "greece_1947_ufo_supernatural_folklore_state_secrecy_psychology",
+      "year": 1947,
+      "case_title": {
+        "en": "Greece Ufo Supernatural Folklore State Secrecy And Public Psychology 1947 2026",
+        "el": "Ελλαδα Ufo Υπερφυσικο Λαογραφια Κρατικη Μυστικοτητα Και Δημοσια Ψυχολογια 1947 2026"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1947/greece_1947_ufo_supernatural_folklore_state_secrecy_psychology.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "46cd6414d75541af00d2a7966f9ad857852dde7e69690a5c22fb2793781718af"
+    },
+    {
+      "case_id": "greece_1949_makronisos_exile_camp_anti_communist_re_education",
+      "year": 1949,
+      "case_title": {
+        "en": "Makronisos exile camp and anti-communist re-education",
+        "el": "Μακρόνησος: στρατόπεδο εξορίας και αντικομμουνιστική αναμόρφωση"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1949/greece_1949_makronisos_exile_camp_anti_communist_re_education.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "a3bc7e1f0262a3159abcf31eb4e94ceaf595d431e9c311ee215f7b799c97ab8a"
+    },
+    {
+      "case_id": "greece_1952_beloyannis_trial_execution_cold_war_state",
+      "year": 1952,
+      "case_title": {
+        "en": "Beloyannis trial, execution, and Cold War state justice",
+        "el": "Δίκη Μπελογιάννη, εκτέλεση και δικαιοσύνη ψυχροπολεμικού κράτους"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1952/greece_1952_beloyannis_trial_execution_cold_war_state.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f36d8d4c32de7c923b7f665959256fdadbe63698f110d3f78d1a043a82e0cfc8"
+    },
+    {
+      "case_id": "greece_1955_istanbul_pogrom_minority_trauma_diplomatic_shock_state_memory",
+      "year": 1955,
+      "case_title": {
+        "en": "Greece and the Istanbul Pogrom: Minority Trauma, Diplomatic Shock and State Memory",
+        "el": "Ελλάδα και Σεπτεμβριανά Κωνσταντινούπολης: Μειονοτικό Τραύμα, Διπλωματικό Σοκ και Μνήμη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1955/greece_1955_istanbul_pogrom_minority_trauma_diplomatic_shock_state_memory.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "7c414783736560bd871121336b04a94e33319d699d26ebd5490a616e36eb46ec"
+    },
+    {
+      "case_id": "greece_1958_max_merten_occupation_memory_diplomacy_accountability",
+      "year": 1958,
+      "case_title": {
+        "en": "Max Merten affair, occupation memory, diplomacy and accountability (1958-1960)",
+        "el": "Υπόθεση Μαξ Μέρτεν, μνήμη Κατοχής, διπλωματία και λογοδοσία (1958-1960)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1958/greece_1958_max_merten_occupation_memory_diplomacy_accountability.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "c2c57e0b145ca1f348f7dbe103f3edf36eaa5b38a384dbaf21c12fbaea1b4178"
+    },
+    {
+      "case_id": "greece_1960_psychological_control_media_fear_political_memory",
+      "year": 1960,
+      "case_title": {
+        "en": "Greece Psychological Control Media Fear And Political Memory 1960 2026",
+        "el": "Ελλαδα Ψυχολογικος Ελεγχος Media Φοβος Και Πολιτικη Μνημη 1960 2026"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1960/greece_1960_psychological_control_media_fear_political_memory.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "cfd1e02e69a91e3326480fb8b0a297a9e23eeb1caa4dc327d6efd8eac4264dc9"
+    },
+    {
+      "case_id": "greece_1961_violence_fraud_election_parastate_democratic",
+      "year": 1961,
+      "case_title": {
+        "en": "Violence and fraud election, parastate networks and democratic trust (1961)",
+        "el": "Εκλογές βίας και νοθείας, παρακράτος και δημοκρατική εμπιστοσύνη (1961)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1961/greece_1961_violence_fraud_election_parastate_democratic.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "9bbf9f2f22a39c49f860c470cffac46cdac2641aaa65d17d0758f6ebcc12e7a3"
+    },
+    {
+      "case_id": "greece_1963_lambrakis_assassination_parastate",
+      "year": 1963,
+      "case_title": {
+        "en": "Lambrakis assassination and the parastate",
+        "el": "Δολοφονία Λαμπράκη και το παρακράτος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1963/greece_1963_lambrakis_assassination_parastate.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f1c5f568416f2a50bc34ee977cd3a86cc5f7590d528eabcf172290cc7324b449"
+    },
+    {
+      "case_id": "greece_1965_apostasia_palace_party_defection_crisis",
+      "year": 1965,
+      "case_title": {
+        "en": "Apostasia crisis, palace pressure, and parliamentary defections",
+        "el": "Αποστασία, πίεση παλατιού και κοινοβουλευτικές μετακινήσεις"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1965/greece_1965_apostasia_palace_party_defection_crisis.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "76bef7116d059d01c56be92d3b8bb799795491a2729f0b24914c3f9d1fb9ef4d"
+    },
+    {
+      "case_id": "greece_1965_apostasia_royal_crisis_defectors_institutional_breakdown",
+      "year": 1965,
+      "case_title": {
+        "en": "Apostasia, royal crisis, defectors and institutional breakdown (1965)",
+        "el": "Αποστασία, βασιλική κρίση, αποστάτες και θεσμική κατάρρευση (1965)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1965/greece_1965_apostasia_royal_crisis_defectors_institutional_breakdown.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f9529934ea6720073d1c7c00152c2d9fe7844a2ced39868f2c43f5294c8cb798"
+    },
+    {
+      "case_id": "greece_1965_aspida_affair_army_politics_palace_pressure",
+      "year": 1965,
+      "case_title": {
+        "en": "ASPIDA affair, army politics, and palace pressure",
+        "el": "Υπόθεση ΑΣΠΙΔΑ, στρατός, πολιτική και πίεση παλατιού"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1965/greece_1965_aspida_affair_army_politics_palace_pressure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "73037662e21c599d0191787b10a893b0fc04d6dd10b3c67727ace675b96a2d08"
+    },
+    {
+      "case_id": "greece_1967_april_21_coup_foreign_context_local_responsibility",
+      "year": 1967,
+      "case_title": {
+        "en": "April 21 coup: foreign context and local responsibility",
+        "el": "Πραξικόπημα της 21ης Απριλίου: ξένο πλαίσιο και τοπική ευθύνη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1967/greece_1967_april_21_coup_foreign_context_local_responsibility.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "4fc6031ffd946a2314b37639f0f445eedb448d97dbdbe0002c6406c9a64a1a67"
+    },
+    {
+      "case_id": "greece_1967_coup_us_response",
+      "year": 1967,
+      "case_title": {
+        "en": "Greece: The 1967 coup and the U.S. response (1965-1974)",
+        "el": "Ελλάδα: Το πραξικόπημα του 1967 και η αμερικανική ανταπόκριση (1965-1974)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1967/greece_1967_coup_us_response.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "14853b16b5d3195be26ee955873829d2794565e673951cff1c91728396cdf60c"
+    },
+    {
+      "case_id": "greece_1967_junta_coup_nato_era_anti_communist_state",
+      "year": 1967,
+      "case_title": {
+        "en": "Junta coup and NATO era anti-communist state",
+        "el": "Πραξικόπημα της Χούντας και το αντικομμουνιστικό κράτος της εποχής του NATO"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1967/greece_1967_junta_coup_nato_era_anti_communist_state.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "31f966e1886b261f067151c5681b5861e3c91f5c8dc82cfa932411c00d954c32"
+    },
+    {
+      "case_id": "greece_1968_junta_torture_files_international_condemnation",
+      "year": 1968,
+      "case_title": {
+        "en": "Junta torture files and international condemnation",
+        "el": "Αρχεία βασανιστηρίων της Χούντας και διεθνής καταδίκη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1968/greece_1968_junta_torture_files_international_condemnation.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "280a56bae65794fe9441343a431940df6c47f2dc65a311ce659087353aef6fdd"
+    },
+    {
+      "case_id": "greece_1968_panagoulis_torture_junta_repression_resistance_military_courts_fear",
+      "year": 1968,
+      "case_title": {
+        "en": "Panagoulis Torture and Junta Repression: Resistance, Military Courts and Fear",
+        "el": "Βασανιστήρια Παναγούλη και Καταστολή Χούντας: Αντίσταση, Στρατοδικεία και Φόβος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1968/greece_1968_panagoulis_torture_junta_repression_resistance_military_courts_fear.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "c11af124c3ed47288cab6acd109fd58a27108c9f2881d80d8a2992cc52a5b8c8"
+    },
+    {
+      "case_id": "greece_1973_athens_polytechnic_uprising_and_junta_violence",
+      "year": 1973,
+      "case_title": {
+        "en": "Athens Polytechnic uprising and junta violence",
+        "el": "Εξέγερση Πολυτεχνείου και βία χούντας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1973/greece_1973_athens_polytechnic_uprising_and_junta_violence.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f020c42a8412c81d3b446a97ca37c3ae5c54383d2a27c931937c26c4d6223080"
+    },
+    {
+      "case_id": "greece_1973_hns_velos_anti_junta",
+      "year": 1973,
+      "case_title": {
+        "en": "HNS Velos and the 1973 naval anti-junta action",
+        "el": "Α/Τ Βέλος και η αντιδικτατορική ενέργεια του Πολεμικού Ναυτικού το 1973"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1973/greece_1973_hns_velos_anti_junta.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f5463881a9775014a83edf483de02357074ab35d5c241f0670145a2cd03d45bf"
+    },
+    {
+      "case_id": "greece_1973_hns_velos_anti_junta",
+      "year": 1973,
+      "case_title": {
+        "en": "HNS Velos and the 1973 naval anti-junta action",
+        "el": "Α/Τ Βέλος και η αντιδικτατορική ενέργεια του Πολεμικού Ναυτικού το 1973"
+      },
+      "type": "image",
+      "path": "Greek/Imported Media/1973_velos_d16.jpg",
+      "title": {
+        "en": "HNS Velos (D16)",
+        "el": "Α/Τ Βέλος (D16)"
+      },
+      "license": "Public domain — author Pmoshs",
+      "source_page": "https://commons.wikimedia.org/",
+      "sha256": "630e94e4d21ef0f14ee2253a58c249ed96784a84d9e651315da1ca0ac528ba1d"
+    },
+    {
+      "case_id": "greece_1974_cyprus_coup_and_invasion_catastrophe",
+      "year": 1974,
+      "case_title": {
+        "en": "Cyprus coup and invasion catastrophe",
+        "el": "Πραξικόπημα Κύπρου και καταστροφή εισβολής"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1974/greece_1974_cyprus_coup_and_invasion_catastrophe.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "fd364f542df06454996dfaa33bbc6ec76d14d008a5b182b3a80711d0a4cb5790"
+    },
+    {
+      "case_id": "greece_1974_junta_trials_partial_accountability_metapolitefsi_punishment_unfinishe",
+      "year": 1974,
+      "case_title": {
+        "en": "Junta Trials and Partial Accountability: Metapolitefsi, Punishment and Unfinished Files",
+        "el": "Δίκες Χούντας και Μερική Λογοδοσία: Μεταπολίτευση, Τιμωρία και Ανοιχτά Αρχεία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1974/greece_1974_junta_trials_partial_accountability_metapolitefsi_punishment_unfinishe.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "374108eaa96f7d5678db3e3adb1936a3a252248419450d763d5c2027b996658f"
+    },
+    {
+      "case_id": "greece_1974_restoration_democracy_metapolitefsi",
+      "year": 1974,
+      "case_title": {
+        "en": "Collapse of the junta and restoration of democracy in 1974",
+        "el": "Κατάρρευση της χούντας και αποκατάσταση της δημοκρατίας το 1974"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1974/greece_1974_restoration_democracy_metapolitefsi.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "9e11f2e52010984c2d5b1785f1a9cb6556f471f13bac2dc8e774bc6903cd2a40"
+    },
+    {
+      "case_id": "greece_1976_torture_trials_limits_metapolitefsi_justice",
+      "year": 1976,
+      "case_title": {
+        "en": "Torture trials and limits of Metapolitefsi justice",
+        "el": "Δίκες βασανιστών και όρια της δικαιοσύνης της Μεταπολίτευσης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1976/greece_1976_torture_trials_limits_metapolitefsi_justice.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "ba50c6d4874e57366c1ce9ff3c02bfd27b0c72aadd24dd56e24baf80daddcd0a"
+    },
+    {
+      "case_id": "greece_1977_penteli_davelis_cave_military_rumors_supernatural_folklore_imagination",
+      "year": 1977,
+      "case_title": {
+        "en": "Penteli Davelis Cave, military rumors, supernatural folklore and public imagination (1977-2026)",
+        "el": "Σπήλαιο Νταβέλη Πεντέλης, στρατιωτικές φήμες, υπερφυσικό λαογραφία και δημόσια φαντασία (1977-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1977/greece_1977_penteli_davelis_cave_military_rumors_supernatural_folklore_imagination.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "ab1ed3166c0b117b00a2c3b9ed61c0322b8371f536c91794244f787e1b520100"
+    },
+    {
+      "case_id": "greece_1980_polytechnic_march_koumis_kanellopoulou",
+      "year": 1980,
+      "case_title": {
+        "en": "1980 Polytechnic anniversary march: deaths of Iakovos Koumis and Stamatina Kanellopoulou",
+        "el": "Πορεία Πολυτεχνείου 1980: οι θάνατοι Ιάκωβου Κουμή και Σταματίνας Κανελλοπούλου"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1980/greece_1980_polytechnic_march_koumis_kanellopoulou.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "7d9a57dc56327100f4fd55f411b09cbb36a69a59547081fe62528042b88d5459"
+    },
+    {
+      "case_id": "greece_1981_weather_modification_hail_suppression",
+      "year": 1981,
+      "case_title": {
+        "en": "Greece: Weather Modification Is Real — But Limited (Greek National Hail Suppression Program) (1981-2026)",
+        "el": "Ελλάδα: Η τροποποίηση καιρού είναι πραγματική — αλλά περιορισμένη (Εθνικό Πρόγραμμα Χαλαζικής Προστασίας) (1981-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1981/greece_1981_weather_modification_hail_suppression.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "c336e946eb893f28df648d191faaa135c98a89286ea8a4bdb3d97a1c2e0c0457"
+    },
+    {
+      "case_id": "greece_1985_kaltezas_killing_exarchia_police_distrust",
+      "year": 1985,
+      "case_title": {
+        "en": "Kaltezas killing and Exarchia police distrust",
+        "el": "Δολοφονία Καλτεζά και δυσπιστία προς την αστυνομία στα Εξάρχεια"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1985/greece_1985_kaltezas_killing_exarchia_police_distrust.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "669bbc90c0c91651d5cc381fa2e3c8ea22c654c9ede2e0db1f5e24a6a4b023d7"
+    },
+    {
+      "case_id": "greece_1987_sismik_aegean_crisis",
+      "year": 1987,
+      "case_title": {
+        "en": "The 1987 Sismik Aegean crisis and the brink of conflict",
+        "el": "Η κρίση του Σισμίκ στο Αιγαίο το 1987 και το χείλος της σύγκρουσης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1987/greece_1987_sismik_aegean_crisis.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "2cc5e5154cf5601ebe87f2a7f0f3c46c9295e3aebdbc3fdb5f34d202916e0ca0"
+    },
+    {
+      "case_id": "greece_1988_banking_scandals_koskotas_proton",
+      "year": 1988,
+      "case_title": {
+        "en": "Greece: Banking scandals from Koskotas to Proton (1988-2013)",
+        "el": "Ελλάδα: Τραπεζικά σκάνδαλα από Κοσκωτά έως Proton (1988-2013)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1988/greece_1988_banking_scandals_koskotas_proton.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "e0d520eb1d2d2c1ab65057d74cf624ef97ffcfd8d445ae1612ae81a3e2d6fcac"
+    },
+    {
+      "case_id": "greece_1988_koskotas_scandal_media_bank_politics",
+      "year": 1988,
+      "case_title": {
+        "en": "Koskotas scandal: media, banking, and politics",
+        "el": "Σκάνδαλο Κοσκωτά: μέσα ενημέρωσης, τραπεζικό σύστημα και πολιτική"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1988/greece_1988_koskotas_scandal_media_bank_politics.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "5da12d09239b4e3a1d0c34a05526605a81eea80d9a4259188c480d4450203b0b"
+    },
+    {
+      "case_id": "greece_1991_koskoletas_media_licensing_private_tv_power",
+      "year": 1991,
+      "case_title": {
+        "en": "Private TV licensing, media power, and political dependency",
+        "el": "Ιδιωτική τηλεόραση, άδειες, μιντιακή ισχύς και πολιτική εξάρτηση"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1991/greece_1991_koskoletas_media_licensing_private_tv_power.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "8165b40edcf42be672651cda5030951b9b66f160a746fc4e3e7b24e6be19540b"
+    },
+    {
+      "case_id": "greece_1991_temponeras_murder_education_protest_violence",
+      "year": 1991,
+      "case_title": {
+        "en": "Temponeras murder and education protest violence",
+        "el": "Δολοφονία Τεμπονέρα και βία στις εκπαιδευτικές κινητοποιήσεις"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1991/greece_1991_temponeras_murder_education_protest_violence.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "a5be0e6f4b369cf8683a67a09fe31393ced1b04d2a4b8eafc0f1ca28ddb590fb"
+    },
+    {
+      "case_id": "greece_1996_imia_crisis_nationalism_media_escalation_secret_diplomacy",
+      "year": 1996,
+      "case_title": {
+        "en": "Imia Crisis: Nationalism, Media Escalation and Secret Diplomacy",
+        "el": "Κρίση Ιμίων: Εθνικισμός, Μιντιακή Κλιμάκωση και Μυστική Διπλωματία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1996/greece_1996_imia_crisis_nationalism_media_escalation_secret_diplomacy.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "51666bd90ddfa1ab71a143afc9e48b11593256222fc04a99d9f95dc420990568"
+    },
+    {
+      "case_id": "greece_1996_imia_crisis_sovereignty_media_military_pressure",
+      "year": 1996,
+      "case_title": {
+        "en": "Imia crisis, sovereignty panic, and media-military pressure",
+        "el": "Κρίση Ιμίων, πανικός κυριαρχίας και πίεση ΜΜΕ-στρατού"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1996/greece_1996_imia_crisis_sovereignty_media_military_pressure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "2f7e9efe8bb90dfc540708dea055c43eac9f78054e04d937a004c4e84adf45e4"
+    },
+    {
+      "case_id": "greece_1997_defence_bribery_tsochatzopoulos",
+      "year": 1997,
+      "case_title": {
+        "en": "Greece: Defence Bribery, Akis Tsochatzopoulos, and Arms-Deal Corruption (1997-2015)",
+        "el": "Ελλάδα: Μίζες στα Εξοπλιστικά, Άκης Τσοχατζόπουλος και Διαφθορά στις Αμυντικές Συμβάσεις (1997-2015)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1997/greece_1997_defence_bribery_tsochatzopoulos.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b5f5ae366f2a563ab438258d0b798ad51ec6cf6bb0ff92070739c443231188fb"
+    },
+    {
+      "case_id": "greece_1997_siemens_scandal",
+      "year": 1997,
+      "case_title": {
+        "en": "Greece: Siemens bribery scandal (1997-2017)",
+        "el": "Ελλάδα: σκάνδαλο Siemens (1997-2017)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1997/greece_1997_siemens_scandal.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "83fc5317630c19b00d6824d1a4409e0f89bdfb4176fdc57f5eea4a55bd399e76"
+    },
+    {
+      "case_id": "greece_1999_athens_parnitha_earthquake",
+      "year": 1999,
+      "case_title": {
+        "en": "1999 Athens–Parnitha earthquake and urban disaster response",
+        "el": "Σεισμός Αθήνας–Πάρνηθας 1999 και διαχείριση αστικής καταστροφής"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1999/greece_1999_athens_parnitha_earthquake.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "c6ef9b88db26e1d0253fa609e5d526b1b3ffb15e90b718a1dc7ee428087da603"
+    },
+    {
+      "case_id": "greece_1999_athens_stock_exchange_bubble_small_investor_ruin",
+      "year": 1999,
+      "case_title": {
+        "en": "Athens stock exchange bubble and small investor ruin",
+        "el": "Φούσκα του Χρηματιστηρίου Αθηνών και καταστροφή μικροεπενδυτών"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1999/greece_1999_athens_stock_exchange_bubble_small_investor_ruin.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "7af7c1825e44db8f75743c41f039499319af94a5ff53989586846c2e0d118b0b"
+    },
+    {
+      "case_id": "greece_1999_ocalan_affair_secret_diplomacy_state_denial_foreign_pressure",
+      "year": 1999,
+      "case_title": {
+        "en": "Greece — Öcalan affair, secret diplomacy, state denial, and foreign pressure (1999)",
+        "el": "Ελλάδα — Υπόθεση Οτσαλάν, μυστική διπλωματία και ξένη πίεση (1999)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/1999/greece_1999_ocalan_affair_secret_diplomacy_state_denial_foreign_pressure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "54062beb23d4548c067e78f3db5f59def0b699f6faf3b4fc13463fc8c030ded1"
+    },
+    {
+      "case_id": "greece_2000_express_samina_ferry_disaster_safety_culture_island_transport_accounta",
+      "year": 2000,
+      "case_title": {
+        "en": "Express Samina Ferry Disaster: Safety Culture, Island Transport and Accountability",
+        "el": "Ναυάγιο Express Samina: Κουλτούρα Ασφάλειας, Ακτοπλοΐα και Λογοδοσία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2000/greece_2000_express_samina_ferry_disaster_safety_culture_island_transport_accounta.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "0c878cb6483e5eebef3229889db9ccdebec4f8308425ffecc367d8f91f56b4ae"
+    },
+    {
+      "case_id": "greece_2000_express_samina_ferry_disaster_shipping_oversight",
+      "year": 2000,
+      "case_title": {
+        "en": "Express Samina ferry disaster and shipping oversight failure",
+        "el": "Ναυάγιο Express Samina και αποτυχία εποπτείας ναυτιλίας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2000/greece_2000_express_samina_ferry_disaster_shipping_oversight.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "919915eb853b4be409c5d3c6a4653f6bc632dce1306d69e7f735878c434cdd1a"
+    },
+    {
+      "case_id": "greece_2001_delphi_gases_geology",
+      "year": 2001,
+      "case_title": {
+        "en": "Greece: Delphi, “Prophecy,” and the Geological Explanation of a Supernatural Tradition (2001-2026)",
+        "el": "Ελλάδα: Δελφοί, «προφητεία» και η γεωλογική εξήγηση μιας υπερφυσικής παράδοσης (2001-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2001/greece_2001_delphi_gases_geology.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "e38c74664f67e729fdcc6e07026358fb3080e646400a4d3c25433e1bdc0e73ce"
+    },
+    {
+      "case_id": "greece_2002_17_november_trial_security_state_transition",
+      "year": 2002,
+      "case_title": {
+        "en": "17 November trial and security-state transition",
+        "el": "Δίκη της 17 Νοέμβρη και μετάβαση του κράτους ασφαλείας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2002/greece_2002_17_november_trial_security_state_transition.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "4724448fa764464db55a6a8377114b0238267555f94c8928e885bb5a68cb24c8"
+    },
+    {
+      "case_id": "greece_2003_c4i_olympic_security_system_surveillance_scandal",
+      "year": 2003,
+      "case_title": {
+        "en": "GREECE: C4I Olympic Security System, Siemens Overlap, and the Security-State Procurement Problem (2003-2018)",
+        "el": "ΕΛΛΑΔΑ: C4I, ολυμπιακό σύστημα ασφάλειας και το πρόβλημα των προμηθειών του security state (2003-2018)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2003/greece_2003_c4i_olympic_security_system_surveillance_scandal.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d81802cfa1593beaf1d6b44b81da19e256244cc5d21876053161e9b919f2cc54"
+    },
+    {
+      "case_id": "greece_2004_athens_olympics_cost_security_debt",
+      "year": 2004,
+      "case_title": {
+        "en": "Greece: Athens 2004 Olympics, Security Spending, and Debt Narrative (1997-2014)",
+        "el": "Ελλάδα: Ολυμπιακοί Αγώνες Αθήνα 2004, κόστος, ασφάλεια και αφήγημα χρέους (1997-2014)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2004/greece_2004_athens_olympics_cost_security_debt.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "33365a93b3eb40cf872bd7f74fb3f58e9efdeefeb35e67acecf342b8a680831b"
+    },
+    {
+      "case_id": "greece_2004_c4i_olympic_security_system_scandal",
+      "year": 2004,
+      "case_title": {
+        "en": "C4I Olympic security system scandal",
+        "el": "Σκάνδαλο του ολυμπιακού συστήματος ασφαλείας C4I"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2004/greece_2004_c4i_olympic_security_system_scandal.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "72a78e1d948f0c8ce8ecd14c402f92c58537d5318a476422695c6081bc9a8b36"
+    },
+    {
+      "case_id": "greece_2004_debt_crisis_misreporting_austerity",
+      "year": 2004,
+      "case_title": {
+        "en": "Greece: Debt Crisis, Misreported Fiscal Data, and the Austerity Era (2004-2018)",
+        "el": "Ελλάδα: Κρίση χρέους, παραποιημένα δημοσιονομικά στοιχεία και εποχή λιτότητας (2004-2018)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2004/greece_2004_debt_crisis_misreporting_austerity.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "575882c94ae9a41148be1c2c8a35c21be57d6487ed83dbb0bd85ba05add3a654"
+    },
+    {
+      "case_id": "greece_2004_vodafone_wiretap_tsalikidis",
+      "year": 2004,
+      "case_title": {
+        "en": "Greece: Vodafone Wiretap Scandal and the Tsalikidis Case (2004-2017)",
+        "el": "Ελλάδα: Σκάνδαλο υποκλοπών Vodafone και υπόθεση Τσαλικίδη (2004-2017)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2004/greece_2004_vodafone_wiretap_tsalikidis.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "ec36d55e8aebe872c2f69223a41618e607e1192d47179de05fe17d8c9426f814"
+    },
+    {
+      "case_id": "greece_2005_helios_airways_flight_522_aviation_safety_oversight_cost_routine_failu",
+      "year": 2005,
+      "case_title": {
+        "en": "Helios Airways Flight 522: Aviation Safety, Oversight and the Cost of Routine Failure",
+        "el": "Helios 522: Αεροπορική Ασφάλεια, Έλεγχος και Κόστος Ρουτίνας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2005/greece_2005_helios_airways_flight_522_aviation_safety_oversight_cost_routine_failu.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "2715a73a0e09127ba086f3d684f79ecfef7d7de1a35fd827ea0339277791b7f7"
+    },
+    {
+      "case_id": "greece_2005_pakistani_migrants_abduction_surveillance_case",
+      "year": 2005,
+      "case_title": {
+        "en": "Pakistani migrants abduction allegations and post-9/11 security pressure",
+        "el": "Καταγγελίες απαγωγής Πακιστανών μεταναστών και πίεση ασφάλειας μετά την 11η Σεπτεμβρίου"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2005/greece_2005_pakistani_migrants_abduction_surveillance_case.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d6a996d9e9fdc9570a67c73d4502739dd8f128d94c663c1ead6c26f692910a33"
+    },
+    {
+      "case_id": "greece_2005_structured_bonds_pension_funds_money_financial_opacity",
+      "year": 2005,
+      "case_title": {
+        "en": "Structured bonds, pension funds, public money and financial opacity (2005-2007)",
+        "el": "Δομημένα ομόλογα, ασφαλιστικά ταμεία, δημόσιο χρήμα και χρηματοοικονομική αδιαφάνεια (2005-2007)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2005/greece_2005_structured_bonds_pension_funds_money_financial_opacity.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "00b671fbeaae47355579df6e4208d4c7a4fc2ad916f0e83942b5964e70748c29"
+    },
+    {
+      "case_id": "greece_2005_zahopoulos_affair_media_blackmail_power",
+      "year": 2007,
+      "case_title": {
+        "en": "Zahopoulos affair, media blackmail, and ministerial power",
+        "el": "Υπόθεση Ζαχόπουλου, εκβιασμός ΜΜΕ και υπουργική ισχύς"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2007/greece_2005_zahopoulos_affair_media_blackmail_power.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "ec17f8353f817027f8d9323d3b35be69f185d5293d6a7f37481f8b34b8faa8e0"
+    },
+    {
+      "case_id": "greece_2007_bond_scandal_and_pension_fund_trust_crisis",
+      "year": 2007,
+      "case_title": {
+        "en": "Bond scandal and pension fund trust crisis",
+        "el": "Σκάνδαλο ομολόγων και κρίση εμπιστοσύνης ταμείων"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2007/greece_2007_bond_scandal_and_pension_fund_trust_crisis.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "3f08400d197b4b0447c04379691b03193a6009818e7913d89018b580c781f77c"
+    },
+    {
+      "case_id": "greece_2007_forest_fires_state_failure_land_politics_disaster_governance",
+      "year": 2007,
+      "case_title": {
+        "en": "2007 forest fires, state failure, land politics and disaster governance (2007)",
+        "el": "Πυρκαγιές 2007, κρατική αποτυχία, πολιτική γης και διακυβέρνηση καταστροφών (2007)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2007/greece_2007_forest_fires_state_failure_land_politics_disaster_governance.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "6624054d2c4867fdaa4e3f19e8f93d1fdfca7c3742ae7dc047d2dbf3639cbda7"
+    },
+    {
+      "case_id": "greece_2008_grigoropoulos_killing_police_violence_youth_rage_state_response",
+      "year": 2008,
+      "case_title": {
+        "en": "Greece — Grigoropoulos killing, police violence, youth rage, and state response (2008)",
+        "el": "Ελλάδα — Δολοφονία Γρηγορόπουλου, αστυνομική βία και νεανική οργή (2008)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2008/greece_2008_grigoropoulos_killing_police_violence_youth_rage_state_response.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "ba02a85fe58a9cb60c68f4059e3c9b7fa43aef99bdb67028a61d39ee9d2d5264"
+    },
+    {
+      "case_id": "greece_2008_siemens_bribery_contracts_party_finance",
+      "year": 2008,
+      "case_title": {
+        "en": "Siemens bribery scandal, public contracts, and party finance shadows",
+        "el": "Siemens: δωροδοκίες, δημόσιες συμβάσεις και σκιές κομματικής χρηματοδότησης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2008/greece_2008_siemens_bribery_contracts_party_finance.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f0afd955c33084fbef4e6525c3abc3414f5cf2e75c98d2d400421ffe70997bae"
+    },
+    {
+      "case_id": "greece_2008_vatopedi_land_swap",
+      "year": 2008,
+      "case_title": {
+        "en": "Greece: Vatopedi Monastery Land-Swap Scandal (2008-2017)",
+        "el": "Ελλάδα: Σκάνδαλο ανταλλαγών γης της Μονής Βατοπεδίου (2008-2017)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2008/greece_2008_vatopedi_land_swap.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "0406a524a35ca49fdde31e2c637026052c26eb1007b27dce9544758df55b410c"
+    },
+    {
+      "case_id": "greece_2009_elstat_deficit_statistics_austerity_political_blame",
+      "year": 2009,
+      "case_title": {
+        "en": "ELSTAT, deficit statistics, trust, austerity and political blame (2009-2018)",
+        "el": "ΕΛΣΤΑΤ, στατιστικά ελλείμματος, εμπιστοσύνη, λιτότητα και πολιτική ευθύνη (2009-2018)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2009/greece_2009_elstat_deficit_statistics_austerity_political_blame.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "9fe3685184db60ab30a1e068367339e2a4114150500a7e7e7fbc70236c03300c"
+    },
+    {
+      "case_id": "greece_2010_debt_memorandum_shock_and_austerity_governance",
+      "year": 2010,
+      "case_title": {
+        "en": "Debt memorandum shock and austerity governance",
+        "el": "Σοκ μνημονίου και διακυβέρνηση λιτότητας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2010/greece_2010_debt_memorandum_shock_and_austerity_governance.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "45d890d693c02d99dc67d98b2170c05d72820a5d6e8f013b5a681d1fb7c60bcf"
+    },
+    {
+      "case_id": "greece_2010_elstat_deficit_revision_statistics_trust_war",
+      "year": 2010,
+      "case_title": {
+        "en": "ELSTAT deficit revision and the war over statistical truth",
+        "el": "ELSTAT, αναθεώρηση ελλείμματος και πόλεμος για τη στατιστική αλήθεια"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2010/greece_2010_elstat_deficit_revision_statistics_trust_war.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "0605cb327fd31f79d334c723e278a2b075bf254bf3e2feb9fe3a03a37aee6235"
+    },
+    {
+      "case_id": "greece_2010_lagarde_list",
+      "year": 2010,
+      "case_title": {
+        "en": "Greece: The Lagarde List, Tax-Evasion Politics, and Missing Accountability (2010-2015)",
+        "el": "Ελλάδα: Η Λίστα Λαγκάρντ, η Πολιτική της Φοροδιαφυγής και η Χαμένη Λογοδοσία (2010-2015)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2010/greece_2010_lagarde_list.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "86c1de97a47050d0fc874cdebffd6afe91ef4c03a46b5d2e0966c3a3d04f684a"
+    },
+    {
+      "case_id": "greece_2010_marfin_bank_deaths_protest_violence_austerity_memory",
+      "year": 2010,
+      "case_title": {
+        "en": "Marfin bank deaths, protest violence, austerity and memory (2010)",
+        "el": "Νεκροί στη Marfin, βία διαδήλωσης, λιτότητα και μνήμη (2010)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2010/greece_2010_marfin_bank_deaths_protest_violence_austerity_memory.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "8772a38af0388b1ee3930abafd052c21c27f3f5a79969ddd39e4843749313763"
+    },
+    {
+      "case_id": "greece_2010_oligarchs_media_banks_tax_evasion",
+      "year": 2010,
+      "case_title": {
+        "en": "Greece: Oligarchs, Media, Banks, and Tax-Evasion Impunity (2010-2015)",
+        "el": "Ελλάδα: Ολιγάρχες, ΜΜΕ, Τράπεζες και Ατιμωρησία στη Φοροδιαφυγή (2010-2015)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2010/greece_2010_oligarchs_media_banks_tax_evasion.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "29fe2423ce659c183a3305bee1d8d90caa7e436d25bad06ddc7ebf51fedaeda6"
+    },
+    {
+      "case_id": "greece_2011_bailout_privatization_fund_asset_sales",
+      "year": 2011,
+      "case_title": {
+        "en": "GREECE: Bailout Privatisation Fund, Public Asset Sales, and Post-Crisis State Restructuring (2011-2026)",
+        "el": "ΕΛΛΑΔΑ: Ταμείο αποκρατικοποιήσεων, πωλήσεις δημόσιας περιουσίας και μεταμνημονιακή αναδιάρθρωση του κράτους (2011-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2011/greece_2011_bailout_privatization_fund_asset_sales.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "c1a3808c874b66a7cac5ef4d1cfefc3b9fee03731cbcc4b7d897bf8ff10806a2"
+    },
+    {
+      "case_id": "greece_2011_keratea_waste_plant_policing_local_resistance",
+      "year": 2011,
+      "case_title": {
+        "en": "Keratea waste plant conflict, policing, local resistance and public trust (2010-2011)",
+        "el": "Κερατέα, σύγκρουση για ΧΥΤΑ, αστυνόμευση, τοπική αντίσταση και εμπιστοσύνη (2010-2011)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2011/greece_2011_keratea_waste_plant_policing_local_resistance.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d2475789380579f50d8edbe61f11866fce67088ac8f06e2caebe3aea9f5328b3"
+    },
+    {
+      "case_id": "greece_2011_syntagma_protests_austerity_policing_democracy_under_economic_emergenc",
+      "year": 2011,
+      "case_title": {
+        "en": "Syntagma Protests and Austerity Policing: Democracy Under Economic Emergency",
+        "el": "Σύνταγμα και Αστυνόμευση Λιτότητας: Δημοκρατία σε Οικονομική Έκτακτη Ανάγκη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2011/greece_2011_syntagma_protests_austerity_policing_democracy_under_economic_emergenc.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "05f92ab7f88e525291455a0617e51e31234fb12a99eab9638f5bcd438cd18c8b"
+    },
+    {
+      "case_id": "greece_2011_syntagma_square_policing_austerity_rage",
+      "year": 2011,
+      "case_title": {
+        "en": "Syntagma square policing and austerity rage",
+        "el": "Αστυνόμευση στο Σύνταγμα και οργή για τη λιτότητα"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2011/greece_2011_syntagma_square_policing_austerity_rage.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "54cf817dfc0e472cd90e775df9c741b49f8b880e3ba839933a02d9c8d701976b"
+    },
+    {
+      "case_id": "greece_2012_golden_dawn_criminal_org_state_failure",
+      "year": 2012,
+      "case_title": {
+        "en": "Greece: Golden Dawn, Criminal Organization Findings, and State Failure Questions (2012-2026)",
+        "el": "Ελλάδα: Χρυσή Αυγή, χαρακτηρισμός ως εγκληματική οργάνωση και ερωτήματα κρατικής αποτυχίας (2012-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2012/greece_2012_golden_dawn_criminal_org_state_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "fd5d8a1bb267dfd759fc0416dc6c88529f7df021dc9d39aa03e21b8ae404ec9d"
+    },
+    {
+      "case_id": "greece_2012_halyvourgia_strike_policing_labor_crisis",
+      "year": 2012,
+      "case_title": {
+        "en": "Halyvourgia strike, riot police intervention, and austerity labor conflict",
+        "el": "Απεργία Χαλυβουργίας, επέμβαση ΜΑΤ και εργασιακή σύγκρουση λιτότητας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2012/greece_2012_halyvourgia_strike_policing_labor_crisis.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "4aafb240376e62d192930dfafb3fafa0d3bd011b9d81bb04d1ab37b50cd84f44"
+    },
+    {
+      "case_id": "greece_2012_mass_id_tax_vehicle_data_leak",
+      "year": 2012,
+      "case_title": {
+        "en": "GREECE: Massive Leak of Identity, Tax, and Vehicle Data (2012-2013)",
+        "el": "ΕΛΛΑΔΑ: Μαζική διαρροή στοιχείων ταυτότητας, ΑΦΜ και οχημάτων (2012-2013)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2012/greece_2012_mass_id_tax_vehicle_data_leak.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "32f5925e70f4fc9c16cade824a988eb6b0b55601476efc0385bd11d17f9feb77"
+    },
+    {
+      "case_id": "greece_2012_novartis_2012_2026",
+      "year": 2012,
+      "case_title": {
+        "en": "Greece: Novartis case — bribery, political warfare, and legal whiplash (2012-2026)",
+        "el": "Ελλάδα: υπόθεση Novartis — μίζες, πολιτικός πόλεμος και νομικές ανατροπές (2012-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2012/greece_2012_novartis_2012_2026.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "114d0f413b8fd13850fd0ca8a746afdb11f6957b1b5274a7eef1ce219a605685"
+    },
+    {
+      "case_id": "greece_2012_pharmakonisi_aegean_pushback_allegations_border_deaths_competing_narra",
+      "year": 2012,
+      "case_title": {
+        "en": "Pharmakonisi and Aegean Pushback Allegations: Border Deaths and Competing Narratives",
+        "el": "Φαρμακονήσι και Ισχυρισμοί Pushback: Θάνατοι στα Σύνορα και Αντίθετες Αφηγήσεις"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2012/greece_2012_pharmakonisi_aegean_pushback_allegations_border_deaths_competing_narra.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "7a454d1ced2aee40767ac33ec8f74bf3c0a89c3bb857e65ab7e96ccf6dc68f62"
+    },
+    {
+      "case_id": "greece_2012_shaming_hiv_positive_women",
+      "year": 2012,
+      "case_title": {
+        "en": "Public shaming of HIV-positive women",
+        "el": "Δημόσιος διασυρμός οροθετικών γυναικών"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2012/greece_2012_shaming_hiv_positive_women.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "1364e9c2a42f97d2f277e72dde61d799b593e1bdd0cd1ca4feb542248654272a"
+    },
+    {
+      "case_id": "greece_2013_ert_shutdown_public_broadcasting_state_black_screen",
+      "year": 2013,
+      "case_title": {
+        "en": "ERT shutdown, black screen, and public broadcasting shock",
+        "el": "Κλείσιμο ΕΡΤ, μαύρη οθόνη και σοκ δημόσιας ραδιοτηλεόρασης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2013/greece_2013_ert_shutdown_public_broadcasting_state_black_screen.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "4e4c26cc5b2319e25a86eb2e5d7a070b59022e208a3f3d866bbb88de1ff6c1e5"
+    },
+    {
+      "case_id": "greece_2013_manolada_workers_shooting",
+      "year": 2013,
+      "case_title": {
+        "en": "Manolada migrant workers shooting and labor exploitation",
+        "el": "Πυροβολισμοί μεταναστών εργατών στη Μανωλάδα και εργασιακή εκμετάλλευση"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2013/greece_2013_manolada_workers_shooting.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "3c86b58e500f9b5d442225076c53670bb3730fde482394e54a6015c16234b206"
+    },
+    {
+      "case_id": "greece_2013_pavlos_fyssas_golden_dawn_accountability",
+      "year": 2013,
+      "case_title": {
+        "en": "Pavlos Fyssas murder and Golden Dawn accountability",
+        "el": "Δολοφονία Παύλου Φύσσα και λογοδοσία της Χρυσής Αυγής"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2013/greece_2013_pavlos_fyssas_golden_dawn_accountability.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d3441d57358cbccc25772d34cf80ec2b5a6a9fc4515209bf46d39d2be0d29f7e"
+    },
+    {
+      "case_id": "greece_2014_baltakos_video_golden_dawn_contacts",
+      "year": 2014,
+      "case_title": {
+        "en": "Baltakos video and Golden Dawn contacts",
+        "el": "Βίντεο Μπαλτάκου και επαφές με τη Χρυσή Αυγή"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2014/greece_2014_baltakos_video_golden_dawn_contacts.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "507c072ef898aa643f7cc40c8b82f70247e920a0c513c3338ae8883d2ebf634a"
+    },
+    {
+      "case_id": "greece_2014_noor_one_heroin_power_impunity_allegations",
+      "year": 2014,
+      "case_title": {
+        "en": "Noor One heroin case, power, impunity allegations and public trust (2014-2026)",
+        "el": "Noor One, ηρωίνη, ισχύς, ισχυρισμοί ατιμωρησίας και δημόσια εμπιστοσύνη (2014-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2014/greece_2014_noor_one_heroin_power_impunity_allegations.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b2f6cacf44a68ffef4d4abdc5aaa7057778e7b55ceb7a8830b96c264623e2957"
+    },
+    {
+      "case_id": "greece_2015_capital_controls_referendum_shock",
+      "year": 2015,
+      "case_title": {
+        "en": "Capital controls and referendum shock",
+        "el": "Κεφαλαιακοί περιορισμοί και σοκ του δημοψηφίσματος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2015/greece_2015_capital_controls_referendum_shock.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "8ab501877888755e4187850ef803f3ad8f82b3a207df93171ec61cb41635c945"
+    },
+    {
+      "case_id": "greece_2015_refugee_crisis_hotspots_borders_human_rights",
+      "year": 2015,
+      "case_title": {
+        "en": "Refugee crisis, hotspots, borders and human rights (2015-2026)",
+        "el": "Προσφυγική κρίση, κέντρα υποδοχής, σύνορα και ανθρώπινα δικαιώματα (2015-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2015/greece_2015_refugee_crisis_hotspots_borders_human_rights.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b8fae68c400a69b7f485b6e597167fc071a72a316d070662c2e8e558392f6bdb"
+    },
+    {
+      "case_id": "greece_2015_refugee_crisis_islands_eu_turkey_containment",
+      "year": 2015,
+      "case_title": {
+        "en": "Refugee crisis, island containment, and EU-Turkey border bargain",
+        "el": "Προσφυγική κρίση, εγκλωβισμός νησιών και παζάρι συνόρων ΕΕ-Τουρκίας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2015/greece_2015_refugee_crisis_islands_eu_turkey_containment.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "bee003ba6c9c80e766363c275d943085b6fc1549ef257bf17d116492858716e6"
+    },
+    {
+      "case_id": "greece_2015_third_bailout_capital_controls_aftermath_democracy_banks_external_powe",
+      "year": 2015,
+      "case_title": {
+        "en": "Third Bailout and Capital Controls Aftermath: Democracy, Banks and External Power",
+        "el": "Τρίτο Μνημόνιο και Capital Controls: Δημοκρατία, Τράπεζες και Εξωτερική Ισχύς"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2015/greece_2015_third_bailout_capital_controls_aftermath_democracy_banks_external_powe.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "ed8975e7fe91de7c6de748fd38fbb869994efbc4513c231d395fee874d88c996"
+    },
+    {
+      "case_id": "greece_2016_novartis_political_scandal_drug_pricing",
+      "year": 2016,
+      "case_title": {
+        "en": "Novartis political scandal, drug pricing, and allegation warfare",
+        "el": "Novartis: πολιτικό σκάνδαλο, τιμές φαρμάκων και πόλεμος καταγγελιών"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2016/greece_2016_novartis_political_scandal_drug_pricing.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "a0b463bc20db64212c4949a225ae7815538277c2bf5be206cb505233ad9b2d79"
+    },
+    {
+      "case_id": "greece_2016_opekepe_eu_subsidies_political_immunity_state_capture",
+      "year": 2016,
+      "case_title": {
+        "en": "Greece — OPEKEPE: EU Subsidies, Political Immunity, And State Capture (2016–2026)",
+        "el": "Ελλάδα — ΟΠΕΚΕΠΕ: επιδοτήσεις ΕΕ, πολιτική ασυλία και κρατική αιχμαλωσία (2016–2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2016/greece_2016_opekepe_eu_subsidies_political_immunity_state_capture.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "8ac72e6b48ecfd401e06936c9d9a74e00f1094a0813d22c977ea7b14e301a2b2"
+    },
+    {
+      "case_id": "greece_2016_tv_licenses_media_power_conflict",
+      "year": 2016,
+      "case_title": {
+        "en": "TV licenses and media-power conflict",
+        "el": "Τηλεοπτικές άδειες και σύγκρουση για την ισχύ των μέσων"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2016/greece_2016_tv_licenses_media_power_conflict.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "e3aeae861ba013390388c819237be52b724e7572001266ea8b4418700a19368b"
+    },
+    {
+      "case_id": "greece_2017_agia_zoni_ii_oil_spill_saronic",
+      "year": 2017,
+      "case_title": {
+        "en": "The Agia Zoni II sinking and Saronic Gulf oil spill",
+        "el": "Η βύθιση του Αγία Ζώνη ΙΙ και η πετρελαιοκηλίδα στον Σαρωνικό"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2017/greece_2017_agia_zoni_ii_oil_spill_saronic.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "44fb5c4045f377d308eff522d5951d44d091537732d360e0da1de927f6136cae"
+    },
+    {
+      "case_id": "greece_2017_mandra_flash_flood_planning_failure",
+      "year": 2017,
+      "case_title": {
+        "en": "Mandra flash flood, blocked streams, and planning failure",
+        "el": "Πλημμύρα Μάνδρας, μπαζωμένα ρέματα και αποτυχία σχεδιασμού"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2017/greece_2017_mandra_flash_flood_planning_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b6cae23f49b569b1a2422700c74a627cab448bccc14f4169ec23cfd7bad02894"
+    },
+    {
+      "case_id": "greece_2017_noor_one_heroin_allegations_impunity",
+      "year": 2017,
+      "case_title": {
+        "en": "Noor One heroin case and allegations of impunity",
+        "el": "Υπόθεση ηρωίνης Noor One και καταγγελίες ατιμωρησίας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2017/greece_2017_noor_one_heroin_allegations_impunity.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "252d6d213b0264ff4c9a83f781fbe5e075cdbeb4273aa53b2bc42a0a70f4f0a0"
+    },
+    {
+      "case_id": "greece_2018_folli_follie_market_fraud_regulator_failure",
+      "year": 2018,
+      "case_title": {
+        "en": "Folli Follie market fraud and regulator confidence collapse",
+        "el": "Folli Follie: χρηματιστηριακή απάτη και κατάρρευση εμπιστοσύνης στους ελέγχους"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2018/greece_2018_folli_follie_market_fraud_regulator_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "ee09f74a76d0221514a4ca80553b46897f62ccf9091f5b996291931146844da4"
+    },
+    {
+      "case_id": "greece_2018_mati_wildfire_state_failure",
+      "year": 2018,
+      "case_title": {
+        "en": "Greece: Mati wildfire, state failure, and accountability limits (2018-2025)",
+        "el": "Ελλάδα: Μάτι, κρατική αποτυχία και όρια λογοδοσίας (2018-2025)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2018/greece_2018_mati_wildfire_state_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d68a79af4a55a5fcd87b862e3476f66b15a398c8f6e8d8d06ed8fffca8b5b7fe"
+    },
+    {
+      "case_id": "greece_2018_prespa_agreement_backlash_identity_politics_disinformation_pressure",
+      "year": 2018,
+      "case_title": {
+        "en": "Prespa Agreement Backlash: Identity Politics, Disinformation and Public Pressure",
+        "el": "Πρέσπες: Ταυτότητα, Παραπληροφόρηση και Δημόσια Πίεση"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2018/greece_2018_prespa_agreement_backlash_identity_politics_disinformation_pressure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "21f6015b4992346ee3f6079c33ae3152042efd95b6bfee5126b646c45b9f7840"
+    },
+    {
+      "case_id": "greece_2018_zak_kostopoulos_death_violence_police_response_social_stigma",
+      "year": 2018,
+      "case_title": {
+        "en": "Zak Kostopoulos death, public violence, police response and social stigma (2018-2024)",
+        "el": "Θάνατος Ζακ Κωστόπουλου, δημόσια βία, αστυνομική αντίδραση και κοινωνικό στίγμα (2018-2024)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2018/greece_2018_zak_kostopoulos_death_violence_police_response_social_stigma.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "db3f9bcbda624e9e2b9a24acb557f1ff0e050ea5b208887a51debe2f32b1e629"
+    },
+    {
+      "case_id": "greece_2019_exarchia_operations_urban_policing_drugs_squats_fear_rights",
+      "year": 2019,
+      "case_title": {
+        "en": "Exarchia Operations and Urban Policing: Drugs, Squats, Fear and Rights",
+        "el": "Επιχειρήσεις Εξαρχείων: Ναρκωτικά, Καταλήψεις, Φόβος και Δικαιώματα"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2019/greece_2019_exarchia_operations_urban_policing_drugs_squats_fear_rights.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "30762cb703967a05f7cb1694d49afe4c6c51d119bb5151a4f7fd2b507f82bab1"
+    },
+    {
+      "case_id": "greece_2019_greek_mafia_killings_state_crime_fear",
+      "year": 2019,
+      "case_title": {
+        "en": "Greek Mafia killings and state-crime fear",
+        "el": "Δολοφονίες της Greek Mafia και φόβος διασύνδεσης κράτους και εγκλήματος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2019/greece_2019_greek_mafia_killings_state_crime_fear.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "23e6269ba5711e40a6f0c4932ca322e2dc4534d1a2f643ac8793078bff091c48"
+    },
+    {
+      "case_id": "greece_2019_novartis_greece_political_scandal_protected_witnesses",
+      "year": 2019,
+      "case_title": {
+        "en": "Novartis Greece political scandal and protected witnesses",
+        "el": "Πολιτικό σκάνδαλο Novartis στην Ελλάδα και προστατευόμενοι μάρτυρες"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2019/greece_2019_novartis_greece_political_scandal_protected_witnesses.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f1a3aae3b11ac44861d9a87d795dcfc472189acb9faea6eff566d20807309f0a"
+    },
+    {
+      "case_id": "greece_2019_piraeus_noor_one_political_pressure_media_memory",
+      "year": 2019,
+      "case_title": {
+        "en": "Noor One aftermath, witness pressure, and media-political memory",
+        "el": "Μετασεισμοί Noor One, πίεση μαρτύρων και μιντιακοπολιτική μνήμη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2019/greece_2019_piraeus_noor_one_political_pressure_media_memory.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "0233c3c136d036ac5e04019f3aad4ce29909976f271fb73ded8baa7e19bec7f4"
+    },
+    {
+      "case_id": "greece_2020_covid_lockdowns_policing_procurement_trust",
+      "year": 2020,
+      "case_title": {
+        "en": "COVID lockdowns, policing, procurement, and trust in emergency rule",
+        "el": "Περιοριστικά μέτρα COVID, αστυνόμευση, προμήθειες και εμπιστοσύνη στην έκτακτη διακυβέρνηση"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_covid_lockdowns_policing_procurement_trust.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b048dfdebefb61a5ad764f265cd5d3ea6c4ca7a7d4c034619197a9040570a26b"
+    },
+    {
+      "case_id": "greece_2020_covid_sms_permits_lockdowns_certificates_permission_culture",
+      "year": 2020,
+      "case_title": {
+        "en": "Greece — COVID SMS Permits: Lockdowns, Certificates, And Permission Culture (2020–2023)",
+        "el": "Ελλάδα — COVID SMS άδειες: περιοριστικά μέτρα, πιστοποιητικά και κουλτούρα άδειας (2020–2023)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_covid_sms_permits_lockdowns_certificates_permission_culture.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b56b55964b2ccc3e09693a979f975e44df2ad50982b3dbc840878a08afa91224"
+    },
+    {
+      "case_id": "greece_2020_evros_border_crisis_and_information_war",
+      "year": 2020,
+      "case_title": {
+        "en": "Evros border crisis and information war",
+        "el": "Κρίση Έβρου και πληροφοριακός πόλεμος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_evros_border_crisis_and_information_war.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "40b3f38eefa11cbd259a033953e1a6186e9dc854082aca840b2f8fbeee109890"
+    },
+    {
+      "case_id": "greece_2020_golden_dawn_conviction",
+      "year": 2020,
+      "case_title": {
+        "en": "Golden Dawn criminal-organization verdict and democratic accountability",
+        "el": "Καταδίκη της Χρυσής Αυγής ως εγκληματικής οργάνωσης και δημοκρατική λογοδοσία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_golden_dawn_conviction.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d39678cc26d0407ca10a162d53fd608834ebdcfd6347bf0ee319ba24d93f419d"
+    },
+    {
+      "case_id": "greece_2020_greek_covid_fines_movement_forms_enforcement_class_permission_culture",
+      "year": 2020,
+      "case_title": {
+        "en": "Greek COVID Fines and Movement Forms: Enforcement, Class and Permission Culture",
+        "el": "Πρόστιμα COVID και Έντυπα Μετακίνησης: Επιβολή, Τάξη και Κουλτούρα Άδειας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_greek_covid_fines_movement_forms_enforcement_class_permission_culture.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "281b115621628c7043cee4f8b7a80f1a99893ad1abd5a214004bf93c2362b8a7"
+    },
+    {
+      "case_id": "greece_2020_medicane_ianos_floods_response_accountability",
+      "year": 2020,
+      "case_title": {
+        "en": "Medicane Ianos, catastrophic flooding and public accountability",
+        "el": "Ο μεσογειακός κυκλώνας Ιανός, οι καταστροφικές πλημμύρες και η δημόσια λογοδοσία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_medicane_ianos_floods_response_accountability.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "1c9ba4294791f4b06b7b8f653229f73d7f1da797d6480d24e6a51a5352fe4149"
+    },
+    {
+      "case_id": "greece_2020_moria_fire_refugee_camp_failure",
+      "year": 2020,
+      "case_title": {
+        "en": "The Moria camp fires and the failure of refugee reception",
+        "el": "Οι πυρκαγιές στη Μόρια και η αποτυχία του συστήματος υποδοχής προσφύγων"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_moria_fire_refugee_camp_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "5e1de164817211b2e5d7adaaebbc1753503d894a320702b5fc96e802edd9b20d"
+    },
+    {
+      "case_id": "greece_2020_pandemic_sms_permits_policing_normalization",
+      "year": 2020,
+      "case_title": {
+        "en": "Greek pandemic SMS permits, policing, and normalization",
+        "el": "Άδειες μετακίνησης μέσω SMS στην πανδημία, αστυνόμευση και κανονικοποίηση"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_pandemic_sms_permits_policing_normalization.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d7ddc06acc12324dfe2a8d9b70126b697564f9c716f75453d335ac726114a3b9"
+    },
+    {
+      "case_id": "greece_2020_petsas_list_media_funding_message_control",
+      "year": 2020,
+      "case_title": {
+        "en": "GREECE: Petsas List, Media Funding, and Message Control (2020-2026)",
+        "el": "Ελλάδα: λίστα Πέτσα, χρηματοδότηση μέσων και έλεγχος του δημόσιου μηνύματος (2020-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_petsas_list_media_funding_message_control.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "bb3280fb3a4063139d805215b0008a6e82c8d008e68c4589f99f52717154f165"
+    },
+    {
+      "case_id": "greece_2020_pushbacks_border_rights",
+      "year": 2020,
+      "case_title": {
+        "en": "Greece: Pushbacks, Border Violations, and the Accountability Fight (2020-2026)",
+        "el": "Ελλάδα: επαναπροωθήσεις, παραβιάσεις στα σύνορα και η μάχη για λογοδοσία (2020-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2020/greece_2020_pushbacks_border_rights.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "72af81352161d29df8430733609637e63566a45daec3ed3a275d6dbf8a9f0666"
+    },
+    {
+      "case_id": "greece_2021_closed_controlled_camps_asylum_control",
+      "year": 2021,
+      "case_title": {
+        "en": "GREECE: Closed Controlled Camps, Cash Assistance Interruptions, and the Hardening of Asylum Control (2021-2026)",
+        "el": "ΕΛΛΑΔΑ: Κλειστές ελεγχόμενες δομές, διακοπές οικονομικής ενίσχυσης και σκλήρυνση του ελέγχου ασύλου (2021-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2021/greece_2021_closed_controlled_camps_asylum_control.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d8e632f5ac30640d07bd5b5f02f8832f97d018911447d19dc404000d2bd21ef4"
+    },
+    {
+      "case_id": "greece_2021_dimitris_lignadis_cultural_power_networks",
+      "year": 2021,
+      "case_title": {
+        "en": "Dimitris Lignadis case and cultural power networks",
+        "el": "Υπόθεση Δημήτρη Λιγνάδη και δίκτυα πολιτιστικής εξουσίας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2021/greece_2021_dimitris_lignadis_cultural_power_networks.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "37a87488cf221f49d67943da3fc69988b31d68b6b1fa53db3a9df70a9be29cbe"
+    },
+    {
+      "case_id": "greece_2021_evia_wildfires_state_response_climate_failure_rural_abandonment",
+      "year": 2021,
+      "case_title": {
+        "en": "Evia wildfires, state response, climate failure and rural abandonment (2021)",
+        "el": "Πυρκαγιές Εύβοιας, κρατική αντίδραση, κλιματική αποτυχία και εγκατάλειψη υπαίθρου (2021)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2021/greece_2021_evia_wildfires_state_response_climate_failure_rural_abandonment.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "1b7c1e20956e0ef7a13173da07b95be2b97bac3808c45c5ab76567e1c4f0d3d3"
+    },
+    {
+      "case_id": "greece_2021_giorgos_karaivaz_assassination_and_press_freedom_wound",
+      "year": 2021,
+      "case_title": {
+        "en": "Giorgos Karaivaz assassination and press-freedom wound",
+        "el": "Δολοφονία Γιώργου Καραϊβάζ και πληγή στην ελευθερία του Τύπου"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2021/greece_2021_giorgos_karaivaz_assassination_and_press_freedom_wound.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "28fbc81bf5b22f60cc608044b1d1a5a55430fc6cf1d06a3948f130b12f3b90f4"
+    },
+    {
+      "case_id": "greece_2021_nea_smyrni_police_violence_protests_order_narratives",
+      "year": 2021,
+      "case_title": {
+        "en": "Nea Smyrni police violence, protests and public-order narratives (2021)",
+        "el": "Νέα Σμύρνη, αστυνομική βία, διαδηλώσεις και αφηγήσεις δημόσιας τάξης (2021)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2021/greece_2021_nea_smyrni_police_violence_protests_order_narratives.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "74beca2da385197f7394ef56d55065c5d4e4fe6bd9c5e35916738f63c5f7acfb"
+    },
+    {
+      "case_id": "greece_2021_novartis_scandal_political_judicial_battle",
+      "year": 2021,
+      "case_title": {
+        "en": "Novartis scandal political-judicial battle",
+        "el": "Novartis και πολιτικοδικαστική μάχη"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2021/greece_2021_novartis_scandal_political_judicial_battle.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "52a895d8f1d0110f9182af0766a6ca50a923757dc459ca1bbfc9e8b31e345b5d"
+    },
+    {
+      "case_id": "greece_2021_vaccination_certificates_in_greece_health_work_access_social_division",
+      "year": 2021,
+      "case_title": {
+        "en": "Vaccination Certificates in Greece: Public Health, Work Access and Social Division",
+        "el": "Πιστοποιητικά Εμβολιασμού στην Ελλάδα: Υγεία, Εργασία και Κοινωνικός Διχασμός"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2021/greece_2021_vaccination_certificates_in_greece_health_work_access_social_division.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "f54a2e8b666f51cc341b22e7187a9c8747610fc11bd6be9a29c7554cf3f6af31"
+    },
+    {
+      "case_id": "greece_2022_ark_world_charity_scandal_children_donations_oversight_failure",
+      "year": 2022,
+      "case_title": {
+        "en": "Ark of the World Charity Scandal: Children, Donations and Oversight Failure",
+        "el": "Κιβωτός του Κόσμου: Παιδιά, Δωρεές και Αποτυχία Ελέγχου"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2022/greece_2022_ark_world_charity_scandal_children_donations_oversight_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "2f08f837b91f7f6ca65231d0d96c9ae6bbf0ed8be2b49c1c530a160f3b8b20f3"
+    },
+    {
+      "case_id": "greece_2022_kolonos_abuse_case_child_protection_institutional_failure",
+      "year": 2022,
+      "case_title": {
+        "en": "Kolonos abuse case, child protection, and institutional failure",
+        "el": "Υπόθεση Κολωνού, προστασία παιδιού και θεσμική αποτυχία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2022/greece_2022_kolonos_abuse_case_child_protection_institutional_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "9cd0a59603ffcedd2001de5093462cffa7438e0cf9fdb1e195f9957bdac160a4"
+    },
+    {
+      "case_id": "greece_2022_personal_number_biometric_ids_gov_wallet",
+      "year": 2022,
+      "case_title": {
+        "en": "GREECE: Personal Number, Biometric IDs, and the State Digital Layer (2022-2026)",
+        "el": "ΕΛΛΑΔΑ: Προσωπικός Αριθμός, βιομετρικές ταυτότητες και το κρατικό ψηφιακό στρώμα (2022-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2022/greece_2022_personal_number_biometric_ids_gov_wallet.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "6e57e7d014594a32ec27a9145a316a5c3a12dac044244093ff7ba0db0929b2fd"
+    },
+    {
+      "case_id": "greece_2022_pispirigou_child_deaths_media_trial_problem",
+      "year": 2022,
+      "case_title": {
+        "en": "Pispirigou child deaths media trial problem",
+        "el": "Θάνατοι παιδιών στην υπόθεση Πισπιρίγκου και το πρόβλημα της μιντιακής δίκης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2022/greece_2022_pispirigou_child_deaths_media_trial_problem.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "15d0d09fcecc6680532ebf530aa75a2401fe52ed08f1606e5bf0e1e8b6ef3bea"
+    },
+    {
+      "case_id": "greece_2022_predatorgate_institutional_reform_gap",
+      "year": 2022,
+      "case_title": {
+        "en": "Predatorgate institutional reform gap",
+        "el": "Predatorgate και κενό θεσμικής μεταρρύθμισης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2022/greece_2022_predatorgate_institutional_reform_gap.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "d745ff4c16a61b2cbcfc25ca7e7a24886f4ed26fec5399701ecb10c7b9e17e46"
+    },
+    {
+      "case_id": "greece_2022_predatorgate_spyware_state",
+      "year": 2022,
+      "case_title": {
+        "en": "Predatorgate spyware and state trust",
+        "el": "Predatorgate, κατασκοπευτικό λογισμικό και εμπιστοσύνη στο κράτος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2022/greece_2022_predatorgate_spyware_state.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "808c5d990384a478c5c9270c8c6c07e6b43e59241e5291b4ce117f3e5511de96"
+    },
+    {
+      "case_id": "greece_2022_surveillance_reforms_after_predator",
+      "year": 2022,
+      "case_title": {
+        "en": "Greece: Surveillance Reforms After Predatorgate (2022-2026)",
+        "el": "Ελλάδα: Μεταρρυθμίσεις επιτήρησης μετά το Predatorgate (2022-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2022/greece_2022_surveillance_reforms_after_predator.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "78e5bed856f3ed24bbf21b94b89b2ffa1f805b517e6e806f53726c64aca409de"
+    },
+    {
+      "case_id": "greece_2023_15_minute_cities_smart_cities_control_fears",
+      "year": 2023,
+      "case_title": {
+        "en": "Greece 15 Minute Cities Smart Cities And Control Fears 2023 2026",
+        "el": "Πόλεις 15 λεπτών, έξυπνες πόλεις και φόβοι ελέγχου στην Ελλάδα"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_15_minute_cities_smart_cities_control_fears.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "caf762de7586bbcd9470a2f6820682a174ec5fb6c434c72db2c34637cdc2c2a7"
+    },
+    {
+      "case_id": "greece_2023_eavesdropping_adae_authority_pressure_rule_of_law",
+      "year": 2023,
+      "case_title": {
+        "en": "ADAE pressure, surveillance oversight, and rule-of-law trust",
+        "el": "Πίεση στην ΑΔΑΕ, εποπτεία παρακολουθήσεων και εμπιστοσύνη στο κράτος δικαίου"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_eavesdropping_adae_authority_pressure_rule_of_law.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "9a591e6f2743b5308a2973be148f04a7ecd153f4f8a791cc15cf9baab7e2be57"
+    },
+    {
+      "case_id": "greece_2023_evros_wildfire_border_blame_and_climate_failure",
+      "year": 2023,
+      "case_title": {
+        "en": "Evros wildfire, border blame, and climate-governance failure",
+        "el": "Πυρκαγιά Έβρου, ενοχοποίηση συνόρων και αποτυχία κλιματικής διακυβέρνησης"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_evros_wildfire_border_blame_and_climate_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "79c3d094d050d5d2f64d6105b7e1134da62a39cf39f42a41271e946b19b87f12"
+    },
+    {
+      "case_id": "greece_2023_nea_anchialos_ammunition_blasts_wildfires_military_storage_civil_prote",
+      "year": 2023,
+      "case_title": {
+        "en": "Nea Anchialos Ammunition Blasts: Wildfires, Military Storage and Civil Protection Failure",
+        "el": "Εκρήξεις Νέας Αγχιάλου: Πυρκαγιές, Πυρομαχικά και Πολιτική Προστασία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_nea_anchialos_ammunition_blasts_wildfires_military_storage_civil_prote.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "25c965c37dfd0a34186765e539bb8b17489e28e26ee1b24129230a7b0d031501"
+    },
+    {
+      "case_id": "greece_2023_pylos_shipwreck_accountability",
+      "year": 2023,
+      "case_title": {
+        "en": "Greece: Pylos Shipwreck, Coast Guard Accountability, and the Investigation Fight (2023-2026)",
+        "el": "Ελλάδα: Ναυάγιο της Πύλου, Ευθύνες Λιμενικού και Μάχη για τη Λογοδοσία (2023-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_pylos_shipwreck_accountability.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "082231cd194d39980cc1950870add9b35b8a8db6a786036342dc37f65b65017d"
+    },
+    {
+      "case_id": "greece_2023_pylos_shipwreck_rescue_duty_evidence_gaps",
+      "year": 2023,
+      "case_title": {
+        "en": "Pylos shipwreck, rescue duty, and evidence gaps — PROOF DOSSIER",
+        "el": "Ναυάγιο της Πύλου, υποχρέωση διάσωσης και κενά τεκμηρίωσης — ΦΑΚΕΛΟΣ ΑΠΟΔΕΙΞΕΩΝ"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_pylos_shipwreck_rescue_duty_evidence_gaps.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "8b2bd886f130dfa4b7fb39160f898a81ab3703f1fcd8be1a53248248b98f3179"
+    },
+    {
+      "case_id": "greece_2023_spartans_golden_dawn_bypass",
+      "year": 2023,
+      "case_title": {
+        "en": "Greece: Spartans, Kasidiaris, and the Attempted Post-Golden-Dawn Political Workaround (2023-2025)",
+        "el": "Ελλάδα: Spartans, Κασιδιάρης και η Απόπειρα Παράκαμψης της Απαγόρευσης της Golden Dawn (2023-2025)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_spartans_golden_dawn_bypass.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "38e306797fa340d752c7ed5f91ed5f7d224e472a1127a17fb47179af66b88f1b"
+    },
+    {
+      "case_id": "greece_2023_sports_fan_violence_organized_crime_networks",
+      "year": 2023,
+      "case_title": {
+        "en": "Sports fan violence and organized crime networks",
+        "el": "Βία οπαδών και δίκτυα οργανωμένου εγκλήματος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_sports_fan_violence_organized_crime_networks.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "4195c35260e53e5ed5aea303d9be982990069f50b7e2b5bd3f7c665ad1042358"
+    },
+    {
+      "case_id": "greece_2023_sports_violence_crime_networks_state_response",
+      "year": 2023,
+      "case_title": {
+        "en": "Greece: Sports Violence, Criminal Networks, And The State Response (2023-2025)",
+        "el": "Ελλαδα: οπαδικη βια, εγκληματικα δικτυα και η κρατικη αντιδραση (2023-2025)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_sports_violence_crime_networks_state_response.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "a019fa34273c80f606f3a9608c8abfe2e44739e9e0f5712e817117f30eec6caf"
+    },
+    {
+      "case_id": "greece_2023_storm_daniel_thessaly_floods_infrastructure_collapse",
+      "year": 2023,
+      "case_title": {
+        "en": "Storm Daniel Thessaly floods and infrastructure collapse",
+        "el": "Καταιγίδα Daniel, πλημμύρες στη Θεσσαλία και κατάρρευση υποδομών"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_storm_daniel_thessaly_floods_infrastructure_collapse.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "74035d121a2c9ad6795f424fde1d8ac02147ef03775f4d37113f702c1405008c"
+    },
+    {
+      "case_id": "greece_2023_tempi_train_crash_safety_failures_accountability",
+      "year": 2023,
+      "case_title": {
+        "en": "Greece — Tempi: Train Crash, Safety Failures, And Accountability (2023–2026)",
+        "el": "Ελλάδα — τέμπη: σιδηροδρομικό δυστύχημα, αποτυχίες ασφάλειας και λογοδοσία (2023–2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_tempi_train_crash_safety_failures_accountability.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "276cb62dbffe0a0cca67f4c390b6eb1f2804e5779733e1cc11637c6be672973f"
+    },
+    {
+      "case_id": "greece_2023_youth_violence_bullying_stabbings",
+      "year": 2023,
+      "case_title": {
+        "en": "Greece: Youth Violence, Bullying, Digital Addiction, And The Search For Control Tools (2023-2026)",
+        "el": "Ελλαδα: νεανικη βια, bullying, ψηφιακος εθισμος και η αναζητηση εργαλειων ελεγχου (2023-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2023/greece_2023_youth_violence_bullying_stabbings.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "215b09df48c9972b0ede5f6ee3e6511e72a0c8a17819de8b80dba331a44af2f4"
+    },
+    {
+      "case_id": "greece_2024_asimakopoulou_email_leak_data_protection_elections",
+      "year": 2024,
+      "case_title": {
+        "en": "Asimakopoulou email leak, data protection, elections and trust (2024)",
+        "el": "Υπόθεση email Ασημακοπούλου, προστασία δεδομένων, εκλογές και εμπιστοσύνη (2024)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_asimakopoulou_email_leak_data_protection_elections.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "63766a25ea528a3ad2743e26601cfe8d319ba7d5081c1a187237351d8ff6c276"
+    },
+    {
+      "case_id": "greece_2024_domestic_violence_femicides_police_response_institutional_failure",
+      "year": 2024,
+      "case_title": {
+        "en": "Greece — Domestic violence, femicides, police response, and institutional failure (2024–2026)",
+        "el": "Ελλάδα — Ενδοοικογενειακή βία, γυναικοκτονίες και θεσμική αποτυχία (2024–2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_domestic_violence_femicides_police_response_institutional_failure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b695a1ec3a0468d650fdfa7fb8ff4ba0db787cccf1023d9db1371cf09c41b403"
+    },
+    {
+      "case_id": "greece_2024_dystopian_trends",
+      "year": 2024,
+      "case_title": {
+        "en": "Greece Dystopian Trends: 2024-2026",
+        "el": "Ελλάδα Δυστοπικές Τάσεις: 2024-2026"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_dystopian_trends.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "ffbb25db160d259ce99bd75157c90cea3bde1eb51ad396fcd88fad0cd47d0fbc"
+    },
+    {
+      "case_id": "greece_2024_kyriaki_griva_murder_outside_police_station",
+      "year": 2024,
+      "case_title": {
+        "en": "Kyriaki Griva murder outside police station",
+        "el": "Δολοφονία Κυριακής Γρίβα έξω από αστυνομικό τμήμα"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_kyriaki_griva_murder_outside_police_station.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "292c68bc47eb24a55b491fc30b43172fa0c6361f4f2686c58dfd5fb6eb20d6d2"
+    },
+    {
+      "case_id": "greece_2024_kyriaki_griva_police_station_femicide_response_failure_institutional_s",
+      "year": 2024,
+      "case_title": {
+        "en": "Kyriaki Griva, police-station femicide, response failure and institutional shock (2024)",
+        "el": "Κυριακή Γρίβα, γυναικοκτονία έξω από ΑΤ, αποτυχία αντίδρασης και θεσμικό σοκ (2024)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_kyriaki_griva_police_station_femicide_response_failure_institutional_s.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "51117695cb3b389c3ebb83f51f567cb71a27c30a09044f7a6fa21cd365af17c3"
+    },
+    {
+      "case_id": "greece_2024_police_corruption_abuse_ill_treatment",
+      "year": 2024,
+      "case_title": {
+        "en": "Greece: Police Corruption, Abuse, And Ill-Treatment Warnings (2024-2026)",
+        "el": "Ελλαδα: αστυνομικη διαφθορα, κακομεταχειριση και προβλημα ατιμωρησιας (2024-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_police_corruption_abuse_ill_treatment.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b13a25793bbee36020633c62361be4f92ea3747116ef123b69a48c110023c78a"
+    },
+    {
+      "case_id": "greece_2024_sector_bribery_permit_networks",
+      "year": 2024,
+      "case_title": {
+        "en": "Greece: Public-Sector Bribery, Permit Networks, And The Persistence Of Clientelism (2024-2026)",
+        "el": "Ελλαδα: διαφθορα στον δημοσιο τομεα, δικτυα αδειων και επιμονη του πελατειακου συστηματος (2024-2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_sector_bribery_permit_networks.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "940ad3d38a36cb0191a58433137e1511d1cedfd4d9793a9a27d5fd706daf36e9"
+    },
+    {
+      "case_id": "greece_2024_social_media_ban_child_control_digital_age_verification",
+      "year": 2024,
+      "case_title": {
+        "en": "Greece: Social-Media Ban For Under-15S, Digital Age Checks, And The Child-Control Debate (2024-2027)",
+        "el": "Ελλαδα: ban στα soCIAl media κατω των 15, ηλικιακος ελεγχος και η συζητηση για ψηφιακη επιτηρηση παιδιων (2024-2027)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_social_media_ban_child_control_digital_age_verification.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "278a85ca3271efc68d00c323506ed55eec5616d41d7ee760abb8bdd210e43a78"
+    },
+    {
+      "case_id": "greece_2024_taxes_war_jobs",
+      "year": 2024,
+      "case_title": {
+        "en": "Greece Taxes, War Spending, and Jobs: 2024-2026",
+        "el": "Ελλάδα: Φόροι, Πολεμικές Δαπάνες και Εργασία 2024-2026"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2024/greece_2024_taxes_war_jobs.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "60a54295c2b0044c06da0922696ed6dbed652e8e7d2900faa8cf2148f8d09458"
+    },
+    {
+      "case_id": "greece_2025_digital_id_personal_number_kids_wallet_age_verification",
+      "year": 2025,
+      "case_title": {
+        "en": "Greece Digital Id Personal Number Kids Wallet And Age Verification 2022 2026",
+        "el": "Ψηφιακή ταυτότητα, Προσωπικός Αριθμός, Kids Wallet και επαλήθευση ηλικίας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_digital_id_personal_number_kids_wallet_age_verification.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "779c63183da377019ca2be2ca46b6ad57e8ad66312335e82ae11dc5505d400dc"
+    },
+    {
+      "case_id": "greece_2025_echr_greece_pushback_rulings_border_accountability",
+      "year": 2025,
+      "case_title": {
+        "en": "ECHR Greece pushback rulings and border accountability",
+        "el": "Αποφάσεις του ΕΔΔΑ για επαναπροωθήσεις στην Ελλάδα και λογοδοσία στα σύνορα"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_echr_greece_pushback_rulings_border_accountability.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "cd31ad049c5bdccb13dceaf575f566a6e6e1f1d1d3d8ada36944f1a9ced0f6d6"
+    },
+    {
+      "case_id": "greece_2025_hellenic_train_office_bombing_rage_rail_trauma_security_spiral",
+      "year": 2025,
+      "case_title": {
+        "en": "Hellenic Train Office Bombing: Public Rage, Rail Trauma and Security Spiral",
+        "el": "Βόμβα στα Γραφεία Hellenic Train: Οργή, Τραύμα Σιδηροδρόμων και Σπείρα Ασφάλειας"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_hellenic_train_office_bombing_rage_rail_trauma_security_spiral.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "2d396dd312be8ae189151a7caa0cbf9fbeda4b33bb4033113090e87d4eed64f8"
+    },
+    {
+      "case_id": "greece_2025_kids_wallet_digital_age_verification_child_safety_id_infrastructure",
+      "year": 2025,
+      "case_title": {
+        "en": "Greece — Kids Wallet: Digital Age Verification, Child Safety, And Identity Infrastructure (2025–2026)",
+        "el": "Ελλάδα — Kids Wallet: ψηφιακή επιβεβαίωση ηλικίας, παιδική ασφάλεια και υποδομή ταυτότητας (2025–2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_kids_wallet_digital_age_verification_child_safety_id_infrastructure.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "169d66ff0678dc62698b908afd24b224ad618871946d3da266f5c07d4e805eca"
+    },
+    {
+      "case_id": "greece_2025_kids_wallet_digital_identity_child_protection_debate",
+      "year": 2025,
+      "case_title": {
+        "en": "Kids Wallet, digital identity, and child-protection debate",
+        "el": "Kids Wallet, ψηφιακή ταυτότητα και συζήτηση για την προστασία των παιδιών"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_kids_wallet_digital_identity_child_protection_debate.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "1c57269ce02d8ba935fb6dd7a55584d982057aa3bd7be48c6bdeee749ddee8c6"
+    },
+    {
+      "case_id": "greece_2025_opekepe_agricultural_subsidy_fraud_escalation",
+      "year": 2025,
+      "case_title": {
+        "en": "OPEKEPE agricultural subsidy fraud escalation",
+        "el": "Κλιμάκωση σκανδάλου αγροτικών επιδοτήσεων ΟΠΕΚΕΠΕ"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_opekepe_agricultural_subsidy_fraud_escalation.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "e69f5a114d680a745ea6b3262383b535627259c7e9a638975764fb72bd4768f5"
+    },
+    {
+      "case_id": "greece_2025_opekepe_farmer_protests_subsidy_hole",
+      "year": 2025,
+      "case_title": {
+        "en": "OPEKEPE farmer protests and subsidy hole",
+        "el": "ΟΠΕΚΕΠΕ, αγροτικές διαμαρτυρίες και κενό επιδοτήσεων"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_opekepe_farmer_protests_subsidy_hole.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "529b49a6212924d9f44e85a58e83f4d33f98f0ed08fae2892ba5e30abba64f9f"
+    },
+    {
+      "case_id": "greece_2025_opekepe_resignations_eu_fine_subsidies_parliament_political_cost",
+      "year": 2025,
+      "case_title": {
+        "en": "OPEKEPE Resignations and EU Fine: Subsidies, Parliament and Political Cost",
+        "el": "ΟΠΕΚΕΠΕ Παραιτήσεις και Πρόστιμο ΕΕ: Επιδοτήσεις, Βουλή και Πολιτικό Κόστος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_opekepe_resignations_eu_fine_subsidies_parliament_political_cost.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "3c452122a86167c9fdfcb7904867da58d2e7bd41ce46ea0d8c359657e2e14324"
+    },
+    {
+      "case_id": "greece_2025_opekepe_second_wave_parliament_immunity_agricultural_subsidy_machine",
+      "year": 2025,
+      "case_title": {
+        "en": "Greece — OPEKEPE second wave, parliamentary immunity, and the agricultural subsidy machine (2025–2026)",
+        "el": "Ελλάδα — ΟΠΕΚΕΠΕ, ασυλίες και μηχανή αγροτικών επιδοτήσεων (2025–2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_opekepe_second_wave_parliament_immunity_agricultural_subsidy_machine.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "1c100ce12cd95b3cbf4e5561380bd54d48dc5974ab107790c9abd67515cb4bcc"
+    },
+    {
+      "case_id": "greece_2025_personal_number_digital_id_anxiety_state_modernization",
+      "year": 2025,
+      "case_title": {
+        "en": "Personal Number digital ID anxiety and state modernization",
+        "el": "Προσωπικός Αριθμός, ψηφιακή ταυτότητα, ανησυχία και κρατικός εκσυγχρονισμός"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2025/greece_2025_personal_number_digital_id_anxiety_state_modernization.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "4218833ec114f382c030c8ecf33b3d5cc4ccf0c6c5a3bd5c05d5a5f55268fc77"
+    },
+    {
+      "case_id": "greece_2026_children_social_media_age_bans_digital_parental_control",
+      "year": 2026,
+      "case_title": {
+        "en": "Greece Children Social Media Age Bans And Digital Parental Control 2024 2026",
+        "el": "Ηλικιακές απαγορεύσεις στα κοινωνικά δίκτυα και ψηφιακός γονικός έλεγχος"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2026/greece_2026_children_social_media_age_bans_digital_parental_control.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "4f21c0c42c1183ec9ef2c487dde13f6f7de7795a05d3f42404f005d9270372b2"
+    },
+    {
+      "case_id": "greece_2026_greek_social_media_age_gate_kids_wallet_debate_child_protection_or_dig",
+      "year": 2026,
+      "case_title": {
+        "en": "Greek Social Media Age Gate and Kids Wallet Debate: Child Protection or Digital Gatekeeping",
+        "el": "Ηλικιακός έλεγχος στα κοινωνικά δίκτυα και Kids Wallet: προστασία παιδιών ή ψηφιακή πύλη;"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2026/greece_2026_greek_social_media_age_gate_kids_wallet_debate_child_protection_or_dig.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "6c8db4208b622cdd08a7e96998109aec40649a9dc6f338b5cf7b9f3050b390dc"
+    },
+    {
+      "case_id": "greece_2026_opekepe_immunity_requests_parliamentary_accountability",
+      "year": 2026,
+      "case_title": {
+        "en": "OPEKEPE immunity requests and parliamentary accountability",
+        "el": "ΟΠΕΚΕΠΕ, αιτήματα ασυλίας και κοινοβουλευτική λογοδοσία"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2026/greece_2026_opekepe_immunity_requests_parliamentary_accountability.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "07ecfad98c62cfacf8bbb013db42b171c31c553f5a4ce6e9b908b0798f4831e1"
+    },
+    {
+      "case_id": "greece_2026_tempi_third_year_trial_memory_protest_accountability",
+      "year": 2026,
+      "case_title": {
+        "en": "Greece — Tempi third year, trial memory, protest, and accountability (2026)",
+        "el": "Ελλάδα — Τέμπη, τρίτος χρόνος, δίκη, μνήμη και λογοδοσία (2026)"
+      },
+      "type": "article",
+      "path": "Greek/Articles/2026/greece_2026_tempi_third_year_trial_memory_protest_accountability.md",
+      "title": {
+        "en": "Full offline bilingual dossier article",
+        "el": "Πλήρες offline δίγλωσσο άρθρο φακέλου"
+      },
+      "license": "Project-authored/compiled text",
+      "source_page": "",
+      "sha256": "b8ee66a1ef405e8f21ff331b17d1fae690ec1308fe6035bfa48bd3ce71ea1cd5"
+    }
+  ]
+}

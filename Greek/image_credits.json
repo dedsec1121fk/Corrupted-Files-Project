@@ -34,5 +34,44 @@
     "used_by": [
       "greece_1949_makronisos_exile_camp_anti_communist_re_education"
     ]
+  },
+  {
+    "file": "Greek/Imported Media/1936_thessaloniki_water_pump.jpg",
+    "description": "Thessaloniki historical context photograph, 1936",
+    "author": "Unknown",
+    "license": "Public domain / no known restrictions",
+    "license_url": "",
+    "source_page": "https://commons.wikimedia.org/",
+    "sha256": "d406b365a1f837c93575d5fdbb971fc7594c41c95f56923d1413ad73fc4786fb",
+    "used_by": [
+      "greece_1936_thessaloniki_tobacco_strike"
+    ],
+    "added_in_version": "7.0"
+  },
+  {
+    "file": "Greek/Imported Media/1942_gorgopotamos_bridge.jpg",
+    "description": "Gorgopotamos bridge",
+    "author": "George Terezakis",
+    "license": "CC BY-SA 2.0",
+    "license_url": "",
+    "source_page": "https://commons.wikimedia.org/",
+    "sha256": "3c105c54b48a966ae5c59a74d1037e40b67069d5a7c327d10c3de17288635a15",
+    "used_by": [
+      "greece_1942_gorgopotamos_operation_harling"
+    ],
+    "added_in_version": "7.0"
+  },
+  {
+    "file": "Greek/Imported Media/1973_velos_d16.jpg",
+    "description": "HNS Velos (D16)",
+    "author": "Pmoshs",
+    "license": "Public domain",
+    "license_url": "",
+    "source_page": "https://commons.wikimedia.org/",
+    "sha256": "630e94e4d21ef0f14ee2253a58c249ed96784a84d9e651315da1ca0ac528ba1d",
+    "used_by": [
+      "greece_1973_hns_velos_anti_junta"
+    ],
+    "added_in_version": "7.0"
   }
 ]

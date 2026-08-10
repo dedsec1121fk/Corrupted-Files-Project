@@ -82,5 +82,44 @@
     "used_by": [
       "usa_1970_kent_state_shootings_protest_national_guard_force_state_violence_memor"
     ]
+  },
+  {
+    "file": "USA/Imported Media/1942_japanese_internment_detainees.jpg",
+    "description": "Japanese American incarceration historical photograph",
+    "author": "Dorothea Lange / War Relocation Authority",
+    "license": "Public domain — U.S. federal government",
+    "license_url": "",
+    "source_page": "https://commons.wikimedia.org/",
+    "sha256": "20fdd010167a9dba45130fd0e450c64290dffdea8c4e10045130a2ce18a87c2f",
+    "used_by": [
+      "usa_1942_executive_order_9066_incarceration"
+    ],
+    "added_in_version": "7.0"
+  },
+  {
+    "file": "USA/Imported Media/1954_welch_mccarthy_hearings.jpg",
+    "description": "Joseph Welch and Senator Joseph McCarthy during Army–McCarthy hearings",
+    "author": "U.S. Senate Historical Office",
+    "license": "Public domain — U.S. federal government",
+    "license_url": "",
+    "source_page": "https://www.senate.gov/artandhistory/history/common/image/WelchMcCarthy.htm",
+    "sha256": "6e768fc7a30685f250943de2e9c09dc92b62bb77193e2ce90da0ff119d44c046",
+    "used_by": [
+      "usa_1954_army_mccarthy_hearings"
+    ],
+    "added_in_version": "7.0"
+  },
+  {
+    "file": "USA/Imported Media/1961_freedom_rider_mae_frances_moultrie.png",
+    "description": "Freedom Rider Mae Frances Moultrie",
+    "author": "Federal Bureau of Investigation",
+    "license": "Public domain — U.S. federal government",
+    "license_url": "",
+    "source_page": "https://commons.wikimedia.org/",
+    "sha256": "08118e570da11cb954239446cd4e4a8237ef7f8d513e58cc7de1ec31d968013d",
+    "used_by": [
+      "usa_1961_freedom_rides"
+    ],
+    "added_in_version": "7.0"
   }
 ]
