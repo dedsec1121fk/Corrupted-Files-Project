@@ -9,7 +9,17 @@
     "sha256": "eb21acafc8b551a4dc1c48174395c61d4e4570d57199c5848da7de6ecc1711fe",
     "used_by": [
       "greece_1973_athens_polytechnic_uprising_and_junta_violence"
-    ]
+    ],
+    "_maintenance": {
+      "purpose": "FILE-LEVEL MAINTENANCE NOTE. Standard JSON has no comments, so this reserved field documents how to maintain the image-credit registry without breaking parsing.",
+      "update_checklist": [
+        "For every credited image keep the exact repository path, source page, author/creator when known, license and license URL.",
+        "Recalculate sha256 whenever the underlying image file is replaced or modified.",
+        "Keep used_by case IDs valid and remove stale references when cases or images change.",
+        "Do not import media unless redistribution rights are known and recorded.",
+        "Run python \"Offline Survival Project.py\" --validate before committing."
+      ]
+    }
   },
   {
     "file": "Greek/Images/2018/mati_wildfire/Mati-Wildfire-Aftermath-2018.jpg",

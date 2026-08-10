@@ -454,7 +454,18 @@
         "source_page": "",
         "sha256": "5329ece14e80702bc875d9a8ff4685907ebd89b5083a84a6047b1302d03c3ea4"
       }
-    ]
+    ],
+    "_maintenance": {
+      "purpose": "FILE-LEVEL MAINTENANCE NOTE. Standard JSON has no comment syntax; this reserved field is intentionally ignored by the reader and acts as a parse-safe maintainer comment.",
+      "update_checklist": [
+        "Keep every case id unique and stable; never reuse an existing id for a different historical event.",
+        "Maintain English (en) and Greek (el) parity for every bilingual narrative, timeline, fact and research field.",
+        "Do not convert allegations, rumors or disputed interpretations into facts without stronger sourcing.",
+        "When an offline file changes, update offline_article/offline_materials paths and SHA-256 values as applicable.",
+        "Refresh last_reviewed, content_version and archive_audit_date when substantive editorial content changes.",
+        "Run python \"Offline Survival Project.py\" --validate and --stats before committing."
+      ]
+    }
   },
   {
     "id": "usa_1863_new_york_draft_riots",

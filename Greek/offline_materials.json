@@ -1,4 +1,14 @@
 {
+  "_maintenance": {
+    "purpose": "FILE-LEVEL MAINTENANCE NOTE. This manifest indexes redistributable offline materials; the reserved field is valid JSON metadata rather than a non-standard comment.",
+    "update_checklist": [
+      "Add or remove manifest items whenever bundled articles, documents, images or videos change.",
+      "Keep type, relative path, source/licensing metadata and sha256 synchronized with the actual file.",
+      "Never point outside the repository or index a missing/empty file.",
+      "Keep content_version and audit_date current for meaningful archive releases.",
+      "Run python \"Offline Survival Project.py\" --validate before committing."
+    ]
+  },
   "content_version": "7.0",
   "audit_date": "2026-08-10",
   "country": "Greece",

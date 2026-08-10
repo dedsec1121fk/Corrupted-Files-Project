@@ -5,11 +5,30 @@ Required repository layout:
   Greek/records.json + Greek/Images/ + Greek/image_credits.json
   USA/records.json   + USA/Images/   + USA/image_credits.json
   README.md
-  Use Corrupted Files Project.py
+  Offline Survival Project.py
 
 The program uses only Python's standard library. Personal bookmarks, history and
 exports are stored outside the repository so archive files remain clean.
 """
+
+# =============================================================================
+# MAINTENANCE NOTES
+# =============================================================================
+# Keep this file as the single repository entry point. Before every release:
+#   1. Preserve unique/stable case IDs; never recycle an ID for another event.
+#   2. Keep English (en) and Greek (el) fields in parity when editing a dossier.
+#   3. Keep claims, interpretation, rumors and source gaps explicitly separated.
+#   4. When bundled files change, update their paths, licenses/credits and SHA-256.
+#   5. Do not add third-party media unless its redistribution terms are recorded.
+#   6. Keep personal state outside the repository; repository data stays immutable.
+#   7. Run: python "Offline Survival Project.py" --validate
+#   8. Run: python "Offline Survival Project.py" --stats
+#   9. Run: python -m py_compile "Offline Survival Project.py"
+# JSON does not support real comments. The six repository JSON files therefore
+# use a reserved `_maintenance` metadata field as a parse-safe maintenance note.
+# The validator checks that these notes remain present.
+# =============================================================================
+
 from __future__ import annotations
 
 import argparse
@@ -34,6 +53,8 @@ APP_DIR = Path(__file__).resolve().parent
 IS_TERMUX = bool(os.environ.get("TERMUX_VERSION")) or Path("/data/data/com.termux/files/usr").exists()
 DATA_FILES = [APP_DIR / "Greek" / "records.json", APP_DIR / "USA" / "records.json"]
 CREDIT_FILES = [APP_DIR / "Greek" / "image_credits.json", APP_DIR / "USA" / "image_credits.json"]
+OFFLINE_MANIFEST_FILES = [APP_DIR / "Greek" / "offline_materials.json", APP_DIR / "USA" / "offline_materials.json"]
+JSON_MAINTENANCE_FILES = DATA_FILES + CREDIT_FILES + OFFLINE_MANIFEST_FILES
 STATE_FILE = Path.home() / ".corrupted_files_project_state.json"
 EXPORT_DIR = Path.home() / "storage" / "downloads" / "Corrupted Files Exports"
 GALLERY_FOLDER_NAME = "Corrupted Files Project"
@@ -117,6 +138,18 @@ def load_json(path: Path, default: object) -> object:
         return json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return default
+
+
+def has_json_maintenance_note(path: Path) -> bool:
+    """Return True when a repository JSON carries its parse-safe upkeep note."""
+    data = load_json(path, None)
+    if isinstance(data, dict):
+        note = data.get("_maintenance")
+    elif isinstance(data, list) and data and isinstance(data[0], dict):
+        note = data[0].get("_maintenance")
+    else:
+        return False
+    return isinstance(note, dict) and bool(note.get("purpose")) and bool(note.get("update_checklist"))
 
 
 def load_records() -> list[dict]:
@@ -1977,15 +2010,21 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
         errors.append(f"repeated long narrative/detail blocks: {len(repeated)}")
     for relative in credits:
         if not (APP_DIR / relative).is_file(): errors.append(f"credit entry points to missing file: {relative}")
+    # JSON maintenance notes are intentionally data fields, not non-standard comments.
+    # This keeps every JSON file valid for Python and external tooling.
+    for maintenance_path in JSON_MAINTENANCE_FILES:
+        if not has_json_maintenance_note(maintenance_path):
+            errors.append(f"missing JSON maintenance metadata: {maintenance_path.relative_to(APP_DIR)}")
+
     root_names = sorted(path.name for path in APP_DIR.iterdir() if path.name != "__pycache__")
-    expected = ["Greek", "README.md", "USA", "Use Corrupted Files Project.py"]
+    expected = ["Greek", "Offline Survival Project.py", "README.md", "USA"]
     if root_names != expected: errors.append(f"unexpected repository root items: {root_names}")
     readme = APP_DIR / "README.md"
     if not readme.is_file():
         errors.append("missing README.md")
     else:
         readme_text = readme.read_text(encoding="utf-8", errors="replace")
-        for required_heading in ("# Corrupted Files Project", "## English", "## Ελληνικά", "Termux on Android only", "μόνο Termux σε Android", "termux-setup-storage", "--validate", "--termux-check", "--backup-state", "--restore-state"):
+        for required_heading in ("# Corrupted Files Project", "## Sections", "# Corrupted Files Project — Ελληνικά", "## Ενότητες", "Termux on Android only", "μόνο Termux σε Android", "termux-setup-storage", "--validate", "--termux-check", "--backup-state", "--restore-state"):
             if required_heading not in readme_text:
                 errors.append(f"README.md missing required guide section: {required_heading}")
         for forbidden in ("Run on Windows", "Run on Linux", "macOS", "PowerShell"):

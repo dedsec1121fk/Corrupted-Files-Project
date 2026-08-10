@@ -13,7 +13,17 @@
       "usa_1921_tulsa_race_massacre_destroyed_black_wealth",
       "usa_1921_tulsa_race_massacre_destruction_insurance_denial"
     ],
-    "country_folder": "USA"
+    "country_folder": "USA",
+    "_maintenance": {
+      "purpose": "FILE-LEVEL MAINTENANCE NOTE. Standard JSON has no comments, so this reserved field documents how to maintain the image-credit registry without breaking parsing.",
+      "update_checklist": [
+        "For every credited image keep the exact repository path, source page, author/creator when known, license and license URL.",
+        "Recalculate sha256 whenever the underlying image file is replaced or modified.",
+        "Keep used_by case IDs valid and remove stale references when cases or images change.",
+        "Do not import media unless redistribution rights are known and recorded.",
+        "Run python \"Offline Survival Project.py\" --validate before committing."
+      ]
+    }
   },
   {
     "file": "USA/Images/2021/usa_2021_january_6_capitol_attack_accountability_record/03---Event-Image---Capitol-Steps-Crowd.jpg",
