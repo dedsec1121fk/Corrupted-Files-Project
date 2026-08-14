@@ -6,7 +6,7 @@
       "Keep type, relative path, source/licensing metadata and sha256 synchronized with the actual file.",
       "Never point outside the repository or index a missing/empty file.",
       "Keep audit_date current whenever the bundled archive material changes meaningfully.",
-      "Run python \"Offline Survival Project.py\" --validate before committing."
+      "Run python \"Corrupted Files Project.py\" --validate before committing."
     ]
   },
   "audit_date": "2026-08-10",

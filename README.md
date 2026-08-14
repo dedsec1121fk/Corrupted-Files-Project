@@ -31,7 +31,7 @@ Allow Android storage access when requested. Clone and launch the repository:
 cd ~
 git clone https://github.com/dedsec1121fk/Corrupted-Files-Project.git
 cd Corrupted-Files-Project
-python "Offline Survival Project.py"
+python "Corrupted Files Project.py"
 ```
 
 The project is supported only inside Termux on Android.
@@ -47,7 +47,7 @@ The root remains intentionally simple:
 Greek/
 USA/
 README.md
-Offline Survival Project.py
+Corrupted Files Project.py
 ```
 
 Each country folder contains its case database, image library, image-credit registry, full offline dossier articles, an offline-material manifest and, where available, redistributable historical documents, imported media and local video briefings. The Python launcher reads both databases and provides one unified interface.
@@ -162,19 +162,19 @@ Recommended workflow:
 <summary><strong>• Commands</strong></summary>
 
 ```bash
-python "Offline Survival Project.py"
-python "Offline Survival Project.py" --validate
-python "Offline Survival Project.py" --stats
-python "Offline Survival Project.py" --quality-report
-python "Offline Survival Project.py" --termux-check
-python "Offline Survival Project.py" --new-cases
-python "Offline Survival Project.py" --collections
-python "Offline Survival Project.py" --progress
-python "Offline Survival Project.py" --case CASE_ID
-python "Offline Survival Project.py" --gallery CASE_ID
-python "Offline Survival Project.py" --export-html CASE_ID
-python "Offline Survival Project.py" --export-index en
-python "Offline Survival Project.py" --backup-state
+python "Corrupted Files Project.py"
+python "Corrupted Files Project.py" --validate
+python "Corrupted Files Project.py" --stats
+python "Corrupted Files Project.py" --quality-report
+python "Corrupted Files Project.py" --termux-check
+python "Corrupted Files Project.py" --new-cases
+python "Corrupted Files Project.py" --collections
+python "Corrupted Files Project.py" --progress
+python "Corrupted Files Project.py" --case CASE_ID
+python "Corrupted Files Project.py" --gallery CASE_ID
+python "Corrupted Files Project.py" --export-html CASE_ID
+python "Corrupted Files Project.py" --export-index en
+python "Corrupted Files Project.py" --backup-state
 ```
 
 </details>
@@ -187,7 +187,7 @@ Bookmarks, read status, history, notes and study scores are stored outside the r
 Restore a saved state backup with:
 
 ```bash
-python "Offline Survival Project.py" --restore-state "/storage/emulated/0/Download/Corrupted Files Exports/State Backups/BACKUP.json"
+python "Corrupted Files Project.py" --restore-state "/storage/emulated/0/Download/Corrupted Files Exports/State Backups/BACKUP.json"
 ```
 
 </details>
@@ -198,7 +198,7 @@ python "Offline Survival Project.py" --restore-state "/storage/emulated/0/Downlo
 Run:
 
 ```bash
-python "Offline Survival Project.py" --termux-check
+python "Corrupted Files Project.py" --termux-check
 ```
 
 If Gallery or exports fail, run `termux-setup-storage` again and verify that `~/storage/downloads` and `~/storage/pictures` exist. If the database does not load, run `--validate`. If the project was extracted inside Downloads and Android blocks execution, move it to Termux home with `cp -r` and run it from `~/Corrupted-Files-Project`.
@@ -254,7 +254,7 @@ termux-setup-storage
 cd ~
 git clone https://github.com/dedsec1121fk/Corrupted-Files-Project.git
 cd Corrupted-Files-Project
-python "Offline Survival Project.py"
+python "Corrupted Files Project.py"
 ```
 
 Το project υποστηρίζεται μόνο μέσα από Termux σε Android.
@@ -270,7 +270,7 @@ python "Offline Survival Project.py"
 Greek/
 USA/
 README.md
-Offline Survival Project.py
+Corrupted Files Project.py
 ```
 
 Κάθε φάκελος χώρας περιέχει τη βάση υποθέσεων, τη βιβλιοθήκη εικόνων, το αρχείο δικαιωμάτων εικόνων, πλήρη offline άρθρα φακέλων, manifest offline υλικού και, όπου είναι διαθέσιμα, αναδιανεμήσιμα ιστορικά έγγραφα, εισαγόμενο υλικό και τοπικά video briefings. Το Python launcher διαβάζει και τις δύο βάσεις και προσφέρει ένα ενιαίο περιβάλλον.
@@ -385,19 +385,19 @@ Offline Survival Project.py
 <summary><strong>• Εντολές</strong></summary>
 
 ```bash
-python "Offline Survival Project.py"
-python "Offline Survival Project.py" --validate
-python "Offline Survival Project.py" --stats
-python "Offline Survival Project.py" --quality-report
-python "Offline Survival Project.py" --termux-check
-python "Offline Survival Project.py" --new-cases
-python "Offline Survival Project.py" --collections
-python "Offline Survival Project.py" --progress
-python "Offline Survival Project.py" --case CASE_ID
-python "Offline Survival Project.py" --gallery CASE_ID
-python "Offline Survival Project.py" --export-html CASE_ID
-python "Offline Survival Project.py" --export-index el
-python "Offline Survival Project.py" --backup-state
+python "Corrupted Files Project.py"
+python "Corrupted Files Project.py" --validate
+python "Corrupted Files Project.py" --stats
+python "Corrupted Files Project.py" --quality-report
+python "Corrupted Files Project.py" --termux-check
+python "Corrupted Files Project.py" --new-cases
+python "Corrupted Files Project.py" --collections
+python "Corrupted Files Project.py" --progress
+python "Corrupted Files Project.py" --case CASE_ID
+python "Corrupted Files Project.py" --gallery CASE_ID
+python "Corrupted Files Project.py" --export-html CASE_ID
+python "Corrupted Files Project.py" --export-index el
+python "Corrupted Files Project.py" --backup-state
 ```
 
 Οι επιλογές CLI χρησιμοποιούν τις ίδιες βάσεις δεδομένων και τις ίδιες προειδοποιήσεις τεκμηρίωσης με το διαδραστικό μενού.
@@ -412,7 +412,7 @@ python "Offline Survival Project.py" --backup-state
 Επαναφορά αποθηκευμένου backup:
 
 ```bash
-python "Offline Survival Project.py" --restore-state "/storage/emulated/0/Download/Corrupted Files Exports/State Backups/BACKUP.json"
+python "Corrupted Files Project.py" --restore-state "/storage/emulated/0/Download/Corrupted Files Exports/State Backups/BACKUP.json"
 ```
 
 </details>
@@ -423,7 +423,7 @@ python "Offline Survival Project.py" --restore-state "/storage/emulated/0/Downlo
 Εκτέλεσε:
 
 ```bash
-python "Offline Survival Project.py" --termux-check
+python "Corrupted Files Project.py" --termux-check
 ```
 
 Αν αποτυγχάνει το Gallery ή η εξαγωγή, εκτέλεσε ξανά `termux-setup-storage` και έλεγξε ότι υπάρχουν τα `~/storage/downloads` και `~/storage/pictures`. Αν δεν φορτώνεται η βάση, εκτέλεσε `--validate`. Αν το project βρίσκεται στο Download και το Android εμποδίζει την εκτέλεση, αντέγραψέ το στο Termux home με `cp -r` και τρέξ’ το από `~/Corrupted-Files-Project`.

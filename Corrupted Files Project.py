@@ -5,7 +5,7 @@ Required repository layout:
   Greek/records.json + Greek/Images/ + Greek/image_credits.json
   USA/records.json   + USA/Images/   + USA/image_credits.json
   README.md
-  Offline Survival Project.py
+  Corrupted Files Project.py
 
 The program uses only Python's standard library. Personal bookmarks, history and
 exports are stored outside the repository so archive files remain clean.
@@ -21,9 +21,9 @@ exports are stored outside the repository so archive files remain clean.
 #   4. When bundled files change, update their paths, licenses/credits and SHA-256.
 #   5. Do not add third-party media unless its redistribution terms are recorded.
 #   6. Keep personal state outside the repository; repository data stays immutable.
-#   7. Run: python "Offline Survival Project.py" --validate
-#   8. Run: python "Offline Survival Project.py" --stats
-#   9. Run: python -m py_compile "Offline Survival Project.py"
+#   7. Run: python "Corrupted Files Project.py" --validate
+#   8. Run: python "Corrupted Files Project.py" --stats
+#   9. Run: python -m py_compile "Corrupted Files Project.py"
 # JSON does not support real comments. The six repository JSON files therefore
 # use a reserved `_maintenance` metadata field as a parse-safe maintenance note.
 # The validator checks that these notes remain present.
@@ -2015,7 +2015,7 @@ def validation_report(records: list[dict], credits: dict[str, dict]) -> dict:
             errors.append(f"missing JSON maintenance metadata: {maintenance_path.relative_to(APP_DIR)}")
 
     root_names = sorted(path.name for path in APP_DIR.iterdir() if path.name != "__pycache__")
-    expected = ["Greek", "Offline Survival Project.py", "README.md", "USA"]
+    expected = sorted(["Greek", "Corrupted Files Project.py", "README.md", "USA"])
     if root_names != expected: errors.append(f"unexpected repository root items: {root_names}")
     readme = APP_DIR / "README.md"
     if not readme.is_file():

@@ -17,7 +17,7 @@
         "Recalculate sha256 whenever the underlying image file is replaced or modified.",
         "Keep used_by case IDs valid and remove stale references when cases or images change.",
         "Do not import media unless redistribution rights are known and recorded.",
-        "Run python \"Offline Survival Project.py\" --validate before committing."
+        "Run python \"Corrupted Files Project.py\" --validate before committing."
       ]
     }
   },

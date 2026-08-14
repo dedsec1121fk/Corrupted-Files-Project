@@ -459,7 +459,7 @@
         "Do not convert allegations, rumors or disputed interpretations into facts without stronger sourcing.",
         "When an offline file changes, update offline_article/offline_materials paths and SHA-256 values as applicable.",
         "Refresh last_reviewed and archive_audit_date when substantive editorial content changes.",
-        "Run python \"Offline Survival Project.py\" --validate and --stats before committing."
+        "Run python \"Corrupted Files Project.py\" --validate and --stats before committing."
       ]
     }
   },
